@@ -1,0 +1,1177 @@
+character,ARCHER,DEGRA,HOSHI,MALIK,PHLOX,REED,SHRAN,SOONG,SOVAL,TRAVIS,TUCKER,T_POL,total_lines,ep,season,title
+ARCHER,6,0,54,0,31,28,0,0,7,11,64,107,220,0,1,Broken Bow (parts 1 & 2)
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Broken Bow (parts 1 & 2)
+HOSHI,54,0,2,0,1,12,0,0,0,3,3,13,61,0,1,Broken Bow (parts 1 & 2)
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Broken Bow (parts 1 & 2)
+PHLOX,31,0,1,0,0,0,0,0,0,0,6,2,23,0,1,Broken Bow (parts 1 & 2)
+REED,28,0,12,0,0,2,0,0,0,32,5,13,52,0,1,Broken Bow (parts 1 & 2)
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Broken Bow (parts 1 & 2)
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Broken Bow (parts 1 & 2)
+SOVAL,7,0,0,0,0,0,0,0,0,0,0,0,10,0,1,Broken Bow (parts 1 & 2)
+TRAVIS,11,0,3,0,0,32,0,0,0,0,26,13,48,0,1,Broken Bow (parts 1 & 2)
+TUCKER,64,0,3,0,6,5,0,0,0,26,0,54,99,0,1,Broken Bow (parts 1 & 2)
+T_POL,107,0,13,0,2,13,0,0,0,13,54,2,114,0,1,Broken Bow (parts 1 & 2)
+ARCHER,14,0,70,0,14,46,0,0,0,23,25,64,144,1,1,Fight or Flight
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Fight or Flight
+HOSHI,70,0,0,0,16,12,0,0,0,1,20,5,68,1,1,Fight or Flight
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Fight or Flight
+PHLOX,14,0,16,0,2,0,0,0,0,1,12,1,26,1,1,Fight or Flight
+REED,46,0,12,0,0,4,0,0,0,19,2,7,49,1,1,Fight or Flight
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Fight or Flight
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Fight or Flight
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Fight or Flight
+TRAVIS,23,0,1,0,1,19,0,0,0,2,0,6,29,1,1,Fight or Flight
+TUCKER,25,0,20,0,12,2,0,0,0,0,0,10,38,1,1,Fight or Flight
+T_POL,64,0,5,0,1,7,0,0,0,6,10,2,54,1,1,Fight or Flight
+ARCHER,8,0,8,0,19,19,0,0,0,3,40,35,105,2,1,Strange New World
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Strange New World
+HOSHI,8,0,2,0,0,0,0,0,0,1,1,2,9,2,1,Strange New World
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Strange New World
+PHLOX,19,0,0,0,2,4,0,0,0,0,0,0,14,2,1,Strange New World
+REED,19,0,0,0,4,4,0,0,0,0,0,0,17,2,1,Strange New World
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Strange New World
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Strange New World
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Strange New World
+TRAVIS,3,0,1,0,0,0,0,0,0,0,43,14,41,2,1,Strange New World
+TUCKER,40,0,1,0,0,0,0,0,0,43,22,65,118,2,1,Strange New World
+T_POL,35,0,2,0,0,0,0,0,0,14,65,2,78,2,1,Strange New World
+ARCHER,8,0,4,0,7,12,0,0,0,6,55,17,75,3,1,Unexpected
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Unexpected
+HOSHI,4,0,0,0,0,1,0,0,0,0,2,1,4,3,1,Unexpected
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Unexpected
+PHLOX,7,0,0,0,2,0,0,0,0,0,28,12,26,3,1,Unexpected
+REED,12,0,1,0,0,0,0,0,0,2,22,6,26,3,1,Unexpected
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Unexpected
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Unexpected
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Unexpected
+TRAVIS,6,0,0,0,0,2,0,0,0,0,9,2,12,3,1,Unexpected
+TUCKER,55,0,2,0,28,22,0,0,0,9,12,27,130,3,1,Unexpected
+T_POL,17,0,1,0,12,6,0,0,0,2,27,2,38,3,1,Unexpected
+ARCHER,28,0,4,0,27,13,0,0,0,20,19,44,121,4,1,Terra Nova
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Terra Nova
+HOSHI,4,0,0,0,1,0,0,0,0,2,3,1,6,4,1,Terra Nova
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Terra Nova
+PHLOX,27,0,1,0,4,2,0,0,0,0,0,2,25,4,1,Terra Nova
+REED,13,0,0,0,2,2,0,0,0,0,0,1,16,4,1,Terra Nova
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Terra Nova
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Terra Nova
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Terra Nova
+TRAVIS,20,0,2,0,0,0,0,0,0,0,5,6,23,4,1,Terra Nova
+TUCKER,19,0,3,0,0,0,0,0,0,5,0,11,24,4,1,Terra Nova
+T_POL,44,0,1,0,2,1,0,0,0,6,11,0,40,4,1,Terra Nova
+ARCHER,10,0,0,0,0,5,28,0,0,3,19,53,81,5,1,The Andorian Incident
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Andorian Incident
+HOSHI,0,0,0,0,0,15,0,0,0,0,0,0,9,5,1,The Andorian Incident
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Andorian Incident
+PHLOX,0,0,0,0,2,0,0,0,0,0,0,12,8,5,1,The Andorian Incident
+REED,5,0,15,0,0,0,4,0,0,7,8,1,33,5,1,The Andorian Incident
+SHRAN,28,0,0,0,0,4,2,0,0,1,2,2,33,5,1,The Andorian Incident
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Andorian Incident
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Andorian Incident
+TRAVIS,3,0,0,0,0,7,1,0,0,0,0,3,8,5,1,The Andorian Incident
+TUCKER,19,0,0,0,0,8,2,0,0,0,0,13,42,5,1,The Andorian Incident
+T_POL,53,0,0,0,12,1,2,0,0,3,13,2,49,5,1,The Andorian Incident
+ARCHER,12,0,7,0,2,27,0,0,0,4,41,39,93,6,1,Breaking The Ice
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Breaking The Ice
+HOSHI,7,0,0,0,0,1,0,0,0,1,11,1,13,6,1,Breaking The Ice
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Breaking The Ice
+PHLOX,2,0,0,0,0,0,0,0,0,0,0,7,5,6,1,Breaking The Ice
+REED,27,0,1,0,0,4,0,0,0,33,1,0,40,6,1,Breaking The Ice
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Breaking The Ice
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Breaking The Ice
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Breaking The Ice
+TRAVIS,4,0,1,0,0,33,0,0,0,0,0,1,22,6,1,Breaking The Ice
+TUCKER,41,0,11,0,0,1,0,0,0,0,12,79,81,6,1,Breaking The Ice
+T_POL,39,0,1,0,7,0,0,0,0,1,79,0,66,6,1,Breaking The Ice
+ARCHER,22,0,12,0,3,5,0,0,0,0,22,36,115,7,1,Civilization
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,Civilization
+HOSHI,12,0,0,0,3,2,0,0,0,2,5,5,16,7,1,Civilization
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,Civilization
+PHLOX,3,0,3,0,2,0,0,0,0,0,0,8,9,7,1,Civilization
+REED,5,0,2,0,0,0,0,0,0,2,4,6,12,7,1,Civilization
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,Civilization
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,Civilization
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,Civilization
+TRAVIS,0,0,2,0,0,2,0,0,0,0,0,5,6,7,1,Civilization
+TUCKER,22,0,5,0,0,4,0,0,0,0,4,16,35,7,1,Civilization
+T_POL,36,0,5,0,8,6,0,0,0,5,16,2,49,7,1,Civilization
+ARCHER,4,0,5,0,2,8,0,0,0,29,10,20,78,8,1,Fortunate Son
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Fortunate Son
+HOSHI,5,0,0,0,0,0,0,0,0,1,3,1,5,8,1,Fortunate Son
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Fortunate Son
+PHLOX,2,0,0,0,0,3,0,0,0,1,0,0,5,8,1,Fortunate Son
+REED,8,0,0,0,3,0,0,0,0,6,0,2,14,8,1,Fortunate Son
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Fortunate Son
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Fortunate Son
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Fortunate Son
+TRAVIS,29,0,1,0,1,6,0,0,0,0,9,5,65,8,1,Fortunate Son
+TUCKER,10,0,3,0,0,0,0,0,0,9,0,0,19,8,1,Fortunate Son
+T_POL,20,0,1,0,0,2,0,0,0,5,0,0,22,8,1,Fortunate Son
+ARCHER,4,0,8,0,22,8,0,0,0,2,33,25,117,9,1,Cold Front
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Cold Front
+HOSHI,8,0,0,0,0,7,0,0,0,17,0,0,20,9,1,Cold Front
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Cold Front
+PHLOX,22,0,0,0,0,0,0,0,0,0,3,0,21,9,1,Cold Front
+REED,8,0,7,0,0,2,0,0,0,4,0,1,13,9,1,Cold Front
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Cold Front
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Cold Front
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Cold Front
+TRAVIS,2,0,17,0,0,4,0,0,0,0,0,5,18,9,1,Cold Front
+TUCKER,33,0,0,0,3,0,0,0,0,0,6,12,54,9,1,Cold Front
+T_POL,25,0,0,0,0,1,0,0,0,5,12,2,31,9,1,Cold Front
+ARCHER,20,0,23,0,7,23,0,0,0,12,66,45,122,10,1,Silent Enemy
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Silent Enemy
+HOSHI,23,0,2,0,34,23,0,0,0,2,0,7,49,10,1,Silent Enemy
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Silent Enemy
+PHLOX,7,0,34,0,2,0,0,0,0,0,0,0,22,10,1,Silent Enemy
+REED,23,0,23,0,0,0,0,0,0,2,33,4,60,10,1,Silent Enemy
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Silent Enemy
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Silent Enemy
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Silent Enemy
+TRAVIS,12,0,2,0,0,2,0,0,0,0,2,5,12,10,1,Silent Enemy
+TUCKER,66,0,0,0,0,33,0,0,0,2,0,1,64,10,1,Silent Enemy
+T_POL,45,0,7,0,0,4,0,0,0,5,1,2,36,10,1,Silent Enemy
+ARCHER,2,0,2,0,57,1,0,0,0,1,0,21,63,11,1,Dear Doctor
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Dear Doctor
+HOSHI,2,0,2,0,37,1,0,0,0,0,0,2,38,11,1,Dear Doctor
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Dear Doctor
+PHLOX,57,0,37,0,18,2,0,0,0,0,3,12,113,11,1,Dear Doctor
+REED,1,0,1,0,2,0,0,0,0,1,0,0,3,11,1,Dear Doctor
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Dear Doctor
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Dear Doctor
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Dear Doctor
+TRAVIS,1,0,0,0,0,1,0,0,0,0,0,0,1,11,1,Dear Doctor
+TUCKER,0,0,0,0,3,0,0,0,0,0,0,0,2,11,1,Dear Doctor
+T_POL,21,0,2,0,12,0,0,0,0,0,0,0,21,11,1,Dear Doctor
+ARCHER,4,0,14,0,5,2,0,0,0,24,26,16,75,12,1,Sleeping Dogs
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Sleeping Dogs
+HOSHI,14,0,12,0,1,49,0,0,0,0,0,59,73,12,1,Sleeping Dogs
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Sleeping Dogs
+PHLOX,5,0,1,0,2,11,0,0,0,0,2,4,17,12,1,Sleeping Dogs
+REED,2,0,49,0,11,6,0,0,0,0,0,30,57,12,1,Sleeping Dogs
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Sleeping Dogs
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Sleeping Dogs
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Sleeping Dogs
+TRAVIS,24,0,0,0,0,0,0,0,0,0,8,1,19,12,1,Sleeping Dogs
+TUCKER,26,0,0,0,2,0,0,0,0,8,2,0,22,12,1,Sleeping Dogs
+T_POL,16,0,59,0,4,30,0,0,0,1,0,4,65,12,1,Sleeping Dogs
+ARCHER,28,0,2,0,2,2,5,0,0,0,32,68,86,13,1,Shadows of P_Jem
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Shadows of P_Jem
+HOSHI,2,0,0,0,0,3,0,0,0,4,12,0,12,13,1,Shadows of P_Jem
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Shadows of P_Jem
+PHLOX,2,0,0,0,0,0,0,0,0,0,0,9,9,13,1,Shadows of P_Jem
+REED,2,0,3,0,0,0,5,0,0,2,13,0,15,13,1,Shadows of P_Jem
+SHRAN,5,0,0,0,0,5,2,0,0,0,12,0,17,13,1,Shadows of P_Jem
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Shadows of P_Jem
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Shadows of P_Jem
+TRAVIS,0,0,4,0,0,2,0,0,0,0,0,0,3,13,1,Shadows of P_Jem
+TUCKER,32,0,12,0,0,13,12,0,0,0,14,1,58,13,1,Shadows of P_Jem
+T_POL,68,0,0,0,9,0,0,0,0,0,1,2,43,13,1,Shadows of P_Jem
+ARCHER,2,0,12,0,1,9,0,0,0,3,0,16,24,14,1,Shuttlepod One
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Shuttlepod One
+HOSHI,12,0,0,0,0,2,0,0,0,0,2,0,8,14,1,Shuttlepod One
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Shuttlepod One
+PHLOX,1,0,0,0,0,5,0,0,0,0,0,0,3,14,1,Shuttlepod One
+REED,9,0,2,0,5,18,0,0,0,0,251,22,157,14,1,Shuttlepod One
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Shuttlepod One
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Shuttlepod One
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Shuttlepod One
+TRAVIS,3,0,0,0,0,0,0,0,0,0,0,0,2,14,1,Shuttlepod One
+TUCKER,0,0,2,0,0,251,0,0,0,0,14,0,135,14,1,Shuttlepod One
+T_POL,16,0,0,0,0,22,0,0,0,0,0,2,20,14,1,Shuttlepod One
+ARCHER,2,0,6,0,0,1,0,0,0,4,12,29,64,15,1,Fusion
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Fusion
+HOSHI,6,0,0,0,0,0,0,0,0,0,0,1,4,15,1,Fusion
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Fusion
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,11,6,15,1,Fusion
+REED,1,0,0,0,0,0,0,0,0,0,1,0,5,15,1,Fusion
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Fusion
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Fusion
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Fusion
+TRAVIS,4,0,0,0,0,0,0,0,0,0,0,0,2,15,1,Fusion
+TUCKER,12,0,0,0,0,1,0,0,0,0,0,0,33,15,1,Fusion
+T_POL,29,0,1,0,11,0,0,0,0,0,0,0,82,15,1,Fusion
+ARCHER,14,0,3,0,9,18,0,0,0,2,36,30,115,16,1,Rogue Planet
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Rogue Planet
+HOSHI,3,0,0,0,0,3,0,0,0,0,2,1,7,16,1,Rogue Planet
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Rogue Planet
+PHLOX,9,0,0,0,0,0,0,0,0,0,8,0,9,16,1,Rogue Planet
+REED,18,0,3,0,0,0,0,0,0,0,3,10,29,16,1,Rogue Planet
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Rogue Planet
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Rogue Planet
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Rogue Planet
+TRAVIS,2,0,0,0,0,0,0,0,0,0,0,0,1,16,1,Rogue Planet
+TUCKER,36,0,2,0,8,3,0,0,0,0,0,3,33,16,1,Rogue Planet
+T_POL,30,0,1,0,0,10,0,0,0,0,3,0,30,16,1,Rogue Planet
+ARCHER,8,0,0,0,0,0,0,0,0,0,22,6,75,17,1,Aquisition
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+REED,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Aquisition
+TUCKER,22,0,0,0,0,0,0,0,0,0,0,8,35,17,1,Aquisition
+T_POL,6,0,0,0,0,0,0,0,0,0,8,0,15,17,1,Aquisition
+ARCHER,0,0,1,0,2,22,0,0,0,15,23,5,59,18,1,Oasis
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Oasis
+HOSHI,1,0,0,0,0,0,0,0,0,2,1,0,2,18,1,Oasis
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Oasis
+PHLOX,2,0,0,0,0,0,0,0,0,0,1,0,2,18,1,Oasis
+REED,22,0,0,0,0,2,0,0,0,1,7,1,18,18,1,Oasis
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Oasis
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Oasis
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Oasis
+TRAVIS,15,0,2,0,0,1,0,0,0,0,2,1,14,18,1,Oasis
+TUCKER,23,0,1,0,1,7,0,0,0,2,14,44,112,18,1,Oasis
+T_POL,5,0,0,0,0,1,0,0,0,1,44,2,37,18,1,Oasis
+ARCHER,2,0,2,0,0,2,0,0,0,4,1,15,87,19,1,Detained
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Detained
+HOSHI,2,0,0,0,1,2,0,0,0,0,2,9,9,19,1,Detained
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Detained
+PHLOX,0,0,1,0,0,0,0,0,0,0,0,3,3,19,1,Detained
+REED,2,0,2,0,0,4,0,0,0,10,2,10,21,19,1,Detained
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Detained
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Detained
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Detained
+TRAVIS,4,0,0,0,0,10,0,0,0,0,0,1,29,19,1,Detained
+TUCKER,1,0,2,0,0,2,0,0,0,0,0,16,15,19,1,Detained
+T_POL,15,0,9,0,3,10,0,0,0,1,16,4,38,19,1,Detained
+ARCHER,0,0,4,0,0,3,0,0,0,0,40,1,38,20,1,Vox Sola
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Vox Sola
+HOSHI,4,0,4,0,2,8,0,0,0,11,6,50,46,20,1,Vox Sola
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Vox Sola
+PHLOX,0,0,2,0,2,37,0,0,0,0,0,15,36,20,1,Vox Sola
+REED,3,0,8,0,37,6,0,0,0,13,5,22,57,20,1,Vox Sola
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Vox Sola
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Vox Sola
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Vox Sola
+TRAVIS,0,0,11,0,0,13,0,0,0,0,0,6,17,20,1,Vox Sola
+TUCKER,40,0,6,0,0,5,0,0,0,0,4,4,37,20,1,Vox Sola
+T_POL,1,0,50,0,15,22,0,0,0,6,4,0,56,20,1,Vox Sola
+ARCHER,20,0,18,0,0,25,0,0,0,15,14,71,126,21,1,Fallen Hero
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Fallen Hero
+HOSHI,18,0,0,0,0,7,0,0,0,5,0,10,24,21,1,Fallen Hero
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Fallen Hero
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,3,21,1,Fallen Hero
+REED,25,0,7,0,0,0,0,0,0,11,7,11,33,21,1,Fallen Hero
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Fallen Hero
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Fallen Hero
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Fallen Hero
+TRAVIS,15,0,5,0,0,11,0,0,0,0,0,4,21,21,1,Fallen Hero
+TUCKER,14,0,0,0,0,7,0,0,0,0,0,2,21,21,1,Fallen Hero
+T_POL,71,0,10,0,0,11,0,0,0,4,2,4,78,21,1,Fallen Hero
+ARCHER,12,0,1,0,0,0,0,0,0,0,111,15,109,22,1,Desert Crossing
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+HOSHI,1,0,0,0,0,1,0,0,0,1,0,9,7,22,1,Desert Crossing
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+REED,0,0,1,0,0,0,0,0,0,1,0,7,15,22,1,Desert Crossing
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Desert Crossing
+TRAVIS,0,0,1,0,0,1,0,0,0,0,0,0,1,22,1,Desert Crossing
+TUCKER,111,0,0,0,0,0,0,0,0,0,8,0,77,22,1,Desert Crossing
+T_POL,15,0,9,0,0,7,0,0,0,0,0,2,33,22,1,Desert Crossing
+ARCHER,6,0,2,0,0,3,0,0,0,3,3,12,76,23,1,Two Days And Two Nights
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Two Days And Two Nights
+HOSHI,2,0,0,0,0,2,0,0,0,2,4,0,40,23,1,Two Days And Two Nights
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Two Days And Two Nights
+PHLOX,0,0,0,0,6,0,0,0,0,3,0,25,26,23,1,Two Days And Two Nights
+REED,3,0,2,0,0,2,0,0,0,0,44,0,33,23,1,Two Days And Two Nights
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Two Days And Two Nights
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Two Days And Two Nights
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Two Days And Two Nights
+TRAVIS,3,0,2,0,3,0,0,0,0,0,1,12,18,23,1,Two Days And Two Nights
+TUCKER,3,0,4,0,0,44,0,0,0,1,2,1,40,23,1,Two Days And Two Nights
+T_POL,12,0,0,0,25,0,0,0,0,12,1,0,33,23,1,Two Days And Two Nights
+ARCHER,20,0,19,0,1,33,0,0,0,4,39,49,116,24,1,Shockwave (part 1)
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,Shockwave (part 1)
+HOSHI,19,0,0,0,0,1,0,0,0,9,0,3,19,24,1,Shockwave (part 1)
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,Shockwave (part 1)
+PHLOX,1,0,0,0,0,0,0,0,0,0,11,4,9,24,1,Shockwave (part 1)
+REED,33,0,1,0,0,0,0,0,0,3,4,8,34,24,1,Shockwave (part 1)
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,Shockwave (part 1)
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,Shockwave (part 1)
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,Shockwave (part 1)
+TRAVIS,4,0,9,0,0,3,0,0,0,2,2,0,11,24,1,Shockwave (part 1)
+TUCKER,39,0,0,0,11,4,0,0,0,2,0,3,32,24,1,Shockwave (part 1)
+T_POL,49,0,3,0,4,8,0,0,0,0,3,0,36,24,1,Shockwave (part 1)
+ARCHER,8,0,0,0,0,0,0,0,0,0,1,31,57,25,2,Shockwave (part 2)
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Shockwave (part 2)
+HOSHI,0,0,0,0,5,0,0,0,0,6,6,5,13,25,2,Shockwave (part 2)
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Shockwave (part 2)
+PHLOX,0,0,5,0,0,0,0,0,0,0,0,0,3,25,2,Shockwave (part 2)
+REED,0,0,0,0,0,0,0,0,0,1,16,3,22,25,2,Shockwave (part 2)
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Shockwave (part 2)
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Shockwave (part 2)
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,9,25,2,Shockwave (part 2)
+TRAVIS,0,0,6,0,0,1,0,0,0,0,1,8,11,25,2,Shockwave (part 2)
+TUCKER,1,0,6,0,0,16,0,0,0,1,0,5,25,25,2,Shockwave (part 2)
+T_POL,31,0,5,0,0,3,0,0,0,8,5,2,47,25,2,Shockwave (part 2)
+ARCHER,0,0,0,0,0,0,0,0,0,0,4,12,9,26,2,Carbon Creek
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+REED,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Carbon Creek
+TUCKER,4,0,0,0,0,0,0,0,0,0,2,14,11,26,2,Carbon Creek
+T_POL,12,0,0,0,0,0,0,0,0,0,14,2,22,26,2,Carbon Creek
+ARCHER,22,0,1,0,5,159,0,0,0,13,23,24,143,27,2,Minefield
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Minefield
+HOSHI,1,0,0,0,14,0,0,0,0,0,2,3,11,27,2,Minefield
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Minefield
+PHLOX,5,0,14,0,0,0,0,0,0,0,0,3,15,27,2,Minefield
+REED,159,0,0,0,0,4,0,0,0,0,0,4,98,27,2,Minefield
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Minefield
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Minefield
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Minefield
+TRAVIS,13,0,0,0,0,0,0,0,0,2,7,8,17,27,2,Minefield
+TUCKER,23,0,2,0,0,0,0,0,0,7,0,8,25,27,2,Minefield
+T_POL,24,0,3,0,3,4,0,0,0,8,8,0,33,27,2,Minefield
+ARCHER,6,0,8,0,18,18,0,0,0,12,42,41,95,28,2,Dead Stop
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Dead Stop
+HOSHI,8,0,0,0,10,2,0,0,0,0,3,3,14,28,2,Dead Stop
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Dead Stop
+PHLOX,18,0,10,0,10,15,0,0,0,2,1,0,31,28,2,Dead Stop
+REED,18,0,2,0,15,2,0,0,0,0,24,3,38,28,2,Dead Stop
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Dead Stop
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Dead Stop
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Dead Stop
+TRAVIS,12,0,0,0,2,0,0,0,0,0,1,3,13,28,2,Dead Stop
+TUCKER,42,0,3,0,1,24,0,0,0,1,4,9,52,28,2,Dead Stop
+T_POL,41,0,3,0,0,3,0,0,0,3,9,2,37,28,2,Dead Stop
+ARCHER,14,0,25,0,174,0,0,0,0,0,26,57,160,29,2,A_Night In Sickbay
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+HOSHI,25,0,6,0,5,0,0,0,0,0,0,2,22,29,2,A_Night In Sickbay
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+PHLOX,174,0,5,0,12,0,0,0,0,0,2,2,102,29,2,A_Night In Sickbay
+REED,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,A_Night In Sickbay
+TUCKER,26,0,0,0,2,0,0,0,0,0,0,0,16,29,2,A_Night In Sickbay
+T_POL,57,0,2,0,2,0,0,0,0,0,0,0,32,29,2,A_Night In Sickbay
+ARCHER,4,0,0,0,0,8,0,0,0,3,10,16,55,30,2,Marauders
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Marauders
+HOSHI,0,0,4,0,0,1,0,0,0,1,0,0,4,30,2,Marauders
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Marauders
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,9,30,2,Marauders
+REED,8,0,1,0,0,2,0,0,0,1,0,1,12,30,2,Marauders
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Marauders
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Marauders
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Marauders
+TRAVIS,3,0,1,0,0,1,0,0,0,0,0,2,5,30,2,Marauders
+TUCKER,10,0,0,0,0,0,0,0,0,0,2,2,38,30,2,Marauders
+T_POL,16,0,0,0,0,1,0,0,0,2,2,6,19,30,2,Marauders
+ARCHER,20,0,0,0,0,0,0,0,0,21,12,134,115,31,2,The Seventh
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,The Seventh
+HOSHI,0,0,0,0,0,0,0,0,0,0,12,0,6,31,2,The Seventh
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,The Seventh
+PHLOX,0,0,0,0,0,2,0,0,0,0,12,0,7,31,2,The Seventh
+REED,0,0,0,0,2,0,0,0,0,0,10,0,6,31,2,The Seventh
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,The Seventh
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,The Seventh
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,The Seventh
+TRAVIS,21,0,0,0,0,0,0,0,0,0,0,1,12,31,2,The Seventh
+TUCKER,12,0,12,0,12,10,0,0,0,0,8,1,35,31,2,The Seventh
+T_POL,134,0,0,0,0,0,0,0,0,1,1,2,87,31,2,The Seventh
+ARCHER,0,0,6,0,5,59,0,0,0,1,6,14,66,32,2,The Communicator
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Communicator
+HOSHI,6,0,0,0,0,6,0,0,0,1,9,6,18,32,2,The Communicator
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Communicator
+PHLOX,5,0,0,0,0,0,0,0,0,0,18,0,13,32,2,The Communicator
+REED,59,0,6,0,0,2,0,0,0,0,2,0,40,32,2,The Communicator
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Communicator
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Communicator
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Communicator
+TRAVIS,1,0,1,0,0,0,0,0,0,0,24,2,15,32,2,The Communicator
+TUCKER,6,0,9,0,18,2,0,0,0,24,4,15,43,32,2,The Communicator
+T_POL,14,0,6,0,0,0,0,0,0,2,15,0,21,32,2,The Communicator
+ARCHER,16,0,4,0,3,23,0,0,0,1,47,75,91,33,2,Singularity
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Singularity
+HOSHI,4,0,4,0,0,12,0,0,0,0,4,4,23,33,2,Singularity
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Singularity
+PHLOX,3,0,0,0,4,0,0,0,0,46,0,8,34,33,2,Singularity
+REED,23,0,12,0,0,0,0,0,0,0,37,18,48,33,2,Singularity
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Singularity
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Singularity
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Singularity
+TRAVIS,1,0,0,0,46,0,0,0,0,0,0,0,25,33,2,Singularity
+TUCKER,47,0,4,0,0,37,0,0,0,0,0,20,58,33,2,Singularity
+T_POL,75,0,4,0,8,18,0,0,0,0,20,16,78,33,2,Singularity
+ARCHER,4,0,47,0,8,1,0,0,0,4,15,18,63,34,2,Vanishing Point
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Vanishing Point
+HOSHI,47,0,2,0,34,17,0,0,0,4,70,30,117,34,2,Vanishing Point
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Vanishing Point
+PHLOX,8,0,34,0,6,0,0,0,0,0,10,3,32,34,2,Vanishing Point
+REED,1,0,17,0,0,0,0,0,0,1,14,1,20,34,2,Vanishing Point
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Vanishing Point
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Vanishing Point
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Vanishing Point
+TRAVIS,4,0,4,0,0,1,0,0,0,0,5,0,7,34,2,Vanishing Point
+TUCKER,15,0,70,0,10,14,0,0,0,5,0,1,62,34,2,Vanishing Point
+T_POL,18,0,30,0,3,1,0,0,0,0,1,0,29,34,2,Vanishing Point
+ARCHER,10,0,2,0,0,7,0,0,0,5,2,7,46,35,2,Precious Cargo
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+HOSHI,2,0,0,0,0,0,0,0,0,0,13,0,8,35,2,Precious Cargo
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+REED,7,0,0,0,0,0,0,0,0,3,0,0,10,35,2,Precious Cargo
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Precious Cargo
+TRAVIS,5,0,0,0,0,3,0,0,0,0,0,1,5,35,2,Precious Cargo
+TUCKER,2,0,13,0,0,0,0,0,0,0,38,2,125,35,2,Precious Cargo
+T_POL,7,0,0,0,0,0,0,0,0,1,2,0,12,35,2,Precious Cargo
+ARCHER,14,0,6,0,10,5,0,0,0,10,34,40,81,36,2,The Catwalk
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Catwalk
+HOSHI,6,0,0,0,0,1,0,0,0,3,2,0,6,36,2,The Catwalk
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Catwalk
+PHLOX,10,0,0,0,2,10,0,0,0,0,4,7,19,36,2,The Catwalk
+REED,5,0,1,0,10,0,0,0,0,3,10,4,18,36,2,The Catwalk
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Catwalk
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Catwalk
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Catwalk
+TRAVIS,10,0,3,0,0,3,0,0,0,2,14,5,20,36,2,The Catwalk
+TUCKER,34,0,2,0,4,10,0,0,0,14,6,15,60,36,2,The Catwalk
+T_POL,40,0,0,0,7,4,0,0,0,5,15,2,43,36,2,The Catwalk
+ARCHER,2,0,2,0,5,2,0,0,0,2,15,29,42,37,2,Dawn
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Dawn
+HOSHI,2,0,0,0,0,0,0,0,0,1,3,1,5,37,2,Dawn
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Dawn
+PHLOX,5,0,0,0,0,0,0,0,0,0,2,0,4,37,2,Dawn
+REED,2,0,0,0,0,0,0,0,0,1,0,1,2,37,2,Dawn
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Dawn
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Dawn
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Dawn
+TRAVIS,2,0,1,0,0,1,0,0,0,0,0,0,2,37,2,Dawn
+TUCKER,15,0,3,0,2,0,0,0,0,0,58,1,79,37,2,Dawn
+T_POL,29,0,1,0,0,1,0,0,0,0,1,2,18,37,2,Dawn
+ARCHER,4,0,5,0,32,0,0,0,0,0,0,67,87,38,2,Stigma
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Stigma
+HOSHI,5,0,0,0,0,0,0,0,0,0,14,3,17,38,2,Stigma
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Stigma
+PHLOX,32,0,0,0,4,0,0,0,0,7,30,6,60,38,2,Stigma
+REED,0,0,0,0,0,0,0,0,0,0,7,0,4,38,2,Stigma
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Stigma
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Stigma
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Stigma
+TRAVIS,0,0,0,0,7,0,0,0,0,0,2,0,5,38,2,Stigma
+TUCKER,0,0,14,0,30,7,0,0,0,2,4,0,47,38,2,Stigma
+T_POL,67,0,3,0,6,0,0,0,0,0,0,2,66,38,2,Stigma
+ARCHER,22,0,0,0,9,0,21,0,54,0,20,48,107,39,2,Cease Fire
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Cease Fire
+HOSHI,0,0,0,0,0,0,0,0,0,0,14,0,8,39,2,Cease Fire
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Cease Fire
+PHLOX,9,0,0,0,4,0,0,0,0,0,0,0,7,39,2,Cease Fire
+REED,0,0,0,0,0,0,0,0,0,4,2,0,4,39,2,Cease Fire
+SHRAN,21,0,0,0,0,0,0,0,8,0,0,2,32,39,2,Cease Fire
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Cease Fire
+SOVAL,54,0,0,0,0,0,8,0,0,0,2,19,44,39,2,Cease Fire
+TRAVIS,0,0,0,0,0,4,0,0,0,0,5,0,5,39,2,Cease Fire
+TUCKER,20,0,14,0,0,2,0,0,2,5,6,9,33,39,2,Cease Fire
+T_POL,48,0,0,0,0,0,2,0,19,0,9,2,44,39,2,Cease Fire
+ARCHER,12,0,9,0,14,30,0,0,0,12,16,70,95,40,2,Future Tense
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Future Tense
+HOSHI,9,0,0,0,0,0,0,0,0,3,0,5,11,40,2,Future Tense
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Future Tense
+PHLOX,14,0,0,0,0,2,0,0,0,0,2,19,21,40,2,Future Tense
+REED,30,0,0,0,2,2,0,0,0,1,53,9,53,40,2,Future Tense
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Future Tense
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Future Tense
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Future Tense
+TRAVIS,12,0,3,0,0,1,0,0,0,0,3,5,15,40,2,Future Tense
+TUCKER,16,0,0,0,2,53,0,0,0,3,8,6,53,40,2,Future Tense
+T_POL,70,0,5,0,19,9,0,0,0,5,6,0,67,40,2,Future Tense
+ARCHER,10,0,1,0,2,3,0,0,0,0,16,0,81,41,2,Canamar
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Canamar
+HOSHI,1,0,0,0,0,2,0,0,0,1,0,6,8,41,2,Canamar
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Canamar
+PHLOX,2,0,0,0,0,2,0,0,0,0,0,0,2,41,2,Canamar
+REED,3,0,2,0,2,0,0,0,0,0,1,9,15,41,2,Canamar
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Canamar
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Canamar
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Canamar
+TRAVIS,0,0,1,0,0,0,0,0,0,0,0,2,3,41,2,Canamar
+TUCKER,16,0,0,0,0,1,0,0,0,0,4,0,44,41,2,Canamar
+T_POL,0,0,6,0,0,9,0,0,0,2,0,2,17,41,2,Canamar
+ARCHER,10,0,16,0,44,12,0,0,0,19,60,65,151,42,2,The Crossing
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Crossing
+HOSHI,16,0,0,0,9,1,0,0,0,1,0,0,15,42,2,The Crossing
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Crossing
+PHLOX,44,0,9,0,14,0,0,0,0,0,9,6,66,42,2,The Crossing
+REED,12,0,1,0,0,2,0,0,0,1,12,18,29,42,2,The Crossing
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Crossing
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Crossing
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Crossing
+TRAVIS,19,0,1,0,0,1,0,0,0,4,6,6,25,42,2,The Crossing
+TUCKER,60,0,0,0,9,12,0,0,0,6,2,2,63,42,2,The Crossing
+T_POL,65,0,0,0,6,18,0,0,0,6,2,6,57,42,2,The Crossing
+ARCHER,6,0,2,0,20,32,0,0,0,3,0,11,110,43,2,Judgment
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Judgment
+HOSHI,2,0,0,0,0,0,0,0,0,0,0,0,1,43,2,Judgment
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Judgment
+PHLOX,20,0,0,0,2,0,0,0,0,0,0,0,15,43,2,Judgment
+REED,32,0,0,0,0,0,0,0,0,1,0,8,23,43,2,Judgment
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Judgment
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Judgment
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Judgment
+TRAVIS,3,0,0,0,0,1,0,0,0,0,0,3,4,43,2,Judgment
+TUCKER,0,0,0,0,0,0,0,0,0,0,0,8,4,43,2,Judgment
+T_POL,11,0,0,0,0,8,0,0,0,3,8,2,17,43,2,Judgment
+ARCHER,0,0,3,0,0,1,0,0,0,44,6,22,41,44,2,Horizon
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,Horizon
+HOSHI,3,0,0,0,0,0,0,0,0,4,0,1,5,44,2,Horizon
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,Horizon
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,5,3,44,2,Horizon
+REED,1,0,0,0,0,0,0,0,0,5,0,0,4,44,2,Horizon
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,Horizon
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,Horizon
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,Horizon
+TRAVIS,44,0,4,0,0,5,0,0,0,2,6,0,123,44,2,Horizon
+TUCKER,6,0,0,0,0,0,0,0,0,6,0,24,21,44,2,Horizon
+T_POL,22,0,1,0,5,0,0,0,0,0,24,0,28,44,2,Horizon
+ARCHER,2,0,6,0,35,1,0,0,0,4,10,7,65,45,2,The Breach
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Breach
+HOSHI,6,0,0,0,0,0,0,0,0,0,0,1,4,45,2,The Breach
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Breach
+PHLOX,35,0,0,0,0,1,0,0,0,2,2,15,55,45,2,The Breach
+REED,1,0,0,0,1,6,0,0,0,9,25,0,28,45,2,The Breach
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Breach
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Breach
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Breach
+TRAVIS,4,0,0,0,2,9,0,0,0,0,25,0,23,45,2,The Breach
+TUCKER,10,0,0,0,2,25,0,0,0,25,10,0,59,45,2,The Breach
+T_POL,7,0,1,0,15,0,0,0,0,0,0,0,13,45,2,The Breach
+ARCHER,4,0,2,0,0,0,0,0,0,0,23,9,57,46,2,Cogenitor
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+HOSHI,2,0,0,0,0,0,0,0,0,0,0,0,1,46,2,Cogenitor
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+PHLOX,0,0,0,0,0,0,0,0,0,0,29,0,17,46,2,Cogenitor
+REED,0,0,0,0,0,2,0,0,0,0,6,0,23,46,2,Cogenitor
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Cogenitor
+TUCKER,23,0,0,0,29,6,0,0,0,0,6,31,119,46,2,Cogenitor
+T_POL,9,0,0,0,0,0,0,0,0,0,31,2,25,46,2,Cogenitor
+ARCHER,12,0,7,0,22,20,0,0,0,9,9,50,85,47,2,Regeneration
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,Regeneration
+HOSHI,7,0,0,0,14,0,0,0,0,2,0,2,15,47,2,Regeneration
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,Regeneration
+PHLOX,22,0,14,0,0,13,0,0,0,0,0,5,32,47,2,Regeneration
+REED,20,0,0,0,13,18,0,0,0,2,5,3,42,47,2,Regeneration
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,Regeneration
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,Regeneration
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,Regeneration
+TRAVIS,9,0,2,0,0,2,0,0,0,0,2,1,10,47,2,Regeneration
+TUCKER,9,0,0,0,0,5,0,0,0,2,0,4,18,47,2,Regeneration
+T_POL,50,0,2,0,5,3,0,0,0,1,4,0,39,47,2,Regeneration
+ARCHER,10,0,0,0,0,0,0,0,0,0,34,72,133,48,2,First Flight
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+REED,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,First Flight
+TUCKER,34,0,0,0,0,0,0,0,0,0,4,3,41,48,2,First Flight
+T_POL,72,0,0,0,0,0,0,0,0,0,3,4,43,48,2,First Flight
+ARCHER,2,0,0,0,0,5,0,0,0,0,9,0,48,49,2,Bounty
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Bounty
+HOSHI,0,0,0,0,0,2,0,0,0,0,1,0,3,49,2,Bounty
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Bounty
+PHLOX,0,0,0,0,6,1,0,0,0,0,8,86,56,49,2,Bounty
+REED,5,0,2,0,1,4,0,0,0,7,22,7,28,49,2,Bounty
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Bounty
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Bounty
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Bounty
+TRAVIS,0,0,0,0,0,7,0,0,0,0,9,0,9,49,2,Bounty
+TUCKER,9,0,1,0,8,22,0,0,0,9,6,3,35,49,2,Bounty
+T_POL,0,0,0,0,86,7,0,0,0,0,3,0,51,49,2,Bounty
+ARCHER,8,0,27,0,7,15,0,0,23,16,42,46,152,50,2,The Expanse
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,The Expanse
+HOSHI,27,0,0,0,0,0,0,0,0,2,2,2,18,50,2,The Expanse
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,The Expanse
+PHLOX,7,0,0,0,0,1,0,0,0,0,1,11,15,50,2,The Expanse
+REED,15,0,0,0,1,2,0,0,0,2,19,0,23,50,2,The Expanse
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,The Expanse
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,The Expanse
+SOVAL,23,0,0,0,0,0,0,0,2,0,0,8,19,50,2,The Expanse
+TRAVIS,16,0,2,0,0,2,0,0,0,0,2,0,13,50,2,The Expanse
+TUCKER,42,0,2,0,1,19,0,0,0,2,2,8,40,50,2,The Expanse
+T_POL,46,0,2,0,11,0,0,0,8,0,8,0,40,50,2,The Expanse
+ARCHER,2,0,0,0,10,27,0,0,0,7,22,11,75,51,3,The Xindi
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,2,51,3,The Xindi
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,6,11,51,3,The Xindi
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Xindi
+PHLOX,10,0,0,0,2,0,0,0,0,0,7,24,24,51,3,The Xindi
+REED,27,0,0,0,0,2,0,0,0,4,7,10,31,51,3,The Xindi
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Xindi
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Xindi
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Xindi
+TRAVIS,7,0,0,0,0,4,0,0,0,0,1,0,8,51,3,The Xindi
+TUCKER,22,0,0,0,7,7,0,0,0,1,4,35,54,51,3,The Xindi
+T_POL,11,0,6,0,24,10,0,0,0,0,35,2,53,51,3,The Xindi
+ARCHER,28,0,19,0,9,39,0,0,0,41,15,54,139,52,3,Anomaly
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Anomaly
+HOSHI,19,0,0,0,0,1,0,0,0,3,0,8,17,52,3,Anomaly
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Anomaly
+PHLOX,9,0,0,0,0,0,0,0,0,0,17,0,15,52,3,Anomaly
+REED,39,0,1,0,0,0,0,0,0,6,13,2,35,52,3,Anomaly
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Anomaly
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Anomaly
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Anomaly
+TRAVIS,41,0,3,0,0,6,0,0,0,2,0,3,32,52,3,Anomaly
+TUCKER,15,0,0,0,17,13,0,0,0,0,4,0,31,52,3,Anomaly
+T_POL,54,0,8,0,0,2,0,0,0,3,0,0,37,52,3,Anomaly
+ARCHER,0,0,11,0,9,7,0,0,0,1,0,43,42,53,3,Extinction
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Extinction
+HOSHI,11,0,0,0,0,4,0,0,0,0,0,4,10,53,3,Extinction
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Extinction
+PHLOX,9,0,0,0,0,4,0,0,0,4,19,0,23,53,3,Extinction
+REED,7,0,4,0,4,0,0,0,0,0,0,9,13,53,3,Extinction
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Extinction
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Extinction
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Extinction
+TRAVIS,1,0,0,0,4,0,0,0,0,0,17,1,16,53,3,Extinction
+TUCKER,0,0,0,0,19,0,0,0,0,17,4,30,45,53,3,Extinction
+T_POL,43,0,4,0,0,9,0,0,0,1,30,12,54,53,3,Extinction
+ARCHER,8,0,0,0,20,10,0,0,0,2,12,4,84,54,3,Rajiin
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,1,54,3,Rajiin
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,5,54,3,Rajiin
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Rajiin
+PHLOX,20,0,0,0,2,0,0,0,0,0,4,0,16,54,3,Rajiin
+REED,10,0,0,0,0,0,0,0,0,0,1,0,11,54,3,Rajiin
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Rajiin
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Rajiin
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Rajiin
+TRAVIS,2,0,0,0,0,0,0,0,0,0,0,0,5,54,3,Rajiin
+TUCKER,12,0,0,0,4,1,0,0,0,0,0,40,37,54,3,Rajiin
+T_POL,4,0,0,0,0,0,0,0,0,0,40,2,33,54,3,Rajiin
+ARCHER,18,0,7,0,8,28,0,0,0,0,19,84,99,55,3,Impulse
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Impulse
+HOSHI,7,0,0,0,0,0,0,0,0,0,12,1,13,55,3,Impulse
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Impulse
+PHLOX,8,0,0,0,0,0,0,0,0,0,5,3,10,55,3,Impulse
+REED,28,0,0,0,0,0,0,0,0,0,0,19,31,55,3,Impulse
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Impulse
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Impulse
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Impulse
+TRAVIS,0,0,0,0,0,0,0,0,0,2,26,0,15,55,3,Impulse
+TUCKER,19,0,12,0,5,0,0,0,0,26,4,7,46,55,3,Impulse
+T_POL,84,0,1,0,3,19,0,0,0,0,7,8,68,55,3,Impulse
+ARCHER,4,0,45,0,0,10,0,0,0,2,30,42,85,56,3,Exile
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Exile
+HOSHI,45,0,0,0,21,11,0,0,0,0,0,0,105,56,3,Exile
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Exile
+PHLOX,0,0,21,0,0,1,0,0,0,0,0,0,12,56,3,Exile
+REED,10,0,11,0,1,0,0,0,0,0,0,3,18,56,3,Exile
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Exile
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Exile
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Exile
+TRAVIS,2,0,0,0,0,0,0,0,0,0,0,0,1,56,3,Exile
+TUCKER,30,0,0,0,0,0,0,0,0,0,6,1,23,56,3,Exile
+T_POL,42,0,0,0,0,3,0,0,0,0,1,0,27,56,3,Exile
+ARCHER,2,0,6,0,0,28,0,0,0,2,1,22,91,57,3,The Shipment
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,13,57,3,The Shipment
+HOSHI,6,0,0,0,0,0,0,0,0,0,0,0,8,57,3,The Shipment
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Shipment
+PHLOX,0,0,0,0,2,0,0,0,0,0,20,3,14,57,3,The Shipment
+REED,28,0,0,0,0,2,0,0,0,0,0,7,30,57,3,The Shipment
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Shipment
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Shipment
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Shipment
+TRAVIS,2,0,0,0,0,0,0,0,0,0,0,0,1,57,3,The Shipment
+TUCKER,1,0,0,0,20,0,0,0,0,0,2,17,26,57,3,The Shipment
+T_POL,22,0,0,0,3,7,0,0,0,0,17,0,31,57,3,The Shipment
+ARCHER,10,0,2,0,23,4,0,0,0,1,8,71,68,58,3,Twilight
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Twilight
+HOSHI,2,0,0,0,0,9,0,0,0,1,11,6,16,58,3,Twilight
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Twilight
+PHLOX,23,0,0,0,2,0,0,0,0,0,8,21,33,58,3,Twilight
+REED,4,0,9,0,0,2,0,0,0,0,21,8,29,58,3,Twilight
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Twilight
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Twilight
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,15,8,58,3,Twilight
+TRAVIS,1,0,1,0,0,0,0,0,0,0,0,0,1,58,3,Twilight
+TUCKER,8,0,11,0,8,21,0,0,0,0,2,21,44,58,3,Twilight
+T_POL,71,0,6,0,21,8,0,0,15,0,21,2,82,58,3,Twilight
+ARCHER,6,0,2,0,4,4,0,0,0,1,8,7,83,59,3,North Star
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,North Star
+HOSHI,2,0,0,0,0,0,0,0,0,0,0,3,3,59,3,North Star
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,North Star
+PHLOX,4,0,0,0,0,0,0,0,0,0,0,1,3,59,3,North Star
+REED,4,0,0,0,0,0,0,0,0,0,1,2,8,59,3,North Star
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,North Star
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,North Star
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,North Star
+TRAVIS,1,0,0,0,0,0,0,0,0,0,1,0,1,59,3,North Star
+TUCKER,8,0,0,0,0,1,0,0,0,1,2,10,19,59,3,North Star
+T_POL,7,0,3,0,1,2,0,0,0,0,10,0,17,59,3,North Star
+ARCHER,0,0,2,0,37,6,0,0,0,4,1,33,106,60,3,Similitude
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Similitude
+HOSHI,2,0,0,0,0,0,0,0,0,0,0,0,5,60,3,Similitude
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Similitude
+PHLOX,37,0,0,0,4,0,0,0,0,0,0,4,31,60,3,Similitude
+REED,6,0,0,0,0,0,0,0,0,1,0,2,21,60,3,Similitude
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Similitude
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Similitude
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Similitude
+TRAVIS,4,0,0,0,0,1,0,0,0,0,0,2,8,60,3,Similitude
+TUCKER,1,0,0,0,0,0,0,0,0,0,2,13,14,60,3,Similitude
+T_POL,33,0,0,0,4,2,0,0,0,2,13,0,56,60,3,Similitude
+ARCHER,10,0,0,0,0,4,0,0,0,0,9,52,83,61,3,Carpenter Street
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+REED,4,0,0,0,0,0,0,0,0,0,0,0,2,61,3,Carpenter Street
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Carpenter Street
+TUCKER,9,0,0,0,0,0,0,0,0,0,0,1,6,61,3,Carpenter Street
+T_POL,52,0,0,0,0,0,0,0,0,0,1,16,62,61,3,Carpenter Street
+ARCHER,10,0,0,0,8,10,0,0,0,0,5,13,88,62,3,Chosen Realm
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+PHLOX,8,0,0,0,2,0,0,0,0,0,0,0,14,62,3,Chosen Realm
+REED,10,0,0,0,0,0,0,0,0,0,0,1,9,62,3,Chosen Realm
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Chosen Realm
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,1,2,62,3,Chosen Realm
+TUCKER,5,0,0,0,0,0,0,0,0,0,0,0,4,62,3,Chosen Realm
+T_POL,13,0,0,0,0,1,0,0,0,1,0,0,21,62,3,Chosen Realm
+ARCHER,2,0,8,0,0,19,61,0,0,6,3,48,82,63,3,Proving Ground
+DEGRA,0,2,0,0,0,0,0,0,0,0,0,0,26,63,3,Proving Ground
+HOSHI,8,0,0,0,0,0,0,0,0,0,0,6,8,63,3,Proving Ground
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Proving Ground
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Proving Ground
+REED,19,0,0,0,0,0,0,0,0,3,5,5,45,63,3,Proving Ground
+SHRAN,61,0,0,0,0,0,4,0,0,0,16,19,74,63,3,Proving Ground
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Proving Ground
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Proving Ground
+TRAVIS,6,0,0,0,0,3,0,0,0,0,0,10,10,63,3,Proving Ground
+TUCKER,3,0,0,0,0,5,16,0,0,0,2,5,21,63,3,Proving Ground
+T_POL,48,0,6,0,0,5,19,0,0,10,5,0,53,63,3,Proving Ground
+ARCHER,12,50,5,0,10,11,0,0,0,3,11,24,80,64,3,Stratagem
+DEGRA,50,4,1,0,0,0,0,0,0,0,2,2,47,64,3,Stratagem
+HOSHI,5,1,0,0,0,0,0,0,0,0,1,11,14,64,3,Stratagem
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Stratagem
+PHLOX,10,0,0,0,0,1,0,0,0,0,1,2,8,64,3,Stratagem
+REED,11,0,0,0,1,2,0,0,0,1,1,10,19,64,3,Stratagem
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Stratagem
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Stratagem
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Stratagem
+TRAVIS,3,0,0,0,0,1,0,0,0,0,3,2,6,64,3,Stratagem
+TUCKER,11,2,1,0,1,1,0,0,0,3,2,11,21,64,3,Stratagem
+T_POL,24,2,11,0,2,10,0,0,0,2,11,0,43,64,3,Stratagem
+ARCHER,2,0,0,0,16,22,0,0,0,11,3,20,54,65,3,Harbinger
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Harbinger
+HOSHI,0,0,0,0,0,1,0,0,0,0,0,1,1,65,3,Harbinger
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Harbinger
+PHLOX,16,0,0,0,0,0,0,0,0,0,0,12,23,65,3,Harbinger
+REED,22,0,1,0,0,6,0,0,0,1,32,2,65,65,3,Harbinger
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Harbinger
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Harbinger
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Harbinger
+TRAVIS,11,0,0,0,0,1,0,0,0,0,0,2,9,65,3,Harbinger
+TUCKER,3,0,0,0,0,32,0,0,0,0,8,81,79,65,3,Harbinger
+T_POL,20,0,1,0,12,2,0,0,0,2,81,0,73,65,3,Harbinger
+ARCHER,0,0,0,0,26,1,0,0,0,0,0,7,19,66,3,Doctor's Orders
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+HOSHI,0,0,0,0,8,0,0,0,0,0,0,0,4,66,3,Doctor's Orders
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+PHLOX,26,0,8,0,36,0,0,0,0,0,23,174,161,66,3,Doctor's Orders
+REED,1,0,0,0,0,0,0,0,0,0,1,2,2,66,3,Doctor's Orders
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Doctor's Orders
+TUCKER,0,0,0,0,23,1,0,0,0,0,0,4,15,66,3,Doctor's Orders
+T_POL,7,0,0,0,174,2,0,0,0,0,4,0,98,66,3,Doctor's Orders
+ARCHER,4,0,3,0,15,22,0,0,0,2,68,41,96,67,3,Hatchery
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hatchery
+HOSHI,3,0,0,0,0,4,0,0,0,3,0,1,7,67,3,Hatchery
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hatchery
+PHLOX,15,0,0,0,0,2,0,0,0,0,6,3,18,67,3,Hatchery
+REED,22,0,4,0,2,4,0,0,0,6,16,5,52,67,3,Hatchery
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hatchery
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hatchery
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hatchery
+TRAVIS,2,0,3,0,0,6,0,0,0,2,10,0,12,67,3,Hatchery
+TUCKER,68,0,0,0,6,16,0,0,0,10,6,29,81,67,3,Hatchery
+T_POL,41,0,1,0,3,5,0,0,0,0,29,2,50,67,3,Hatchery
+ARCHER,2,29,0,0,5,6,0,0,0,13,10,22,92,68,3,Azati Prime
+DEGRA,29,2,0,0,0,0,0,0,0,0,0,0,40,68,3,Azati Prime
+HOSHI,0,0,2,0,0,1,0,0,0,0,0,3,4,68,3,Azati Prime
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Azati Prime
+PHLOX,5,0,0,0,0,0,0,0,0,0,0,0,3,68,3,Azati Prime
+REED,6,0,1,0,0,0,0,0,0,1,7,20,21,68,3,Azati Prime
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Azati Prime
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Azati Prime
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Azati Prime
+TRAVIS,13,0,0,0,0,1,0,0,0,0,27,2,25,68,3,Azati Prime
+TUCKER,10,0,0,0,0,7,0,0,0,27,0,34,50,68,3,Azati Prime
+T_POL,22,0,3,0,0,20,0,0,0,2,34,2,48,68,3,Azati Prime
+ARCHER,2,0,2,0,14,14,0,0,0,2,13,58,80,69,3,Damage
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,16,69,3,Damage
+HOSHI,2,0,0,0,0,1,0,0,0,6,0,0,6,69,3,Damage
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Damage
+PHLOX,14,0,0,0,4,0,0,0,0,0,0,31,27,69,3,Damage
+REED,14,0,1,0,0,2,0,0,0,4,5,31,35,69,3,Damage
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Damage
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Damage
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Damage
+TRAVIS,2,0,6,0,0,4,0,0,0,0,2,3,10,69,3,Damage
+TUCKER,13,0,0,0,0,5,0,0,0,2,4,10,22,69,3,Damage
+T_POL,58,0,0,0,31,31,0,0,0,3,10,2,76,69,3,Damage
+ARCHER,6,45,3,0,7,14,0,0,0,3,28,10,74,70,3,The Forgotten
+DEGRA,45,0,0,0,4,3,0,0,0,0,2,1,38,70,3,The Forgotten
+HOSHI,3,0,0,0,0,0,0,0,0,2,0,3,6,70,3,The Forgotten
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Forgotten
+PHLOX,7,4,0,0,0,0,0,0,0,0,21,7,21,70,3,The Forgotten
+REED,14,3,0,0,0,2,0,0,0,2,12,1,21,70,3,The Forgotten
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Forgotten
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Forgotten
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Forgotten
+TRAVIS,3,0,2,0,0,2,0,0,0,0,0,1,5,70,3,The Forgotten
+TUCKER,28,2,0,0,21,12,0,0,0,0,10,31,75,70,3,The Forgotten
+T_POL,10,1,3,0,7,1,0,0,0,1,31,0,31,70,3,The Forgotten
+ARCHER,0,0,9,0,2,22,0,0,0,11,2,46,85,71,3,E2
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,6,71,3,E2
+HOSHI,9,0,2,0,0,8,0,0,0,12,0,1,17,71,3,E2
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,E2
+PHLOX,2,0,0,0,0,0,0,0,0,0,0,4,4,71,3,E2
+REED,22,0,8,0,0,0,0,0,0,7,0,6,27,71,3,E2
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,E2
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,E2
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,E2
+TRAVIS,11,0,12,0,0,7,0,0,0,0,1,4,20,71,3,E2
+TUCKER,2,0,0,0,0,0,0,0,0,1,0,32,32,71,3,E2
+T_POL,46,0,1,0,4,6,0,0,0,4,32,2,64,71,3,E2
+ARCHER,4,30,27,0,0,0,0,0,0,0,7,3,54,72,3,The Council
+DEGRA,30,0,9,0,3,0,0,0,0,0,13,2,72,72,3,The Council
+HOSHI,27,9,0,0,0,0,0,0,0,0,0,0,23,72,3,The Council
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Council
+PHLOX,0,3,0,0,0,0,0,0,0,0,31,3,21,72,3,The Council
+REED,0,0,0,0,0,2,0,0,0,9,0,17,23,72,3,The Council
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Council
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Council
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Council
+TRAVIS,0,0,0,0,0,9,0,0,0,2,0,7,18,72,3,The Council
+TUCKER,7,13,0,0,31,0,0,0,0,0,4,5,35,72,3,The Council
+T_POL,3,2,0,0,3,17,0,0,0,7,5,0,23,72,3,The Council
+ARCHER,6,0,0,0,14,13,0,0,0,6,18,14,71,73,3,Countdown
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,Countdown
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,6,73,3,Countdown
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,Countdown
+PHLOX,14,0,0,0,2,2,0,0,0,0,0,0,10,73,3,Countdown
+REED,13,0,0,0,2,0,0,0,0,0,1,2,29,73,3,Countdown
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,Countdown
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,Countdown
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,Countdown
+TRAVIS,6,0,0,0,0,0,0,0,0,0,5,1,7,73,3,Countdown
+TUCKER,18,0,0,0,0,1,0,0,0,5,2,31,38,73,3,Countdown
+T_POL,14,0,0,0,0,2,0,0,0,1,31,0,28,73,3,Countdown
+ARCHER,6,0,28,0,0,23,0,0,0,0,0,0,48,74,3,Zero Hour
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Zero Hour
+HOSHI,28,0,0,0,0,4,0,0,0,1,3,5,22,74,3,Zero Hour
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Zero Hour
+PHLOX,0,0,0,0,0,0,0,0,0,5,10,33,30,74,3,Zero Hour
+REED,23,0,4,0,0,0,0,0,0,2,5,4,25,74,3,Zero Hour
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,9,74,3,Zero Hour
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Zero Hour
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Zero Hour
+TRAVIS,0,0,1,0,5,2,0,0,0,0,15,23,28,74,3,Zero Hour
+TUCKER,0,0,3,0,10,5,0,0,0,15,2,34,38,74,3,Zero Hour
+T_POL,0,0,5,0,33,4,0,0,0,23,34,4,65,74,3,Zero Hour
+ARCHER,2,0,0,0,4,1,0,0,0,0,0,4,61,75,4,Storm Front (part 1)
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Storm Front (part 1)
+HOSHI,0,0,0,0,0,4,0,0,0,0,0,4,5,75,4,Storm Front (part 1)
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Storm Front (part 1)
+PHLOX,4,0,0,0,0,0,0,0,0,0,0,5,9,75,4,Storm Front (part 1)
+REED,1,0,4,0,0,0,0,0,0,1,1,7,9,75,4,Storm Front (part 1)
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Storm Front (part 1)
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Storm Front (part 1)
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Storm Front (part 1)
+TRAVIS,0,0,0,0,0,1,0,0,0,0,8,2,6,75,4,Storm Front (part 1)
+TUCKER,0,0,0,0,0,1,0,0,0,8,4,13,27,75,4,Storm Front (part 1)
+T_POL,4,0,4,0,5,7,0,0,0,2,13,0,28,75,4,Storm Front (part 1)
+ARCHER,4,0,3,0,2,9,0,0,0,3,21,11,95,76,4,Storm Front (part 2)
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Storm Front (part 2)
+HOSHI,3,0,0,0,0,1,0,0,0,0,0,0,4,76,4,Storm Front (part 2)
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Storm Front (part 2)
+PHLOX,2,0,0,0,0,0,0,0,0,0,2,0,2,76,4,Storm Front (part 2)
+REED,9,0,1,0,0,0,0,0,0,0,0,15,16,76,4,Storm Front (part 2)
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Storm Front (part 2)
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Storm Front (part 2)
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Storm Front (part 2)
+TRAVIS,3,0,0,0,0,0,0,0,0,0,1,1,4,76,4,Storm Front (part 2)
+TUCKER,21,0,0,0,2,0,0,0,0,1,0,0,13,76,4,Storm Front (part 2)
+T_POL,11,0,0,0,0,15,0,0,0,1,0,0,19,76,4,Storm Front (part 2)
+ARCHER,2,0,0,0,0,0,0,0,23,0,0,0,57,77,4,Home
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Home
+HOSHI,0,0,0,0,14,0,0,0,0,0,0,0,8,77,4,Home
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Home
+PHLOX,0,0,14,0,2,12,0,0,0,1,0,0,19,77,4,Home
+REED,0,0,0,0,12,0,0,0,0,2,0,0,11,77,4,Home
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Home
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Home
+SOVAL,23,0,0,0,0,0,0,0,2,0,0,0,13,77,4,Home
+TRAVIS,0,0,0,0,1,2,0,0,0,0,0,0,3,77,4,Home
+TUCKER,0,0,0,0,0,0,0,0,0,0,0,43,40,77,4,Home
+T_POL,0,0,0,0,0,0,0,0,0,0,43,0,58,77,4,Home
+ARCHER,8,0,5,14,1,13,0,66,0,4,13,11,85,78,4,Borderland
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Borderland
+HOSHI,5,0,0,0,0,3,0,0,0,0,1,1,6,78,4,Borderland
+MALIK,14,0,0,8,0,2,0,4,0,0,0,0,34,78,4,Borderland
+PHLOX,1,0,0,0,0,0,0,15,0,0,1,0,9,78,4,Borderland
+REED,13,0,3,2,0,2,0,2,0,3,0,2,16,78,4,Borderland
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Borderland
+SOONG,66,0,0,4,15,2,0,2,0,0,7,3,57,78,4,Borderland
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Borderland
+TRAVIS,4,0,0,0,0,3,0,0,0,0,1,0,4,78,4,Borderland
+TUCKER,13,0,1,0,1,0,0,7,0,1,2,8,24,78,4,Borderland
+T_POL,11,0,1,0,0,2,0,3,0,0,8,0,24,78,4,Borderland
+ARCHER,6,0,1,9,36,5,0,13,0,1,11,3,76,79,4,Cold Station 12
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Cold Station 12
+HOSHI,1,0,2,0,0,0,0,0,0,0,3,2,5,79,4,Cold Station 12
+MALIK,9,0,0,6,0,0,0,46,0,0,0,0,48,79,4,Cold Station 12
+PHLOX,36,0,0,0,0,2,0,0,0,0,0,0,23,79,4,Cold Station 12
+REED,5,0,0,0,2,2,0,0,0,0,2,0,8,79,4,Cold Station 12
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Cold Station 12
+SOONG,13,0,0,46,0,0,0,12,0,0,0,0,73,79,4,Cold Station 12
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Cold Station 12
+TRAVIS,1,0,0,0,0,0,0,0,0,0,1,4,4,79,4,Cold Station 12
+TUCKER,11,0,3,0,0,2,0,0,0,1,0,18,23,79,4,Cold Station 12
+T_POL,3,0,2,0,0,0,0,0,0,4,18,0,17,79,4,Cold Station 12
+ARCHER,4,0,9,0,0,20,0,30,0,4,12,32,81,80,4,The Augments
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,The Augments
+HOSHI,9,0,0,0,0,0,0,0,0,0,0,2,6,80,4,The Augments
+MALIK,0,0,0,4,0,0,0,67,0,0,1,0,60,80,4,The Augments
+PHLOX,0,0,0,0,0,1,0,0,0,0,0,0,2,80,4,The Augments
+REED,20,0,0,0,1,0,0,3,0,0,5,3,22,80,4,The Augments
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,The Augments
+SOONG,30,0,0,67,0,3,0,10,0,0,6,6,81,80,4,The Augments
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,The Augments
+TRAVIS,4,0,0,0,0,0,0,0,0,0,0,0,2,80,4,The Augments
+TUCKER,12,0,0,1,0,5,0,6,0,0,0,17,25,80,4,The Augments
+T_POL,32,0,2,0,0,3,0,6,0,0,17,0,41,80,4,The Augments
+ARCHER,4,0,0,0,1,0,0,0,14,0,4,65,79,81,4,The Forge
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,The Forge
+HOSHI,0,0,0,0,1,4,0,0,0,1,2,0,4,81,4,The Forge
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,The Forge
+PHLOX,1,0,1,0,0,5,0,0,3,0,15,2,16,81,4,The Forge
+REED,0,0,4,0,5,2,0,0,0,10,3,0,13,81,4,The Forge
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,The Forge
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,The Forge
+SOVAL,14,0,0,0,3,0,0,0,6,0,16,0,32,81,4,The Forge
+TRAVIS,0,0,1,0,0,10,0,0,0,2,0,0,7,81,4,The Forge
+TUCKER,4,0,2,0,15,3,0,0,16,0,4,0,28,81,4,The Forge
+T_POL,65,0,0,0,2,0,0,0,0,0,0,6,57,81,4,The Forge
+ARCHER,0,0,0,0,0,0,0,0,0,0,0,36,46,82,4,Awakening
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Awakening
+HOSHI,0,0,0,0,0,0,0,0,2,0,6,0,6,82,4,Awakening
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Awakening
+PHLOX,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Awakening
+REED,0,0,0,0,0,4,0,0,0,10,4,0,10,82,4,Awakening
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Awakening
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Awakening
+SOVAL,0,0,2,0,0,0,0,0,0,1,34,0,30,82,4,Awakening
+TRAVIS,0,0,0,0,0,10,0,0,1,0,8,0,12,82,4,Awakening
+TUCKER,0,0,6,0,0,4,0,0,34,8,6,0,38,82,4,Awakening
+T_POL,36,0,0,0,0,0,0,0,0,0,0,0,47,82,4,Awakening
+ARCHER,2,0,1,0,0,0,0,0,1,0,2,36,37,83,4,Kir'Shara
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Kir'Shara
+HOSHI,1,0,0,0,0,5,1,0,0,5,5,0,10,83,4,Kir'Shara
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Kir'Shara
+PHLOX,0,0,0,0,0,0,1,0,0,0,1,0,1,83,4,Kir'Shara
+REED,0,0,5,0,0,0,0,0,0,2,32,0,23,83,4,Kir'Shara
+SHRAN,0,0,1,0,1,0,2,0,50,0,11,0,43,83,4,Kir'Shara
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Kir'Shara
+SOVAL,1,0,0,0,0,0,50,0,2,0,15,0,37,83,4,Kir'Shara
+TRAVIS,0,0,5,0,0,2,0,0,0,0,6,0,7,83,4,Kir'Shara
+TUCKER,2,0,5,0,1,32,11,0,15,6,2,0,45,83,4,Kir'Shara
+T_POL,36,0,0,0,0,0,0,0,0,0,0,2,41,83,4,Kir'Shara
+ARCHER,2,0,0,0,1,0,0,0,0,0,35,20,88,84,4,Daedalus
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+PHLOX,1,0,0,0,2,0,0,0,0,0,0,7,10,84,4,Daedalus
+REED,0,0,0,0,0,2,0,0,0,0,0,0,3,84,4,Daedalus
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+TRAVIS,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,Daedalus
+TUCKER,35,0,0,0,0,0,0,0,0,0,0,42,75,84,4,Daedalus
+T_POL,20,0,0,0,7,0,0,0,0,0,42,2,49,84,4,Daedalus
+ARCHER,4,0,12,0,47,5,0,0,0,5,29,13,70,85,4,Observer Effect
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Observer Effect
+HOSHI,12,0,2,0,4,0,0,0,0,1,69,0,50,85,4,Observer Effect
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Observer Effect
+PHLOX,47,0,4,0,16,14,0,0,0,0,8,25,70,85,4,Observer Effect
+REED,5,0,0,0,14,2,0,0,0,36,0,1,35,85,4,Observer Effect
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Observer Effect
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Observer Effect
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Observer Effect
+TRAVIS,5,0,1,0,0,36,0,0,0,0,10,0,32,85,4,Observer Effect
+TUCKER,29,0,69,0,8,0,0,0,0,10,8,2,72,85,4,Observer Effect
+T_POL,13,0,0,0,25,1,0,0,0,0,2,0,24,85,4,Observer Effect
+ARCHER,8,0,21,0,0,16,44,0,0,11,19,47,113,86,4,Babel One
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Babel One
+HOSHI,21,0,0,0,0,2,3,0,0,4,0,6,20,86,4,Babel One
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Babel One
+PHLOX,0,0,0,0,0,0,1,0,0,0,0,0,1,86,4,Babel One
+REED,16,0,2,0,0,0,0,0,0,1,36,4,37,86,4,Babel One
+SHRAN,44,0,3,0,1,0,10,0,0,0,0,7,47,86,4,Babel One
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Babel One
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Babel One
+TRAVIS,11,0,4,0,0,1,0,0,0,0,0,5,12,86,4,Babel One
+TUCKER,19,0,0,0,0,36,0,0,0,0,0,2,36,86,4,Babel One
+T_POL,47,0,6,0,0,4,7,0,0,5,2,0,39,86,4,Babel One
+ARCHER,6,0,2,0,4,2,56,0,0,5,2,46,75,87,4,United
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,United
+HOSHI,2,0,0,0,0,0,0,0,0,20,0,2,14,87,4,United
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,United
+PHLOX,4,0,0,0,0,0,7,0,0,0,0,1,7,87,4,United
+REED,2,0,0,0,0,6,0,0,0,0,64,0,50,87,4,United
+SHRAN,56,0,0,0,7,0,8,0,0,0,0,2,50,87,4,United
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,United
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,United
+TRAVIS,5,0,20,0,0,0,0,0,0,0,1,1,16,87,4,United
+TUCKER,2,0,0,0,0,64,0,0,0,1,6,0,52,87,4,United
+T_POL,46,0,2,0,1,0,2,0,0,1,0,2,30,87,4,United
+ARCHER,6,0,0,0,3,5,37,0,0,4,27,19,78,88,4,The Aenar
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,The Aenar
+HOSHI,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,The Aenar
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,The Aenar
+PHLOX,3,0,0,0,2,0,2,0,0,0,23,9,23,88,4,The Aenar
+REED,5,0,0,0,0,0,1,0,0,0,2,1,7,88,4,The Aenar
+SHRAN,37,0,0,0,2,1,0,0,0,0,1,4,54,88,4,The Aenar
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,The Aenar
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,The Aenar
+TRAVIS,4,0,0,0,0,0,0,0,0,0,0,0,2,88,4,The Aenar
+TUCKER,27,0,0,0,23,2,1,0,0,0,2,33,48,88,4,The Aenar
+T_POL,19,0,0,0,9,1,4,0,0,0,33,0,37,88,4,The Aenar
+ARCHER,10,0,12,0,0,25,0,0,0,8,0,28,57,89,4,Affliction
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Affliction
+HOSHI,12,0,0,0,14,1,0,0,0,0,0,13,25,89,4,Affliction
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Affliction
+PHLOX,0,0,14,0,4,0,0,0,0,0,0,3,45,89,4,Affliction
+REED,25,0,1,0,0,4,0,0,0,0,0,2,33,89,4,Affliction
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Affliction
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Affliction
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Affliction
+TRAVIS,8,0,0,0,0,0,0,0,0,0,0,3,8,89,4,Affliction
+TUCKER,0,0,0,0,0,0,0,0,0,0,2,17,31,89,4,Affliction
+T_POL,28,0,13,0,3,2,0,0,0,3,17,0,44,89,4,Affliction
+ARCHER,6,0,0,0,12,41,0,0,0,4,15,6,71,90,4,Divergence
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Divergence
+HOSHI,0,0,0,0,0,2,0,0,0,0,0,3,3,90,4,Divergence
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Divergence
+PHLOX,12,0,0,0,4,0,0,0,0,0,1,3,56,90,4,Divergence
+REED,41,0,2,0,0,2,0,0,0,3,6,8,54,90,4,Divergence
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Divergence
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Divergence
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Divergence
+TRAVIS,4,0,0,0,0,3,0,0,0,0,0,1,8,90,4,Divergence
+TUCKER,15,0,0,0,1,6,0,0,0,0,6,19,39,90,4,Divergence
+T_POL,6,0,3,0,3,8,0,0,0,1,19,0,29,90,4,Divergence
+ARCHER,0,0,4,0,8,23,0,0,0,7,6,53,83,91,4,Bound
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,Bound
+HOSHI,4,0,0,0,19,2,0,0,0,1,0,0,16,91,4,Bound
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,Bound
+PHLOX,8,0,19,0,0,0,0,0,0,0,9,0,20,91,4,Bound
+REED,23,0,2,0,0,4,0,0,0,12,1,9,41,91,4,Bound
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,Bound
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,Bound
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,Bound
+TRAVIS,7,0,1,0,0,12,0,0,0,2,0,0,13,91,4,Bound
+TUCKER,6,0,0,0,9,1,0,0,0,0,8,65,70,91,4,Bound
+T_POL,53,0,0,0,0,9,0,0,0,0,65,0,71,91,4,Bound
+ARCHER,4,0,30,0,7,19,0,0,0,2,23,40,98,92,4,"In A_Mirror, Darkly (part 1)"
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,"In A_Mirror, Darkly (part 1)"
+HOSHI,30,0,2,0,3,0,0,0,0,0,1,0,32,92,4,"In A_Mirror, Darkly (part 1)"
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,"In A_Mirror, Darkly (part 1)"
+PHLOX,7,0,3,0,4,2,0,0,0,0,0,0,15,92,4,"In A_Mirror, Darkly (part 1)"
+REED,19,0,0,0,2,0,0,0,0,0,3,10,21,92,4,"In A_Mirror, Darkly (part 1)"
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,"In A_Mirror, Darkly (part 1)"
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,"In A_Mirror, Darkly (part 1)"
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,"In A_Mirror, Darkly (part 1)"
+TRAVIS,2,0,0,0,0,0,0,0,0,0,0,0,2,92,4,"In A_Mirror, Darkly (part 1)"
+TUCKER,23,0,1,0,0,3,0,0,0,0,6,24,32,92,4,"In A_Mirror, Darkly (part 1)"
+T_POL,40,0,0,0,0,10,0,0,0,0,24,6,53,92,4,"In A_Mirror, Darkly (part 1)"
+ARCHER,10,0,47,0,3,17,0,0,0,8,10,37,95,93,4,"In A_Mirror, Darkly (part 2)"
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,"In A_Mirror, Darkly (part 2)"
+HOSHI,47,0,6,0,0,0,0,0,0,4,0,5,36,93,4,"In A_Mirror, Darkly (part 2)"
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,"In A_Mirror, Darkly (part 2)"
+PHLOX,3,0,0,0,0,1,0,0,10,0,2,9,19,93,4,"In A_Mirror, Darkly (part 2)"
+REED,17,0,0,0,1,10,0,0,0,0,4,5,20,93,4,"In A_Mirror, Darkly (part 2)"
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,"In A_Mirror, Darkly (part 2)"
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,"In A_Mirror, Darkly (part 2)"
+SOVAL,0,0,0,0,10,0,0,0,2,0,0,18,29,93,4,"In A_Mirror, Darkly (part 2)"
+TRAVIS,8,0,4,0,0,0,0,0,0,0,4,0,11,93,4,"In A_Mirror, Darkly (part 2)"
+TUCKER,10,0,0,0,2,4,0,0,0,4,0,4,16,93,4,"In A_Mirror, Darkly (part 2)"
+T_POL,37,0,5,0,9,5,0,0,18,0,4,2,46,93,4,"In A_Mirror, Darkly (part 2)"
+ARCHER,0,0,2,0,6,4,0,0,0,2,3,3,41,94,4,Demons
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Demons
+HOSHI,2,0,2,0,0,6,0,0,0,1,1,0,8,94,4,Demons
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Demons
+PHLOX,6,0,0,0,2,8,0,0,0,1,17,1,19,94,4,Demons
+REED,4,0,6,0,8,0,0,0,0,2,1,3,29,94,4,Demons
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Demons
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Demons
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Demons
+TRAVIS,2,0,1,0,1,2,0,0,0,0,0,0,41,94,4,Demons
+TUCKER,3,0,1,0,17,1,0,0,0,0,4,50,55,94,4,Demons
+T_POL,3,0,0,0,1,3,0,0,0,0,50,0,33,94,4,Demons
+ARCHER,2,0,8,0,3,11,0,0,0,9,6,0,46,95,4,Terra Prime
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Terra Prime
+HOSHI,8,0,0,0,0,1,0,0,0,0,0,0,21,95,4,Terra Prime
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Terra Prime
+PHLOX,3,0,0,0,0,4,0,0,0,0,3,1,7,95,4,Terra Prime
+REED,11,0,1,0,4,0,0,0,0,16,2,0,32,95,4,Terra Prime
+SHRAN,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Terra Prime
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Terra Prime
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,3,95,4,Terra Prime
+TRAVIS,9,0,0,0,0,16,0,0,0,4,0,1,35,95,4,Terra Prime
+TUCKER,6,0,0,0,3,2,0,0,0,0,0,7,30,95,4,Terra Prime
+T_POL,0,0,0,0,1,0,0,0,0,1,7,2,23,95,4,Terra Prime
+ARCHER,4,0,3,0,7,3,21,0,0,5,37,36,67,96,4,These Are The Voyages...
+DEGRA,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,These Are The Voyages...
+HOSHI,3,0,0,0,0,5,0,0,0,5,0,1,8,96,4,These Are The Voyages...
+MALIK,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,These Are The Voyages...
+PHLOX,7,0,0,0,4,0,0,0,0,0,2,0,12,96,4,These Are The Voyages...
+REED,3,0,5,0,0,0,0,0,0,5,8,2,17,96,4,These Are The Voyages...
+SHRAN,21,0,0,0,0,0,4,0,0,0,0,3,22,96,4,These Are The Voyages...
+SOONG,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,These Are The Voyages...
+SOVAL,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,These Are The Voyages...
+TRAVIS,5,0,5,0,0,5,0,0,0,0,0,2,15,96,4,These Are The Voyages...
+TUCKER,37,0,0,0,2,8,0,0,0,0,8,20,60,96,4,These Are The Voyages...
+T_POL,36,0,1,0,0,2,3,0,0,2,20,0,51,96,4,These Are The Voyages...
+ARCHER,716,154,799,23,1006,1279,273,109,122,567,1803,3079,8096,all,-1,-1
+DEGRA,154,8,10,0,7,3,0,0,0,0,17,5,261,all,-1,-1
+HOSHI,799,10,58,0,271,276,4,0,2,163,347,352,1500,all,-1,-1
+MALIK,23,0,0,18,0,2,0,117,0,0,1,0,142,all,-1,-1
+PHLOX,1006,7,271,0,204,170,11,15,13,73,460,694,1944,all,-1,-1
+REED,1279,3,276,2,170,166,10,5,0,341,979,491,2508,all,-1,-1
+SHRAN,273,0,4,0,11,10,32,0,58,1,42,39,381,all,-1,-1
+SOONG,109,0,0,117,15,5,0,24,0,0,13,9,211,all,-1,-1
+SOVAL,122,0,2,0,13,0,58,0,14,1,67,60,234,all,-1,-1
+TRAVIS,567,0,163,0,73,341,1,0,1,30,367,219,1274,all,-1,-1
+TUCKER,1803,17,347,1,460,979,42,13,67,367,426,1427,4297,all,-1,-1
+T_POL,3079,5,352,0,694,491,39,9,60,219,1427,166,4203,all,-1,-1

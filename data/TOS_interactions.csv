@@ -1,0 +1,961 @@
+character,CHAPEL,CHEKOV,COMMANDER,COMPUTER,KIRK,MCCOY,MUDD,SCOTT,SPOCK,SULU,TRELANE,UHURA,total_lines,ep,season,title
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+KIRK,0,0,0,0,0,72,0,1,43,11,0,5,113,1,1,The Man Trap
+MCCOY,0,0,0,0,72,0,0,0,15,2,0,1,77,1,1,The Man Trap
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+SCOTT,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,The Man Trap
+SPOCK,0,0,0,0,43,15,0,0,0,2,0,12,45,1,1,The Man Trap
+SULU,0,0,0,0,11,2,0,0,2,0,0,5,23,1,1,The Man Trap
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Man Trap
+UHURA,0,0,0,0,5,1,0,0,12,5,0,2,19,1,1,The Man Trap
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+KIRK,0,0,0,0,2,15,0,0,38,0,0,18,115,2,1,Charlie X
+MCCOY,0,0,0,0,15,2,0,0,7,0,0,0,22,2,1,Charlie X
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+SPOCK,0,0,0,0,38,7,0,0,0,0,0,1,33,2,1,Charlie X
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Charlie X
+UHURA,0,0,0,0,18,0,0,0,1,0,0,2,16,2,1,Charlie X
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+KIRK,0,0,0,0,2,0,0,5,45,1,0,0,91,3,1,Where No Man Has Gone Before
+MCCOY,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+SCOTT,0,0,0,0,5,0,0,0,1,1,0,0,7,3,1,Where No Man Has Gone Before
+SPOCK,0,0,0,0,45,0,0,1,0,1,0,0,39,3,1,Where No Man Has Gone Before
+SULU,0,0,0,0,1,0,0,1,1,0,0,0,2,3,1,Where No Man Has Gone Before
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Where No Man Has Gone Before
+CHAPEL,0,0,0,0,1,11,0,0,12,0,0,0,16,4,1,The Naked Time
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,The Naked Time
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,The Naked Time
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,The Naked Time
+KIRK,1,0,0,0,0,15,0,27,64,16,0,26,103,4,1,The Naked Time
+MCCOY,11,0,0,0,15,0,0,0,4,3,0,0,26,4,1,The Naked Time
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,The Naked Time
+SCOTT,0,0,0,0,27,0,0,2,11,0,0,4,29,4,1,The Naked Time
+SPOCK,12,0,0,0,64,4,0,11,4,5,0,12,80,4,1,The Naked Time
+SULU,0,0,0,0,16,3,0,0,5,0,0,7,32,4,1,The Naked Time
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,The Naked Time
+UHURA,0,0,0,0,26,0,0,4,12,7,0,0,30,4,1,The Naked Time
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+KIRK,0,0,0,0,10,24,0,30,65,10,0,3,114,5,1,The Enemy Within
+MCCOY,0,0,0,0,24,0,0,0,14,0,0,0,24,5,1,The Enemy Within
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+SCOTT,0,0,0,0,30,0,0,0,4,0,0,0,24,5,1,The Enemy Within
+SPOCK,0,0,0,0,65,14,0,4,2,1,0,0,50,5,1,The Enemy Within
+SULU,0,0,0,0,10,0,0,0,1,0,0,0,11,5,1,The Enemy Within
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,The Enemy Within
+UHURA,0,0,0,0,3,0,0,0,0,0,0,0,2,5,1,The Enemy Within
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Mudd's Women
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Mudd's Women
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Mudd's Women
+COMPUTER,0,0,0,0,5,0,11,0,1,0,0,0,9,6,1,Mudd's Women
+KIRK,0,0,0,5,0,10,34,19,27,11,0,8,93,6,1,Mudd's Women
+MCCOY,0,0,0,0,10,0,3,0,5,0,0,0,19,6,1,Mudd's Women
+MUDD,0,0,0,11,34,3,0,3,12,0,0,0,61,6,1,Mudd's Women
+SCOTT,0,0,0,0,19,0,3,0,10,2,0,1,20,6,1,Mudd's Women
+SPOCK,0,0,0,1,27,5,12,10,0,4,0,0,35,6,1,Mudd's Women
+SULU,0,0,0,0,11,0,0,2,4,0,0,0,18,6,1,Mudd's Women
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Mudd's Women
+UHURA,0,0,0,0,8,0,0,1,0,0,0,0,5,6,1,Mudd's Women
+CHAPEL,8,0,0,0,13,0,0,0,1,0,0,0,35,7,1,What Are Little Girls Made
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+KIRK,13,0,0,0,6,0,0,0,14,0,0,1,71,7,1,What Are Little Girls Made
+MCCOY,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+SPOCK,1,0,0,0,14,0,0,0,8,0,0,1,18,7,1,What Are Little Girls Made
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,What Are Little Girls Made
+UHURA,0,0,0,0,1,0,0,0,1,0,0,0,1,7,1,What Are Little Girls Made
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+KIRK,0,0,0,0,0,32,0,0,45,0,0,0,100,8,1,Miri
+MCCOY,0,0,0,0,32,0,0,0,25,0,0,0,42,8,1,Miri
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+SPOCK,0,0,0,0,45,25,0,0,0,0,0,0,49,8,1,Miri
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Miri
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+KIRK,0,0,0,0,2,22,0,0,27,0,0,7,110,9,1,Dagger Of The Mind
+MCCOY,0,0,0,0,22,0,0,0,10,0,0,0,22,9,1,Dagger Of The Mind
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+SPOCK,0,0,0,0,27,10,0,0,0,0,0,2,44,9,1,Dagger Of The Mind
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Dagger Of The Mind
+UHURA,0,0,0,0,7,0,0,0,2,0,0,0,9,9,1,Dagger Of The Mind
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+KIRK,0,0,0,0,2,25,0,11,47,27,0,13,99,10,1,The Corbomite Maneuver
+MCCOY,0,0,0,0,25,0,0,1,3,1,0,0,22,10,1,The Corbomite Maneuver
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+SCOTT,0,0,0,0,11,1,0,0,1,1,0,0,7,10,1,The Corbomite Maneuver
+SPOCK,0,0,0,0,47,3,0,1,0,10,0,0,44,10,1,The Corbomite Maneuver
+SULU,0,0,0,0,27,1,0,1,10,0,0,0,26,10,1,The Corbomite Maneuver
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Corbomite Maneuver
+UHURA,0,0,0,0,13,0,0,0,0,0,0,0,7,10,1,The Corbomite Maneuver
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+COMPUTER,0,0,0,0,3,0,0,0,6,0,0,0,7,11,1,The Menagerie (part 1)
+KIRK,0,0,0,3,0,16,0,1,15,0,0,7,52,11,1,The Menagerie (part 1)
+MCCOY,0,0,0,0,16,0,0,0,13,0,0,0,21,11,1,The Menagerie (part 1)
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+SCOTT,0,0,0,0,1,0,0,0,0,0,0,0,1,11,1,The Menagerie (part 1)
+SPOCK,0,0,0,6,15,13,0,0,0,0,0,3,42,11,1,The Menagerie (part 1)
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,The Menagerie (part 1)
+UHURA,0,0,0,0,7,0,0,0,3,0,0,0,10,11,1,The Menagerie (part 1)
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+KIRK,0,0,0,0,2,0,0,0,11,0,0,0,12,12,1,The Menagerie (part 2)
+MCCOY,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+SPOCK,0,0,0,0,11,0,0,0,0,0,0,0,26,12,1,The Menagerie (part 2)
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Menagerie (part 2)
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+COMPUTER,0,0,0,0,16,0,0,0,5,0,0,0,12,13,1,The Conscience of the King
+KIRK,0,0,0,16,4,17,0,0,41,0,0,8,125,13,1,The Conscience of the King
+MCCOY,0,0,0,0,17,2,0,0,31,0,0,0,31,13,1,The Conscience of the King
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+SPOCK,0,0,0,5,41,31,0,0,0,0,0,1,43,13,1,The Conscience of the King
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,The Conscience of the King
+UHURA,0,0,0,0,8,0,0,0,1,0,0,4,15,13,1,The Conscience of the King
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Balance of Terror
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Balance of Terror
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,33,14,1,Balance of Terror
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Balance of Terror
+KIRK,0,0,0,0,6,10,0,8,59,29,0,24,114,14,1,Balance of Terror
+MCCOY,0,0,0,0,10,0,0,0,7,0,0,0,11,14,1,Balance of Terror
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Balance of Terror
+SCOTT,0,0,0,0,8,0,0,0,0,0,0,0,5,14,1,Balance of Terror
+SPOCK,0,0,0,0,59,7,0,0,4,7,0,9,53,14,1,Balance of Terror
+SULU,0,0,0,0,29,0,0,0,7,0,0,1,29,14,1,Balance of Terror
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Balance of Terror
+UHURA,0,0,0,0,24,0,0,0,9,1,0,0,20,14,1,Balance of Terror
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+KIRK,0,0,0,0,18,34,0,0,48,28,0,11,123,15,1,Shore Leave
+MCCOY,0,0,0,0,34,0,0,0,1,9,0,2,45,15,1,Shore Leave
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+SPOCK,0,0,0,0,48,1,0,0,0,0,0,0,35,15,1,Shore Leave
+SULU,0,0,0,0,28,9,0,0,0,2,0,0,23,15,1,Shore Leave
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,Shore Leave
+UHURA,0,0,0,0,11,2,0,0,0,0,0,0,8,15,1,Shore Leave
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,The Galileo Seven
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,The Galileo Seven
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,The Galileo Seven
+COMPUTER,0,0,0,0,0,0,0,0,0,1,0,0,1,16,1,The Galileo Seven
+KIRK,0,0,0,0,0,0,0,0,11,22,0,29,59,16,1,The Galileo Seven
+MCCOY,0,0,0,0,0,0,0,11,62,0,0,0,50,16,1,The Galileo Seven
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,The Galileo Seven
+SCOTT,0,0,0,0,0,11,0,2,62,0,0,0,45,16,1,The Galileo Seven
+SPOCK,0,0,0,0,11,62,0,62,14,0,0,1,132,16,1,The Galileo Seven
+SULU,0,0,0,1,22,0,0,0,0,0,0,2,14,16,1,The Galileo Seven
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,The Galileo Seven
+UHURA,0,0,0,0,29,0,0,0,1,2,0,0,21,16,1,The Galileo Seven
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,The Squire of Gothos
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,The Squire of Gothos
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,The Squire of Gothos
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,The Squire of Gothos
+KIRK,0,0,0,0,2,7,0,3,39,10,153,4,120,17,1,The Squire of Gothos
+MCCOY,0,0,0,0,7,0,0,1,7,3,4,2,17,17,1,The Squire of Gothos
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,The Squire of Gothos
+SCOTT,0,0,0,0,3,1,0,0,11,0,0,0,9,17,1,The Squire of Gothos
+SPOCK,0,0,0,0,39,7,0,11,4,2,12,3,45,17,1,The Squire of Gothos
+SULU,0,0,0,0,10,3,0,0,2,0,8,1,14,17,1,The Squire of Gothos
+TRELANE,0,0,0,0,153,4,0,0,12,8,18,2,120,17,1,The Squire of Gothos
+UHURA,0,0,0,0,4,2,0,0,3,1,2,0,8,17,1,The Squire of Gothos
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+KIRK,0,0,0,0,18,1,0,4,58,41,0,7,105,18,1,Arena
+MCCOY,0,0,0,0,1,2,0,0,12,0,0,1,11,18,1,Arena
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+SCOTT,0,0,0,0,4,0,0,2,6,0,0,0,6,18,1,Arena
+SPOCK,0,0,0,0,58,12,0,6,8,3,0,4,50,18,1,Arena
+SULU,0,0,0,0,41,0,0,0,3,2,0,1,39,18,1,Arena
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Arena
+UHURA,0,0,0,0,7,1,0,0,4,1,0,0,8,18,1,Arena
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Tomorrow is Yesterday
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Tomorrow is Yesterday
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Tomorrow is Yesterday
+COMPUTER,0,0,0,0,9,0,0,0,1,0,0,0,6,19,1,Tomorrow is Yesterday
+KIRK,0,0,0,9,6,10,0,7,70,17,0,5,121,19,1,Tomorrow is Yesterday
+MCCOY,0,0,0,0,10,0,0,0,14,0,0,0,15,19,1,Tomorrow is Yesterday
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Tomorrow is Yesterday
+SCOTT,0,0,0,0,7,0,0,0,8,0,0,0,13,19,1,Tomorrow is Yesterday
+SPOCK,0,0,0,1,70,14,0,8,4,8,0,3,74,19,1,Tomorrow is Yesterday
+SULU,0,0,0,0,17,0,0,0,8,0,0,1,19,19,1,Tomorrow is Yesterday
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,Tomorrow is Yesterday
+UHURA,0,0,0,0,5,0,0,0,3,1,0,0,5,19,1,Tomorrow is Yesterday
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+COMPUTER,0,0,0,0,3,1,0,0,2,0,0,0,11,20,1,Court Martial
+KIRK,0,0,0,3,8,6,0,0,12,0,0,5,120,20,1,Court Martial
+MCCOY,0,0,0,1,6,2,0,0,12,0,0,0,23,20,1,Court Martial
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+SPOCK,0,0,0,2,12,12,0,0,0,0,0,0,46,20,1,Court Martial
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Court Martial
+UHURA,0,0,0,0,5,0,0,0,0,0,0,0,7,20,1,Court Martial
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+KIRK,0,0,0,0,18,24,0,8,64,11,0,1,144,21,1,The Return of The Archons
+MCCOY,0,0,0,0,24,2,0,0,5,0,0,0,21,21,1,The Return of The Archons
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+SCOTT,0,0,0,0,8,0,0,0,1,2,0,0,13,21,1,The Return of The Archons
+SPOCK,0,0,0,0,64,5,0,1,2,0,0,1,60,21,1,The Return of The Archons
+SULU,0,0,0,0,11,0,0,2,0,0,0,0,11,21,1,The Return of The Archons
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,The Return of The Archons
+UHURA,0,0,0,0,1,0,0,0,1,0,0,0,1,21,1,The Return of The Archons
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+KIRK,0,0,0,0,4,29,0,19,49,0,0,6,95,22,1,Space Seed
+MCCOY,0,0,0,0,29,2,0,4,7,0,0,1,36,22,1,Space Seed
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+SCOTT,0,0,0,0,19,4,0,0,3,0,0,0,17,22,1,Space Seed
+SPOCK,0,0,0,0,49,7,0,3,0,0,0,2,40,22,1,Space Seed
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,Space Seed
+UHURA,0,0,0,0,6,1,0,0,2,0,0,0,5,22,1,Space Seed
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+COMPUTER,0,0,0,0,0,0,0,6,0,0,0,0,3,23,1,A_Taste of Armageddon
+KIRK,0,0,0,0,8,2,0,22,41,0,0,5,117,23,1,A_Taste of Armageddon
+MCCOY,0,0,0,0,2,0,0,15,0,0,0,1,12,23,1,A_Taste of Armageddon
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+SCOTT,0,0,0,6,22,15,0,0,2,0,0,3,47,23,1,A_Taste of Armageddon
+SPOCK,0,0,0,0,41,0,0,2,2,0,0,0,44,23,1,A_Taste of Armageddon
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,A_Taste of Armageddon
+UHURA,0,0,0,0,5,1,0,3,0,0,0,0,7,23,1,A_Taste of Armageddon
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+KIRK,0,0,0,0,10,35,0,0,56,7,0,5,105,24,1,This Side of Paradise
+MCCOY,0,0,0,0,35,0,0,0,2,2,0,0,37,24,1,This Side of Paradise
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+SPOCK,0,0,0,0,56,2,0,0,2,1,0,0,69,24,1,This Side of Paradise
+SULU,0,0,0,0,7,2,0,0,1,0,0,0,11,24,1,This Side of Paradise
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,This Side of Paradise
+UHURA,0,0,0,0,5,0,0,0,0,0,0,0,3,24,1,This Side of Paradise
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+KIRK,0,0,0,0,20,26,0,10,130,0,0,0,146,25,1,The Devil In The Dark
+MCCOY,0,0,0,0,26,0,0,0,10,0,0,0,19,25,1,The Devil In The Dark
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+SCOTT,0,0,0,0,10,0,0,0,0,0,0,0,11,25,1,The Devil In The Dark
+SPOCK,0,0,0,0,130,10,0,0,6,0,0,0,98,25,1,The Devil In The Dark
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,25,1,The Devil In The Dark
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+KIRK,0,0,0,0,4,0,0,0,65,13,0,3,131,26,1,Errand of Mercy
+MCCOY,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+SPOCK,0,0,0,0,65,0,0,0,6,0,0,0,48,26,1,Errand of Mercy
+SULU,0,0,0,0,13,0,0,0,0,2,0,0,11,26,1,Errand of Mercy
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,26,1,Errand of Mercy
+UHURA,0,0,0,0,3,0,0,0,0,0,0,0,2,26,1,Errand of Mercy
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+KIRK,0,0,0,0,4,21,0,0,79,0,0,10,120,27,1,The Alternative Factor
+MCCOY,0,0,0,0,21,0,0,0,0,0,0,1,16,27,1,The Alternative Factor
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+SPOCK,0,0,0,0,79,0,0,0,0,0,0,3,48,27,1,The Alternative Factor
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,27,1,The Alternative Factor
+UHURA,0,0,0,0,10,1,0,0,3,0,0,0,10,27,1,The Alternative Factor
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+KIRK,0,0,0,0,6,2,0,4,92,0,0,4,95,28,1,The City on the Edge of Forever
+MCCOY,0,0,0,0,2,0,0,0,1,0,0,0,23,28,1,The City on the Edge of Forever
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+SCOTT,0,0,0,0,4,0,0,0,6,0,0,2,7,28,1,The City on the Edge of Forever
+SPOCK,0,0,0,0,92,1,0,6,0,0,0,5,69,28,1,The City on the Edge of Forever
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,28,1,The City on the Edge of Forever
+UHURA,0,0,0,0,4,0,0,2,5,0,0,0,7,28,1,The City on the Edge of Forever
+CHAPEL,2,0,0,0,1,8,0,0,5,0,0,0,9,29,1,Operation: Annihilate!
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,29,1,Operation: Annihilate!
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,29,1,Operation: Annihilate!
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,29,1,Operation: Annihilate!
+KIRK,1,0,0,0,8,59,0,4,58,3,0,11,99,29,1,Operation: Annihilate!
+MCCOY,8,0,0,0,59,6,0,0,25,0,0,1,56,29,1,Operation: Annihilate!
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,29,1,Operation: Annihilate!
+SCOTT,0,0,0,0,4,0,0,2,10,1,0,1,10,29,1,Operation: Annihilate!
+SPOCK,5,0,0,0,58,25,0,10,6,0,0,1,56,29,1,Operation: Annihilate!
+SULU,0,0,0,0,3,0,0,1,0,0,0,0,3,29,1,Operation: Annihilate!
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,29,1,Operation: Annihilate!
+UHURA,0,0,0,0,11,1,0,1,1,0,0,0,7,29,1,Operation: Annihilate!
+CHAPEL,0,0,0,0,0,0,0,0,9,0,0,1,6,30,2,Amok Time
+CHEKOV,0,0,0,0,2,0,0,0,0,2,0,1,5,30,2,Amok Time
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Amok Time
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Amok Time
+KIRK,0,2,0,0,2,33,0,0,60,3,0,7,73,30,2,Amok Time
+MCCOY,0,0,0,0,33,2,0,0,17,0,0,2,38,30,2,Amok Time
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Amok Time
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Amok Time
+SPOCK,9,0,0,0,60,17,0,0,4,1,0,2,63,30,2,Amok Time
+SULU,0,2,0,0,3,0,0,0,1,0,0,0,4,30,2,Amok Time
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,Amok Time
+UHURA,1,1,0,0,7,2,0,0,2,0,0,0,11,30,2,Amok Time
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Who Mourns For Adonais?
+CHEKOV,0,0,0,0,24,4,0,2,0,0,0,0,17,31,2,Who Mourns For Adonais?
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Who Mourns For Adonais?
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Who Mourns For Adonais?
+KIRK,0,24,0,0,0,43,0,24,16,7,0,3,106,31,2,Who Mourns For Adonais?
+MCCOY,0,4,0,0,43,0,0,4,0,0,0,1,32,31,2,Who Mourns For Adonais?
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Who Mourns For Adonais?
+SCOTT,0,2,0,0,24,4,0,0,0,0,0,0,19,31,2,Who Mourns For Adonais?
+SPOCK,0,0,0,0,16,0,0,0,0,17,0,13,36,31,2,Who Mourns For Adonais?
+SULU,0,0,0,0,7,0,0,0,17,0,0,1,15,31,2,Who Mourns For Adonais?
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Who Mourns For Adonais?
+UHURA,0,0,0,0,3,1,0,0,13,1,0,0,11,31,2,Who Mourns For Adonais?
+CHAPEL,0,0,0,0,1,4,0,0,0,0,0,8,7,32,2,The Changeling
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+KIRK,1,0,0,0,12,18,0,17,64,0,0,0,119,32,2,The Changeling
+MCCOY,4,0,0,0,18,0,0,3,15,0,0,2,28,32,2,The Changeling
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+SCOTT,0,0,0,0,17,3,0,0,3,0,0,1,23,32,2,The Changeling
+SPOCK,0,0,0,0,64,15,0,3,0,0,0,0,50,32,2,The Changeling
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,The Changeling
+UHURA,8,0,0,0,0,2,0,1,0,0,0,2,16,32,2,The Changeling
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,"Mirror, Mirror"
+CHEKOV,0,0,0,0,0,0,0,0,0,2,0,0,3,33,2,"Mirror, Mirror"
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,"Mirror, Mirror"
+COMPUTER,0,0,0,0,14,0,0,0,8,0,0,0,11,33,2,"Mirror, Mirror"
+KIRK,0,0,0,14,12,19,0,40,73,7,0,23,140,33,2,"Mirror, Mirror"
+MCCOY,0,0,0,0,19,0,0,7,1,0,0,3,21,33,2,"Mirror, Mirror"
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,"Mirror, Mirror"
+SCOTT,0,0,0,0,40,7,0,0,0,1,0,2,38,33,2,"Mirror, Mirror"
+SPOCK,0,0,0,8,73,1,0,0,10,7,0,1,70,33,2,"Mirror, Mirror"
+SULU,0,2,0,0,7,0,0,1,7,2,0,9,19,33,2,"Mirror, Mirror"
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,"Mirror, Mirror"
+UHURA,0,0,0,0,23,3,0,2,1,9,0,0,21,33,2,"Mirror, Mirror"
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+CHEKOV,0,0,0,0,6,2,0,0,6,0,0,0,11,34,2,The Apple
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+KIRK,0,6,0,0,14,19,0,20,90,0,0,0,138,34,2,The Apple
+MCCOY,0,2,0,0,19,0,0,0,15,0,0,0,20,34,2,The Apple
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+SCOTT,0,0,0,0,20,0,0,0,0,0,0,0,54,34,2,The Apple
+SPOCK,0,6,0,0,90,15,0,0,0,0,0,0,64,34,2,The Apple
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Apple
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+KIRK,0,0,0,0,2,10,0,27,34,2,0,0,112,35,2,The Doomsday Machine
+MCCOY,0,0,0,0,10,0,0,1,11,0,0,0,16,35,2,The Doomsday Machine
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+SCOTT,0,0,0,0,27,1,0,0,3,2,0,0,37,35,2,The Doomsday Machine
+SPOCK,0,0,0,0,34,11,0,3,4,23,0,0,104,35,2,The Doomsday Machine
+SULU,0,0,0,0,2,0,0,2,23,2,0,0,32,35,2,The Doomsday Machine
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,The Doomsday Machine
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,1,9,36,2,Catspaw
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+KIRK,0,0,0,0,8,21,0,2,59,0,0,5,96,36,2,Catspaw
+MCCOY,0,0,0,0,21,2,0,0,8,0,0,0,24,36,2,Catspaw
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+SCOTT,0,0,0,0,2,0,0,0,0,0,0,0,1,36,2,Catspaw
+SPOCK,0,0,0,0,59,8,0,0,4,0,0,0,44,36,2,Catspaw
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Catspaw
+UHURA,0,1,0,0,5,0,0,0,0,0,0,0,8,36,2,Catspaw
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,"I, Mudd"
+CHEKOV,0,8,0,0,8,0,1,0,0,0,0,3,15,37,2,"I, Mudd"
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,"I, Mudd"
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,"I, Mudd"
+KIRK,0,8,0,0,34,9,99,8,31,13,0,11,150,37,2,"I, Mudd"
+MCCOY,0,0,0,0,9,0,13,6,7,0,0,0,21,37,2,"I, Mudd"
+MUDD,0,1,0,0,99,13,10,2,22,0,0,2,89,37,2,"I, Mudd"
+SCOTT,0,0,0,0,8,6,2,2,3,0,0,2,15,37,2,"I, Mudd"
+SPOCK,0,0,0,0,31,7,22,3,8,0,0,0,45,37,2,"I, Mudd"
+SULU,0,0,0,0,13,0,0,0,0,0,0,0,7,37,2,"I, Mudd"
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,"I, Mudd"
+UHURA,0,3,0,0,11,0,2,2,0,0,0,4,11,37,2,"I, Mudd"
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+KIRK,0,0,0,0,4,37,0,0,40,0,0,0,109,38,2,Metamorphosis
+MCCOY,0,0,0,0,37,2,0,0,10,0,0,0,40,38,2,Metamorphosis
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+SCOTT,0,0,0,0,0,0,0,0,0,11,0,14,17,38,2,Metamorphosis
+SPOCK,0,0,0,0,40,10,0,0,0,0,0,0,47,38,2,Metamorphosis
+SULU,0,0,0,0,0,0,0,11,0,0,0,0,6,38,2,Metamorphosis
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,Metamorphosis
+UHURA,0,0,0,0,0,0,0,14,0,0,0,0,8,38,2,Metamorphosis
+CHAPEL,0,0,0,0,4,12,0,0,4,0,0,0,11,39,2,Journey to Babel
+CHEKOV,0,0,0,0,46,0,0,0,2,0,0,2,29,39,2,Journey to Babel
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+KIRK,4,46,0,0,2,32,0,0,45,0,0,21,119,39,2,Journey to Babel
+MCCOY,12,0,0,0,32,4,0,0,34,0,0,0,55,39,2,Journey to Babel
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+SPOCK,4,2,0,0,45,34,0,0,0,0,0,1,69,39,2,Journey to Babel
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Journey to Babel
+UHURA,0,2,0,0,21,0,0,0,1,0,0,0,13,39,2,Journey to Babel
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Friday's Child
+CHEKOV,0,0,0,0,0,0,0,10,0,5,0,3,11,40,2,Friday's Child
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Friday's Child
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Friday's Child
+KIRK,0,0,0,0,2,28,0,3,35,0,0,1,57,40,2,Friday's Child
+MCCOY,0,0,0,0,28,4,0,1,13,0,0,0,39,40,2,Friday's Child
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Friday's Child
+SCOTT,0,10,0,0,3,1,0,0,1,24,0,16,33,40,2,Friday's Child
+SPOCK,0,0,0,0,35,13,0,1,2,0,0,1,30,40,2,Friday's Child
+SULU,0,5,0,0,0,0,0,24,0,0,0,5,19,40,2,Friday's Child
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Friday's Child
+UHURA,0,3,0,0,1,0,0,16,1,5,0,0,15,40,2,Friday's Child
+CHAPEL,0,1,0,0,1,1,0,0,0,0,0,0,2,41,2,The Deadly Years
+CHEKOV,1,0,0,0,0,3,0,0,0,4,0,1,7,41,2,The Deadly Years
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,The Deadly Years
+COMPUTER,0,0,0,0,1,0,0,0,1,0,0,0,1,41,2,The Deadly Years
+KIRK,1,0,0,1,2,47,0,2,74,17,0,11,130,41,2,The Deadly Years
+MCCOY,1,3,0,0,47,0,0,3,32,0,0,0,57,41,2,The Deadly Years
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,The Deadly Years
+SCOTT,0,0,0,0,2,3,0,0,0,0,0,0,3,41,2,The Deadly Years
+SPOCK,0,0,0,1,74,32,0,0,0,14,0,10,84,41,2,The Deadly Years
+SULU,0,4,0,0,17,0,0,0,14,0,0,3,26,41,2,The Deadly Years
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,The Deadly Years
+UHURA,0,1,0,0,11,0,0,0,10,3,0,0,16,41,2,The Deadly Years
+CHAPEL,0,0,0,0,5,8,0,0,0,0,0,0,13,42,2,Obsession
+CHEKOV,0,0,0,0,41,1,0,1,5,0,0,0,26,42,2,Obsession
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Obsession
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Obsession
+KIRK,5,41,0,0,4,55,0,18,63,0,0,14,150,42,2,Obsession
+MCCOY,8,1,0,0,55,0,0,2,25,0,0,0,50,42,2,Obsession
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Obsession
+SCOTT,0,1,0,0,18,2,0,0,5,0,0,0,14,42,2,Obsession
+SPOCK,0,5,0,0,63,25,0,5,0,0,0,0,59,42,2,Obsession
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Obsession
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Obsession
+UHURA,0,0,0,0,14,0,0,0,0,0,0,0,8,42,2,Obsession
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+COMPUTER,0,0,0,0,18,1,0,2,13,0,0,0,18,43,2,Wolf In The Fold
+KIRK,0,0,0,18,14,46,0,31,43,11,0,0,141,43,2,Wolf In The Fold
+MCCOY,0,0,0,1,46,0,0,7,8,0,0,0,40,43,2,Wolf In The Fold
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+SCOTT,0,0,0,2,31,7,0,0,0,0,0,0,27,43,2,Wolf In The Fold
+SPOCK,0,0,0,13,43,8,0,0,2,1,0,0,45,43,2,Wolf In The Fold
+SULU,0,0,0,0,11,0,0,0,1,0,0,0,8,43,2,Wolf In The Fold
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Wolf In The Fold
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+CHEKOV,0,0,0,0,14,0,0,9,0,0,0,2,17,44,2,The Trouble With Tribbles
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+KIRK,0,14,0,0,10,30,0,60,27,0,0,27,141,44,2,The Trouble With Tribbles
+MCCOY,0,0,0,0,30,0,0,1,20,0,0,4,31,44,2,The Trouble With Tribbles
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+SCOTT,0,9,0,0,60,1,0,0,1,0,0,0,41,44,2,The Trouble With Tribbles
+SPOCK,0,0,0,0,27,20,0,1,0,0,0,3,36,44,2,The Trouble With Tribbles
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Trouble With Tribbles
+UHURA,0,2,0,0,27,4,0,0,3,0,0,2,28,44,2,The Trouble With Tribbles
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+CHEKOV,0,0,0,0,10,0,0,0,0,0,0,3,14,45,2,The Gamesters Of Triskelion
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+KIRK,0,10,0,0,2,1,0,4,4,0,0,9,97,45,2,The Gamesters Of Triskelion
+MCCOY,0,0,0,0,1,0,0,5,33,0,0,0,22,45,2,The Gamesters Of Triskelion
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+SCOTT,0,0,0,0,4,5,0,0,19,0,0,0,23,45,2,The Gamesters Of Triskelion
+SPOCK,0,0,0,0,4,33,0,19,0,0,0,0,40,45,2,The Gamesters Of Triskelion
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,The Gamesters Of Triskelion
+UHURA,0,3,0,0,9,0,0,0,0,0,0,0,9,45,2,The Gamesters Of Triskelion
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+KIRK,0,0,0,0,8,27,0,14,54,0,0,0,146,46,2,A_Piece Of The Action
+MCCOY,0,0,0,0,27,0,0,1,19,0,0,0,34,46,2,A_Piece Of The Action
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+SCOTT,0,0,0,0,14,1,0,0,1,0,0,0,24,46,2,A_Piece Of The Action
+SPOCK,0,0,0,0,54,19,0,1,0,0,0,3,68,46,2,A_Piece Of The Action
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,A_Piece Of The Action
+UHURA,0,0,0,0,0,0,0,0,3,0,0,0,3,46,2,A_Piece Of The Action
+CHAPEL,0,0,0,0,0,2,0,0,0,0,0,0,2,47,2,The Immunity Syndrome
+CHEKOV,0,0,0,0,30,3,0,2,6,0,0,1,24,47,2,The Immunity Syndrome
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,The Immunity Syndrome
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,The Immunity Syndrome
+KIRK,0,30,0,0,10,63,0,64,78,0,0,24,170,47,2,The Immunity Syndrome
+MCCOY,2,3,0,0,63,2,0,1,32,0,0,2,63,47,2,The Immunity Syndrome
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,The Immunity Syndrome
+SCOTT,0,2,0,0,64,1,0,0,4,0,0,1,46,47,2,The Immunity Syndrome
+SPOCK,0,6,0,0,78,32,0,4,2,0,0,7,86,47,2,The Immunity Syndrome
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,The Immunity Syndrome
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,47,2,The Immunity Syndrome
+UHURA,0,1,0,0,24,2,0,1,7,0,0,0,19,47,2,The Immunity Syndrome
+CHAPEL,0,0,0,0,0,2,0,3,7,0,0,0,12,48,2,A_Private Little War
+CHEKOV,0,0,0,0,2,0,0,1,2,0,0,4,5,48,2,A_Private Little War
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,A_Private Little War
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,A_Private Little War
+KIRK,0,2,0,0,0,63,0,10,12,0,0,10,77,48,2,A_Private Little War
+MCCOY,2,0,0,0,63,2,0,0,0,0,0,0,52,48,2,A_Private Little War
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,A_Private Little War
+SCOTT,3,1,0,0,10,0,0,0,4,0,0,2,13,48,2,A_Private Little War
+SPOCK,7,2,0,0,12,0,0,4,2,0,0,1,18,48,2,A_Private Little War
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,A_Private Little War
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,48,2,A_Private Little War
+UHURA,0,4,0,0,10,0,0,2,1,0,0,0,9,48,2,A_Private Little War
+CHAPEL,0,0,0,0,1,11,0,0,16,0,0,0,17,49,2,Return To Tomorrow
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Return To Tomorrow
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Return To Tomorrow
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Return To Tomorrow
+KIRK,1,0,0,0,6,36,0,6,42,3,0,3,78,49,2,Return To Tomorrow
+MCCOY,11,0,0,0,36,2,0,2,13,0,0,0,54,49,2,Return To Tomorrow
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Return To Tomorrow
+SCOTT,0,0,0,0,6,2,0,0,2,0,0,0,9,49,2,Return To Tomorrow
+SPOCK,16,0,0,0,42,13,0,2,10,1,0,1,58,49,2,Return To Tomorrow
+SULU,0,0,0,0,3,0,0,0,1,0,0,0,2,49,2,Return To Tomorrow
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,49,2,Return To Tomorrow
+UHURA,0,0,0,0,3,0,0,0,1,0,0,0,2,49,2,Return To Tomorrow
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+KIRK,0,0,0,0,20,10,0,2,55,0,0,6,119,50,2,Patterns Of Force
+MCCOY,0,0,0,0,10,0,0,0,8,0,0,0,16,50,2,Patterns Of Force
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+SCOTT,0,0,0,0,2,0,0,0,0,0,0,0,1,50,2,Patterns Of Force
+SPOCK,0,0,0,0,55,8,0,0,2,0,0,1,58,50,2,Patterns Of Force
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,50,2,Patterns Of Force
+UHURA,0,0,0,0,6,0,0,0,1,0,0,0,5,50,2,Patterns Of Force
+CHAPEL,0,0,0,0,0,5,0,0,0,0,0,0,3,51,2,By Any Other Name
+CHEKOV,0,0,0,0,1,0,0,3,1,0,0,0,4,51,2,By Any Other Name
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,51,2,By Any Other Name
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,51,2,By Any Other Name
+KIRK,0,1,0,0,0,24,0,6,36,0,0,0,88,51,2,By Any Other Name
+MCCOY,5,0,0,0,24,2,0,2,16,0,0,0,33,51,2,By Any Other Name
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,51,2,By Any Other Name
+SCOTT,0,3,0,0,6,2,0,0,12,0,0,4,22,51,2,By Any Other Name
+SPOCK,0,1,0,0,36,16,0,12,0,0,0,2,53,51,2,By Any Other Name
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,51,2,By Any Other Name
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,51,2,By Any Other Name
+UHURA,0,0,0,0,0,0,0,4,2,0,0,0,4,51,2,By Any Other Name
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+KIRK,0,0,0,0,6,13,0,0,41,4,0,0,73,52,2,The Omega Glory
+MCCOY,0,0,0,0,13,0,0,0,15,0,0,1,23,52,2,The Omega Glory
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+SCOTT,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+SPOCK,0,0,0,0,41,15,0,0,0,0,0,0,34,52,2,The Omega Glory
+SULU,0,0,0,0,4,0,0,0,0,0,0,0,9,52,2,The Omega Glory
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,52,2,The Omega Glory
+UHURA,0,0,0,0,0,1,0,0,0,0,0,0,5,52,2,The Omega Glory
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,53,2,The Ultimate Computer
+CHEKOV,0,0,0,0,8,1,0,0,9,12,0,0,18,53,2,The Ultimate Computer
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,53,2,The Ultimate Computer
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,53,2,The Ultimate Computer
+KIRK,0,8,0,0,30,49,0,13,52,13,0,17,146,53,2,The Ultimate Computer
+MCCOY,0,1,0,0,49,0,0,0,20,0,0,0,45,53,2,The Ultimate Computer
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,53,2,The Ultimate Computer
+SCOTT,0,0,0,0,13,0,0,0,8,0,0,0,16,53,2,The Ultimate Computer
+SPOCK,0,9,0,0,52,20,0,8,4,12,0,4,68,53,2,The Ultimate Computer
+SULU,0,12,0,0,13,0,0,0,12,0,0,1,21,53,2,The Ultimate Computer
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,53,2,The Ultimate Computer
+UHURA,0,0,0,0,17,0,0,0,4,1,0,0,16,53,2,The Ultimate Computer
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+CHEKOV,0,0,0,0,1,0,0,2,0,0,0,0,2,54,2,Bread And Circuses
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+KIRK,0,1,0,0,4,13,0,11,13,0,0,1,73,54,2,Bread And Circuses
+MCCOY,0,0,0,0,13,0,0,0,32,0,0,0,32,54,2,Bread And Circuses
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+SCOTT,0,2,0,0,11,0,0,0,0,0,0,0,10,54,2,Bread And Circuses
+SPOCK,0,0,0,0,13,32,0,0,2,0,0,1,34,54,2,Bread And Circuses
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,54,2,Bread And Circuses
+UHURA,0,0,0,0,1,0,0,0,1,0,0,0,1,54,2,Bread And Circuses
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,55,2,Assignment: Earth
+CHEKOV,0,0,0,0,0,0,0,1,0,2,0,1,2,55,2,Assignment: Earth
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,55,2,Assignment: Earth
+COMPUTER,0,0,0,2,5,0,0,1,4,0,0,0,40,55,2,Assignment: Earth
+KIRK,0,0,0,5,2,4,0,8,23,0,0,2,55,55,2,Assignment: Earth
+MCCOY,0,0,0,0,4,4,0,0,0,0,0,0,7,55,2,Assignment: Earth
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,55,2,Assignment: Earth
+SCOTT,0,1,0,1,8,0,0,4,3,0,0,1,17,55,2,Assignment: Earth
+SPOCK,0,0,0,4,23,0,0,3,0,0,0,0,23,55,2,Assignment: Earth
+SULU,0,2,0,0,0,0,0,0,0,0,0,0,1,55,2,Assignment: Earth
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,55,2,Assignment: Earth
+UHURA,0,1,0,0,2,0,0,1,0,0,0,0,4,55,2,Assignment: Earth
+CHAPEL,0,0,0,0,2,2,0,0,0,0,0,0,2,56,3,Spock's Brain
+CHEKOV,0,0,0,0,45,0,0,1,0,3,0,1,26,56,3,Spock's Brain
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Spock's Brain
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Spock's Brain
+KIRK,2,45,0,0,18,66,0,38,35,10,0,18,169,56,3,Spock's Brain
+MCCOY,2,0,0,0,66,2,0,8,32,0,0,0,65,56,3,Spock's Brain
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Spock's Brain
+SCOTT,0,1,0,0,38,8,0,0,5,0,0,0,32,56,3,Spock's Brain
+SPOCK,0,0,0,0,35,32,0,5,2,0,0,0,40,56,3,Spock's Brain
+SULU,0,3,0,0,10,0,0,0,0,0,0,2,9,56,3,Spock's Brain
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Spock's Brain
+UHURA,0,1,0,0,18,0,0,0,0,2,0,0,11,56,3,Spock's Brain
+CHAPEL,0,0,0,0,3,8,0,0,0,0,0,0,6,57,3,The Enterprise Incident
+CHEKOV,0,0,0,0,9,0,0,0,0,2,0,1,7,57,3,The Enterprise Incident
+COMMANDER,0,0,8,0,30,9,0,3,84,0,0,0,83,57,3,The Enterprise Incident
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Enterprise Incident
+KIRK,3,9,30,0,4,19,0,25,27,8,0,17,92,57,3,The Enterprise Incident
+MCCOY,8,0,9,0,19,0,0,3,8,1,0,1,33,57,3,The Enterprise Incident
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Enterprise Incident
+SCOTT,0,0,3,0,25,3,0,0,2,0,0,6,30,57,3,The Enterprise Incident
+SPOCK,0,0,84,0,27,8,0,2,0,2,0,2,69,57,3,The Enterprise Incident
+SULU,0,2,0,0,8,1,0,0,2,0,0,1,8,57,3,The Enterprise Incident
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Enterprise Incident
+UHURA,0,1,0,0,17,1,0,6,2,1,0,0,19,57,3,The Enterprise Incident
+CHAPEL,0,0,0,0,0,1,0,0,0,0,0,0,1,58,3,The Paradise Syndrome
+CHEKOV,0,0,0,0,1,0,0,0,11,3,0,0,9,58,3,The Paradise Syndrome
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The Paradise Syndrome
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The Paradise Syndrome
+KIRK,0,1,0,0,8,4,0,2,28,0,0,0,68,58,3,The Paradise Syndrome
+MCCOY,1,0,0,0,4,0,0,0,56,0,0,0,33,58,3,The Paradise Syndrome
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The Paradise Syndrome
+SCOTT,0,0,0,0,2,0,0,0,15,1,0,0,16,58,3,The Paradise Syndrome
+SPOCK,0,11,0,0,28,56,0,15,2,13,0,0,73,58,3,The Paradise Syndrome
+SULU,0,3,0,0,0,0,0,1,13,0,0,0,10,58,3,The Paradise Syndrome
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The Paradise Syndrome
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The Paradise Syndrome
+CHAPEL,0,0,0,0,3,0,0,0,0,0,0,0,11,59,3,And The Children Shall Lead
+CHEKOV,0,0,0,0,12,0,0,0,0,0,0,0,7,59,3,And The Children Shall Lead
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,And The Children Shall Lead
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,And The Children Shall Lead
+KIRK,3,12,0,0,18,30,0,4,72,11,0,7,131,59,3,And The Children Shall Lead
+MCCOY,0,0,0,0,30,0,0,0,1,1,0,0,17,59,3,And The Children Shall Lead
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,And The Children Shall Lead
+SCOTT,0,0,0,0,4,0,0,0,0,0,0,0,9,59,3,And The Children Shall Lead
+SPOCK,0,0,0,0,72,1,0,0,0,0,0,1,42,59,3,And The Children Shall Lead
+SULU,0,0,0,0,11,1,0,0,0,2,0,0,10,59,3,And The Children Shall Lead
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,And The Children Shall Lead
+UHURA,0,0,0,0,7,0,0,0,1,0,0,0,5,59,3,And The Children Shall Lead
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Is There In Truth No Beauty?
+CHEKOV,0,0,0,0,2,0,0,0,5,1,0,0,4,60,3,Is There In Truth No Beauty?
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Is There In Truth No Beauty?
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Is There In Truth No Beauty?
+KIRK,0,2,0,0,8,36,0,8,44,5,0,6,113,60,3,Is There In Truth No Beauty?
+MCCOY,0,0,0,0,36,0,0,0,11,0,0,0,33,60,3,Is There In Truth No Beauty?
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Is There In Truth No Beauty?
+SCOTT,0,0,0,0,8,0,0,0,0,0,0,0,8,60,3,Is There In Truth No Beauty?
+SPOCK,0,5,0,0,44,11,0,0,4,2,0,1,55,60,3,Is There In Truth No Beauty?
+SULU,0,1,0,0,5,0,0,0,2,0,0,1,5,60,3,Is There In Truth No Beauty?
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Is There In Truth No Beauty?
+UHURA,0,0,0,0,6,0,0,0,1,1,0,0,4,60,3,Is There In Truth No Beauty?
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+CHEKOV,0,0,0,0,24,3,0,2,4,0,0,0,29,61,3,Spectre Of The Gun
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+KIRK,0,24,0,0,6,30,0,14,80,0,0,2,120,61,3,Spectre Of The Gun
+MCCOY,0,3,0,0,30,0,0,14,38,0,0,0,50,61,3,Spectre Of The Gun
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+SCOTT,0,2,0,0,14,14,0,0,6,0,0,0,20,61,3,Spectre Of The Gun
+SPOCK,0,4,0,0,80,38,0,6,6,0,0,0,74,61,3,Spectre Of The Gun
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Spectre Of The Gun
+UHURA,0,0,0,0,2,0,0,0,0,0,0,0,1,61,3,Spectre Of The Gun
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Day Of The Dove
+CHEKOV,0,0,0,0,12,2,0,0,1,2,0,0,11,62,3,The Day Of The Dove
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Day Of The Dove
+COMPUTER,0,0,0,0,1,0,0,0,3,0,0,0,2,62,3,The Day Of The Dove
+KIRK,0,12,0,1,14,12,0,36,54,20,0,15,132,62,3,The Day Of The Dove
+MCCOY,0,2,0,0,12,0,0,0,9,0,0,1,15,62,3,The Day Of The Dove
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Day Of The Dove
+SCOTT,0,0,0,0,36,0,0,0,10,3,0,0,35,62,3,The Day Of The Dove
+SPOCK,0,1,0,3,54,9,0,10,2,0,0,0,51,62,3,The Day Of The Dove
+SULU,0,2,0,0,20,0,0,3,0,0,0,0,17,62,3,The Day Of The Dove
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Day Of The Dove
+UHURA,0,0,0,0,15,1,0,0,0,0,0,0,9,62,3,The Day Of The Dove
+CHAPEL,0,0,0,0,2,2,0,0,1,0,0,0,4,63,3,For The World Is Hollow And
+CHEKOV,0,0,0,0,1,0,0,0,3,0,0,0,2,63,3,For The World Is Hollow And
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,For The World Is Hollow And
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,For The World Is Hollow And
+KIRK,2,1,0,0,10,48,0,9,67,0,0,4,107,63,3,For The World Is Hollow And
+MCCOY,2,0,0,0,48,4,0,0,12,0,0,0,79,63,3,For The World Is Hollow And
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,For The World Is Hollow And
+SCOTT,0,0,0,0,9,0,0,0,2,0,0,0,6,63,3,For The World Is Hollow And
+SPOCK,1,3,0,0,67,12,0,2,0,0,0,0,49,63,3,For The World Is Hollow And
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,For The World Is Hollow And
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,For The World Is Hollow And
+UHURA,0,0,0,0,4,0,0,0,0,0,0,0,2,63,3,For The World Is Hollow And
+CHAPEL,0,0,0,0,0,11,0,0,0,0,0,0,7,64,3,The Tholian Web
+CHEKOV,0,0,0,0,3,0,0,3,19,3,0,4,20,64,3,The Tholian Web
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,The Tholian Web
+COMPUTER,0,0,0,0,0,0,0,1,2,0,0,0,2,64,3,The Tholian Web
+KIRK,0,3,0,0,2,12,0,9,23,4,0,1,37,64,3,The Tholian Web
+MCCOY,11,0,0,0,12,4,0,11,69,3,0,19,83,64,3,The Tholian Web
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,The Tholian Web
+SCOTT,0,3,0,1,9,11,0,0,33,4,0,1,51,64,3,The Tholian Web
+SPOCK,0,19,0,2,23,69,0,33,8,22,0,17,120,64,3,The Tholian Web
+SULU,0,3,0,0,4,3,0,4,22,0,0,6,23,64,3,The Tholian Web
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,The Tholian Web
+UHURA,0,4,0,0,1,19,0,1,17,6,0,0,28,64,3,The Tholian Web
+CHAPEL,0,0,0,0,1,0,0,0,4,0,0,2,5,65,3,Plato's Stepchildren
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+KIRK,1,0,0,0,10,31,0,8,27,0,0,4,96,65,3,Plato's Stepchildren
+MCCOY,0,0,0,0,31,0,0,0,13,0,0,0,40,65,3,Plato's Stepchildren
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+SCOTT,0,0,0,0,8,0,0,0,0,0,0,0,16,65,3,Plato's Stepchildren
+SPOCK,4,0,0,0,27,13,0,0,0,0,0,0,36,65,3,Plato's Stepchildren
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Plato's Stepchildren
+UHURA,2,0,0,0,4,0,0,0,0,0,0,0,4,65,3,Plato's Stepchildren
+CHAPEL,0,0,0,0,3,2,0,0,1,0,0,0,3,66,3,Wink Of An Eye
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Wink Of An Eye
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Wink Of An Eye
+COMPUTER,0,0,0,0,1,0,0,0,13,0,0,0,7,66,3,Wink Of An Eye
+KIRK,3,0,0,1,12,25,0,13,34,7,0,18,130,66,3,Wink Of An Eye
+MCCOY,2,0,0,0,25,2,0,0,10,0,0,0,22,66,3,Wink Of An Eye
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Wink Of An Eye
+SCOTT,0,0,0,0,13,0,0,0,9,1,0,1,12,66,3,Wink Of An Eye
+SPOCK,1,0,0,13,34,10,0,9,0,3,0,6,44,66,3,Wink Of An Eye
+SULU,0,0,0,0,7,0,0,1,3,0,0,2,7,66,3,Wink Of An Eye
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Wink Of An Eye
+UHURA,0,0,0,0,18,0,0,1,6,2,0,0,15,66,3,Wink Of An Eye
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+KIRK,0,0,0,0,22,56,0,12,83,1,0,0,118,67,3,The Empath
+MCCOY,0,0,0,0,56,6,0,1,36,0,0,0,55,67,3,The Empath
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+SCOTT,0,0,0,0,12,1,0,0,1,4,0,0,14,67,3,The Empath
+SPOCK,0,0,0,0,83,36,0,1,2,0,0,0,68,67,3,The Empath
+SULU,0,0,0,0,1,0,0,4,0,0,0,0,3,67,3,The Empath
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,The Empath
+CHAPEL,0,0,0,0,0,1,0,0,0,0,0,1,2,68,3,Elaan of Troyius
+CHEKOV,0,0,0,0,5,0,0,0,1,4,0,0,5,68,3,Elaan of Troyius
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Elaan of Troyius
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Elaan of Troyius
+KIRK,0,5,0,0,12,8,0,21,33,27,0,18,147,68,3,Elaan of Troyius
+MCCOY,1,0,0,0,8,2,0,1,8,1,0,1,17,68,3,Elaan of Troyius
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Elaan of Troyius
+SCOTT,0,0,0,0,21,1,0,0,5,5,0,0,28,68,3,Elaan of Troyius
+SPOCK,0,1,0,0,33,8,0,5,2,5,0,6,36,68,3,Elaan of Troyius
+SULU,0,4,0,0,27,1,0,5,5,0,0,0,22,68,3,Elaan of Troyius
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Elaan of Troyius
+UHURA,1,0,0,0,18,1,0,0,6,0,0,2,15,68,3,Elaan of Troyius
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+KIRK,0,0,0,0,4,1,0,5,24,0,0,1,91,69,3,Whom Gods Destroy
+MCCOY,0,0,0,0,1,0,0,10,0,3,0,1,10,69,3,Whom Gods Destroy
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+SCOTT,0,0,0,0,5,10,0,0,10,14,0,7,28,69,3,Whom Gods Destroy
+SPOCK,0,0,0,0,24,0,0,10,6,0,0,0,35,69,3,Whom Gods Destroy
+SULU,0,0,0,0,0,3,0,14,0,0,0,1,10,69,3,Whom Gods Destroy
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Whom Gods Destroy
+UHURA,0,0,0,0,1,1,0,7,0,1,0,0,5,69,3,Whom Gods Destroy
+CHAPEL,0,0,0,0,0,1,0,0,1,0,0,0,1,70,3,Let That Be Your Last
+CHEKOV,0,0,0,0,23,0,0,5,5,6,0,1,22,70,3,Let That Be Your Last
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Let That Be Your Last
+COMPUTER,0,0,0,0,14,0,0,1,2,0,0,0,9,70,3,Let That Be Your Last
+KIRK,0,23,0,14,12,9,0,22,38,20,0,27,151,70,3,Let That Be Your Last
+MCCOY,1,0,0,0,9,0,0,0,5,0,0,0,8,70,3,Let That Be Your Last
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Let That Be Your Last
+SCOTT,0,5,0,1,22,0,0,2,5,4,0,3,25,70,3,Let That Be Your Last
+SPOCK,1,5,0,2,38,5,0,5,0,4,0,7,45,70,3,Let That Be Your Last
+SULU,0,6,0,0,20,0,0,4,4,0,0,1,20,70,3,Let That Be Your Last
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Let That Be Your Last
+UHURA,0,1,0,0,27,0,0,3,7,1,0,0,21,70,3,Let That Be Your Last
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,The Mark Of Gideon
+CHEKOV,0,0,0,0,0,0,0,0,3,0,0,1,2,71,3,The Mark Of Gideon
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,The Mark Of Gideon
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,The Mark Of Gideon
+KIRK,0,0,0,0,2,0,0,0,7,0,0,0,100,71,3,The Mark Of Gideon
+MCCOY,0,0,0,0,0,0,0,2,19,1,0,1,18,71,3,The Mark Of Gideon
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,The Mark Of Gideon
+SCOTT,0,0,0,0,0,2,0,2,15,0,0,1,17,71,3,The Mark Of Gideon
+SPOCK,0,3,0,0,7,19,0,15,4,3,0,24,62,71,3,The Mark Of Gideon
+SULU,0,0,0,0,0,1,0,0,3,0,0,1,3,71,3,The Mark Of Gideon
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,The Mark Of Gideon
+UHURA,0,1,0,0,0,1,0,1,24,1,0,0,17,71,3,The Mark Of Gideon
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,That Which Survives
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,That Which Survives
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,That Which Survives
+COMPUTER,0,0,0,0,0,0,0,0,8,0,0,0,5,72,3,That Which Survives
+KIRK,0,0,0,0,8,57,0,0,12,39,0,0,89,72,3,That Which Survives
+MCCOY,0,0,0,0,57,2,0,0,2,15,0,0,41,72,3,That Which Survives
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,That Which Survives
+SCOTT,0,0,0,0,0,0,0,4,58,0,0,2,61,72,3,That Which Survives
+SPOCK,0,0,0,8,12,2,0,58,0,0,0,17,90,72,3,That Which Survives
+SULU,0,0,0,0,39,15,0,0,0,2,0,0,37,72,3,That Which Survives
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,That Which Survives
+UHURA,0,0,0,0,0,0,0,2,17,0,0,0,13,72,3,That Which Survives
+CHAPEL,0,0,0,0,0,2,0,1,0,0,0,0,4,73,3,The Lights Of Zetar
+CHEKOV,0,0,0,0,10,0,0,0,1,4,0,2,9,73,3,The Lights Of Zetar
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,The Lights Of Zetar
+COMPUTER,0,0,0,0,0,0,0,0,2,0,0,0,1,73,3,The Lights Of Zetar
+KIRK,0,10,0,0,12,50,0,42,62,50,0,8,156,73,3,The Lights Of Zetar
+MCCOY,2,0,0,0,50,0,0,12,17,0,0,0,52,73,3,The Lights Of Zetar
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,The Lights Of Zetar
+SCOTT,1,0,0,0,42,12,0,2,3,2,0,1,56,73,3,The Lights Of Zetar
+SPOCK,0,1,0,2,62,17,0,3,0,4,0,2,49,73,3,The Lights Of Zetar
+SULU,0,4,0,0,50,0,0,2,4,0,0,1,38,73,3,The Lights Of Zetar
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,73,3,The Lights Of Zetar
+UHURA,0,2,0,0,8,0,0,1,2,1,0,0,7,73,3,The Lights Of Zetar
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+KIRK,0,0,0,0,12,20,0,11,38,0,0,4,89,74,3,Requiem For Methuselah
+MCCOY,0,0,0,0,20,0,0,0,25,0,0,0,37,74,3,Requiem For Methuselah
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+SCOTT,0,0,0,0,11,0,0,0,0,0,0,0,7,74,3,Requiem For Methuselah
+SPOCK,0,0,0,0,38,25,0,0,0,0,0,0,50,74,3,Requiem For Methuselah
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,74,3,Requiem For Methuselah
+UHURA,0,0,0,0,4,0,0,0,0,0,0,0,3,74,3,Requiem For Methuselah
+CHAPEL,0,1,0,0,1,0,0,0,0,0,0,0,2,75,3,The Way To Eden
+CHEKOV,1,2,0,0,19,1,0,0,2,0,0,0,39,75,3,The Way To Eden
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3,The Way To Eden
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3,The Way To Eden
+KIRK,1,19,0,0,12,21,0,9,39,9,0,0,89,75,3,The Way To Eden
+MCCOY,0,1,0,0,21,0,0,0,3,0,0,0,20,75,3,The Way To Eden
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3,The Way To Eden
+SCOTT,0,0,0,0,9,0,0,0,2,1,0,0,11,75,3,The Way To Eden
+SPOCK,0,2,0,0,39,3,0,2,2,0,0,0,49,75,3,The Way To Eden
+SULU,0,0,0,0,9,0,0,1,0,0,0,0,8,75,3,The Way To Eden
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3,The Way To Eden
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,75,3,The Way To Eden
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+KIRK,0,0,0,0,4,19,0,7,32,0,0,5,111,76,3,The Cloud Minders
+MCCOY,0,0,0,0,19,0,0,0,6,0,0,0,13,76,3,The Cloud Minders
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+SCOTT,0,0,0,0,7,0,0,0,25,0,0,0,21,76,3,The Cloud Minders
+SPOCK,0,0,0,0,32,6,0,25,0,0,0,0,67,76,3,The Cloud Minders
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,76,3,The Cloud Minders
+UHURA,0,0,0,0,5,0,0,0,0,0,0,0,3,76,3,The Cloud Minders
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,77,3,The Savage Curtain
+CHEKOV,0,0,0,0,3,4,0,2,0,0,0,0,5,77,3,The Savage Curtain
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,77,3,The Savage Curtain
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,77,3,The Savage Curtain
+KIRK,0,3,0,0,4,7,0,18,40,5,0,9,100,77,3,The Savage Curtain
+MCCOY,0,4,0,0,7,0,0,16,7,0,0,0,21,77,3,The Savage Curtain
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,77,3,The Savage Curtain
+SCOTT,0,2,0,0,18,16,0,0,3,2,0,4,34,77,3,The Savage Curtain
+SPOCK,0,0,0,0,40,7,0,3,0,0,0,0,36,77,3,The Savage Curtain
+SULU,0,0,0,0,5,0,0,2,0,0,0,2,7,77,3,The Savage Curtain
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,77,3,The Savage Curtain
+UHURA,0,0,0,0,9,0,0,4,0,2,0,0,11,77,3,The Savage Curtain
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+CHEKOV,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+KIRK,0,0,0,0,2,6,0,15,17,0,0,0,88,78,3,All Our Yesterdays
+MCCOY,0,0,0,0,6,4,0,0,65,0,0,0,56,78,3,All Our Yesterdays
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+SCOTT,0,0,0,0,15,0,0,0,0,0,0,0,8,78,3,All Our Yesterdays
+SPOCK,0,0,0,0,17,65,0,0,2,0,0,0,82,78,3,All Our Yesterdays
+SULU,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,78,3,All Our Yesterdays
+CHAPEL,0,0,0,0,0,0,0,0,0,0,0,0,7,79,3,Turnabout Intruder
+CHEKOV,0,0,0,0,13,0,0,0,0,5,0,0,9,79,3,Turnabout Intruder
+COMMANDER,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,Turnabout Intruder
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,Turnabout Intruder
+KIRK,0,13,0,0,12,60,0,4,44,8,0,0,112,79,3,Turnabout Intruder
+MCCOY,0,0,0,0,60,0,0,15,14,0,0,0,59,79,3,Turnabout Intruder
+MUDD,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,Turnabout Intruder
+SCOTT,0,0,0,0,4,15,0,0,4,0,0,0,13,79,3,Turnabout Intruder
+SPOCK,0,0,0,0,44,14,0,4,0,2,0,0,47,79,3,Turnabout Intruder
+SULU,0,5,0,0,8,0,0,0,2,0,0,0,8,79,3,Turnabout Intruder
+TRELANE,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,Turnabout Intruder
+UHURA,0,0,0,0,0,0,0,0,0,0,0,0,0,79,3,Turnabout Intruder
+CHAPEL,10,2,0,0,42,94,0,4,61,0,0,12,188,all,-1,-1
+CHEKOV,2,10,0,0,375,24,1,44,86,60,0,32,425,all,-1,-1
+COMMANDER,0,0,8,0,30,9,0,3,84,0,0,0,116,all,-1,-1
+COMPUTER,0,0,0,2,90,2,11,11,71,1,0,0,145,all,-1,-1
+KIRK,42,375,30,90,608,1891,133,905,3537,561,153,585,8551,all,-1,-1
+MCCOY,94,24,9,2,1891,70,16,171,1162,45,4,49,2468,all,-1,-1
+MUDD,0,1,0,11,133,16,10,5,34,0,0,2,150,all,-1,-1
+SCOTT,4,44,3,11,905,171,5,24,418,86,0,80,1333,all,-1,-1
+SPOCK,61,86,84,71,3537,1162,34,418,170,180,12,198,4270,all,-1,-1
+SULU,0,60,0,1,561,45,0,86,180,14,8,55,700,all,-1,-1
+TRELANE,0,0,0,0,153,4,0,0,12,8,18,2,120,all,-1,-1
+UHURA,12,32,0,0,585,49,2,80,198,55,2,18,669,all,-1,-1

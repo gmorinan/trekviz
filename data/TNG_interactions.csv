@@ -1,0 +1,2125 @@
+character,COMPUTER,CRUSHER,DATA,LAFORGE,O_BRIEN,PICARD,Q,RIKER,TASHA,TROI,WESLEY,WORF,total_lines,ep,season,title
+COMPUTER,0,0,0,0,0,0,0,3,0,0,0,0,3,0,1,Encounter at Farpoint (parts 1 & 2)
+CRUSHER,0,0,0,11,0,23,0,13,0,0,17,1,35,0,1,Encounter at Farpoint (parts 1 & 2)
+DATA,0,0,2,0,3,33,1,32,8,6,0,2,59,0,1,Encounter at Farpoint (parts 1 & 2)
+LAFORGE,0,11,0,0,0,0,0,10,2,1,1,0,15,0,1,Encounter at Farpoint (parts 1 & 2)
+O_BRIEN,0,0,3,0,0,2,0,0,1,0,0,0,3,0,1,Encounter at Farpoint (parts 1 & 2)
+PICARD,0,23,33,0,2,8,76,61,25,29,7,29,183,0,1,Encounter at Farpoint (parts 1 & 2)
+Q,0,0,1,0,0,76,8,6,3,4,0,4,59,0,1,Encounter at Farpoint (parts 1 & 2)
+RIKER,3,13,32,10,0,61,6,6,5,15,11,7,116,0,1,Encounter at Farpoint (parts 1 & 2)
+TASHA,0,0,8,2,1,25,3,5,2,6,0,5,33,0,1,Encounter at Farpoint (parts 1 & 2)
+TROI,0,0,6,1,0,29,4,15,6,4,0,2,45,0,1,Encounter at Farpoint (parts 1 & 2)
+WESLEY,0,17,0,1,0,7,0,11,0,0,2,0,20,0,1,Encounter at Farpoint (parts 1 & 2)
+WORF,0,1,2,0,0,29,4,7,5,2,0,0,31,0,1,Encounter at Farpoint (parts 1 & 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Naked Now
+CRUSHER,0,4,2,5,0,34,0,8,1,1,4,1,41,1,1,The Naked Now
+DATA,0,2,0,0,0,20,0,24,14,0,5,1,37,1,1,The Naked Now
+LAFORGE,0,5,0,0,0,2,0,5,12,0,8,1,19,1,1,The Naked Now
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Naked Now
+PICARD,0,34,20,2,0,12,0,17,9,5,6,13,77,1,1,The Naked Now
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,The Naked Now
+RIKER,0,8,24,5,0,17,0,6,2,6,7,2,54,1,1,The Naked Now
+TASHA,0,1,14,12,0,9,0,2,0,6,0,0,25,1,1,The Naked Now
+TROI,0,1,0,0,0,5,0,6,6,0,0,0,14,1,1,The Naked Now
+WESLEY,0,4,5,8,0,6,0,7,0,0,2,0,26,1,1,The Naked Now
+WORF,0,1,1,1,0,13,0,2,0,0,0,0,15,1,1,The Naked Now
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Code Of Honour
+CRUSHER,0,0,1,1,0,15,0,2,2,2,0,0,13,2,1,Code Of Honour
+DATA,0,1,0,22,0,20,0,7,3,3,0,0,30,2,1,Code Of Honour
+LAFORGE,0,1,22,0,0,7,0,6,1,1,1,0,21,2,1,Code Of Honour
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Code Of Honour
+PICARD,0,15,20,7,0,4,0,23,14,19,4,0,91,2,1,Code Of Honour
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Code Of Honour
+RIKER,0,2,7,6,0,23,0,0,2,7,1,0,33,2,1,Code Of Honour
+TASHA,0,2,3,1,0,14,0,2,2,6,0,0,33,2,1,Code Of Honour
+TROI,0,2,3,1,0,19,0,7,6,0,0,0,22,2,1,Code Of Honour
+WESLEY,0,0,0,1,0,4,0,1,0,0,0,0,3,2,1,Code Of Honour
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,Code Of Honour
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,The Last Outpost
+CRUSHER,0,0,0,0,0,8,0,0,0,0,0,0,5,3,1,The Last Outpost
+DATA,0,0,2,11,0,36,0,27,6,2,0,1,47,3,1,The Last Outpost
+LAFORGE,0,0,11,0,0,24,0,21,5,0,0,4,34,3,1,The Last Outpost
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,The Last Outpost
+PICARD,0,8,36,24,0,8,0,27,26,10,0,8,85,3,1,The Last Outpost
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,The Last Outpost
+RIKER,0,0,27,21,0,27,0,12,4,2,0,4,73,3,1,The Last Outpost
+TASHA,0,0,6,5,0,26,0,4,2,1,0,5,29,3,1,The Last Outpost
+TROI,0,0,2,0,0,10,0,2,1,0,0,0,8,3,1,The Last Outpost
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,The Last Outpost
+WORF,0,0,1,4,0,8,0,4,5,0,0,0,12,3,1,The Last Outpost
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Where No One Has Gone Before
+CRUSHER,0,0,0,0,0,13,0,2,0,0,2,0,9,4,1,Where No One Has Gone Before
+DATA,0,0,0,9,0,16,0,1,0,0,0,0,14,4,1,Where No One Has Gone Before
+LAFORGE,0,0,9,0,0,14,0,1,2,0,0,1,18,4,1,Where No One Has Gone Before
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Where No One Has Gone Before
+PICARD,0,13,16,14,0,12,0,47,2,3,13,1,112,4,1,Where No One Has Gone Before
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Where No One Has Gone Before
+RIKER,0,2,1,1,0,47,0,2,0,5,5,0,58,4,1,Where No One Has Gone Before
+TASHA,0,0,0,2,0,2,0,0,0,1,0,3,6,4,1,Where No One Has Gone Before
+TROI,0,0,0,0,0,3,0,5,1,0,0,1,5,4,1,Where No One Has Gone Before
+WESLEY,0,2,0,0,0,13,0,5,0,0,0,0,19,4,1,Where No One Has Gone Before
+WORF,0,0,0,1,0,1,0,0,3,1,0,0,4,4,1,Where No One Has Gone Before
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Lonely Among Us
+CRUSHER,0,0,4,4,0,25,0,2,0,13,14,4,37,5,1,Lonely Among Us
+DATA,0,4,0,2,0,35,0,21,8,2,0,0,40,5,1,Lonely Among Us
+LAFORGE,0,4,2,4,0,14,0,14,3,2,5,9,32,5,1,Lonely Among Us
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,Lonely Among Us
+PICARD,0,25,35,14,0,2,0,23,6,10,1,5,75,5,1,Lonely Among Us
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Lonely Among Us
+RIKER,0,2,21,14,0,23,0,0,11,8,0,1,51,5,1,Lonely Among Us
+TASHA,0,0,8,3,0,6,0,11,0,1,0,0,24,5,1,Lonely Among Us
+TROI,0,13,2,2,0,10,0,8,1,0,0,5,24,5,1,Lonely Among Us
+WESLEY,0,14,0,5,0,1,0,0,0,0,0,2,16,5,1,Lonely Among Us
+WORF,0,4,0,9,0,5,0,1,0,5,2,0,16,5,1,Lonely Among Us
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Justice
+CRUSHER,0,0,6,0,0,27,0,1,1,4,2,0,25,6,1,Justice
+DATA,0,6,0,4,0,44,0,1,1,0,0,2,35,6,1,Justice
+LAFORGE,0,0,4,0,0,8,0,1,4,0,0,0,11,6,1,Justice
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Justice
+PICARD,0,27,44,8,0,4,0,11,7,13,8,0,95,6,1,Justice
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Justice
+RIKER,0,1,1,1,0,11,0,2,8,5,3,13,33,6,1,Justice
+TASHA,0,1,1,4,0,7,0,8,0,0,0,4,21,6,1,Justice
+TROI,0,4,0,0,0,13,0,5,0,0,0,1,15,6,1,Justice
+WESLEY,0,2,0,0,0,8,0,3,0,0,0,0,19,6,1,Justice
+WORF,0,0,2,0,0,0,0,13,4,1,0,0,15,6,1,Justice
+COMPUTER,0,0,0,0,0,0,0,3,0,0,0,0,2,7,1,The Battle
+CRUSHER,0,0,1,1,0,48,0,7,0,6,2,1,38,7,1,The Battle
+DATA,0,1,0,8,0,14,0,24,3,0,1,1,29,7,1,The Battle
+LAFORGE,0,1,8,0,0,5,0,8,5,1,1,2,17,7,1,The Battle
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Battle
+PICARD,0,48,14,5,0,6,0,37,8,11,2,2,91,7,1,The Battle
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Battle
+RIKER,3,7,24,8,0,37,0,8,6,4,5,2,61,7,1,The Battle
+TASHA,0,0,3,5,0,8,0,6,0,0,1,1,13,7,1,The Battle
+TROI,0,6,0,1,0,11,0,4,0,0,5,0,15,7,1,The Battle
+WESLEY,0,2,1,1,0,2,0,5,1,5,0,1,10,7,1,The Battle
+WORF,0,1,1,2,0,2,0,2,1,0,1,0,5,7,1,The Battle
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,8,1,Hide and Q
+CRUSHER,0,0,2,2,0,3,0,5,0,0,0,0,7,8,1,Hide and Q
+DATA,0,2,0,10,0,7,3,11,0,0,0,1,18,8,1,Hide and Q
+LAFORGE,0,2,10,2,0,7,4,15,1,0,1,5,25,8,1,Hide and Q
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Hide and Q
+PICARD,2,3,7,7,0,6,45,33,19,0,1,3,71,8,1,Hide and Q
+Q,0,0,3,4,0,45,8,48,4,0,2,4,62,8,1,Hide and Q
+RIKER,0,5,11,15,0,33,48,8,1,0,5,5,69,8,1,Hide and Q
+TASHA,0,0,0,1,0,19,4,1,0,0,1,2,15,8,1,Hide and Q
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Hide and Q
+WESLEY,0,0,0,1,0,1,2,5,1,0,0,0,5,8,1,Hide and Q
+WORF,0,0,1,5,0,3,4,5,2,0,0,0,10,8,1,Hide and Q
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Haven
+CRUSHER,0,0,1,0,0,3,0,0,1,0,0,0,6,9,1,Haven
+DATA,0,1,0,2,0,16,0,4,0,1,0,0,15,9,1,Haven
+LAFORGE,0,0,2,0,0,10,0,3,2,0,0,0,11,9,1,Haven
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Haven
+PICARD,0,3,16,10,0,6,0,7,7,11,0,0,50,9,1,Haven
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Haven
+RIKER,0,0,4,3,0,7,0,0,6,20,0,0,25,9,1,Haven
+TASHA,0,1,0,2,0,7,0,6,0,1,0,0,11,9,1,Haven
+TROI,0,0,1,0,0,11,0,20,1,0,0,0,55,9,1,Haven
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Haven
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,Haven
+COMPUTER,0,0,2,0,0,8,0,0,0,0,0,0,7,10,1,The Big Goodbye
+CRUSHER,0,0,7,0,0,22,0,0,0,0,0,0,25,10,1,The Big Goodbye
+DATA,2,7,0,7,0,22,0,0,0,4,1,3,38,10,1,The Big Goodbye
+LAFORGE,0,0,7,0,0,5,0,20,0,1,1,0,21,10,1,The Big Goodbye
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Big Goodbye
+PICARD,8,22,22,5,0,6,0,3,2,15,1,1,94,10,1,The Big Goodbye
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,The Big Goodbye
+RIKER,0,0,0,20,0,3,0,2,10,4,6,2,33,10,1,The Big Goodbye
+TASHA,0,0,0,0,0,2,0,10,0,2,0,0,8,10,1,The Big Goodbye
+TROI,0,0,4,1,0,15,0,4,2,0,0,0,14,10,1,The Big Goodbye
+WESLEY,0,0,1,1,0,1,0,6,0,0,0,0,6,10,1,The Big Goodbye
+WORF,0,0,3,0,0,1,0,2,0,0,0,0,3,10,1,The Big Goodbye
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Datalore
+CRUSHER,0,0,7,0,0,5,0,2,2,0,10,0,21,11,1,Datalore
+DATA,0,7,2,12,0,19,0,17,9,0,12,2,64,11,1,Datalore
+LAFORGE,0,0,12,0,0,12,0,7,5,0,1,0,23,11,1,Datalore
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Datalore
+PICARD,0,5,19,12,0,0,0,18,9,0,11,1,46,11,1,Datalore
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Datalore
+RIKER,0,2,17,7,0,18,0,0,10,0,3,1,35,11,1,Datalore
+TASHA,0,2,9,5,0,9,0,10,0,0,0,1,21,11,1,Datalore
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Datalore
+WESLEY,0,10,12,1,0,11,0,3,0,0,0,0,25,11,1,Datalore
+WORF,0,0,2,0,0,1,0,1,1,0,0,0,4,11,1,Datalore
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Angel One
+CRUSHER,0,2,3,1,0,14,0,8,1,1,0,0,25,12,1,Angel One
+DATA,0,3,0,1,0,7,0,17,6,6,0,0,31,12,1,Angel One
+LAFORGE,0,1,1,0,0,4,0,1,7,0,0,8,22,12,1,Angel One
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Angel One
+PICARD,0,14,7,4,0,2,0,6,2,4,5,10,35,12,1,Angel One
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,Angel One
+RIKER,0,8,17,1,0,6,0,0,12,15,3,0,81,12,1,Angel One
+TASHA,0,1,6,7,0,2,0,12,0,3,0,0,27,12,1,Angel One
+TROI,0,1,6,0,0,4,0,15,3,0,0,1,30,12,1,Angel One
+WESLEY,0,0,0,0,0,5,0,3,0,0,0,0,5,12,1,Angel One
+WORF,0,0,0,8,0,10,0,0,0,1,0,0,11,12,1,Angel One
+COMPUTER,0,0,4,0,0,22,0,17,0,0,0,0,28,13,1,11001001
+CRUSHER,0,0,0,0,0,1,0,3,1,0,0,2,6,13,1,11001001
+DATA,4,0,0,16,0,2,0,3,2,0,3,3,31,13,1,11001001
+LAFORGE,0,0,16,2,0,1,0,6,1,0,6,2,22,13,1,11001001
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,11001001
+PICARD,22,1,2,1,0,2,0,59,2,0,5,0,90,13,1,11001001
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,11001001
+RIKER,17,3,3,6,0,59,0,14,7,0,4,3,97,13,1,11001001
+TASHA,0,1,2,1,0,2,0,7,0,0,0,2,10,13,1,11001001
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,11001001
+WESLEY,0,0,3,6,0,5,0,4,0,0,0,0,20,13,1,11001001
+WORF,0,2,3,2,0,0,0,3,2,0,0,0,8,13,1,11001001
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Too Short A_Season
+CRUSHER,0,0,0,0,0,23,0,0,0,2,0,0,20,14,1,Too Short A_Season
+DATA,0,0,0,1,0,6,0,0,1,0,0,1,9,14,1,Too Short A_Season
+LAFORGE,0,0,1,0,0,3,0,0,1,1,0,0,6,14,1,Too Short A_Season
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Too Short A_Season
+PICARD,0,23,6,3,0,8,0,10,2,6,0,1,83,14,1,Too Short A_Season
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Too Short A_Season
+RIKER,0,0,0,0,0,10,0,0,0,0,0,0,15,14,1,Too Short A_Season
+TASHA,0,0,1,1,0,2,0,0,0,0,0,0,3,14,1,Too Short A_Season
+TROI,0,2,0,1,0,6,0,0,0,0,0,0,11,14,1,Too Short A_Season
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,Too Short A_Season
+WORF,0,0,1,0,0,1,0,0,0,0,0,0,1,14,1,Too Short A_Season
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,When The Bough Breaks
+CRUSHER,0,0,4,1,0,18,0,3,0,1,8,1,26,15,1,When The Bough Breaks
+DATA,0,4,0,2,0,18,0,6,2,1,1,1,20,15,1,When The Bough Breaks
+LAFORGE,0,1,2,0,0,6,0,4,0,0,0,1,8,15,1,When The Bough Breaks
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,When The Bough Breaks
+PICARD,0,18,18,6,0,4,0,24,8,7,7,5,79,15,1,When The Bough Breaks
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,When The Bough Breaks
+RIKER,0,3,6,4,0,24,0,0,8,0,0,1,32,15,1,When The Bough Breaks
+TASHA,0,0,2,0,0,8,0,8,0,0,0,0,10,15,1,When The Bough Breaks
+TROI,0,1,1,0,0,7,0,0,0,0,0,0,8,15,1,When The Bough Breaks
+WESLEY,0,8,1,0,0,7,0,0,0,0,4,1,48,15,1,When The Bough Breaks
+WORF,0,1,1,1,0,5,0,1,0,0,1,0,6,15,1,When The Bough Breaks
+COMPUTER,0,13,7,4,0,2,0,0,0,0,0,3,15,16,1,Home Soil
+CRUSHER,13,4,11,1,0,12,0,2,0,0,1,1,26,16,1,Home Soil
+DATA,7,11,0,30,0,26,0,0,2,0,1,1,58,16,1,Home Soil
+LAFORGE,4,1,30,0,0,17,0,1,2,0,0,2,37,16,1,Home Soil
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Home Soil
+PICARD,2,12,26,17,0,4,0,9,17,6,3,3,91,16,1,Home Soil
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Home Soil
+RIKER,0,2,0,1,0,9,0,2,1,6,0,3,38,16,1,Home Soil
+TASHA,0,0,2,2,0,17,0,1,0,1,0,0,14,16,1,Home Soil
+TROI,0,0,0,0,0,6,0,6,1,0,0,0,12,16,1,Home Soil
+WESLEY,0,1,1,0,0,3,0,0,0,0,0,0,3,16,1,Home Soil
+WORF,3,1,1,2,0,3,0,3,0,0,0,0,8,16,1,Home Soil
+COMPUTER,2,0,0,0,0,0,0,0,0,0,8,0,7,17,1,Coming Of Age
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,3,17,1,Coming Of Age
+DATA,0,0,0,0,0,5,0,1,0,0,0,0,10,17,1,Coming Of Age
+LAFORGE,0,0,0,0,0,2,0,3,0,0,0,1,9,17,1,Coming Of Age
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Coming Of Age
+PICARD,0,0,5,2,0,0,0,26,5,0,16,1,83,17,1,Coming Of Age
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Coming Of Age
+RIKER,0,0,1,3,0,26,0,0,2,0,0,1,30,17,1,Coming Of Age
+TASHA,0,0,0,0,0,5,0,2,0,0,0,1,6,17,1,Coming Of Age
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,2,17,1,Coming Of Age
+WESLEY,8,0,0,0,0,16,0,0,0,0,8,22,57,17,1,Coming Of Age
+WORF,0,0,0,1,0,1,0,1,1,0,22,0,17,17,1,Coming Of Age
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Heart Of Glory
+CRUSHER,0,2,0,0,0,3,0,0,0,0,0,0,5,18,1,Heart Of Glory
+DATA,0,0,2,7,0,15,0,16,0,0,0,0,22,18,1,Heart Of Glory
+LAFORGE,0,0,7,0,0,27,0,14,0,0,0,5,32,18,1,Heart Of Glory
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Heart Of Glory
+PICARD,0,3,15,27,0,6,0,18,20,0,0,18,78,18,1,Heart Of Glory
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Heart Of Glory
+RIKER,0,0,16,14,0,18,0,0,0,0,0,0,32,18,1,Heart Of Glory
+TASHA,0,0,0,0,0,20,0,0,4,0,0,11,28,18,1,Heart Of Glory
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Heart Of Glory
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,Heart Of Glory
+WORF,0,0,0,5,0,18,0,0,11,0,0,2,48,18,1,Heart Of Glory
+COMPUTER,0,0,0,1,0,0,0,0,0,0,0,1,1,19,1,The Arsenal Of Freedom
+CRUSHER,0,0,1,0,0,57,0,0,2,0,0,0,33,19,1,The Arsenal Of Freedom
+DATA,0,1,0,4,0,16,0,16,21,1,0,1,35,19,1,The Arsenal Of Freedom
+LAFORGE,1,0,4,2,0,10,0,2,1,17,0,28,69,19,1,The Arsenal Of Freedom
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,The Arsenal Of Freedom
+PICARD,0,57,16,10,0,4,0,27,5,3,0,0,92,19,1,The Arsenal Of Freedom
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,The Arsenal Of Freedom
+RIKER,0,0,16,2,0,27,0,0,30,4,0,2,68,19,1,The Arsenal Of Freedom
+TASHA,0,2,21,1,0,5,0,30,6,0,0,0,40,19,1,The Arsenal Of Freedom
+TROI,0,0,1,17,0,3,0,4,0,0,0,1,13,19,1,The Arsenal Of Freedom
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,19,1,The Arsenal Of Freedom
+WORF,1,0,1,28,0,0,0,2,0,1,0,2,26,19,1,The Arsenal Of Freedom
+COMPUTER,0,0,1,0,0,0,0,0,0,0,0,0,1,20,1,Symbiosis
+CRUSHER,0,0,0,0,0,51,0,5,1,0,0,0,42,20,1,Symbiosis
+DATA,1,0,0,1,0,10,0,5,1,0,2,0,14,20,1,Symbiosis
+LAFORGE,0,0,1,0,0,13,0,4,1,1,0,0,12,20,1,Symbiosis
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Symbiosis
+PICARD,0,51,10,13,0,6,0,12,7,2,1,6,102,20,1,Symbiosis
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,20,1,Symbiosis
+RIKER,0,5,5,4,0,12,0,0,23,0,0,0,34,20,1,Symbiosis
+TASHA,0,1,1,1,0,7,0,23,4,0,10,2,35,20,1,Symbiosis
+TROI,0,0,0,1,0,2,0,0,0,0,0,1,2,20,1,Symbiosis
+WESLEY,0,0,2,0,0,1,0,0,10,0,2,1,9,20,1,Symbiosis
+WORF,0,0,0,0,0,6,0,0,2,1,1,0,7,20,1,Symbiosis
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,1,4,21,1,Skin of Evil
+CRUSHER,0,2,4,0,0,12,0,6,0,1,0,0,29,21,1,Skin of Evil
+DATA,0,4,0,1,0,17,0,15,0,0,0,0,29,21,1,Skin of Evil
+LAFORGE,0,0,1,0,0,6,0,1,0,0,0,2,8,21,1,Skin of Evil
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Skin of Evil
+PICARD,0,12,17,6,0,0,0,17,6,9,1,18,88,21,1,Skin of Evil
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,21,1,Skin of Evil
+RIKER,0,6,15,1,0,17,0,0,2,0,0,4,39,21,1,Skin of Evil
+TASHA,0,0,0,0,0,6,0,2,2,0,0,10,12,21,1,Skin of Evil
+TROI,0,1,0,0,0,9,0,0,0,0,0,0,40,21,1,Skin of Evil
+WESLEY,0,0,0,0,0,1,0,0,0,0,0,2,2,21,1,Skin of Evil
+WORF,1,0,0,2,0,18,0,4,10,0,2,0,24,21,1,Skin of Evil
+COMPUTER,0,0,0,0,0,5,0,0,0,4,0,0,5,22,1,We'll Always Have Paris
+CRUSHER,0,4,1,0,0,8,0,2,0,10,0,0,26,22,1,We'll Always Have Paris
+DATA,0,1,2,5,0,42,0,12,0,0,0,1,45,22,1,We'll Always Have Paris
+LAFORGE,0,0,5,0,0,13,0,3,0,0,0,5,14,22,1,We'll Always Have Paris
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,We'll Always Have Paris
+PICARD,5,8,42,13,0,0,0,22,0,12,0,11,126,22,1,We'll Always Have Paris
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,We'll Always Have Paris
+RIKER,0,2,12,3,0,22,0,0,0,2,0,0,29,22,1,We'll Always Have Paris
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,We'll Always Have Paris
+TROI,4,10,0,0,0,12,0,2,0,0,0,0,16,22,1,We'll Always Have Paris
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,22,1,We'll Always Have Paris
+WORF,0,0,1,5,0,11,0,0,0,0,0,0,10,22,1,We'll Always Have Paris
+COMPUTER,0,0,5,0,0,0,0,0,0,0,0,0,3,23,1,Conspiracy
+CRUSHER,0,0,1,4,0,13,0,0,0,0,0,2,20,23,1,Conspiracy
+DATA,5,1,2,4,0,19,0,16,0,5,0,3,30,23,1,Conspiracy
+LAFORGE,0,4,4,2,0,11,0,5,0,0,0,4,18,23,1,Conspiracy
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Conspiracy
+PICARD,0,13,19,11,0,4,0,26,0,6,0,9,90,23,1,Conspiracy
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Conspiracy
+RIKER,0,0,16,5,0,26,0,0,0,1,0,3,40,23,1,Conspiracy
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Conspiracy
+TROI,0,0,5,0,0,6,0,1,0,0,0,1,7,23,1,Conspiracy
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,23,1,Conspiracy
+WORF,0,2,3,4,0,9,0,3,0,1,0,0,12,23,1,Conspiracy
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,3,24,1,The Neutral Zone
+CRUSHER,0,0,5,0,0,21,0,1,0,0,0,0,24,24,1,The Neutral Zone
+DATA,0,5,0,5,0,12,0,16,0,0,0,10,46,24,1,The Neutral Zone
+LAFORGE,0,0,5,0,0,16,0,3,0,0,0,1,16,24,1,The Neutral Zone
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,The Neutral Zone
+PICARD,2,21,12,16,0,2,0,30,0,6,0,18,84,24,1,The Neutral Zone
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,The Neutral Zone
+RIKER,0,1,16,3,0,30,0,0,0,0,0,16,50,24,1,The Neutral Zone
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,The Neutral Zone
+TROI,0,0,0,0,0,6,0,0,0,0,0,0,18,24,1,The Neutral Zone
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,24,1,The Neutral Zone
+WORF,0,0,10,1,0,18,0,16,0,0,0,4,26,24,1,The Neutral Zone
+COMPUTER,0,0,2,1,1,0,0,1,0,0,0,0,3,25,2,The Child
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,The Child
+DATA,2,0,0,6,0,9,0,5,0,10,0,2,33,25,2,The Child
+LAFORGE,1,0,6,4,1,10,0,8,0,0,0,0,27,25,2,The Child
+O_BRIEN,1,0,0,1,0,0,0,0,0,0,0,0,2,25,2,The Child
+PICARD,0,0,9,10,0,4,0,26,0,8,25,3,78,25,2,The Child
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,The Child
+RIKER,1,0,5,8,0,26,0,0,0,10,7,4,46,25,2,The Child
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,The Child
+TROI,0,0,10,0,0,8,0,10,0,4,0,1,44,25,2,The Child
+WESLEY,0,0,0,0,0,25,0,7,0,0,0,1,34,25,2,The Child
+WORF,0,0,2,0,0,3,0,4,0,1,1,0,6,25,2,The Child
+COMPUTER,0,0,1,0,0,11,0,6,0,1,0,0,11,26,2,Where Silence Has Lease
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Where Silence Has Lease
+DATA,1,0,0,0,0,50,0,15,0,5,2,2,44,26,2,Where Silence Has Lease
+LAFORGE,0,0,0,0,0,14,0,2,0,0,1,0,9,26,2,Where Silence Has Lease
+O_BRIEN,0,0,0,0,0,3,0,8,0,0,0,1,10,26,2,Where Silence Has Lease
+PICARD,11,0,50,14,3,4,0,42,0,14,19,15,105,26,2,Where Silence Has Lease
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Where Silence Has Lease
+RIKER,6,0,15,2,8,42,0,12,0,3,10,37,80,26,2,Where Silence Has Lease
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Where Silence Has Lease
+TROI,1,0,5,0,0,14,0,3,0,0,0,2,14,26,2,Where Silence Has Lease
+WESLEY,0,0,2,1,0,19,0,10,0,0,0,1,17,26,2,Where Silence Has Lease
+WORF,0,0,2,0,1,15,0,37,0,2,1,4,35,26,2,Where Silence Has Lease
+COMPUTER,0,0,4,2,0,10,0,1,0,0,0,0,13,27,2,"Elementary, Dear Data"
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,"Elementary, Dear Data"
+DATA,4,0,6,89,0,18,0,1,0,1,0,2,91,27,2,"Elementary, Dear Data"
+LAFORGE,2,0,89,4,0,19,0,2,0,0,0,0,81,27,2,"Elementary, Dear Data"
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,"Elementary, Dear Data"
+PICARD,10,0,18,19,0,2,0,8,0,0,0,0,50,27,2,"Elementary, Dear Data"
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,"Elementary, Dear Data"
+RIKER,1,0,1,2,0,8,0,0,0,1,0,6,11,27,2,"Elementary, Dear Data"
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,"Elementary, Dear Data"
+TROI,0,0,1,0,0,0,0,1,0,0,0,0,1,27,2,"Elementary, Dear Data"
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,"Elementary, Dear Data"
+WORF,0,0,2,0,0,0,0,6,0,0,0,0,6,27,2,"Elementary, Dear Data"
+COMPUTER,0,0,9,0,0,0,0,0,0,0,0,0,6,28,2,The Outrageous Okona
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,The Outrageous Okona
+DATA,9,0,4,0,0,2,0,2,0,0,1,11,63,28,2,The Outrageous Okona
+LAFORGE,0,0,0,0,0,0,0,1,0,0,1,0,6,28,2,The Outrageous Okona
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,The Outrageous Okona
+PICARD,0,0,2,0,0,6,0,11,0,1,2,17,40,28,2,The Outrageous Okona
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,The Outrageous Okona
+RIKER,0,0,2,1,0,11,0,0,0,0,7,2,20,28,2,The Outrageous Okona
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,The Outrageous Okona
+TROI,0,0,0,0,0,1,0,0,0,0,0,0,2,28,2,The Outrageous Okona
+WESLEY,0,0,1,1,0,2,0,7,0,0,0,0,15,28,2,The Outrageous Okona
+WORF,0,0,11,0,0,17,0,2,0,0,0,4,26,28,2,The Outrageous Okona
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Loud As A_Whisper
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Loud As A_Whisper
+DATA,0,0,2,0,0,16,0,10,0,26,0,3,32,29,2,Loud As A_Whisper
+LAFORGE,0,0,0,0,0,2,0,6,0,0,0,0,17,29,2,Loud As A_Whisper
+O_BRIEN,0,0,0,0,0,0,0,1,0,0,0,0,1,29,2,Loud As A_Whisper
+PICARD,0,0,16,2,0,4,0,26,0,9,1,9,63,29,2,Loud As A_Whisper
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Loud As A_Whisper
+RIKER,0,0,10,6,1,26,0,2,0,3,11,10,57,29,2,Loud As A_Whisper
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Loud As A_Whisper
+TROI,0,0,26,0,0,9,0,3,0,2,0,8,42,29,2,Loud As A_Whisper
+WESLEY,0,0,0,0,0,1,0,11,0,0,0,0,8,29,2,Loud As A_Whisper
+WORF,0,0,3,0,0,9,0,10,0,8,0,0,20,29,2,Loud As A_Whisper
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,30,2,The Schizoid Man
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Schizoid Man
+DATA,0,0,4,13,0,66,0,4,0,8,11,4,85,30,2,The Schizoid Man
+LAFORGE,0,0,13,0,0,7,0,0,0,10,0,1,18,30,2,The Schizoid Man
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Schizoid Man
+PICARD,2,0,66,7,0,4,0,4,0,22,7,8,79,30,2,The Schizoid Man
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Schizoid Man
+RIKER,0,0,4,0,0,4,0,0,0,4,1,4,12,30,2,The Schizoid Man
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Schizoid Man
+TROI,0,0,8,10,0,22,0,4,0,0,0,1,33,30,2,The Schizoid Man
+WESLEY,0,0,11,0,0,7,0,1,0,0,0,1,12,30,2,The Schizoid Man
+WORF,0,0,4,1,0,8,0,4,0,1,1,0,14,30,2,The Schizoid Man
+COMPUTER,0,0,0,0,0,6,0,0,0,0,0,0,4,31,2,Unnatural Selection
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Unnatural Selection
+DATA,0,0,4,3,5,20,0,9,0,0,1,2,48,31,2,Unnatural Selection
+LAFORGE,0,0,3,0,3,6,0,1,0,0,2,2,13,31,2,Unnatural Selection
+O_BRIEN,0,0,5,3,0,23,0,2,0,1,0,0,25,31,2,Unnatural Selection
+PICARD,6,0,20,6,23,6,0,13,0,13,10,8,98,31,2,Unnatural Selection
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Unnatural Selection
+RIKER,0,0,9,1,2,13,0,0,0,4,3,3,24,31,2,Unnatural Selection
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Unnatural Selection
+TROI,0,0,0,0,1,13,0,4,0,0,0,0,14,31,2,Unnatural Selection
+WESLEY,0,0,1,2,0,10,0,3,0,0,0,1,10,31,2,Unnatural Selection
+WORF,0,0,2,2,0,8,0,3,0,0,1,0,11,31,2,Unnatural Selection
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+DATA,0,0,0,0,0,16,0,0,0,0,3,2,14,32,2,A_Matter of Honour
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+O_BRIEN,0,0,0,0,0,7,0,7,0,0,0,0,10,32,2,A_Matter of Honour
+PICARD,0,0,16,0,7,2,0,26,0,0,3,16,60,32,2,A_Matter of Honour
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+RIKER,0,0,0,0,7,26,0,0,0,0,1,18,108,32,2,A_Matter of Honour
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,A_Matter of Honour
+WESLEY,0,0,3,0,0,3,0,1,0,0,0,1,15,32,2,A_Matter of Honour
+WORF,0,0,2,0,0,16,0,18,0,0,1,0,29,32,2,A_Matter of Honour
+COMPUTER,0,0,0,0,0,3,0,5,0,0,0,0,6,33,2,The Measure Of A_Man
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,The Measure Of A_Man
+DATA,0,0,4,13,5,33,0,35,0,0,3,1,63,33,2,The Measure Of A_Man
+LAFORGE,0,0,13,0,0,0,0,0,0,0,0,0,8,33,2,The Measure Of A_Man
+O_BRIEN,0,0,5,0,0,0,0,5,0,0,0,0,6,33,2,The Measure Of A_Man
+PICARD,3,0,33,0,0,6,0,6,0,0,0,0,91,33,2,The Measure Of A_Man
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,The Measure Of A_Man
+RIKER,5,0,35,0,5,6,0,6,0,0,0,0,37,33,2,The Measure Of A_Man
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,The Measure Of A_Man
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,The Measure Of A_Man
+WESLEY,0,0,3,0,0,0,0,0,0,0,0,0,2,33,2,The Measure Of A_Man
+WORF,0,0,1,0,0,0,0,0,0,0,0,0,1,33,2,The Measure Of A_Man
+COMPUTER,0,0,0,6,0,0,0,0,0,0,0,0,3,34,2,The Dauphin
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Dauphin
+DATA,0,0,0,1,0,6,0,5,0,1,8,2,13,34,2,The Dauphin
+LAFORGE,6,0,1,0,0,6,0,1,0,0,26,1,28,34,2,The Dauphin
+O_BRIEN,0,0,0,0,0,0,0,2,0,0,0,0,2,34,2,The Dauphin
+PICARD,0,0,6,6,0,2,0,9,0,7,8,14,53,34,2,The Dauphin
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Dauphin
+RIKER,0,0,5,1,2,9,0,0,0,0,8,2,30,34,2,The Dauphin
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,The Dauphin
+TROI,0,0,1,0,0,7,0,0,0,0,0,4,7,34,2,The Dauphin
+WESLEY,0,0,8,26,0,8,0,8,0,0,2,6,92,34,2,The Dauphin
+WORF,0,0,2,1,0,14,0,2,0,4,6,2,35,34,2,The Dauphin
+COMPUTER,4,0,0,0,0,1,0,0,0,0,0,0,6,35,2,Contagion
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Contagion
+DATA,0,0,2,15,0,65,0,16,0,0,0,12,58,35,2,Contagion
+LAFORGE,0,0,15,8,0,25,0,13,0,0,0,0,41,35,2,Contagion
+O_BRIEN,0,0,0,0,0,2,0,8,0,0,1,0,8,35,2,Contagion
+PICARD,1,0,65,25,2,12,0,21,0,3,22,54,114,35,2,Contagion
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Contagion
+RIKER,0,0,16,13,8,21,0,4,0,11,8,8,55,35,2,Contagion
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Contagion
+TROI,0,0,0,0,0,3,0,11,0,0,2,2,9,35,2,Contagion
+WESLEY,0,0,0,0,1,22,0,8,0,2,0,0,19,35,2,Contagion
+WORF,0,0,12,0,0,54,0,8,0,2,0,2,42,35,2,Contagion
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,36,2,The Royale
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Royale
+DATA,0,0,8,0,0,4,0,43,0,2,0,7,63,36,2,The Royale
+LAFORGE,0,0,0,0,0,19,0,4,0,1,2,0,15,36,2,The Royale
+O_BRIEN,0,0,0,0,0,0,0,3,0,0,0,0,2,36,2,The Royale
+PICARD,2,0,4,19,0,2,0,51,0,6,8,0,70,36,2,The Royale
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Royale
+RIKER,0,0,43,4,3,51,0,6,0,0,2,15,114,36,2,The Royale
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,The Royale
+TROI,0,0,2,1,0,6,0,0,0,0,0,0,7,36,2,The Royale
+WESLEY,0,0,0,2,0,8,0,2,0,0,0,0,8,36,2,The Royale
+WORF,0,0,7,0,0,0,0,15,0,0,0,2,16,36,2,The Royale
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Time Squared
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Time Squared
+DATA,0,0,2,19,0,7,0,7,0,0,0,0,21,37,2,Time Squared
+LAFORGE,0,0,19,4,0,24,0,11,0,3,0,3,37,37,2,Time Squared
+O_BRIEN,0,0,0,0,0,3,0,0,0,0,0,0,3,37,2,Time Squared
+PICARD,0,0,7,24,3,38,0,63,0,18,0,13,119,37,2,Time Squared
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Time Squared
+RIKER,0,0,7,11,0,63,0,4,0,1,0,12,56,37,2,Time Squared
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Time Squared
+TROI,0,0,0,3,0,18,0,1,0,0,0,0,18,37,2,Time Squared
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Time Squared
+WORF,0,0,0,3,0,13,0,12,0,0,0,0,16,37,2,Time Squared
+COMPUTER,0,0,1,1,0,0,0,0,0,0,0,0,1,38,2,The Icarus Factor
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Icarus Factor
+DATA,1,0,2,27,1,2,0,1,0,0,10,5,27,38,2,The Icarus Factor
+LAFORGE,1,0,27,2,4,3,0,1,0,0,29,1,37,38,2,The Icarus Factor
+O_BRIEN,0,0,1,4,0,0,0,6,0,0,6,0,11,38,2,The Icarus Factor
+PICARD,0,0,2,3,0,4,0,31,0,0,4,1,29,38,2,The Icarus Factor
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Icarus Factor
+RIKER,0,0,1,1,6,31,0,2,0,11,4,19,80,38,2,The Icarus Factor
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Icarus Factor
+TROI,0,0,0,0,0,0,0,11,0,0,0,16,38,38,2,The Icarus Factor
+WESLEY,0,0,10,29,6,4,0,4,0,0,0,9,32,38,2,The Icarus Factor
+WORF,0,0,5,1,0,1,0,19,0,16,9,8,33,38,2,The Icarus Factor
+COMPUTER,0,0,18,0,0,6,0,0,0,0,0,0,14,39,2,Pen Pals
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Pen Pals
+DATA,18,0,2,1,4,54,0,12,0,0,3,15,78,39,2,Pen Pals
+LAFORGE,0,0,1,0,0,0,0,5,0,3,0,0,6,39,2,Pen Pals
+O_BRIEN,0,0,4,0,0,0,0,5,0,0,0,0,6,39,2,Pen Pals
+PICARD,6,0,54,0,0,0,0,21,0,16,9,4,74,39,2,Pen Pals
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Pen Pals
+RIKER,0,0,12,5,5,21,0,4,0,0,38,3,54,39,2,Pen Pals
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,Pen Pals
+TROI,0,0,0,3,0,16,0,0,0,0,8,1,18,39,2,Pen Pals
+WESLEY,0,0,3,0,0,9,0,38,0,8,0,0,48,39,2,Pen Pals
+WORF,0,0,15,0,0,4,0,3,0,1,0,0,16,39,2,Pen Pals
+COMPUTER,0,0,0,0,0,0,0,2,0,0,0,1,2,40,2,Q_Who?
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Q_Who?
+DATA,0,0,0,0,0,5,0,26,0,0,0,11,24,40,2,Q_Who?
+LAFORGE,0,0,0,0,0,7,2,2,0,0,0,2,23,40,2,Q_Who?
+O_BRIEN,0,0,0,0,0,2,0,1,0,0,0,1,3,40,2,Q_Who?
+PICARD,0,0,5,7,2,6,51,17,0,3,5,28,83,40,2,Q_Who?
+Q,0,0,0,2,0,51,0,19,0,0,1,4,46,40,2,Q_Who?
+RIKER,2,0,26,2,1,17,19,2,0,3,5,17,63,40,2,Q_Who?
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,Q_Who?
+TROI,0,0,0,0,0,3,0,3,0,0,0,1,4,40,2,Q_Who?
+WESLEY,0,0,0,0,0,5,1,5,0,0,0,3,7,40,2,Q_Who?
+WORF,1,0,11,2,1,28,4,17,0,1,3,0,37,40,2,Q_Who?
+COMPUTER,0,0,0,2,0,0,0,2,0,0,0,1,6,41,2,Samaritan Snare
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Samaritan Snare
+DATA,0,0,0,0,0,0,0,45,0,4,3,5,33,41,2,Samaritan Snare
+LAFORGE,2,0,0,6,0,2,0,12,0,0,0,1,52,41,2,Samaritan Snare
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Samaritan Snare
+PICARD,0,0,0,2,0,0,0,11,0,0,78,0,65,41,2,Samaritan Snare
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Samaritan Snare
+RIKER,2,0,45,12,0,11,0,10,0,14,5,30,88,41,2,Samaritan Snare
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Samaritan Snare
+TROI,0,0,4,0,0,0,0,14,0,0,0,0,12,41,2,Samaritan Snare
+WESLEY,0,0,3,0,0,78,0,5,0,0,0,0,48,41,2,Samaritan Snare
+WORF,1,0,5,1,0,0,0,30,0,0,0,0,25,41,2,Samaritan Snare
+COMPUTER,0,0,0,0,0,4,0,4,0,0,0,0,4,42,2,Up The Long Ladder
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Up The Long Ladder
+DATA,0,0,0,0,0,24,0,2,0,0,0,5,17,42,2,Up The Long Ladder
+LAFORGE,0,0,0,0,0,0,0,8,0,0,0,0,10,42,2,Up The Long Ladder
+O_BRIEN,0,0,0,0,2,1,0,1,0,0,0,0,4,42,2,Up The Long Ladder
+PICARD,4,0,24,0,1,4,0,35,0,5,0,7,79,42,2,Up The Long Ladder
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Up The Long Ladder
+RIKER,4,0,2,8,1,35,0,4,0,3,0,3,63,42,2,Up The Long Ladder
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Up The Long Ladder
+TROI,0,0,0,0,0,5,0,3,0,0,0,1,5,42,2,Up The Long Ladder
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,Up The Long Ladder
+WORF,0,0,5,0,0,7,0,3,0,1,0,0,36,42,2,Up The Long Ladder
+COMPUTER,0,0,0,0,0,10,0,0,0,0,0,0,8,43,2,Manhunt
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Manhunt
+DATA,0,0,0,0,0,15,0,6,0,1,2,0,20,43,2,Manhunt
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Manhunt
+O_BRIEN,0,0,0,0,0,1,0,0,0,0,0,0,1,43,2,Manhunt
+PICARD,10,0,15,0,1,2,0,12,0,8,4,3,90,43,2,Manhunt
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Manhunt
+RIKER,0,0,6,0,0,12,0,0,0,11,1,0,31,43,2,Manhunt
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Manhunt
+TROI,0,0,1,0,0,8,0,11,0,0,1,1,34,43,2,Manhunt
+WESLEY,0,0,2,0,0,4,0,1,0,1,0,4,12,43,2,Manhunt
+WORF,0,0,0,0,0,3,0,0,0,1,4,0,7,43,2,Manhunt
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,2,44,2,The Emissary
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Emissary
+DATA,0,0,4,5,0,15,0,13,0,0,0,5,28,44,2,The Emissary
+LAFORGE,0,0,5,0,0,5,0,2,0,1,0,6,16,44,2,The Emissary
+O_BRIEN,0,0,0,0,0,2,0,0,0,0,0,4,4,44,2,The Emissary
+PICARD,0,0,15,5,2,0,0,15,0,1,0,22,48,44,2,The Emissary
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Emissary
+RIKER,0,0,13,2,0,15,0,0,0,2,0,7,35,44,2,The Emissary
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Emissary
+TROI,0,0,0,1,0,1,0,2,0,0,0,0,19,44,2,The Emissary
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Emissary
+WORF,0,0,5,6,4,22,0,7,0,0,0,2,73,44,2,The Emissary
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,Peak Performance
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,Peak Performance
+DATA,0,0,0,2,0,21,0,4,0,30,2,8,58,45,2,Peak Performance
+LAFORGE,0,0,2,0,0,0,0,36,0,2,11,4,35,45,2,Peak Performance
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,Peak Performance
+PICARD,0,0,21,0,0,8,0,11,0,1,0,2,68,45,2,Peak Performance
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,Peak Performance
+RIKER,0,0,4,36,0,11,0,0,0,0,13,27,62,45,2,Peak Performance
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,45,2,Peak Performance
+TROI,0,0,30,2,0,1,0,0,0,0,0,0,19,45,2,Peak Performance
+WESLEY,0,0,2,11,0,0,0,13,0,0,0,2,22,45,2,Peak Performance
+WORF,0,0,8,4,0,2,0,27,0,0,2,0,29,45,2,Peak Performance
+COMPUTER,0,0,0,0,0,2,0,2,0,0,0,0,3,46,2,Shades of Gray
+CRUSHER,0,0,0,0,0,1,0,0,0,0,0,0,1,46,2,Shades of Gray
+DATA,0,0,2,21,0,10,0,22,0,0,0,0,31,46,2,Shades of Gray
+LAFORGE,0,0,21,2,2,2,0,2,0,0,0,0,20,46,2,Shades of Gray
+O_BRIEN,0,0,0,2,0,0,0,0,0,0,0,0,8,46,2,Shades of Gray
+PICARD,2,1,10,2,0,2,0,19,2,0,0,1,38,46,2,Shades of Gray
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,46,2,Shades of Gray
+RIKER,2,0,22,2,0,19,0,0,0,25,4,0,88,46,2,Shades of Gray
+TASHA,0,0,0,0,0,2,0,0,0,0,0,0,4,46,2,Shades of Gray
+TROI,0,0,0,0,0,0,0,25,0,0,0,0,37,46,2,Shades of Gray
+WESLEY,0,0,0,0,0,0,0,4,0,0,0,0,3,46,2,Shades of Gray
+WORF,0,0,0,0,0,1,0,0,0,0,0,0,1,46,2,Shades of Gray
+COMPUTER,0,4,2,1,0,2,0,0,0,0,0,0,5,47,3,Evolution
+CRUSHER,4,0,5,0,0,17,0,1,0,0,19,0,38,47,3,Evolution
+DATA,2,5,4,0,0,33,0,8,0,1,1,5,37,47,3,Evolution
+LAFORGE,1,0,0,0,0,7,0,8,0,0,2,2,16,47,3,Evolution
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,Evolution
+PICARD,2,17,33,7,0,4,0,17,0,3,4,8,68,47,3,Evolution
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,Evolution
+RIKER,0,1,8,8,0,17,0,0,0,0,5,5,28,47,3,Evolution
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,Evolution
+TROI,0,0,1,0,0,3,0,0,0,0,0,0,10,47,3,Evolution
+WESLEY,0,19,1,2,0,4,0,5,0,0,0,0,38,47,3,Evolution
+WORF,0,0,5,2,0,8,0,5,0,0,0,0,11,47,3,Evolution
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,The Ensigns of Command
+CRUSHER,0,0,0,0,0,1,0,3,0,0,0,0,2,48,3,The Ensigns of Command
+DATA,0,0,4,0,0,19,0,7,0,0,0,3,80,48,3,The Ensigns of Command
+LAFORGE,0,0,0,0,0,8,0,3,0,0,1,0,7,48,3,The Ensigns of Command
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,The Ensigns of Command
+PICARD,0,1,19,8,0,4,0,29,0,11,1,19,62,48,3,The Ensigns of Command
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,The Ensigns of Command
+RIKER,0,3,7,3,0,29,0,0,0,2,0,4,33,48,3,The Ensigns of Command
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,The Ensigns of Command
+TROI,0,0,0,0,0,11,0,2,0,0,0,0,8,48,3,The Ensigns of Command
+WESLEY,0,0,0,1,0,1,0,0,0,0,0,0,1,48,3,The Ensigns of Command
+WORF,0,0,3,0,0,19,0,4,0,0,0,0,16,48,3,The Ensigns of Command
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,The Survivors
+CRUSHER,0,2,2,1,0,17,0,5,0,10,0,0,25,49,3,The Survivors
+DATA,0,2,0,1,0,17,0,13,0,2,2,2,21,49,3,The Survivors
+LAFORGE,0,1,1,2,0,4,0,3,0,0,0,1,8,49,3,The Survivors
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,The Survivors
+PICARD,0,17,17,4,0,4,0,33,0,19,10,29,110,49,3,The Survivors
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,The Survivors
+RIKER,0,5,13,3,0,33,0,2,0,1,5,11,54,49,3,The Survivors
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,The Survivors
+TROI,0,10,2,0,0,19,0,1,0,2,0,1,19,49,3,The Survivors
+WESLEY,0,0,2,0,0,10,0,5,0,0,0,0,9,49,3,The Survivors
+WORF,0,0,2,1,0,29,0,11,0,1,0,2,28,49,3,The Survivors
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,Who Watches The Watchers
+CRUSHER,0,4,3,0,0,10,0,2,0,1,0,0,16,50,3,Who Watches The Watchers
+DATA,0,3,0,0,0,8,0,9,0,4,0,0,15,50,3,Who Watches The Watchers
+LAFORGE,0,0,0,0,0,3,0,3,0,0,0,0,6,50,3,Who Watches The Watchers
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,Who Watches The Watchers
+PICARD,0,10,8,3,0,4,0,9,0,3,0,10,82,50,3,Who Watches The Watchers
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,Who Watches The Watchers
+RIKER,0,2,9,3,0,9,0,0,0,8,0,0,32,50,3,Who Watches The Watchers
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,Who Watches The Watchers
+TROI,0,1,4,0,0,3,0,8,0,0,0,0,19,50,3,Who Watches The Watchers
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,Who Watches The Watchers
+WORF,0,0,0,0,0,10,0,0,0,0,0,0,5,50,3,Who Watches The Watchers
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Bonding
+CRUSHER,0,0,0,0,0,1,0,1,0,0,12,0,9,51,3,The Bonding
+DATA,0,0,0,4,0,8,0,15,0,4,0,0,17,51,3,The Bonding
+LAFORGE,0,0,4,0,0,6,0,7,0,1,0,0,15,51,3,The Bonding
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,1,51,3,The Bonding
+PICARD,0,1,8,6,0,0,0,10,0,35,13,11,71,51,3,The Bonding
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Bonding
+RIKER,0,1,15,7,0,10,0,0,0,5,8,2,28,51,3,The Bonding
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,The Bonding
+TROI,0,0,4,1,0,35,0,5,0,0,5,17,51,51,3,The Bonding
+WESLEY,0,12,0,0,0,13,0,8,0,5,0,0,20,51,3,The Bonding
+WORF,0,0,0,0,0,11,0,2,0,17,0,0,32,51,3,The Bonding
+COMPUTER,0,0,0,36,0,3,0,3,0,0,0,0,23,52,3,Booby Trap
+CRUSHER,0,0,0,0,0,5,0,2,0,0,0,0,4,52,3,Booby Trap
+DATA,0,0,0,3,1,26,0,24,0,1,8,8,39,52,3,Booby Trap
+LAFORGE,36,0,3,8,0,25,0,11,0,0,0,2,108,52,3,Booby Trap
+O_BRIEN,0,0,1,0,0,3,0,4,0,0,0,0,4,52,3,Booby Trap
+PICARD,3,5,26,25,3,0,0,34,0,1,7,19,75,52,3,Booby Trap
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Booby Trap
+RIKER,3,2,24,11,4,34,0,0,0,0,7,6,52,52,3,Booby Trap
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Booby Trap
+TROI,0,0,1,0,0,1,0,0,0,0,0,0,1,52,3,Booby Trap
+WESLEY,0,0,8,0,0,7,0,7,0,0,0,0,12,52,3,Booby Trap
+WORF,0,0,8,2,0,19,0,6,0,0,0,0,18,52,3,Booby Trap
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,The Enemy
+CRUSHER,0,0,0,0,1,13,0,8,0,0,0,14,24,53,3,The Enemy
+DATA,0,0,0,0,0,7,0,3,0,0,3,2,9,53,3,The Enemy
+LAFORGE,0,0,0,4,0,3,0,1,0,0,0,0,51,53,3,The Enemy
+O_BRIEN,0,1,0,0,0,0,0,3,0,0,0,0,2,53,3,The Enemy
+PICARD,0,13,7,3,0,8,0,14,0,1,3,21,38,53,3,The Enemy
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,The Enemy
+RIKER,0,8,3,1,3,14,0,0,0,1,3,15,31,53,3,The Enemy
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,The Enemy
+TROI,0,0,0,0,0,1,0,1,0,0,0,0,1,53,3,The Enemy
+WESLEY,0,0,3,0,0,3,0,3,0,0,0,1,5,53,3,The Enemy
+WORF,0,14,2,0,0,21,0,15,0,0,1,2,31,53,3,The Enemy
+COMPUTER,0,0,0,0,0,1,0,0,0,7,0,1,5,54,3,The Price
+CRUSHER,0,0,0,0,0,3,0,0,0,8,0,0,8,54,3,The Price
+DATA,0,0,0,14,0,8,0,2,0,0,1,0,18,54,3,The Price
+LAFORGE,0,0,14,2,0,6,0,0,0,0,1,0,25,54,3,The Price
+O_BRIEN,0,0,0,0,0,1,0,0,0,0,0,0,1,54,3,The Price
+PICARD,1,3,8,6,1,4,0,11,0,7,0,7,44,54,3,The Price
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,The Price
+RIKER,0,0,2,0,0,11,0,0,0,1,0,0,30,54,3,The Price
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,The Price
+TROI,7,8,0,0,0,7,0,1,0,0,1,0,62,54,3,The Price
+WESLEY,0,0,1,1,0,0,0,0,0,1,0,1,3,54,3,The Price
+WORF,1,0,0,0,0,7,0,0,0,0,1,0,7,54,3,The Price
+COMPUTER,0,1,1,0,0,0,0,0,0,0,0,0,1,55,3,The Vengeance Factor
+CRUSHER,1,0,2,0,0,3,0,27,0,0,0,0,19,55,3,The Vengeance Factor
+DATA,1,2,0,1,0,3,0,19,0,0,3,1,16,55,3,The Vengeance Factor
+LAFORGE,0,0,1,0,0,0,0,2,0,0,0,0,2,55,3,The Vengeance Factor
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,The Vengeance Factor
+PICARD,0,3,3,0,0,2,0,13,0,1,2,12,48,55,3,The Vengeance Factor
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,The Vengeance Factor
+RIKER,0,27,19,2,0,13,0,6,0,3,0,5,87,55,3,The Vengeance Factor
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,The Vengeance Factor
+TROI,0,0,0,0,0,1,0,3,0,0,0,0,5,55,3,The Vengeance Factor
+WESLEY,0,0,3,0,0,2,0,0,0,0,0,0,14,55,3,The Vengeance Factor
+WORF,0,0,1,0,0,12,0,5,0,0,0,0,10,55,3,The Vengeance Factor
+COMPUTER,0,0,1,0,0,5,0,0,0,0,0,0,7,56,3,The Defector
+CRUSHER,0,0,1,1,0,2,0,1,0,0,0,0,5,56,3,The Defector
+DATA,1,1,2,20,0,39,0,15,0,0,0,2,58,56,3,The Defector
+LAFORGE,0,1,20,0,0,10,0,2,0,0,0,2,23,56,3,The Defector
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,The Defector
+PICARD,5,2,39,10,0,8,0,23,0,0,0,24,79,56,3,The Defector
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,The Defector
+RIKER,0,1,15,2,0,23,0,0,0,0,0,10,47,56,3,The Defector
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,The Defector
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,2,56,3,The Defector
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,The Defector
+WORF,0,0,2,2,0,24,0,10,0,0,0,4,26,56,3,The Defector
+COMPUTER,0,0,0,0,0,0,0,2,0,0,0,0,1,57,3,The Hunted
+CRUSHER,0,0,1,0,0,0,0,1,0,2,0,0,2,57,3,The Hunted
+DATA,0,1,4,7,0,31,0,21,0,14,5,9,65,57,3,The Hunted
+LAFORGE,0,0,7,2,0,3,0,2,0,0,4,7,13,57,3,The Hunted
+O_BRIEN,0,0,0,0,0,1,0,2,0,0,0,2,9,57,3,The Hunted
+PICARD,0,0,31,3,1,6,0,19,0,11,4,15,65,57,3,The Hunted
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Hunted
+RIKER,2,1,21,2,2,19,0,0,0,1,3,7,43,57,3,The Hunted
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,The Hunted
+TROI,0,2,14,0,0,11,0,1,0,0,0,0,42,57,3,The Hunted
+WESLEY,0,0,5,4,0,4,0,3,0,0,0,0,8,57,3,The Hunted
+WORF,0,0,9,7,2,15,0,7,0,0,0,4,35,57,3,The Hunted
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The High Ground
+CRUSHER,0,12,2,0,0,38,0,1,0,0,1,5,78,58,3,The High Ground
+DATA,0,2,0,3,0,18,0,6,0,0,8,2,26,58,3,The High Ground
+LAFORGE,0,0,3,2,0,2,0,1,0,1,4,0,12,58,3,The High Ground
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The High Ground
+PICARD,0,38,18,2,0,2,0,1,0,4,9,1,59,58,3,The High Ground
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The High Ground
+RIKER,0,1,6,1,0,1,0,0,0,2,1,3,29,58,3,The High Ground
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,The High Ground
+TROI,0,0,0,1,0,4,0,2,0,0,2,0,7,58,3,The High Ground
+WESLEY,0,1,8,4,0,9,0,1,0,2,0,1,15,58,3,The High Ground
+WORF,0,5,2,0,0,1,0,3,0,0,1,0,9,58,3,The High Ground
+COMPUTER,0,0,0,0,0,0,2,1,0,0,0,0,2,59,3,Deja Q
+CRUSHER,0,0,1,3,0,1,9,0,0,0,0,0,8,59,3,Deja Q
+DATA,0,1,4,11,0,12,46,8,0,2,0,2,51,59,3,Deja Q
+LAFORGE,0,3,11,4,0,7,32,16,0,0,0,4,52,59,3,Deja Q
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Deja Q
+PICARD,0,1,12,7,0,4,59,21,0,0,0,15,66,59,3,Deja Q
+Q,2,9,46,32,0,59,38,13,0,6,0,12,131,59,3,Deja Q
+RIKER,1,0,8,16,0,21,13,0,0,0,0,8,38,59,3,Deja Q
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Deja Q
+TROI,0,0,2,0,0,0,6,0,0,0,0,0,4,59,3,Deja Q
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Deja Q
+WORF,0,0,2,4,0,15,12,8,0,0,0,2,27,59,3,Deja Q
+COMPUTER,0,0,1,0,0,1,0,0,0,0,0,1,2,60,3,A_Matter of Perspective
+CRUSHER,0,0,1,1,0,0,0,0,0,0,0,1,2,60,3,A_Matter of Perspective
+DATA,1,1,0,6,1,9,0,1,0,0,5,4,15,60,3,A_Matter of Perspective
+LAFORGE,0,1,6,0,1,17,0,3,0,1,4,1,21,60,3,A_Matter of Perspective
+O_BRIEN,0,0,1,1,0,5,0,7,0,0,0,0,14,60,3,A_Matter of Perspective
+PICARD,1,0,9,17,5,4,0,17,0,6,3,3,72,60,3,A_Matter of Perspective
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,A_Matter of Perspective
+RIKER,0,0,1,3,7,17,0,4,0,6,3,1,68,60,3,A_Matter of Perspective
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,A_Matter of Perspective
+TROI,0,0,0,1,0,6,0,6,0,0,0,0,8,60,3,A_Matter of Perspective
+WESLEY,0,0,5,4,0,3,0,3,0,0,0,0,9,60,3,A_Matter of Perspective
+WORF,1,1,4,1,0,3,0,1,0,0,0,0,7,60,3,A_Matter of Perspective
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Yesterday's Enterprise
+CRUSHER,0,0,0,1,0,3,0,3,1,0,0,0,11,61,3,Yesterday's Enterprise
+DATA,0,0,0,2,0,34,0,7,6,0,4,2,32,61,3,Yesterday's Enterprise
+LAFORGE,0,1,2,4,0,2,0,2,2,0,0,0,11,61,3,Yesterday's Enterprise
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Yesterday's Enterprise
+PICARD,0,3,34,2,0,8,0,15,25,0,9,2,86,61,3,Yesterday's Enterprise
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Yesterday's Enterprise
+RIKER,0,3,7,2,0,15,0,0,6,0,4,0,29,61,3,Yesterday's Enterprise
+TASHA,0,1,6,2,0,25,0,6,2,0,0,0,61,61,3,Yesterday's Enterprise
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Yesterday's Enterprise
+WESLEY,0,0,4,0,0,9,0,4,0,0,0,0,9,61,3,Yesterday's Enterprise
+WORF,0,0,2,0,0,2,0,0,0,0,0,0,2,61,3,Yesterday's Enterprise
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Offspring
+CRUSHER,0,0,11,0,0,0,0,0,0,0,2,0,7,62,3,The Offspring
+DATA,0,11,2,4,0,34,0,1,0,16,14,1,98,62,3,The Offspring
+LAFORGE,0,0,4,0,0,0,0,0,0,2,3,0,5,62,3,The Offspring
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Offspring
+PICARD,0,0,34,0,0,0,0,0,0,6,2,2,43,62,3,The Offspring
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Offspring
+RIKER,0,0,1,0,0,0,0,0,0,0,0,0,2,62,3,The Offspring
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,The Offspring
+TROI,0,0,16,2,0,6,0,0,0,2,2,0,22,62,3,The Offspring
+WESLEY,0,2,14,3,0,2,0,0,0,2,0,0,12,62,3,The Offspring
+WORF,0,0,1,0,0,2,0,0,0,0,0,0,2,62,3,The Offspring
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,63,3,Sins of the Father
+CRUSHER,0,0,0,0,0,1,0,8,0,0,0,4,10,63,3,Sins of the Father
+DATA,0,0,0,8,0,1,0,5,0,0,0,0,8,63,3,Sins of the Father
+LAFORGE,0,0,8,0,0,0,0,11,0,0,2,0,14,63,3,Sins of the Father
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Sins of the Father
+PICARD,2,1,1,0,0,4,0,7,0,0,0,25,62,63,3,Sins of the Father
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Sins of the Father
+RIKER,0,8,5,11,0,7,0,2,0,0,4,0,27,63,3,Sins of the Father
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Sins of the Father
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,1,63,3,Sins of the Father
+WESLEY,0,0,0,2,0,0,0,4,0,0,0,0,6,63,3,Sins of the Father
+WORF,0,4,0,0,0,25,0,0,0,0,0,2,55,63,3,Sins of the Father
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Allegiance
+CRUSHER,0,32,0,0,0,1,0,4,0,0,1,2,22,64,3,Allegiance
+DATA,0,0,6,2,0,0,0,7,0,3,1,3,13,64,3,Allegiance
+LAFORGE,0,0,2,4,0,0,0,3,0,5,0,2,8,64,3,Allegiance
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Allegiance
+PICARD,0,1,0,0,0,22,0,7,0,0,3,0,71,64,3,Allegiance
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Allegiance
+RIKER,0,4,7,3,0,7,0,22,0,7,4,3,34,64,3,Allegiance
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Allegiance
+TROI,0,0,3,5,0,0,0,7,0,6,0,0,12,64,3,Allegiance
+WESLEY,0,1,1,0,0,3,0,4,0,0,6,0,8,64,3,Allegiance
+WORF,0,2,3,2,0,0,0,3,0,0,0,0,7,64,3,Allegiance
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+CRUSHER,0,0,0,0,0,20,0,0,0,0,0,0,10,65,3,Captain's Holiday
+DATA,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+PICARD,0,20,0,0,0,6,0,37,0,8,0,4,161,65,3,Captain's Holiday
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+RIKER,0,0,0,0,0,37,0,0,0,16,0,0,35,65,3,Captain's Holiday
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+TROI,0,0,0,0,0,8,0,16,0,0,0,0,13,65,3,Captain's Holiday
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,Captain's Holiday
+WORF,0,0,0,0,0,4,0,0,0,0,0,0,2,65,3,Captain's Holiday
+COMPUTER,0,0,0,6,0,2,0,0,0,0,0,0,4,66,3,Tin Man
+CRUSHER,0,0,0,0,0,5,0,0,0,4,0,0,7,66,3,Tin Man
+DATA,0,0,0,1,0,17,0,7,0,11,1,5,46,66,3,Tin Man
+LAFORGE,6,0,1,0,0,9,0,25,0,0,3,0,28,66,3,Tin Man
+O_BRIEN,0,0,0,0,0,2,0,0,0,0,0,1,3,66,3,Tin Man
+PICARD,2,5,17,9,2,6,0,13,0,22,6,22,79,66,3,Tin Man
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Tin Man
+RIKER,0,0,7,25,0,13,0,0,0,0,0,7,30,66,3,Tin Man
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Tin Man
+TROI,0,4,11,0,0,22,0,0,0,0,0,0,36,66,3,Tin Man
+WESLEY,0,0,1,3,0,6,0,0,0,0,0,3,7,66,3,Tin Man
+WORF,0,0,5,0,1,22,0,7,0,0,3,0,22,66,3,Tin Man
+COMPUTER,0,0,1,10,0,1,0,1,0,0,2,0,8,67,3,Hollow Pursuits
+CRUSHER,0,0,0,4,0,0,0,0,0,1,0,0,3,67,3,Hollow Pursuits
+DATA,1,0,2,8,0,7,0,5,0,0,3,2,20,67,3,Hollow Pursuits
+LAFORGE,10,4,8,6,5,22,0,26,0,3,12,1,121,67,3,Hollow Pursuits
+O_BRIEN,0,0,0,5,0,0,0,1,0,0,0,0,6,67,3,Hollow Pursuits
+PICARD,1,0,7,22,0,0,0,10,0,1,0,5,32,67,3,Hollow Pursuits
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hollow Pursuits
+RIKER,1,0,5,26,1,10,0,0,0,10,0,1,36,67,3,Hollow Pursuits
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Hollow Pursuits
+TROI,0,1,0,3,0,1,0,10,0,2,0,0,28,67,3,Hollow Pursuits
+WESLEY,2,0,3,12,0,0,0,0,0,0,0,0,16,67,3,Hollow Pursuits
+WORF,0,0,2,1,0,5,0,1,0,0,0,0,5,67,3,Hollow Pursuits
+COMPUTER,0,0,0,0,0,4,0,0,0,0,0,0,2,68,3,The Most Toys
+CRUSHER,0,0,0,1,0,0,0,6,0,0,0,2,5,68,3,The Most Toys
+DATA,0,0,0,4,0,3,0,5,0,0,1,0,57,68,3,The Most Toys
+LAFORGE,0,1,4,2,0,13,0,8,0,0,18,1,30,68,3,The Most Toys
+O_BRIEN,0,0,0,0,0,0,0,3,0,0,0,0,2,68,3,The Most Toys
+PICARD,4,0,3,13,0,4,0,14,0,0,10,11,31,68,3,The Most Toys
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,The Most Toys
+RIKER,0,6,5,8,3,14,0,0,0,0,5,10,28,68,3,The Most Toys
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,The Most Toys
+TROI,0,0,0,0,0,0,0,0,0,0,0,8,5,68,3,The Most Toys
+WESLEY,0,0,1,18,0,10,0,5,0,0,0,0,20,68,3,The Most Toys
+WORF,0,2,0,1,0,11,0,10,0,8,0,0,18,68,3,The Most Toys
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Sarek
+CRUSHER,0,0,0,0,0,23,0,0,0,8,10,0,23,69,3,Sarek
+DATA,0,0,0,0,0,7,0,3,0,0,0,0,17,69,3,Sarek
+LAFORGE,0,0,0,0,5,0,0,6,0,1,27,0,21,69,3,Sarek
+O_BRIEN,0,0,0,5,0,0,0,1,0,0,0,0,6,69,3,Sarek
+PICARD,0,23,7,0,0,8,0,28,0,11,0,0,102,69,3,Sarek
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Sarek
+RIKER,0,0,3,6,1,28,0,0,0,1,1,4,32,69,3,Sarek
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Sarek
+TROI,0,8,0,1,0,11,0,1,0,0,0,0,11,69,3,Sarek
+WESLEY,0,10,0,27,0,0,0,1,0,0,0,0,21,69,3,Sarek
+WORF,0,0,0,0,0,0,0,4,0,0,0,2,4,69,3,Sarek
+COMPUTER,0,0,0,0,0,0,0,1,0,1,0,0,1,70,3,Menage a Troi
+CRUSHER,0,2,0,0,0,0,0,0,0,0,6,0,5,70,3,Menage a Troi
+DATA,0,0,0,3,0,8,0,1,0,0,7,0,12,70,3,Menage a Troi
+LAFORGE,0,0,3,0,0,5,0,0,0,0,11,1,11,70,3,Menage a Troi
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Menage a Troi
+PICARD,0,0,8,5,0,2,0,7,0,1,23,14,42,70,3,Menage a Troi
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Menage a Troi
+RIKER,1,0,1,0,0,7,0,6,0,12,2,0,39,70,3,Menage a Troi
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,Menage a Troi
+TROI,1,0,0,0,0,1,0,12,0,0,0,4,28,70,3,Menage a Troi
+WESLEY,0,6,7,11,0,23,0,2,0,0,0,0,28,70,3,Menage a Troi
+WORF,0,0,0,1,0,14,0,0,0,4,0,0,13,70,3,Menage a Troi
+COMPUTER,0,0,2,4,0,0,0,0,0,0,0,0,3,71,3,Transfigurations
+CRUSHER,0,8,1,13,3,23,0,1,0,2,12,3,65,71,3,Transfigurations
+DATA,2,1,2,16,0,13,0,1,0,0,0,4,21,71,3,Transfigurations
+LAFORGE,4,13,16,4,0,3,0,10,0,0,0,11,42,71,3,Transfigurations
+O_BRIEN,0,3,0,0,0,0,0,0,0,0,2,0,4,71,3,Transfigurations
+PICARD,0,23,13,3,0,0,0,5,0,3,0,10,48,71,3,Transfigurations
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,Transfigurations
+RIKER,0,1,1,10,0,5,0,2,0,1,0,3,14,71,3,Transfigurations
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,71,3,Transfigurations
+TROI,0,2,0,0,0,3,0,1,0,0,0,0,3,71,3,Transfigurations
+WESLEY,0,12,0,0,2,0,0,0,0,0,0,0,9,71,3,Transfigurations
+WORF,0,3,4,11,0,10,0,3,0,0,0,0,20,71,3,Transfigurations
+COMPUTER,0,0,1,3,0,0,0,0,0,0,0,1,4,72,3,The Best of Both Worlds (part 1)
+CRUSHER,0,0,5,1,0,0,0,1,0,0,0,3,7,72,3,The Best of Both Worlds (part 1)
+DATA,1,5,0,5,0,3,0,7,0,1,4,1,16,72,3,The Best of Both Worlds (part 1)
+LAFORGE,3,1,5,0,0,6,0,17,0,2,8,1,35,72,3,The Best of Both Worlds (part 1)
+O_BRIEN,0,0,0,0,0,0,0,6,0,0,0,1,7,72,3,The Best of Both Worlds (part 1)
+PICARD,0,0,3,6,0,4,0,26,0,0,4,24,55,72,3,The Best of Both Worlds (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Best of Both Worlds (part 1)
+RIKER,0,1,7,17,6,26,0,4,0,12,6,17,95,72,3,The Best of Both Worlds (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,72,3,The Best of Both Worlds (part 1)
+TROI,0,0,1,2,0,0,0,12,0,0,2,0,9,72,3,The Best of Both Worlds (part 1)
+WESLEY,0,0,4,8,0,4,0,6,0,2,0,1,15,72,3,The Best of Both Worlds (part 1)
+WORF,1,3,1,1,1,24,0,17,0,0,1,0,35,72,3,The Best of Both Worlds (part 1)
+COMPUTER,0,0,1,2,0,0,0,3,0,0,0,1,4,73,4,The Best of Both Worlds (part 2)
+CRUSHER,0,0,11,0,3,7,0,10,0,2,1,0,21,73,4,The Best of Both Worlds (part 2)
+DATA,1,11,4,1,5,0,0,30,0,3,0,2,49,73,4,The Best of Both Worlds (part 2)
+LAFORGE,2,0,1,0,0,0,0,9,0,0,1,2,14,73,4,The Best of Both Worlds (part 2)
+O_BRIEN,0,3,5,0,2,0,0,1,0,0,0,0,7,73,4,The Best of Both Worlds (part 2)
+PICARD,0,7,0,0,0,0,0,7,0,3,0,4,15,73,4,The Best of Both Worlds (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,The Best of Both Worlds (part 2)
+RIKER,3,10,30,9,1,7,0,6,0,1,22,23,106,73,4,The Best of Both Worlds (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,The Best of Both Worlds (part 2)
+TROI,0,2,3,0,0,3,0,1,0,2,0,1,7,73,4,The Best of Both Worlds (part 2)
+WESLEY,0,1,0,1,0,0,0,22,0,0,0,1,16,73,4,The Best of Both Worlds (part 2)
+WORF,1,0,2,2,0,4,0,23,0,1,1,2,25,73,4,The Best of Both Worlds (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,1,0,1,74,4,Family
+CRUSHER,0,4,0,0,0,0,0,0,0,13,5,0,12,74,4,Family
+DATA,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Family
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,1,4,74,4,Family
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,10,7,74,4,Family
+PICARD,0,0,0,0,0,4,0,0,0,18,0,3,98,74,4,Family
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Family
+RIKER,0,0,0,0,0,0,0,0,0,0,0,16,9,74,4,Family
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Family
+TROI,0,13,0,0,0,18,0,0,0,0,0,0,17,74,4,Family
+WESLEY,1,5,0,0,0,0,0,0,0,0,0,0,6,74,4,Family
+WORF,0,0,0,1,10,3,0,16,0,0,0,0,28,74,4,Family
+COMPUTER,2,0,15,2,0,10,0,3,0,0,1,1,19,75,4,Brothers
+CRUSHER,0,2,1,2,0,8,0,1,0,0,0,0,18,75,4,Brothers
+DATA,15,1,0,2,1,2,0,10,0,0,0,3,61,75,4,Brothers
+LAFORGE,2,2,2,2,0,17,0,13,0,0,4,3,29,75,4,Brothers
+O_BRIEN,0,0,1,0,0,8,0,5,0,0,0,0,9,75,4,Brothers
+PICARD,10,8,2,17,8,0,0,7,0,0,8,15,48,75,4,Brothers
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Brothers
+RIKER,3,1,10,13,5,7,0,6,0,0,4,13,45,75,4,Brothers
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Brothers
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,2,75,4,Brothers
+WESLEY,1,0,0,4,0,8,0,4,0,0,0,0,9,75,4,Brothers
+WORF,1,0,3,3,0,15,0,13,0,0,0,0,21,75,4,Brothers
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,76,4,Suddenly Human
+CRUSHER,0,2,1,0,0,22,0,5,0,4,0,4,25,76,4,Suddenly Human
+DATA,0,1,0,0,0,15,0,11,0,1,2,1,17,76,4,Suddenly Human
+LAFORGE,0,0,0,0,0,0,0,3,0,0,0,1,3,76,4,Suddenly Human
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Suddenly Human
+PICARD,2,22,15,0,0,16,0,14,0,28,1,11,115,76,4,Suddenly Human
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Suddenly Human
+RIKER,0,5,11,3,0,14,0,2,0,1,1,7,27,76,4,Suddenly Human
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Suddenly Human
+TROI,0,4,1,0,0,28,0,1,0,0,0,0,19,76,4,Suddenly Human
+WESLEY,0,0,2,0,0,1,0,1,0,0,0,2,4,76,4,Suddenly Human
+WORF,0,4,1,1,0,11,0,7,0,0,2,2,21,76,4,Suddenly Human
+COMPUTER,0,61,0,2,0,1,0,0,0,0,0,1,36,77,4,Remember Me
+CRUSHER,61,18,20,7,11,52,0,12,0,10,18,8,127,77,4,Remember Me
+DATA,0,20,0,1,0,9,0,3,0,0,0,1,18,77,4,Remember Me
+LAFORGE,2,7,1,2,0,9,0,5,0,0,13,0,24,77,4,Remember Me
+O_BRIEN,0,11,0,0,0,0,0,2,0,0,0,0,8,77,4,Remember Me
+PICARD,1,52,9,9,0,0,0,9,0,0,8,3,52,77,4,Remember Me
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Remember Me
+RIKER,0,12,3,5,2,9,0,0,0,0,2,1,21,77,4,Remember Me
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Remember Me
+TROI,0,10,0,0,0,0,0,0,0,0,0,0,6,77,4,Remember Me
+WESLEY,0,18,0,13,0,8,0,2,0,0,0,0,30,77,4,Remember Me
+WORF,1,8,1,0,0,3,0,1,0,0,0,0,8,77,4,Remember Me
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Legacy
+CRUSHER,0,0,0,0,0,2,0,1,0,0,0,3,10,78,4,Legacy
+DATA,0,0,0,1,2,12,0,26,0,4,0,2,69,78,4,Legacy
+LAFORGE,0,0,1,2,0,7,0,11,0,0,0,1,14,78,4,Legacy
+O_BRIEN,0,0,2,0,0,2,0,2,0,0,0,1,7,78,4,Legacy
+PICARD,0,2,12,7,2,4,0,15,0,4,0,8,40,78,4,Legacy
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Legacy
+RIKER,0,1,26,11,2,15,0,8,0,0,0,11,61,78,4,Legacy
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Legacy
+TROI,0,0,4,0,0,4,0,0,0,0,0,0,4,78,4,Legacy
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,Legacy
+WORF,0,3,2,1,1,8,0,11,0,0,0,0,22,78,4,Legacy
+COMPUTER,0,0,0,0,0,2,0,2,0,0,0,0,9,79,4,Reunion
+CRUSHER,0,0,0,0,0,2,0,5,0,0,0,1,6,79,4,Reunion
+DATA,0,0,0,3,0,6,0,4,0,0,0,0,8,79,4,Reunion
+LAFORGE,0,0,3,0,0,1,0,2,0,0,0,0,4,79,4,Reunion
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Reunion
+PICARD,2,2,6,1,0,8,0,4,0,0,2,38,65,79,4,Reunion
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Reunion
+RIKER,2,5,4,2,0,4,0,0,0,0,1,3,15,79,4,Reunion
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Reunion
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,1,79,4,Reunion
+WESLEY,0,0,0,0,0,2,0,1,0,0,0,0,2,79,4,Reunion
+WORF,0,1,0,0,0,38,0,3,0,0,0,6,69,79,4,Reunion
+COMPUTER,0,0,0,0,0,0,0,6,0,0,0,0,3,80,4,Future Imperfect
+CRUSHER,0,0,0,0,0,2,0,49,0,2,0,0,32,80,4,Future Imperfect
+DATA,0,0,0,0,0,7,0,19,0,0,0,4,17,80,4,Future Imperfect
+LAFORGE,0,0,0,0,0,2,0,18,0,1,0,2,13,80,4,Future Imperfect
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Future Imperfect
+PICARD,0,2,7,2,0,0,0,34,0,5,0,0,38,80,4,Future Imperfect
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Future Imperfect
+RIKER,6,49,19,18,0,34,0,8,0,28,0,6,164,80,4,Future Imperfect
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Future Imperfect
+TROI,0,2,0,1,0,5,0,28,0,0,0,0,20,80,4,Future Imperfect
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Future Imperfect
+WORF,0,0,4,2,0,0,0,6,0,0,0,0,6,80,4,Future Imperfect
+COMPUTER,0,0,2,1,0,0,0,5,0,0,0,2,6,81,4,Final Mission
+CRUSHER,0,0,3,1,0,2,0,3,0,4,10,2,14,81,4,Final Mission
+DATA,2,3,0,11,0,0,0,20,0,0,0,0,20,81,4,Final Mission
+LAFORGE,1,1,11,0,0,0,0,17,0,0,0,2,18,81,4,Final Mission
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Final Mission
+PICARD,0,2,0,0,0,8,0,0,0,0,72,2,68,81,4,Final Mission
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Final Mission
+RIKER,5,3,20,17,0,0,0,2,0,0,0,9,34,81,4,Final Mission
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Final Mission
+TROI,0,4,0,0,0,0,0,0,0,0,0,0,2,81,4,Final Mission
+WESLEY,0,10,0,0,0,72,0,0,0,0,8,0,69,81,4,Final Mission
+WORF,2,2,0,2,0,2,0,9,0,0,0,0,9,81,4,Final Mission
+COMPUTER,0,0,1,1,0,1,0,0,0,0,0,0,2,82,4,The Loss
+CRUSHER,0,0,0,0,0,0,0,4,0,36,0,0,23,82,4,The Loss
+DATA,1,0,0,11,0,21,0,19,0,21,0,6,48,82,4,The Loss
+LAFORGE,1,0,11,0,0,11,0,10,0,1,0,1,31,82,4,The Loss
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,The Loss
+PICARD,1,0,21,11,0,0,0,6,0,23,0,11,49,82,4,The Loss
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,The Loss
+RIKER,0,4,19,10,0,6,0,0,0,41,0,4,51,82,4,The Loss
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,The Loss
+TROI,0,36,21,1,0,23,0,41,0,2,0,0,100,82,4,The Loss
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,The Loss
+WORF,0,0,6,1,0,11,0,4,0,0,0,0,12,82,4,The Loss
+COMPUTER,0,0,2,0,0,0,0,0,0,0,0,0,2,83,4,Data's Day
+CRUSHER,0,12,48,1,0,1,0,0,0,0,0,0,35,83,4,Data's Day
+DATA,2,48,30,21,18,23,0,20,0,17,0,16,136,83,4,Data's Day
+LAFORGE,0,1,21,0,1,3,0,0,0,0,0,0,15,83,4,Data's Day
+O_BRIEN,0,0,18,1,0,6,0,3,0,0,0,2,16,83,4,Data's Day
+PICARD,0,1,23,3,6,4,0,6,0,0,0,10,36,83,4,Data's Day
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Data's Day
+RIKER,0,0,20,0,3,6,0,0,0,0,0,2,18,83,4,Data's Day
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Data's Day
+TROI,0,0,17,0,0,0,0,0,0,0,0,0,9,83,4,Data's Day
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Data's Day
+WORF,0,0,16,0,2,10,0,2,0,0,0,4,19,83,4,Data's Day
+COMPUTER,0,0,0,0,1,0,0,0,0,0,0,0,1,84,4,The Wounded
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Wounded
+DATA,0,0,0,0,1,21,0,5,0,0,0,4,21,84,4,The Wounded
+LAFORGE,0,0,0,0,0,1,0,1,0,0,0,1,2,84,4,The Wounded
+O_BRIEN,1,0,1,0,2,22,0,2,0,0,0,2,58,84,4,The Wounded
+PICARD,0,0,21,1,22,4,0,8,0,4,0,38,94,84,4,The Wounded
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Wounded
+RIKER,0,0,5,1,2,8,0,0,0,0,0,5,18,84,4,The Wounded
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Wounded
+TROI,0,0,0,0,0,4,0,0,0,0,0,2,3,84,4,The Wounded
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Wounded
+WORF,0,0,4,1,2,38,0,5,0,2,0,0,29,84,4,The Wounded
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Devil's Due
+CRUSHER,0,0,0,0,0,3,0,1,0,0,0,0,2,85,4,Devil's Due
+DATA,0,0,2,1,0,43,0,2,0,0,0,0,40,85,4,Devil's Due
+LAFORGE,0,0,1,0,0,17,0,1,0,1,0,3,16,85,4,Devil's Due
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Devil's Due
+PICARD,0,3,43,17,0,6,0,12,0,4,0,14,123,85,4,Devil's Due
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Devil's Due
+RIKER,0,1,2,1,0,12,0,0,0,0,0,2,14,85,4,Devil's Due
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Devil's Due
+TROI,0,0,0,1,0,4,0,0,0,0,0,0,5,85,4,Devil's Due
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Devil's Due
+WORF,0,0,0,3,0,14,0,2,0,0,0,0,14,85,4,Devil's Due
+COMPUTER,0,0,6,0,0,1,0,0,0,0,0,1,4,86,4,Clues
+CRUSHER,0,2,2,2,8,42,0,0,0,1,0,6,46,86,4,Clues
+DATA,6,2,6,17,0,95,0,13,0,9,0,5,84,86,4,Clues
+LAFORGE,0,2,17,2,0,21,0,5,0,1,0,2,29,86,4,Clues
+O_BRIEN,0,8,0,0,0,0,0,0,0,0,0,0,4,86,4,Clues
+PICARD,1,42,95,21,0,4,0,22,0,31,0,25,139,86,4,Clues
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Clues
+RIKER,0,0,13,5,0,22,0,0,0,3,0,4,24,86,4,Clues
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Clues
+TROI,0,1,9,1,0,31,0,3,0,0,0,4,25,86,4,Clues
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Clues
+WORF,1,6,5,2,0,25,0,4,0,4,0,0,26,86,4,Clues
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+CRUSHER,0,0,0,0,0,6,0,0,0,0,0,0,9,87,4,First Contact
+DATA,0,0,0,0,0,2,0,0,0,0,0,0,3,87,4,First Contact
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+PICARD,0,6,2,0,0,4,0,0,0,7,0,2,50,87,4,First Contact
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+RIKER,0,0,0,0,0,0,0,0,0,0,0,0,35,87,4,First Contact
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+TROI,0,0,0,0,0,7,0,0,0,0,0,0,7,87,4,First Contact
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,First Contact
+WORF,0,0,0,0,0,2,0,0,0,0,0,0,1,87,4,First Contact
+COMPUTER,0,1,0,2,0,1,0,1,0,0,0,0,4,88,4,Galaxy's Child
+CRUSHER,1,0,3,0,0,5,0,7,0,4,0,3,12,88,4,Galaxy's Child
+DATA,0,3,4,0,0,24,0,20,0,2,0,8,36,88,4,Galaxy's Child
+LAFORGE,2,0,0,4,0,24,0,0,0,0,0,2,109,88,4,Galaxy's Child
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Galaxy's Child
+PICARD,1,5,24,24,0,2,0,10,0,2,0,15,55,88,4,Galaxy's Child
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Galaxy's Child
+RIKER,1,7,20,0,0,10,0,0,0,0,0,6,25,88,4,Galaxy's Child
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Galaxy's Child
+TROI,0,4,2,0,0,2,0,0,0,0,0,2,5,88,4,Galaxy's Child
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Galaxy's Child
+WORF,0,3,8,2,0,15,0,6,0,2,0,0,23,88,4,Galaxy's Child
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Night Terrors
+CRUSHER,0,0,12,0,0,18,0,2,0,7,0,0,26,89,4,Night Terrors
+DATA,0,12,0,9,0,30,0,7,0,21,0,4,57,89,4,Night Terrors
+LAFORGE,0,0,9,0,0,2,0,5,0,0,0,0,16,89,4,Night Terrors
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,13,89,4,Night Terrors
+PICARD,0,18,30,2,0,10,0,8,0,12,0,1,47,89,4,Night Terrors
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Night Terrors
+RIKER,0,2,7,5,0,8,0,0,0,2,0,2,17,89,4,Night Terrors
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Night Terrors
+TROI,0,7,21,0,0,12,0,2,0,4,0,11,49,89,4,Night Terrors
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Night Terrors
+WORF,0,0,4,0,0,1,0,2,0,11,0,0,12,89,4,Night Terrors
+COMPUTER,0,3,0,19,0,1,0,0,0,0,0,0,12,90,4,Identity Crisis
+CRUSHER,3,2,6,17,0,11,0,0,0,0,0,0,43,90,4,Identity Crisis
+DATA,0,6,2,10,0,11,0,10,0,0,0,3,27,90,4,Identity Crisis
+LAFORGE,19,17,10,8,0,8,0,4,0,0,0,1,72,90,4,Identity Crisis
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Identity Crisis
+PICARD,1,11,11,8,0,0,0,3,0,0,0,9,29,90,4,Identity Crisis
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Identity Crisis
+RIKER,0,0,10,4,0,3,0,0,0,0,0,8,22,90,4,Identity Crisis
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Identity Crisis
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Identity Crisis
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,Identity Crisis
+WORF,0,0,3,1,0,9,0,8,0,0,0,2,14,90,4,Identity Crisis
+COMPUTER,0,0,0,1,0,0,0,0,0,0,0,0,2,91,4,The Nth Degree
+CRUSHER,0,0,0,5,0,1,0,3,0,1,0,0,12,91,4,The Nth Degree
+DATA,0,0,0,3,0,13,0,10,0,1,0,8,21,91,4,The Nth Degree
+LAFORGE,1,5,3,4,0,12,0,13,0,5,0,2,68,91,4,The Nth Degree
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,The Nth Degree
+PICARD,0,1,13,12,0,0,0,8,0,1,0,19,48,91,4,The Nth Degree
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,The Nth Degree
+RIKER,0,3,10,13,0,8,0,0,0,0,0,10,38,91,4,The Nth Degree
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,The Nth Degree
+TROI,0,1,1,5,0,1,0,0,0,0,0,1,25,91,4,The Nth Degree
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,The Nth Degree
+WORF,0,0,8,2,0,19,0,10,0,1,0,2,30,91,4,The Nth Degree
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,92,4,Qpid
+CRUSHER,0,0,0,0,0,11,0,7,0,0,0,0,16,92,4,Qpid
+DATA,0,0,0,0,0,0,2,3,0,1,0,1,4,92,4,Qpid
+LAFORGE,0,0,0,0,0,0,2,2,0,0,0,0,3,92,4,Qpid
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,Qpid
+PICARD,1,11,0,0,0,16,67,13,0,20,0,1,123,92,4,Qpid
+Q,0,0,2,2,0,67,4,0,0,0,0,0,59,92,4,Qpid
+RIKER,0,7,3,2,0,13,0,0,0,1,0,3,27,92,4,Qpid
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,Qpid
+TROI,0,0,1,0,0,20,0,1,0,0,0,2,16,92,4,Qpid
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,Qpid
+WORF,0,0,1,0,0,1,0,3,0,2,0,0,5,92,4,Qpid
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Drumhead
+CRUSHER,0,0,0,0,0,1,0,0,0,0,0,0,7,93,4,The Drumhead
+DATA,0,0,0,5,0,3,0,0,0,0,0,0,6,93,4,The Drumhead
+LAFORGE,0,0,5,2,0,6,0,0,0,0,0,0,12,93,4,The Drumhead
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Drumhead
+PICARD,0,1,3,6,0,4,0,1,0,0,0,32,99,93,4,The Drumhead
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Drumhead
+RIKER,0,0,0,0,0,1,0,2,0,1,0,0,7,93,4,The Drumhead
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Drumhead
+TROI,0,0,0,0,0,0,0,1,0,0,0,0,3,93,4,The Drumhead
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Drumhead
+WORF,0,0,0,0,0,32,0,0,0,0,0,0,33,93,4,The Drumhead
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Half A_Life
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,1,94,4,Half A_Life
+DATA,0,0,0,6,0,2,0,1,0,0,0,2,12,94,4,Half A_Life
+LAFORGE,0,0,6,0,0,1,0,0,0,0,0,0,22,94,4,Half A_Life
+O_BRIEN,0,0,0,0,0,0,0,0,0,2,0,0,2,94,4,Half A_Life
+PICARD,0,0,2,1,0,2,0,4,0,0,0,6,39,94,4,Half A_Life
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Half A_Life
+RIKER,0,0,1,0,0,4,0,0,0,0,0,3,7,94,4,Half A_Life
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Half A_Life
+TROI,0,0,0,0,2,0,0,0,0,0,0,0,22,94,4,Half A_Life
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Half A_Life
+WORF,0,0,2,0,0,6,0,3,0,0,0,0,9,94,4,Half A_Life
+COMPUTER,0,1,0,0,0,1,0,4,0,0,0,0,3,95,4,The Host
+CRUSHER,1,6,10,0,0,22,0,55,0,32,0,10,104,95,4,The Host
+DATA,0,10,0,0,0,2,0,2,0,0,0,1,11,95,4,The Host
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,1,95,4,The Host
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,The Host
+PICARD,1,22,2,0,0,2,0,30,0,6,0,7,53,95,4,The Host
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,The Host
+RIKER,4,55,2,0,0,30,0,4,0,0,0,4,67,95,4,The Host
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,The Host
+TROI,0,32,0,0,0,6,0,0,0,0,0,0,21,95,4,The Host
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,The Host
+WORF,0,10,1,0,0,7,0,4,0,0,0,0,13,95,4,The Host
+COMPUTER,2,0,22,28,0,0,0,0,0,0,0,0,29,96,4,The Mind's Eye
+CRUSHER,0,0,0,14,0,0,0,0,0,0,0,0,7,96,4,The Mind's Eye
+DATA,22,0,0,28,3,6,0,26,0,0,0,2,59,96,4,The Mind's Eye
+LAFORGE,28,14,28,2,17,11,0,6,0,20,0,6,95,96,4,The Mind's Eye
+O_BRIEN,0,0,3,17,0,1,0,0,0,0,0,2,15,96,4,The Mind's Eye
+PICARD,0,0,6,11,1,2,0,3,0,0,0,6,44,96,4,The Mind's Eye
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,The Mind's Eye
+RIKER,0,0,26,6,0,3,0,0,0,0,0,0,23,96,4,The Mind's Eye
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,The Mind's Eye
+TROI,0,0,0,20,0,0,0,0,0,0,0,1,11,96,4,The Mind's Eye
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,96,4,The Mind's Eye
+WORF,0,0,2,6,2,6,0,0,0,1,0,0,18,96,4,The Mind's Eye
+COMPUTER,0,0,1,1,0,1,0,0,0,0,0,1,2,97,4,In Theory
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,1,97,4,In Theory
+DATA,1,0,4,12,1,19,0,18,0,6,0,5,113,97,4,In Theory
+LAFORGE,1,0,12,2,0,6,0,1,0,0,0,0,20,97,4,In Theory
+O_BRIEN,0,0,1,0,0,1,0,3,0,0,0,0,6,97,4,In Theory
+PICARD,1,0,19,6,1,4,0,13,0,0,0,19,51,97,4,In Theory
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,97,4,In Theory
+RIKER,0,0,18,1,3,13,0,0,0,0,0,9,31,97,4,In Theory
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,97,4,In Theory
+TROI,0,0,6,0,0,0,0,0,0,0,0,0,4,97,4,In Theory
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,97,4,In Theory
+WORF,1,0,5,0,0,19,0,9,0,0,0,2,22,97,4,In Theory
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,1,1,98,4,Redemption (part 1)
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+DATA,0,0,0,0,0,5,0,1,0,0,0,2,5,98,4,Redemption (part 1)
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+PICARD,0,0,5,0,0,6,0,11,0,0,0,43,60,98,4,Redemption (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+RIKER,0,0,1,0,0,11,0,0,0,0,0,3,12,98,4,Redemption (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,98,4,Redemption (part 1)
+WORF,1,0,2,0,0,43,0,3,0,0,0,2,73,98,4,Redemption (part 1)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Redemption (part 2)
+CRUSHER,0,0,0,0,0,2,0,0,0,2,0,0,2,99,5,Redemption (part 2)
+DATA,0,0,0,0,0,17,0,0,0,0,0,0,34,99,5,Redemption (part 2)
+LAFORGE,0,0,0,0,0,4,0,2,0,0,0,0,3,99,5,Redemption (part 2)
+O_BRIEN,0,0,0,0,0,18,0,0,0,0,0,0,13,99,5,Redemption (part 2)
+PICARD,0,2,17,4,18,6,0,10,0,2,0,1,60,99,5,Redemption (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Redemption (part 2)
+RIKER,0,0,0,2,0,10,0,0,0,0,0,0,8,99,5,Redemption (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Redemption (part 2)
+TROI,0,2,0,0,0,2,0,0,0,0,0,0,2,99,5,Redemption (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Redemption (part 2)
+WORF,0,0,0,0,0,1,0,0,0,0,0,0,21,99,5,Redemption (part 2)
+COMPUTER,0,0,1,0,0,0,0,0,0,3,0,0,2,100,5,Darmok
+CRUSHER,0,0,1,0,0,0,0,1,0,4,0,0,3,100,5,Darmok
+DATA,1,1,0,1,0,8,0,38,0,2,0,5,31,100,5,Darmok
+LAFORGE,0,0,1,0,2,0,0,20,0,1,0,2,21,100,5,Darmok
+O_BRIEN,0,0,0,2,0,0,0,1,0,0,0,1,8,100,5,Darmok
+PICARD,0,0,8,0,0,4,0,12,0,3,0,2,50,100,5,Darmok
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,Darmok
+RIKER,0,1,38,20,1,12,0,4,0,5,0,40,74,100,5,Darmok
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,Darmok
+TROI,3,4,2,1,0,3,0,5,0,0,0,3,11,100,5,Darmok
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,Darmok
+WORF,0,0,5,2,1,2,0,40,0,3,0,2,32,100,5,Darmok
+COMPUTER,0,0,1,0,0,0,0,0,0,0,0,1,1,101,5,Ensign Ro
+CRUSHER,0,0,1,0,0,2,0,0,0,1,0,0,2,101,5,Ensign Ro
+DATA,1,1,0,0,0,10,0,1,0,1,0,2,11,101,5,Ensign Ro
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,3,101,5,Ensign Ro
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Ensign Ro
+PICARD,0,2,10,0,0,6,0,24,0,2,0,8,102,101,5,Ensign Ro
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Ensign Ro
+RIKER,0,0,1,0,0,24,0,0,0,0,0,2,23,101,5,Ensign Ro
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Ensign Ro
+TROI,0,1,1,0,0,2,0,0,0,0,0,2,4,101,5,Ensign Ro
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Ensign Ro
+WORF,1,0,2,0,0,8,0,2,0,2,0,0,11,101,5,Ensign Ro
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Silicon Avatar
+CRUSHER,0,0,2,0,0,0,0,10,0,0,0,0,8,102,5,Silicon Avatar
+DATA,0,2,4,11,0,19,0,8,0,2,0,2,77,102,5,Silicon Avatar
+LAFORGE,0,0,11,0,0,6,0,2,0,1,0,0,17,102,5,Silicon Avatar
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Silicon Avatar
+PICARD,0,0,19,6,0,0,0,14,0,6,0,14,58,102,5,Silicon Avatar
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Silicon Avatar
+RIKER,0,10,8,2,0,14,0,8,0,0,0,3,35,102,5,Silicon Avatar
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Silicon Avatar
+TROI,0,0,2,1,0,6,0,0,0,0,0,0,5,102,5,Silicon Avatar
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Silicon Avatar
+WORF,0,0,2,0,0,14,0,3,0,0,0,0,13,102,5,Silicon Avatar
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Disaster
+CRUSHER,0,0,0,32,0,0,0,0,0,0,0,0,18,103,5,Disaster
+DATA,0,0,2,0,0,0,0,42,0,0,0,2,25,103,5,Disaster
+LAFORGE,0,32,0,4,0,0,0,0,0,0,0,0,21,103,5,Disaster
+O_BRIEN,0,0,0,0,4,1,0,0,0,19,0,0,37,103,5,Disaster
+PICARD,0,0,0,0,1,14,0,1,0,3,0,0,44,103,5,Disaster
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Disaster
+RIKER,0,0,42,0,0,1,0,2,0,3,0,3,31,103,5,Disaster
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Disaster
+TROI,0,0,0,0,19,3,0,3,0,2,0,0,25,103,5,Disaster
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Disaster
+WORF,0,0,2,0,0,0,0,3,0,0,0,6,22,103,5,Disaster
+COMPUTER,0,0,0,0,0,0,0,1,0,0,0,0,1,104,5,The Game
+CRUSHER,0,0,9,3,0,10,0,0,0,2,29,0,28,104,5,The Game
+DATA,0,9,2,2,0,5,0,4,0,0,20,2,24,104,5,The Game
+LAFORGE,0,3,2,2,0,5,0,24,0,0,5,1,22,104,5,The Game
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,7,3,6,104,5,The Game
+PICARD,0,10,5,5,0,0,0,7,0,1,32,4,36,104,5,The Game
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,104,5,The Game
+RIKER,1,0,4,24,0,7,0,2,0,12,8,5,41,104,5,The Game
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,104,5,The Game
+TROI,0,2,0,0,0,1,0,12,0,0,0,0,8,104,5,The Game
+WESLEY,0,29,20,5,7,32,0,8,0,0,2,2,120,104,5,The Game
+WORF,0,0,2,1,3,4,0,5,0,0,2,0,10,104,5,The Game
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,105,5,Unification (part 1)
+CRUSHER,0,0,4,0,0,6,0,1,0,0,0,0,6,105,5,Unification (part 1)
+DATA,0,4,2,0,0,48,0,0,0,0,0,2,34,105,5,Unification (part 1)
+LAFORGE,0,0,0,0,0,2,0,16,0,0,0,7,17,105,5,Unification (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Unification (part 1)
+PICARD,1,6,48,2,0,6,0,22,0,0,0,15,101,105,5,Unification (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Unification (part 1)
+RIKER,0,1,0,16,0,22,0,4,0,2,0,25,46,105,5,Unification (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Unification (part 1)
+TROI,0,0,0,0,0,0,0,2,0,0,0,0,4,105,5,Unification (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Unification (part 1)
+WORF,0,0,2,7,0,15,0,25,0,0,0,2,28,105,5,Unification (part 1)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,Unification (part 2)
+CRUSHER,0,0,0,0,0,0,0,2,0,0,0,1,2,106,5,Unification (part 2)
+DATA,0,0,2,0,0,10,0,0,0,0,0,0,33,106,5,Unification (part 2)
+LAFORGE,0,0,0,0,0,0,0,8,0,2,0,2,6,106,5,Unification (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,Unification (part 2)
+PICARD,0,0,10,0,0,4,0,0,0,0,0,0,51,106,5,Unification (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,Unification (part 2)
+RIKER,0,2,0,8,0,0,0,10,0,5,0,23,56,106,5,Unification (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,Unification (part 2)
+TROI,0,0,0,2,0,0,0,5,0,0,0,3,5,106,5,Unification (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,Unification (part 2)
+WORF,0,1,0,2,0,0,0,23,0,3,0,0,20,106,5,Unification (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,A_Matter of Time
+CRUSHER,0,2,0,0,0,3,0,0,0,6,0,1,17,107,5,A_Matter of Time
+DATA,0,0,2,9,0,18,0,7,0,0,0,5,48,107,5,A_Matter of Time
+LAFORGE,0,0,9,0,0,11,0,5,0,0,0,2,30,107,5,A_Matter of Time
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,A_Matter of Time
+PICARD,0,3,18,11,0,2,0,17,0,0,0,22,72,107,5,A_Matter of Time
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,A_Matter of Time
+RIKER,0,0,7,5,0,17,0,0,0,2,0,11,36,107,5,A_Matter of Time
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,A_Matter of Time
+TROI,0,6,0,0,0,0,0,2,0,0,0,0,12,107,5,A_Matter of Time
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,A_Matter of Time
+WORF,0,1,5,2,0,22,0,11,0,0,0,0,29,107,5,A_Matter of Time
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,2,3,108,5,New Ground
+CRUSHER,0,0,0,0,0,2,0,0,0,0,0,5,4,108,5,New Ground
+DATA,0,0,0,6,0,15,0,12,0,0,0,3,21,108,5,New Ground
+LAFORGE,0,0,6,0,0,6,0,7,0,0,0,4,15,108,5,New Ground
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,New Ground
+PICARD,2,2,15,6,0,0,0,6,0,0,0,11,30,108,5,New Ground
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,New Ground
+RIKER,0,0,12,7,0,6,0,0,0,0,0,15,29,108,5,New Ground
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,New Ground
+TROI,0,0,0,0,0,0,0,0,0,0,0,42,24,108,5,New Ground
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,New Ground
+WORF,2,5,3,4,0,11,0,15,0,42,0,2,102,108,5,New Ground
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,Hero Worship
+CRUSHER,0,0,1,0,0,3,0,0,0,1,0,0,8,109,5,Hero Worship
+DATA,0,1,4,17,0,24,0,12,0,14,0,2,83,109,5,Hero Worship
+LAFORGE,0,0,17,2,0,15,0,4,0,1,0,3,30,109,5,Hero Worship
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,Hero Worship
+PICARD,0,3,24,15,0,0,0,11,0,18,0,19,60,109,5,Hero Worship
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,Hero Worship
+RIKER,0,0,12,4,0,11,0,0,0,0,0,16,29,109,5,Hero Worship
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,Hero Worship
+TROI,0,1,14,1,0,18,0,0,0,0,0,0,33,109,5,Hero Worship
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,Hero Worship
+WORF,0,0,2,3,0,19,0,16,0,0,0,2,25,109,5,Hero Worship
+COMPUTER,0,0,0,21,0,1,0,1,0,0,0,1,12,110,5,Violations
+CRUSHER,0,2,0,0,0,16,0,7,0,0,0,3,29,110,5,Violations
+DATA,0,0,0,29,0,7,0,0,0,3,0,0,23,110,5,Violations
+LAFORGE,21,0,29,0,0,4,0,3,0,0,0,0,40,110,5,Violations
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,Violations
+PICARD,1,16,7,4,0,4,0,2,0,11,0,1,50,110,5,Violations
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,Violations
+RIKER,1,7,0,3,0,2,0,0,0,5,0,0,27,110,5,Violations
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,Violations
+TROI,0,0,3,0,0,11,0,5,0,16,0,0,51,110,5,Violations
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,Violations
+WORF,1,3,0,0,0,1,0,0,0,0,0,0,5,110,5,Violations
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,The Masterpiece Society
+CRUSHER,0,0,0,0,0,1,0,1,0,2,0,0,2,111,5,The Masterpiece Society
+DATA,0,0,0,2,0,6,0,3,0,0,0,2,11,111,5,The Masterpiece Society
+LAFORGE,0,0,2,2,0,8,0,7,0,3,0,0,57,111,5,The Masterpiece Society
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,The Masterpiece Society
+PICARD,0,1,6,8,0,2,0,14,0,30,0,10,53,111,5,The Masterpiece Society
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,The Masterpiece Society
+RIKER,0,1,3,7,0,14,0,2,0,1,0,4,27,111,5,The Masterpiece Society
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,The Masterpiece Society
+TROI,0,2,0,3,0,30,0,1,0,0,0,1,52,111,5,The Masterpiece Society
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,The Masterpiece Society
+WORF,0,0,2,0,0,10,0,4,0,1,0,0,9,111,5,The Masterpiece Society
+COMPUTER,0,0,0,5,0,1,0,0,0,0,0,0,3,112,5,Conundrum
+CRUSHER,0,6,0,0,0,8,0,4,0,0,0,2,23,112,5,Conundrum
+DATA,0,0,4,19,0,9,0,10,0,12,0,3,34,112,5,Conundrum
+LAFORGE,5,0,19,0,0,14,0,9,0,3,0,11,40,112,5,Conundrum
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,Conundrum
+PICARD,1,8,9,14,0,2,0,9,0,2,0,30,61,112,5,Conundrum
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,Conundrum
+RIKER,0,4,10,9,0,9,0,0,0,42,0,7,74,112,5,Conundrum
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,Conundrum
+TROI,0,0,12,3,0,2,0,42,0,0,0,4,36,112,5,Conundrum
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,Conundrum
+WORF,0,2,3,11,0,30,0,7,0,4,0,2,46,112,5,Conundrum
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Power Play
+CRUSHER,0,0,0,4,3,9,0,7,0,4,0,0,19,113,5,Power Play
+DATA,0,0,0,0,8,18,0,18,0,20,0,6,43,113,5,Power Play
+LAFORGE,0,4,0,0,3,2,0,21,0,0,0,1,28,113,5,Power Play
+O_BRIEN,0,3,8,3,2,14,0,8,0,10,0,2,38,113,5,Power Play
+PICARD,0,9,18,2,14,2,0,22,0,75,0,17,99,113,5,Power Play
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Power Play
+RIKER,0,7,18,21,8,22,0,6,0,7,0,4,70,113,5,Power Play
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Power Play
+TROI,0,4,20,0,10,75,0,7,0,2,0,1,76,113,5,Power Play
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Power Play
+WORF,0,0,6,1,2,17,0,4,0,1,0,0,18,113,5,Power Play
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+CRUSHER,0,0,2,0,0,18,0,1,0,3,0,11,80,114,5,Ethics
+DATA,0,2,0,0,0,1,0,0,0,0,0,0,2,114,5,Ethics
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+PICARD,0,18,1,0,0,0,0,17,0,0,0,0,23,114,5,Ethics
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+RIKER,0,1,0,0,0,17,0,0,0,0,0,26,24,114,5,Ethics
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+TROI,0,3,0,0,0,0,0,0,0,2,0,14,17,114,5,Ethics
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ethics
+WORF,0,11,0,0,0,0,0,26,0,14,0,0,37,114,5,Ethics
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,The Outcast
+CRUSHER,0,2,0,0,0,0,0,1,0,1,0,7,15,115,5,The Outcast
+DATA,0,0,2,0,0,9,0,3,0,1,0,2,11,115,5,The Outcast
+LAFORGE,0,0,0,2,0,2,0,9,0,0,0,0,9,115,5,The Outcast
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,The Outcast
+PICARD,0,0,9,2,0,0,0,19,0,0,0,1,19,115,5,The Outcast
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,The Outcast
+RIKER,0,1,3,9,0,19,0,8,0,12,0,9,139,115,5,The Outcast
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,The Outcast
+TROI,0,1,1,0,0,0,0,12,0,0,0,9,13,115,5,The Outcast
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,The Outcast
+WORF,0,7,2,0,0,1,0,9,0,9,0,0,15,115,5,The Outcast
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Cause and Effect
+CRUSHER,0,0,21,67,0,19,0,18,0,3,0,9,83,116,5,Cause and Effect
+DATA,0,21,0,29,0,21,0,25,0,9,0,18,67,116,5,Cause and Effect
+LAFORGE,0,67,29,0,0,22,0,13,0,5,0,4,76,116,5,Cause and Effect
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Cause and Effect
+PICARD,0,19,21,22,0,2,0,11,0,1,0,21,62,116,5,Cause and Effect
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Cause and Effect
+RIKER,0,18,25,13,0,11,0,2,0,0,0,25,51,116,5,Cause and Effect
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Cause and Effect
+TROI,0,3,9,5,0,1,0,0,0,0,0,0,9,116,5,Cause and Effect
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Cause and Effect
+WORF,0,9,18,4,0,21,0,25,0,0,0,0,42,116,5,Cause and Effect
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,The First Duty
+CRUSHER,0,0,0,0,0,13,0,0,0,0,10,0,15,117,5,The First Duty
+DATA,0,0,0,8,0,2,0,0,0,0,0,0,5,117,5,The First Duty
+LAFORGE,0,0,8,0,0,9,0,0,0,0,0,0,9,117,5,The First Duty
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,The First Duty
+PICARD,0,13,2,9,0,0,0,3,0,1,30,5,59,117,5,The First Duty
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,The First Duty
+RIKER,0,0,0,0,0,3,0,0,0,0,0,1,2,117,5,The First Duty
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,The First Duty
+TROI,0,0,0,0,0,1,0,0,0,0,0,1,1,117,5,The First Duty
+WESLEY,0,10,0,0,0,30,0,0,0,0,2,0,56,117,5,The First Duty
+WORF,0,0,0,0,0,5,0,1,0,1,0,0,4,117,5,The First Duty
+COMPUTER,0,0,10,1,0,1,0,0,0,2,0,1,9,118,5,Cost of Living
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Cost of Living
+DATA,10,0,0,13,0,22,0,5,0,0,0,0,27,118,5,Cost of Living
+LAFORGE,1,0,13,2,0,16,0,3,0,0,0,1,26,118,5,Cost of Living
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Cost of Living
+PICARD,1,0,22,16,0,0,0,14,0,0,0,7,37,118,5,Cost of Living
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Cost of Living
+RIKER,0,0,5,3,0,14,0,0,0,2,0,2,15,118,5,Cost of Living
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Cost of Living
+TROI,2,0,0,0,0,0,0,2,0,0,0,12,35,118,5,Cost of Living
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Cost of Living
+WORF,1,0,0,1,0,7,0,2,0,12,0,4,33,118,5,Cost of Living
+COMPUTER,0,0,0,1,0,0,0,0,0,0,0,0,1,119,5,The Perfect Mate
+CRUSHER,0,0,0,0,0,33,0,0,0,0,0,0,19,119,5,The Perfect Mate
+DATA,0,0,4,0,0,6,0,1,0,0,0,2,13,119,5,The Perfect Mate
+LAFORGE,1,0,0,0,0,1,0,0,0,0,0,0,4,119,5,The Perfect Mate
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,The Perfect Mate
+PICARD,0,33,6,1,0,2,0,8,0,0,0,4,119,119,5,The Perfect Mate
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,The Perfect Mate
+RIKER,0,0,1,0,0,8,0,2,0,0,0,4,27,119,5,The Perfect Mate
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,The Perfect Mate
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,The Perfect Mate
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,The Perfect Mate
+WORF,0,0,2,0,0,4,0,4,0,0,0,0,9,119,5,The Perfect Mate
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,Imaginary Friend
+CRUSHER,0,0,0,0,0,0,0,0,0,1,0,0,7,120,5,Imaginary Friend
+DATA,0,0,0,12,0,16,0,6,0,0,0,5,26,120,5,Imaginary Friend
+LAFORGE,0,0,12,0,0,14,0,14,0,0,0,2,36,120,5,Imaginary Friend
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,Imaginary Friend
+PICARD,0,0,16,14,0,0,0,10,0,0,0,14,48,120,5,Imaginary Friend
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,Imaginary Friend
+RIKER,0,0,6,14,0,10,0,0,0,0,0,1,18,120,5,Imaginary Friend
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,Imaginary Friend
+TROI,0,1,0,0,0,0,0,0,0,14,0,0,42,120,5,Imaginary Friend
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,Imaginary Friend
+WORF,0,0,5,2,0,14,0,1,0,0,0,0,17,120,5,Imaginary Friend
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,121,5,"I, Borg"
+CRUSHER,0,0,2,16,0,24,0,14,0,1,0,2,47,121,5,"I, Borg"
+DATA,0,2,0,4,0,11,0,7,0,1,0,0,14,121,5,"I, Borg"
+LAFORGE,0,16,4,6,0,30,0,1,0,0,0,5,80,121,5,"I, Borg"
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,121,5,"I, Borg"
+PICARD,0,24,11,30,0,4,0,11,0,9,0,5,90,121,5,"I, Borg"
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,121,5,"I, Borg"
+RIKER,0,14,7,1,0,11,0,0,0,1,0,0,19,121,5,"I, Borg"
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,121,5,"I, Borg"
+TROI,0,1,1,0,0,9,0,1,0,0,0,0,6,121,5,"I, Borg"
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,121,5,"I, Borg"
+WORF,0,2,0,5,0,5,0,0,0,0,0,2,10,121,5,"I, Borg"
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+CRUSHER,0,0,2,0,0,4,0,0,0,0,0,0,5,122,5,The Next Phase
+DATA,0,2,0,29,0,17,0,1,0,0,0,12,51,122,5,The Next Phase
+LAFORGE,0,0,29,10,0,9,0,2,0,0,0,0,70,122,5,The Next Phase
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+PICARD,0,4,17,9,0,0,0,20,0,0,0,1,39,122,5,The Next Phase
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+RIKER,0,0,1,2,0,20,0,4,0,0,0,7,38,122,5,The Next Phase
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,122,5,The Next Phase
+WORF,0,0,12,0,0,1,0,7,0,0,0,2,15,122,5,The Next Phase
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+CRUSHER,0,0,5,1,0,4,0,10,0,0,0,2,17,123,5,The Inner Light
+DATA,0,5,0,2,0,1,0,8,0,0,0,3,11,123,5,The Inner Light
+LAFORGE,0,1,2,0,0,0,0,10,0,0,0,1,7,123,5,The Inner Light
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+PICARD,0,4,1,0,0,0,0,6,0,0,0,2,115,123,5,The Inner Light
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+RIKER,0,10,8,10,0,6,0,0,0,0,0,4,23,123,5,The Inner Light
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,123,5,The Inner Light
+WORF,0,2,3,1,0,2,0,4,0,0,0,0,6,123,5,The Inner Light
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,124,5,Time's Arrow (part 1)
+CRUSHER,0,0,0,2,0,1,0,1,0,1,0,1,3,124,5,Time's Arrow (part 1)
+DATA,0,0,6,34,0,28,0,20,0,3,0,1,122,124,5,Time's Arrow (part 1)
+LAFORGE,0,2,34,0,0,15,0,11,0,0,0,2,38,124,5,Time's Arrow (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,124,5,Time's Arrow (part 1)
+PICARD,0,1,28,15,0,0,0,13,0,1,0,7,45,124,5,Time's Arrow (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,124,5,Time's Arrow (part 1)
+RIKER,0,1,20,11,0,13,0,0,0,26,0,0,39,124,5,Time's Arrow (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,124,5,Time's Arrow (part 1)
+TROI,0,1,3,0,0,1,0,26,0,0,0,0,17,124,5,Time's Arrow (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,124,5,Time's Arrow (part 1)
+WORF,0,1,1,2,0,7,0,0,0,0,0,0,7,124,5,Time's Arrow (part 1)
+COMPUTER,0,0,0,6,0,0,0,0,0,0,0,0,3,125,6,Time's Arrow (part 2)
+CRUSHER,0,2,4,6,0,0,0,16,0,3,0,0,18,125,6,Time's Arrow (part 2)
+DATA,0,4,0,7,0,1,0,9,0,1,0,1,27,125,6,Time's Arrow (part 2)
+LAFORGE,6,6,7,6,0,2,0,16,0,2,0,0,28,125,6,Time's Arrow (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Time's Arrow (part 2)
+PICARD,0,0,1,2,0,0,0,6,0,2,0,1,40,125,6,Time's Arrow (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Time's Arrow (part 2)
+RIKER,0,16,9,16,0,6,0,2,0,5,0,18,52,125,6,Time's Arrow (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Time's Arrow (part 2)
+TROI,0,3,1,2,0,2,0,5,0,0,0,1,17,125,6,Time's Arrow (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Time's Arrow (part 2)
+WORF,0,0,1,0,0,1,0,18,0,1,0,0,13,125,6,Time's Arrow (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,6,126,6,Realm of Fear
+CRUSHER,0,0,1,3,6,1,0,8,0,1,0,2,21,126,6,Realm of Fear
+DATA,0,1,0,17,0,7,0,1,0,0,0,0,18,126,6,Realm of Fear
+LAFORGE,0,3,17,2,18,7,0,8,0,2,0,6,64,126,6,Realm of Fear
+O_BRIEN,0,6,0,18,2,0,0,7,0,0,0,1,48,126,6,Realm of Fear
+PICARD,0,1,7,7,0,0,0,3,0,0,0,3,14,126,6,Realm of Fear
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,126,6,Realm of Fear
+RIKER,0,8,1,8,7,3,0,0,0,0,0,0,18,126,6,Realm of Fear
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,126,6,Realm of Fear
+TROI,0,1,0,2,0,0,0,0,0,2,0,0,22,126,6,Realm of Fear
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,126,6,Realm of Fear
+WORF,0,2,0,6,1,3,0,0,0,0,0,0,7,126,6,Realm of Fear
+COMPUTER,0,2,0,0,0,0,0,0,0,3,0,0,3,127,6,Man of The People
+CRUSHER,2,0,0,5,0,23,0,9,0,0,0,0,32,127,6,Man of The People
+DATA,0,0,0,0,0,4,0,3,0,1,0,0,5,127,6,Man of The People
+LAFORGE,0,5,0,0,0,0,0,0,0,0,0,0,3,127,6,Man of The People
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,127,6,Man of The People
+PICARD,0,23,4,0,0,0,0,5,0,6,0,14,61,127,6,Man of The People
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,127,6,Man of The People
+RIKER,0,9,3,0,0,5,0,0,0,38,0,6,39,127,6,Man of The People
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,127,6,Man of The People
+TROI,3,0,1,0,0,6,0,38,0,2,0,1,75,127,6,Man of The People
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,127,6,Man of The People
+WORF,0,0,0,0,0,14,0,6,0,1,0,0,14,127,6,Man of The People
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,4,128,6,Relics
+CRUSHER,0,0,0,2,0,0,0,0,0,0,0,0,5,128,6,Relics
+DATA,0,0,2,0,0,15,0,6,0,1,0,5,26,128,6,Relics
+LAFORGE,0,2,0,6,0,12,0,11,0,0,0,2,82,128,6,Relics
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,128,6,Relics
+PICARD,0,0,15,12,0,2,0,6,0,0,0,5,40,128,6,Relics
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,128,6,Relics
+RIKER,0,0,6,11,0,6,0,0,0,0,0,4,23,128,6,Relics
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,128,6,Relics
+TROI,0,0,1,0,0,0,0,0,0,0,0,0,1,128,6,Relics
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,128,6,Relics
+WORF,0,0,5,2,0,5,0,4,0,0,0,0,11,128,6,Relics
+COMPUTER,0,0,2,4,0,8,0,0,0,2,0,0,8,129,6,Schisms
+CRUSHER,0,4,0,3,0,2,0,21,0,0,0,0,19,129,6,Schisms
+DATA,2,0,8,50,0,10,0,6,0,0,0,2,50,129,6,Schisms
+LAFORGE,4,3,50,2,0,22,0,37,0,8,0,4,82,129,6,Schisms
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Schisms
+PICARD,8,2,10,22,0,0,0,5,0,0,0,1,29,129,6,Schisms
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Schisms
+RIKER,0,21,6,37,0,5,0,0,0,20,0,2,56,129,6,Schisms
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Schisms
+TROI,2,0,0,8,0,0,0,20,0,2,0,3,20,129,6,Schisms
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Schisms
+WORF,0,0,2,4,0,1,0,2,0,3,0,0,11,129,6,Schisms
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,True-Q
+CRUSHER,0,4,0,0,0,3,24,2,0,4,0,0,47,130,6,True-Q
+DATA,0,0,2,6,0,22,1,1,0,0,0,0,20,130,6,True-Q
+LAFORGE,0,0,6,4,0,1,2,1,0,1,0,0,16,130,6,True-Q
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,True-Q
+PICARD,0,3,22,1,0,2,50,3,0,1,0,1,51,130,6,True-Q
+Q,0,24,1,2,0,50,4,4,0,4,0,0,82,130,6,True-Q
+RIKER,0,2,1,1,0,3,4,2,0,1,0,0,31,130,6,True-Q
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,True-Q
+TROI,0,4,0,1,0,1,4,1,0,0,0,0,7,130,6,True-Q
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,True-Q
+WORF,0,0,0,0,0,1,0,0,0,0,0,0,1,130,6,True-Q
+COMPUTER,0,0,0,0,0,1,0,3,0,0,0,0,7,131,6,Rascals
+CRUSHER,0,0,0,1,3,1,0,14,0,1,0,1,21,131,6,Rascals
+DATA,0,0,0,0,0,0,0,6,0,0,0,3,6,131,6,Rascals
+LAFORGE,0,1,0,2,7,0,0,1,0,0,0,1,9,131,6,Rascals
+O_BRIEN,0,3,0,7,0,0,0,3,0,0,0,0,24,131,6,Rascals
+PICARD,1,1,0,0,0,0,0,0,0,0,0,4,9,131,6,Rascals
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,Rascals
+RIKER,3,14,6,1,3,0,0,4,0,0,0,13,50,131,6,Rascals
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,Rascals
+TROI,0,1,0,0,0,0,0,0,0,0,0,0,8,131,6,Rascals
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,Rascals
+WORF,0,1,3,1,0,4,0,13,0,0,0,2,15,131,6,Rascals
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,132,6,A_Fistful of Datas
+CRUSHER,0,2,0,2,0,14,0,6,0,0,0,0,13,132,6,A_Fistful of Datas
+DATA,0,0,6,32,0,7,0,9,0,0,0,0,29,132,6,A_Fistful of Datas
+LAFORGE,0,2,32,2,0,4,0,6,0,0,0,0,26,132,6,A_Fistful of Datas
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,A_Fistful of Datas
+PICARD,1,14,7,4,0,12,0,1,0,0,0,10,26,132,6,A_Fistful of Datas
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,A_Fistful of Datas
+RIKER,0,6,9,6,0,1,0,0,0,0,0,0,12,132,6,A_Fistful of Datas
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,A_Fistful of Datas
+TROI,0,0,0,0,0,0,0,0,0,0,0,30,22,132,6,A_Fistful of Datas
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,A_Fistful of Datas
+WORF,0,0,0,0,0,10,0,0,0,30,0,2,65,132,6,A_Fistful of Datas
+COMPUTER,0,1,12,0,0,0,0,0,0,0,0,0,7,133,6,The Quality of Life
+CRUSHER,1,0,38,0,0,0,0,0,0,0,0,3,24,133,6,The Quality of Life
+DATA,12,38,2,18,0,13,0,30,0,0,0,0,94,133,6,The Quality of Life
+LAFORGE,0,0,18,6,0,23,0,0,0,0,0,0,64,133,6,The Quality of Life
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,The Quality of Life
+PICARD,0,0,13,23,0,0,0,2,0,0,0,1,33,133,6,The Quality of Life
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,The Quality of Life
+RIKER,0,0,30,0,0,2,0,0,0,0,0,4,31,133,6,The Quality of Life
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,The Quality of Life
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,1,133,6,The Quality of Life
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,The Quality of Life
+WORF,0,3,0,0,0,1,0,4,0,0,0,0,5,133,6,The Quality of Life
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,134,6,Chain of Command (part 1)
+CRUSHER,0,0,0,0,0,27,0,0,0,1,0,11,25,134,6,Chain of Command (part 1)
+DATA,0,0,0,2,0,0,0,2,0,0,0,0,7,134,6,Chain of Command (part 1)
+LAFORGE,0,0,2,0,0,0,0,6,0,0,0,0,8,134,6,Chain of Command (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Chain of Command (part 1)
+PICARD,1,27,0,0,0,6,0,7,0,0,0,19,56,134,6,Chain of Command (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Chain of Command (part 1)
+RIKER,0,0,2,6,0,7,0,2,0,4,0,1,39,134,6,Chain of Command (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Chain of Command (part 1)
+TROI,0,1,0,0,0,0,0,4,0,0,0,0,14,134,6,Chain of Command (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Chain of Command (part 1)
+WORF,0,11,0,0,0,19,0,1,0,0,0,0,17,134,6,Chain of Command (part 1)
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,135,6,Chain of Command (part 2)
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,4,135,6,Chain of Command (part 2)
+DATA,0,0,0,3,0,0,0,0,0,0,0,0,5,135,6,Chain of Command (part 2)
+LAFORGE,0,0,3,0,0,0,0,7,0,0,0,0,19,135,6,Chain of Command (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,Chain of Command (part 2)
+PICARD,1,0,0,0,0,0,0,1,0,4,0,0,56,135,6,Chain of Command (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,Chain of Command (part 2)
+RIKER,0,0,0,7,0,1,0,6,0,1,0,0,30,135,6,Chain of Command (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,Chain of Command (part 2)
+TROI,0,0,0,0,0,4,0,1,0,0,0,0,4,135,6,Chain of Command (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,Chain of Command (part 2)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,3,135,6,Chain of Command (part 2)
+COMPUTER,0,0,2,1,0,11,0,0,0,0,0,0,12,136,6,Ship in a Bottle
+CRUSHER,0,0,1,1,0,1,0,0,0,1,0,0,4,136,6,Ship in a Bottle
+DATA,2,1,0,10,0,24,0,0,0,1,0,1,36,136,6,Ship in a Bottle
+LAFORGE,1,1,10,0,0,8,0,4,0,0,0,1,18,136,6,Ship in a Bottle
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Ship in a Bottle
+PICARD,11,1,24,8,0,6,0,14,0,3,0,5,88,136,6,Ship in a Bottle
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Ship in a Bottle
+RIKER,0,0,0,4,0,14,0,2,0,0,0,4,27,136,6,Ship in a Bottle
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Ship in a Bottle
+TROI,0,1,1,0,0,3,0,0,0,0,0,0,3,136,6,Ship in a Bottle
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Ship in a Bottle
+WORF,0,0,1,1,0,5,0,4,0,0,0,2,8,136,6,Ship in a Bottle
+COMPUTER,0,0,0,7,0,1,0,1,0,0,0,2,6,137,6,Aquiel
+CRUSHER,0,4,0,2,0,12,0,15,0,0,0,7,23,137,6,Aquiel
+DATA,0,0,0,0,0,0,0,0,0,0,0,0,2,137,6,Aquiel
+LAFORGE,7,2,0,12,0,4,0,36,0,0,0,1,84,137,6,Aquiel
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Aquiel
+PICARD,1,12,0,4,0,0,0,14,0,0,0,2,23,137,6,Aquiel
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Aquiel
+RIKER,1,15,0,36,0,14,0,0,0,0,0,10,49,137,6,Aquiel
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Aquiel
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,1,137,6,Aquiel
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Aquiel
+WORF,2,7,0,1,0,2,0,10,0,0,0,0,20,137,6,Aquiel
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Face of the Enemy
+CRUSHER,0,0,0,0,0,0,0,1,0,1,0,2,3,138,6,Face of the Enemy
+DATA,0,0,0,0,0,13,0,9,0,0,0,0,15,138,6,Face of the Enemy
+LAFORGE,0,0,0,0,0,0,0,0,0,2,0,0,2,138,6,Face of the Enemy
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Face of the Enemy
+PICARD,0,0,13,0,0,0,0,6,0,3,0,6,36,138,6,Face of the Enemy
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Face of the Enemy
+RIKER,0,1,9,0,0,6,0,2,0,0,0,0,17,138,6,Face of the Enemy
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Face of the Enemy
+TROI,0,1,0,2,0,3,0,0,0,6,0,0,84,138,6,Face of the Enemy
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Face of the Enemy
+WORF,0,2,0,0,0,6,0,0,0,0,0,0,10,138,6,Face of the Enemy
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,139,6,Tapestry
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,1,139,6,Tapestry
+DATA,0,0,0,0,0,3,0,2,0,0,0,1,3,139,6,Tapestry
+LAFORGE,0,0,0,0,0,2,0,0,0,0,0,0,1,139,6,Tapestry
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Tapestry
+PICARD,2,0,3,2,0,2,95,23,0,7,0,6,127,139,6,Tapestry
+Q,0,0,0,0,0,95,4,0,0,0,0,1,61,139,6,Tapestry
+RIKER,0,0,2,0,0,23,0,0,0,3,0,0,14,139,6,Tapestry
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Tapestry
+TROI,0,0,0,0,0,7,0,3,0,0,0,0,5,139,6,Tapestry
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Tapestry
+WORF,0,0,1,0,0,6,1,0,0,0,0,0,5,139,6,Tapestry
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,Birthright (part 1)
+CRUSHER,0,0,0,0,0,1,0,0,0,0,0,0,1,140,6,Birthright (part 1)
+DATA,0,0,0,29,0,12,0,4,0,0,0,15,63,140,6,Birthright (part 1)
+LAFORGE,0,0,29,4,0,0,0,0,0,0,0,3,25,140,6,Birthright (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,Birthright (part 1)
+PICARD,0,1,12,0,0,2,0,0,0,0,0,0,9,140,6,Birthright (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,Birthright (part 1)
+RIKER,0,0,4,0,0,0,0,0,0,0,0,4,4,140,6,Birthright (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,Birthright (part 1)
+TROI,0,0,0,0,0,0,0,0,0,0,0,13,7,140,6,Birthright (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,Birthright (part 1)
+WORF,0,0,15,3,0,0,0,4,0,13,0,0,60,140,6,Birthright (part 1)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+CRUSHER,0,0,0,0,0,1,0,0,0,0,0,0,1,141,6,Birthright (part 2)
+DATA,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+LAFORGE,0,0,0,0,0,3,0,1,0,0,0,0,2,141,6,Birthright (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+PICARD,0,1,0,3,0,2,0,7,0,0,0,4,10,141,6,Birthright (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+RIKER,0,0,0,1,0,7,0,0,0,0,0,0,5,141,6,Birthright (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,Birthright (part 2)
+WORF,0,0,0,0,0,4,0,0,0,0,0,6,85,141,6,Birthright (part 2)
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,1,5,142,6,Starship Mine
+CRUSHER,0,2,2,0,0,3,0,9,0,3,0,1,14,142,6,Starship Mine
+DATA,0,2,0,0,0,17,0,10,0,1,0,0,27,142,6,Starship Mine
+LAFORGE,0,0,0,0,0,12,0,6,0,0,0,3,14,142,6,Starship Mine
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,Starship Mine
+PICARD,1,3,17,12,0,4,0,2,0,9,0,9,63,142,6,Starship Mine
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,Starship Mine
+RIKER,0,9,10,6,0,2,0,0,0,9,0,1,33,142,6,Starship Mine
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,Starship Mine
+TROI,0,3,1,0,0,9,0,9,0,0,0,0,16,142,6,Starship Mine
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,Starship Mine
+WORF,1,1,0,3,0,9,0,1,0,0,0,2,9,142,6,Starship Mine
+COMPUTER,0,0,0,0,0,5,0,0,0,0,0,0,3,143,6,Lessons
+CRUSHER,0,0,1,2,0,16,0,0,0,0,0,0,21,143,6,Lessons
+DATA,0,1,0,4,0,3,0,1,0,0,0,0,6,143,6,Lessons
+LAFORGE,0,2,4,0,0,9,0,2,0,0,0,2,13,143,6,Lessons
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Lessons
+PICARD,5,16,3,9,0,2,0,27,0,11,0,9,106,143,6,Lessons
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Lessons
+RIKER,0,0,1,2,0,27,0,2,0,0,0,1,37,143,6,Lessons
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Lessons
+TROI,0,0,0,0,0,11,0,0,0,0,0,0,6,143,6,Lessons
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Lessons
+WORF,0,0,0,2,0,9,0,1,0,0,0,0,8,143,6,Lessons
+COMPUTER,0,2,0,0,0,1,0,0,0,0,0,0,2,144,6,The Chase
+CRUSHER,2,2,3,2,0,42,0,2,0,0,0,0,31,144,6,The Chase
+DATA,0,3,0,5,0,22,0,8,0,1,0,4,32,144,6,The Chase
+LAFORGE,0,2,5,0,0,14,0,0,0,0,0,3,14,144,6,The Chase
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,The Chase
+PICARD,1,42,22,14,0,2,0,26,0,9,0,14,116,144,6,The Chase
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,The Chase
+RIKER,0,2,8,0,0,26,0,0,0,0,0,8,29,144,6,The Chase
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,The Chase
+TROI,0,0,1,0,0,9,0,0,0,0,0,1,6,144,6,The Chase
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,The Chase
+WORF,0,0,4,3,0,14,0,8,0,1,0,2,20,144,6,The Chase
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Frame of Mind
+CRUSHER,0,0,1,0,0,1,0,37,0,0,0,1,27,145,6,Frame of Mind
+DATA,0,1,0,0,0,0,0,16,0,1,0,0,11,145,6,Frame of Mind
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,1,145,6,Frame of Mind
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Frame of Mind
+PICARD,0,1,0,0,0,0,0,24,0,2,0,1,16,145,6,Frame of Mind
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Frame of Mind
+RIKER,0,37,16,0,0,24,0,10,0,33,0,16,138,145,6,Frame of Mind
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Frame of Mind
+TROI,0,0,1,0,0,2,0,33,0,0,0,7,23,145,6,Frame of Mind
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Frame of Mind
+WORF,0,1,0,0,0,1,0,16,0,7,0,4,17,145,6,Frame of Mind
+COMPUTER,0,2,0,0,0,0,0,0,0,0,0,0,1,146,6,Suspicions
+CRUSHER,2,18,15,2,0,32,0,14,0,0,0,9,131,146,6,Suspicions
+DATA,0,15,0,1,0,5,0,2,0,1,0,0,17,146,6,Suspicions
+LAFORGE,0,2,1,0,0,0,0,0,0,0,0,0,3,146,6,Suspicions
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,Suspicions
+PICARD,0,32,5,0,0,2,0,3,0,2,0,3,26,146,6,Suspicions
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,Suspicions
+RIKER,0,14,2,0,0,3,0,0,0,0,0,0,10,146,6,Suspicions
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,Suspicions
+TROI,0,0,1,0,0,2,0,0,0,0,0,0,2,146,6,Suspicions
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,Suspicions
+WORF,0,9,0,0,0,3,0,0,0,0,0,0,7,146,6,Suspicions
+COMPUTER,0,1,0,0,0,0,0,0,0,0,0,0,1,147,6,Rightful Heir
+CRUSHER,1,0,0,0,0,0,0,0,0,0,0,3,3,147,6,Rightful Heir
+DATA,0,0,0,0,0,1,0,1,0,0,0,14,9,147,6,Rightful Heir
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+PICARD,0,0,1,0,0,0,0,0,0,0,0,23,21,147,6,Rightful Heir
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+RIKER,0,0,1,0,0,0,0,0,0,0,0,3,3,147,6,Rightful Heir
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Rightful Heir
+WORF,0,3,14,0,0,23,0,3,0,0,0,6,73,147,6,Rightful Heir
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,148,6,Second Chances
+CRUSHER,0,2,0,3,0,10,0,1,0,15,0,0,16,148,6,Second Chances
+DATA,0,0,4,2,0,1,0,36,0,1,0,10,28,148,6,Second Chances
+LAFORGE,0,3,2,0,0,1,0,5,0,1,0,0,7,148,6,Second Chances
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,148,6,Second Chances
+PICARD,0,10,1,1,0,8,0,15,0,2,0,0,20,148,6,Second Chances
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,148,6,Second Chances
+RIKER,0,1,36,5,0,15,0,66,0,16,0,9,83,148,6,Second Chances
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,148,6,Second Chances
+TROI,0,15,1,1,0,2,0,16,0,68,0,0,61,148,6,Second Chances
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,148,6,Second Chances
+WORF,0,0,10,0,0,0,0,9,0,0,0,0,12,148,6,Second Chances
+COMPUTER,0,0,3,0,0,0,0,0,0,0,0,0,3,149,6,Timescape
+CRUSHER,0,0,0,0,0,0,0,0,0,1,0,0,2,149,6,Timescape
+DATA,3,0,6,33,0,57,0,13,0,26,0,0,86,149,6,Timescape
+LAFORGE,0,0,33,2,0,40,0,0,0,24,0,0,56,149,6,Timescape
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,149,6,Timescape
+PICARD,0,0,57,40,0,4,0,6,0,33,0,0,88,149,6,Timescape
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,149,6,Timescape
+RIKER,0,0,13,0,0,6,0,0,0,0,0,7,16,149,6,Timescape
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,149,6,Timescape
+TROI,0,1,26,24,0,33,0,0,0,2,0,0,50,149,6,Timescape
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,149,6,Timescape
+WORF,0,0,0,0,0,0,0,7,0,0,0,0,4,149,6,Timescape
+COMPUTER,0,0,2,0,0,0,0,0,0,0,0,0,1,150,6,Descent (part 1)
+CRUSHER,0,0,0,1,0,9,0,0,0,1,0,0,6,150,6,Descent (part 1)
+DATA,2,0,2,32,0,7,0,11,0,16,0,9,56,150,6,Descent (part 1)
+LAFORGE,0,1,32,0,0,32,0,6,0,1,0,5,42,150,6,Descent (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,150,6,Descent (part 1)
+PICARD,0,9,7,32,0,4,0,39,0,4,0,29,81,150,6,Descent (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,150,6,Descent (part 1)
+RIKER,0,0,11,6,0,39,0,2,0,0,0,18,46,150,6,Descent (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,150,6,Descent (part 1)
+TROI,0,1,16,1,0,4,0,0,0,0,0,1,12,150,6,Descent (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,150,6,Descent (part 1)
+WORF,0,0,9,5,0,29,0,18,0,1,0,0,33,150,6,Descent (part 1)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Descent (part 2)
+CRUSHER,0,2,0,0,0,0,0,6,0,0,0,0,66,151,7,Descent (part 2)
+DATA,0,0,4,37,0,23,0,2,0,5,0,0,57,151,7,Descent (part 2)
+LAFORGE,0,0,37,2,0,10,0,0,0,6,0,0,30,151,7,Descent (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Descent (part 2)
+PICARD,0,0,23,10,0,0,0,1,0,6,0,0,33,151,7,Descent (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Descent (part 2)
+RIKER,0,6,2,0,0,1,0,0,0,0,0,6,25,151,7,Descent (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Descent (part 2)
+TROI,0,0,5,6,0,6,0,0,0,2,0,0,11,151,7,Descent (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Descent (part 2)
+WORF,0,0,0,0,0,0,0,6,0,0,0,0,9,151,7,Descent (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Liaisons
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,1,3,152,7,Liaisons
+DATA,0,0,0,0,0,0,0,0,0,0,0,5,3,152,7,Liaisons
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,1,152,7,Liaisons
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Liaisons
+PICARD,0,0,0,0,0,16,0,0,0,1,0,2,92,152,7,Liaisons
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Liaisons
+RIKER,0,0,0,0,0,0,0,0,0,4,0,6,11,152,7,Liaisons
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Liaisons
+TROI,0,0,0,0,0,1,0,4,0,0,0,5,23,152,7,Liaisons
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Liaisons
+WORF,0,1,5,0,0,2,0,6,0,5,0,0,23,152,7,Liaisons
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,Interface
+CRUSHER,0,0,9,24,0,15,0,3,0,0,0,0,32,153,7,Interface
+DATA,0,9,0,89,0,16,0,4,0,0,0,0,69,153,7,Interface
+LAFORGE,0,24,89,4,0,54,0,22,0,13,0,0,157,153,7,Interface
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,Interface
+PICARD,0,15,16,54,0,6,0,6,0,0,0,1,59,153,7,Interface
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,Interface
+RIKER,0,3,4,22,0,6,0,0,0,0,0,2,22,153,7,Interface
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,Interface
+TROI,0,0,0,13,0,0,0,0,0,0,0,0,7,153,7,Interface
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,Interface
+WORF,0,0,0,0,0,1,0,2,0,0,0,0,2,153,7,Interface
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,1,154,7,Gambit (part 1)
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Gambit (part 1)
+DATA,0,0,4,9,0,0,0,11,0,2,0,14,36,154,7,Gambit (part 1)
+LAFORGE,0,0,9,0,0,0,0,9,0,1,0,3,14,154,7,Gambit (part 1)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Gambit (part 1)
+PICARD,2,0,0,0,0,4,0,18,0,0,0,0,36,154,7,Gambit (part 1)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Gambit (part 1)
+RIKER,0,0,11,9,0,18,0,4,0,14,0,4,59,154,7,Gambit (part 1)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Gambit (part 1)
+TROI,0,0,2,1,0,0,0,14,0,0,0,1,9,154,7,Gambit (part 1)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Gambit (part 1)
+WORF,0,0,14,3,0,0,0,4,0,1,0,0,15,154,7,Gambit (part 1)
+COMPUTER,0,0,0,0,0,3,0,0,0,0,0,0,2,155,7,Gambit (part 2)
+CRUSHER,0,2,0,0,0,1,0,3,0,0,0,4,8,155,7,Gambit (part 2)
+DATA,0,0,6,4,0,7,0,5,0,9,0,31,37,155,7,Gambit (part 2)
+LAFORGE,0,0,4,0,0,0,0,0,0,1,0,1,3,155,7,Gambit (part 2)
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Gambit (part 2)
+PICARD,3,1,7,0,0,6,0,22,0,2,0,1,69,155,7,Gambit (part 2)
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Gambit (part 2)
+RIKER,0,3,5,0,0,22,0,4,0,0,0,5,38,155,7,Gambit (part 2)
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Gambit (part 2)
+TROI,0,0,9,1,0,2,0,0,0,0,0,4,9,155,7,Gambit (part 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Gambit (part 2)
+WORF,0,4,31,1,0,1,0,5,0,4,0,0,28,155,7,Gambit (part 2)
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Phantasms
+CRUSHER,0,4,0,0,0,7,0,2,0,5,0,0,12,156,7,Phantasms
+DATA,0,0,8,33,0,25,0,8,0,32,0,17,83,156,7,Phantasms
+LAFORGE,0,0,33,4,0,34,0,5,0,1,0,1,53,156,7,Phantasms
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Phantasms
+PICARD,0,7,25,34,0,8,0,11,0,0,0,3,59,156,7,Phantasms
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Phantasms
+RIKER,0,2,8,5,0,11,0,4,0,0,0,4,19,156,7,Phantasms
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Phantasms
+TROI,0,5,32,1,0,0,0,0,0,4,0,0,25,156,7,Phantasms
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Phantasms
+WORF,0,0,17,1,0,3,0,4,0,0,0,0,15,156,7,Phantasms
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,Dark Page
+CRUSHER,0,0,0,0,0,7,0,0,0,20,0,0,19,157,7,Dark Page
+DATA,0,0,0,0,0,0,0,0,0,2,0,0,3,157,7,Dark Page
+LAFORGE,0,0,0,0,0,1,0,0,0,0,0,0,2,157,7,Dark Page
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,Dark Page
+PICARD,0,7,0,1,0,0,0,0,0,42,0,0,32,157,7,Dark Page
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,Dark Page
+RIKER,0,0,0,0,0,0,0,0,0,4,0,0,4,157,7,Dark Page
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,Dark Page
+TROI,0,20,2,0,0,42,0,4,0,22,0,0,137,157,7,Dark Page
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,Dark Page
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,1,157,7,Dark Page
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+CRUSHER,0,12,0,0,0,156,0,0,0,0,0,0,91,158,7,Attached
+DATA,0,0,0,0,0,0,0,7,0,0,0,3,6,158,7,Attached
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+PICARD,0,156,0,0,0,8,0,3,0,0,0,3,97,158,7,Attached
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+RIKER,0,0,7,0,0,3,0,2,0,1,0,8,52,158,7,Attached
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+TROI,0,0,0,0,0,0,0,1,0,0,0,0,4,158,7,Attached
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Attached
+WORF,0,0,3,0,0,3,0,8,0,0,0,0,17,158,7,Attached
+COMPUTER,0,0,0,4,0,0,0,0,0,0,0,0,2,159,7,Force of Nature
+CRUSHER,0,0,0,1,0,1,0,2,0,0,0,0,2,159,7,Force of Nature
+DATA,0,0,8,86,0,37,0,24,0,0,0,8,93,159,7,Force of Nature
+LAFORGE,4,1,86,4,0,15,0,9,0,1,0,4,94,159,7,Force of Nature
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,Force of Nature
+PICARD,0,1,37,15,0,6,0,25,0,1,0,21,71,159,7,Force of Nature
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,Force of Nature
+RIKER,0,2,24,9,0,25,0,2,0,1,0,11,44,159,7,Force of Nature
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,Force of Nature
+TROI,0,0,0,1,0,1,0,1,0,0,0,1,2,159,7,Force of Nature
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,Force of Nature
+WORF,0,0,8,4,0,21,0,11,0,1,0,0,24,159,7,Force of Nature
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Inheritance
+CRUSHER,0,0,14,3,0,1,0,2,0,1,0,0,11,160,7,Inheritance
+DATA,0,14,4,29,0,2,0,24,0,3,0,0,119,160,7,Inheritance
+LAFORGE,0,3,29,2,0,1,0,6,0,0,0,0,29,160,7,Inheritance
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Inheritance
+PICARD,0,1,2,1,0,0,0,0,0,2,0,0,5,160,7,Inheritance
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Inheritance
+RIKER,0,2,24,6,0,0,0,0,0,0,0,2,26,160,7,Inheritance
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Inheritance
+TROI,0,1,3,0,0,2,0,0,0,0,0,0,3,160,7,Inheritance
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Inheritance
+WORF,0,0,0,0,0,0,0,2,0,0,0,0,2,160,7,Inheritance
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,2,1,161,7,Parallels
+CRUSHER,0,0,4,1,0,0,0,1,0,1,0,16,13,161,7,Parallels
+DATA,0,4,0,2,0,6,0,26,0,6,5,37,52,161,7,Parallels
+LAFORGE,0,1,2,2,0,2,0,0,0,2,0,10,10,161,7,Parallels
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Parallels
+PICARD,0,0,6,2,0,0,0,8,0,1,0,23,25,161,7,Parallels
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Parallels
+RIKER,0,1,26,0,0,8,0,8,0,1,20,32,54,161,7,Parallels
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Parallels
+TROI,0,1,6,2,0,1,0,1,0,2,0,73,45,161,7,Parallels
+WESLEY,0,0,5,0,0,0,0,20,0,0,0,2,15,161,7,Parallels
+WORF,2,16,37,10,0,23,0,32,0,73,2,10,111,161,7,Parallels
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,The Pegasus
+CRUSHER,0,0,0,0,0,0,0,11,0,0,0,0,6,162,7,The Pegasus
+DATA,0,0,0,1,0,24,0,9,0,0,0,5,28,162,7,The Pegasus
+LAFORGE,0,0,1,0,0,5,0,5,0,0,0,2,11,162,7,The Pegasus
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,The Pegasus
+PICARD,0,0,24,5,0,6,0,50,0,4,0,23,84,162,7,The Pegasus
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,The Pegasus
+RIKER,0,11,9,5,0,50,0,6,0,1,0,8,87,162,7,The Pegasus
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,The Pegasus
+TROI,0,0,0,0,0,4,0,1,0,2,0,1,4,162,7,The Pegasus
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,The Pegasus
+WORF,0,0,5,2,0,23,0,8,0,1,0,4,23,162,7,The Pegasus
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,3,2,163,7,Homeward
+CRUSHER,0,0,11,0,0,10,0,0,0,1,0,8,18,163,7,Homeward
+DATA,0,11,0,1,0,13,0,10,0,0,0,1,21,163,7,Homeward
+LAFORGE,0,0,1,0,0,11,0,0,0,0,0,6,13,163,7,Homeward
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Homeward
+PICARD,0,10,13,11,0,2,0,3,0,3,0,9,50,163,7,Homeward
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Homeward
+RIKER,0,0,10,0,0,3,0,0,0,1,0,6,13,163,7,Homeward
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Homeward
+TROI,0,1,0,0,0,3,0,1,0,0,0,0,5,163,7,Homeward
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Homeward
+WORF,3,8,1,6,0,9,0,6,0,0,0,6,82,163,7,Homeward
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Sub Rosa
+CRUSHER,0,12,4,2,0,27,0,2,0,41,0,0,100,164,7,Sub Rosa
+DATA,0,4,0,16,0,12,0,0,0,0,0,0,22,164,7,Sub Rosa
+LAFORGE,0,2,16,0,0,1,0,0,0,0,0,0,16,164,7,Sub Rosa
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Sub Rosa
+PICARD,0,27,12,1,0,4,0,2,0,5,0,3,39,164,7,Sub Rosa
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Sub Rosa
+RIKER,0,2,0,0,0,2,0,0,0,0,0,3,4,164,7,Sub Rosa
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Sub Rosa
+TROI,0,41,0,0,0,5,0,0,0,0,0,0,25,164,7,Sub Rosa
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Sub Rosa
+WORF,0,0,0,0,0,3,0,3,0,0,0,0,4,164,7,Sub Rosa
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Lower Decks
+CRUSHER,0,0,0,0,0,1,0,1,0,1,0,1,25,165,7,Lower Decks
+DATA,0,0,0,0,0,4,0,4,0,0,0,2,7,165,7,Lower Decks
+LAFORGE,0,0,0,0,0,0,0,9,0,2,0,5,38,165,7,Lower Decks
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Lower Decks
+PICARD,0,1,4,0,0,2,0,9,0,0,0,5,38,165,7,Lower Decks
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Lower Decks
+RIKER,0,1,4,9,0,9,0,0,0,10,0,8,47,165,7,Lower Decks
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Lower Decks
+TROI,0,1,0,2,0,0,0,10,0,0,0,0,7,165,7,Lower Decks
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Lower Decks
+WORF,0,1,2,5,0,5,0,8,0,0,0,8,34,165,7,Lower Decks
+COMPUTER,0,0,0,1,0,0,0,0,0,3,0,0,2,166,7,Thine Own Self
+CRUSHER,0,2,1,0,0,0,0,5,0,12,0,0,17,166,7,Thine Own Self
+DATA,0,1,4,0,0,2,0,1,0,3,0,0,82,166,7,Thine Own Self
+LAFORGE,1,0,0,0,0,0,0,1,0,5,0,2,5,166,7,Thine Own Self
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Thine Own Self
+PICARD,0,0,2,0,0,0,0,0,0,0,0,0,1,166,7,Thine Own Self
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Thine Own Self
+RIKER,0,5,1,1,0,0,0,0,0,42,0,0,30,166,7,Thine Own Self
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Thine Own Self
+TROI,3,12,3,5,0,0,0,42,0,6,0,6,41,166,7,Thine Own Self
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Thine Own Self
+WORF,0,0,0,2,0,0,0,0,0,6,0,0,4,166,7,Thine Own Self
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,Masks
+CRUSHER,0,0,0,3,0,1,0,0,0,8,0,0,7,167,7,Masks
+DATA,0,0,0,20,0,17,0,10,0,7,0,0,30,167,7,Masks
+LAFORGE,0,3,20,6,0,19,0,14,0,4,0,6,41,167,7,Masks
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,Masks
+PICARD,0,1,17,19,0,8,0,29,0,18,0,18,116,167,7,Masks
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,Masks
+RIKER,0,0,10,14,0,29,0,0,0,2,0,0,31,167,7,Masks
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,Masks
+TROI,0,8,7,4,0,18,0,2,0,0,0,4,23,167,7,Masks
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,Masks
+WORF,0,0,0,6,0,18,0,0,0,4,0,0,17,167,7,Masks
+COMPUTER,0,0,0,0,0,0,0,0,0,4,0,2,5,168,7,Eye Of The Beholder
+CRUSHER,0,0,1,0,0,1,0,6,0,19,0,7,21,168,7,Eye Of The Beholder
+DATA,0,1,0,16,0,5,0,0,0,7,0,0,16,168,7,Eye Of The Beholder
+LAFORGE,0,0,16,2,0,5,0,0,0,10,0,1,21,168,7,Eye Of The Beholder
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,Eye Of The Beholder
+PICARD,0,1,5,5,0,0,0,4,0,10,0,2,18,168,7,Eye Of The Beholder
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,Eye Of The Beholder
+RIKER,0,6,0,0,0,4,0,0,0,6,0,18,25,168,7,Eye Of The Beholder
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,Eye Of The Beholder
+TROI,4,19,7,10,0,10,0,6,0,12,0,80,113,168,7,Eye Of The Beholder
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,Eye Of The Beholder
+WORF,2,7,0,1,0,2,0,18,0,80,0,0,69,168,7,Eye Of The Beholder
+COMPUTER,0,0,1,0,0,0,0,3,0,0,0,0,3,169,7,Genesis
+CRUSHER,0,2,0,0,0,0,0,0,0,2,0,0,7,169,7,Genesis
+DATA,1,0,4,0,0,107,0,0,0,0,0,0,71,169,7,Genesis
+LAFORGE,0,0,0,0,0,0,0,8,0,0,0,0,8,169,7,Genesis
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Genesis
+PICARD,0,0,107,0,0,12,0,6,0,0,0,5,74,169,7,Genesis
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Genesis
+RIKER,3,0,0,8,0,6,0,2,0,0,0,12,24,169,7,Genesis
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Genesis
+TROI,0,2,0,0,0,0,0,0,0,6,0,19,19,169,7,Genesis
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Genesis
+WORF,0,0,0,0,0,5,0,12,0,19,0,0,19,169,7,Genesis
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Journey's End
+CRUSHER,0,0,1,1,0,8,0,0,0,0,36,0,26,170,7,Journey's End
+DATA,0,1,0,3,0,0,0,0,0,0,2,0,3,170,7,Journey's End
+LAFORGE,0,1,3,0,0,0,0,0,0,0,16,0,11,170,7,Journey's End
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Journey's End
+PICARD,0,8,0,0,0,2,0,16,0,2,9,6,62,170,7,Journey's End
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Journey's End
+RIKER,0,0,0,0,0,16,0,0,0,0,1,0,11,170,7,Journey's End
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Journey's End
+TROI,0,0,0,0,0,2,0,0,0,0,0,0,3,170,7,Journey's End
+WESLEY,0,36,2,16,0,9,0,1,0,0,4,6,70,170,7,Journey's End
+WORF,0,0,0,0,0,6,0,0,0,0,6,0,12,170,7,Journey's End
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,1,171,7,Firstborn
+CRUSHER,0,0,0,0,0,0,0,0,0,0,0,1,1,171,7,Firstborn
+DATA,0,0,0,0,0,1,0,8,0,1,0,1,11,171,7,Firstborn
+LAFORGE,0,0,0,0,0,0,0,0,0,0,0,1,5,171,7,Firstborn
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,Firstborn
+PICARD,0,0,1,0,0,2,0,3,0,0,0,13,10,171,7,Firstborn
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,Firstborn
+RIKER,0,0,8,0,0,3,0,4,0,1,0,10,25,171,7,Firstborn
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,Firstborn
+TROI,0,0,1,0,0,0,0,1,0,0,0,0,3,171,7,Firstborn
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,Firstborn
+WORF,0,1,1,1,0,13,0,10,0,0,0,2,86,171,7,Firstborn
+COMPUTER,0,0,0,0,0,1,0,0,0,0,0,0,1,172,7,Bloodlines
+CRUSHER,0,0,0,0,0,18,0,0,0,0,0,0,17,172,7,Bloodlines
+DATA,0,0,0,12,0,41,0,3,0,0,0,4,32,172,7,Bloodlines
+LAFORGE,0,0,12,2,0,14,0,3,0,0,0,3,20,172,7,Bloodlines
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,Bloodlines
+PICARD,1,18,41,14,0,4,0,12,0,0,0,8,118,172,7,Bloodlines
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,Bloodlines
+RIKER,0,0,3,3,0,12,0,2,0,0,0,3,13,172,7,Bloodlines
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,Bloodlines
+TROI,0,0,0,0,0,0,0,0,0,0,0,0,9,172,7,Bloodlines
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,Bloodlines
+WORF,0,0,4,3,0,8,0,3,0,0,0,0,10,172,7,Bloodlines
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,173,7,Emergence
+CRUSHER,0,0,2,2,0,8,0,2,0,3,0,0,9,173,7,Emergence
+DATA,0,2,2,28,0,34,0,23,0,7,0,9,67,173,7,Emergence
+LAFORGE,0,2,28,8,0,35,0,13,0,4,0,0,62,173,7,Emergence
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,173,7,Emergence
+PICARD,0,8,34,35,0,4,0,15,0,7,0,0,61,173,7,Emergence
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,173,7,Emergence
+RIKER,0,2,23,13,0,15,0,0,0,0,0,1,34,173,7,Emergence
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,173,7,Emergence
+TROI,0,3,7,4,0,7,0,0,0,0,0,9,32,173,7,Emergence
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,173,7,Emergence
+WORF,0,0,9,0,0,0,0,1,0,9,0,0,19,173,7,Emergence
+COMPUTER,0,0,0,0,0,0,0,0,0,0,0,0,0,174,7,Preemptive Strike
+CRUSHER,0,0,0,1,0,2,0,0,0,2,0,0,5,174,7,Preemptive Strike
+DATA,0,0,0,0,0,17,0,3,0,0,0,8,19,174,7,Preemptive Strike
+LAFORGE,0,1,0,0,0,0,0,0,0,2,0,0,3,174,7,Preemptive Strike
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,174,7,Preemptive Strike
+PICARD,0,2,17,0,0,4,0,8,0,0,0,21,68,174,7,Preemptive Strike
+Q,0,0,0,0,0,0,0,0,0,0,0,0,0,174,7,Preemptive Strike
+RIKER,0,0,3,0,0,8,0,2,0,0,0,3,18,174,7,Preemptive Strike
+TASHA,0,0,0,0,0,0,0,0,0,0,0,0,0,174,7,Preemptive Strike
+TROI,0,2,0,2,0,0,0,0,0,0,0,0,4,174,7,Preemptive Strike
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,174,7,Preemptive Strike
+WORF,0,0,8,0,0,21,0,3,0,0,0,0,20,174,7,Preemptive Strike
+COMPUTER,0,0,0,0,0,2,0,0,0,0,0,0,2,175,7,All Good Things (parts 1 & 2)
+CRUSHER,0,6,13,11,0,60,1,12,0,5,0,4,69,175,7,All Good Things (parts 1 & 2)
+DATA,0,13,6,17,11,87,1,12,2,3,0,3,88,175,7,All Good Things (parts 1 & 2)
+LAFORGE,0,11,17,0,0,83,2,6,1,0,0,0,66,175,7,All Good Things (parts 1 & 2)
+O_BRIEN,0,0,11,0,0,27,0,0,3,2,0,1,25,175,7,All Good Things (parts 1 & 2)
+PICARD,2,60,87,83,27,10,77,37,29,40,0,18,270,175,7,All Good Things (parts 1 & 2)
+Q,0,1,1,2,0,77,2,0,0,0,0,0,45,175,7,All Good Things (parts 1 & 2)
+RIKER,0,12,12,6,0,37,0,4,0,6,0,7,50,175,7,All Good Things (parts 1 & 2)
+TASHA,0,0,2,1,3,29,0,0,0,0,0,4,25,175,7,All Good Things (parts 1 & 2)
+TROI,0,5,3,0,2,40,0,6,0,0,0,3,31,175,7,All Good Things (parts 1 & 2)
+WESLEY,0,0,0,0,0,0,0,0,0,0,0,0,0,175,7,All Good Things (parts 1 & 2)
+WORF,0,4,3,0,1,18,0,7,4,3,0,2,22,175,7,All Good Things (parts 1 & 2)
+COMPUTER,10,92,147,187,2,188,2,87,0,30,12,33,516,all,-1,-1
+CRUSHER,92,220,389,315,38,1566,34,603,13,378,232,210,3132,all,-1,-1
+DATA,147,389,256,1525,70,2743,54,1666,95,470,175,568,6113,all,-1,-1
+LAFORGE,187,315,1525,230,69,1389,44,1025,58,199,236,292,4439,all,-1,-1
+O_BRIEN,2,38,70,69,14,158,0,113,4,34,16,35,521,all,-1,-1
+PICARD,188,1566,2743,1389,158,696,520,2575,264,1051,572,1619,11629,all,-1,-1
+Q,2,34,54,44,0,520,68,90,7,14,3,25,545,all,-1,-1
+RIKER,87,603,1666,1025,113,2575,90,402,156,726,301,1098,7018,all,-1,-1
+TASHA,0,13,95,58,4,264,7,156,24,28,12,51,514,all,-1,-1
+TROI,30,378,470,199,34,1051,14,726,28,204,28,460,3092,all,-1,-1
+WESLEY,12,232,175,236,16,572,3,301,12,28,42,78,1379,all,-1,-1
+WORF,33,210,568,292,35,1619,25,1098,51,460,78,154,3629,all,-1,-1

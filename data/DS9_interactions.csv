@@ -1,0 +1,2089 @@
+character,BASHIR,DAX,GARAK,JAKE,KIRA,NOG,ODO,O_BRIEN,QUARK,ROM,SISKO,WORF,total_lines,ep,season,title
+BASHIR,0,4,0,0,13,0,3,5,1,0,3,0,17,0,1,Emissary (parts 1 & 2)
+DAX,4,2,0,0,12,0,0,13,1,0,49,0,51,0,1,Emissary (parts 1 & 2)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Emissary (parts 1 & 2)
+JAKE,0,0,0,0,0,0,0,4,0,0,27,0,20,0,1,Emissary (parts 1 & 2)
+KIRA,13,12,0,0,12,0,10,36,5,0,20,0,64,0,1,Emissary (parts 1 & 2)
+NOG,0,0,0,0,0,2,0,0,0,0,0,0,2,0,1,Emissary (parts 1 & 2)
+ODO,3,0,0,0,10,0,0,1,9,0,4,0,18,0,1,Emissary (parts 1 & 2)
+O_BRIEN,5,13,0,4,36,0,1,2,2,0,21,0,67,0,1,Emissary (parts 1 & 2)
+QUARK,1,1,0,0,5,0,9,2,0,0,11,0,16,0,1,Emissary (parts 1 & 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Emissary (parts 1 & 2)
+SISKO,3,49,0,27,20,0,4,21,11,0,10,0,180,0,1,Emissary (parts 1 & 2)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Emissary (parts 1 & 2)
+BASHIR,2,2,21,0,3,0,1,4,0,0,18,0,31,1,1,Past Prologue
+DAX,2,2,0,0,0,0,0,0,0,0,6,0,8,1,1,Past Prologue
+GARAK,21,0,0,0,0,0,0,0,0,0,0,0,21,1,1,Past Prologue
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Past Prologue
+KIRA,3,0,0,0,2,0,25,5,0,0,36,0,85,1,1,Past Prologue
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Past Prologue
+ODO,1,0,0,0,25,0,2,0,0,0,27,0,33,1,1,Past Prologue
+O_BRIEN,4,0,0,0,5,0,0,0,0,0,27,0,24,1,1,Past Prologue
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Past Prologue
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Past Prologue
+SISKO,18,6,0,0,36,0,27,27,0,0,8,0,85,1,1,Past Prologue
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Past Prologue
+BASHIR,2,14,0,0,2,1,16,1,0,0,23,0,34,2,1,A_Man Alone
+DAX,14,0,0,0,2,0,0,1,0,0,16,0,18,2,1,A_Man Alone
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,A_Man Alone
+JAKE,0,0,0,0,0,8,0,0,0,0,4,0,9,2,1,A_Man Alone
+KIRA,2,2,0,0,2,0,12,6,0,0,13,0,23,2,1,A_Man Alone
+NOG,1,0,0,8,0,0,0,0,0,0,0,0,5,2,1,A_Man Alone
+ODO,16,0,0,0,12,0,6,2,27,0,23,0,63,2,1,A_Man Alone
+O_BRIEN,1,1,0,0,6,0,2,0,0,0,5,0,24,2,1,A_Man Alone
+QUARK,0,0,0,0,0,0,27,0,0,0,0,0,18,2,1,A_Man Alone
+ROM,0,0,0,0,0,0,0,0,0,2,1,0,12,2,1,A_Man Alone
+SISKO,23,16,0,4,13,0,23,5,0,1,0,0,56,2,1,A_Man Alone
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,A_Man Alone
+BASHIR,0,3,0,1,5,0,3,4,0,0,38,0,38,3,1,Babel
+DAX,3,0,0,0,5,0,0,5,4,0,4,0,13,3,1,Babel
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Babel
+JAKE,1,0,0,0,0,0,0,0,0,0,3,0,4,3,1,Babel
+KIRA,5,5,0,0,4,0,4,16,4,0,24,0,57,3,1,Babel
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Babel
+ODO,3,0,0,0,4,0,6,0,45,0,25,0,52,3,1,Babel
+O_BRIEN,4,5,0,0,16,0,0,2,0,0,16,0,27,3,1,Babel
+QUARK,0,4,0,0,4,0,45,0,8,0,5,0,47,3,1,Babel
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Babel
+SISKO,38,4,0,3,24,0,25,16,5,0,6,0,73,3,1,Babel
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,Babel
+BASHIR,0,0,0,0,0,0,0,2,0,0,0,0,1,4,1,Captive Pursuit
+DAX,0,0,0,0,2,0,1,8,0,0,9,0,12,4,1,Captive Pursuit
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Captive Pursuit
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Captive Pursuit
+KIRA,0,2,0,0,0,0,4,1,0,0,7,0,8,4,1,Captive Pursuit
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Captive Pursuit
+ODO,0,1,0,0,4,0,4,12,0,0,8,0,26,4,1,Captive Pursuit
+O_BRIEN,2,8,0,0,1,0,12,10,29,0,42,0,116,4,1,Captive Pursuit
+QUARK,0,0,0,0,0,0,0,29,0,0,0,0,18,4,1,Captive Pursuit
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Captive Pursuit
+SISKO,0,9,0,0,7,0,8,42,0,0,6,0,50,4,1,Captive Pursuit
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,Captive Pursuit
+BASHIR,0,1,0,0,1,0,0,2,0,0,4,0,22,5,1,Q-less
+DAX,1,0,0,0,8,0,0,19,5,0,21,0,30,5,1,Q-less
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Q-less
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Q-less
+KIRA,1,8,0,0,0,0,0,8,2,0,13,0,19,5,1,Q-less
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Q-less
+ODO,0,0,0,0,0,0,0,0,10,0,0,0,6,5,1,Q-less
+O_BRIEN,2,19,0,0,8,0,0,2,0,0,25,0,44,5,1,Q-less
+QUARK,0,5,0,0,2,0,10,0,8,0,8,0,52,5,1,Q-less
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Q-less
+SISKO,4,21,0,0,13,0,0,25,8,0,0,0,59,5,1,Q-less
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,Q-less
+BASHIR,2,12,0,0,1,0,0,0,0,0,7,0,32,6,1,Dax
+DAX,12,0,0,0,0,0,0,0,0,0,41,0,36,6,1,Dax
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+KIRA,1,0,0,0,2,0,3,0,0,0,28,0,21,6,1,Dax
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+ODO,0,0,0,0,3,0,0,0,15,0,18,0,38,6,1,Dax
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+QUARK,0,0,0,0,0,0,15,0,0,0,0,0,8,6,1,Dax
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+SISKO,7,41,0,0,28,0,18,0,0,0,2,0,78,6,1,Dax
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,Dax
+BASHIR,2,15,0,0,5,0,2,0,1,0,17,0,58,7,1,The Passenger
+DAX,15,4,0,0,4,0,1,0,4,0,33,0,37,7,1,The Passenger
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+KIRA,5,4,0,0,0,0,10,0,0,0,7,0,18,7,1,The Passenger
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+ODO,2,1,0,0,10,0,0,0,23,0,22,0,55,7,1,The Passenger
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+QUARK,1,4,0,0,0,0,23,0,4,0,5,0,34,7,1,The Passenger
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+SISKO,17,33,0,0,7,0,22,0,5,0,0,0,61,7,1,The Passenger
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,7,1,The Passenger
+BASHIR,0,17,0,0,17,0,0,0,0,0,16,0,28,8,1,Move Along Home
+DAX,17,0,0,0,11,0,0,0,1,0,21,0,28,8,1,Move Along Home
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Move Along Home
+JAKE,0,0,0,0,0,0,12,0,0,0,8,0,10,8,1,Move Along Home
+KIRA,17,11,0,0,2,0,0,0,0,0,13,0,26,8,1,Move Along Home
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Move Along Home
+ODO,0,0,0,12,0,0,0,0,25,0,5,0,43,8,1,Move Along Home
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Move Along Home
+QUARK,0,1,0,0,0,0,25,0,10,0,17,0,66,8,1,Move Along Home
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Move Along Home
+SISKO,16,21,0,8,13,0,5,0,17,0,12,0,62,8,1,Move Along Home
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,Move Along Home
+BASHIR,0,0,0,0,0,0,0,1,0,0,3,0,2,9,1,The Nagus
+DAX,0,0,0,0,1,0,0,0,0,0,13,0,7,9,1,The Nagus
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,The Nagus
+JAKE,0,0,0,0,0,34,0,3,0,0,50,0,49,9,1,The Nagus
+KIRA,0,1,0,0,0,0,0,0,0,0,2,0,2,9,1,The Nagus
+NOG,0,0,0,34,0,0,0,13,3,3,1,0,29,9,1,The Nagus
+ODO,0,0,0,0,0,0,0,2,16,3,4,0,20,9,1,The Nagus
+O_BRIEN,1,0,0,3,0,13,2,2,1,0,18,0,21,9,1,The Nagus
+QUARK,0,0,0,0,0,3,16,1,12,48,3,0,98,9,1,The Nagus
+ROM,0,0,0,0,0,3,3,0,48,0,2,0,34,9,1,The Nagus
+SISKO,3,13,0,50,2,1,4,18,3,2,0,0,53,9,1,The Nagus
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,9,1,The Nagus
+BASHIR,0,0,0,0,1,0,5,1,0,0,0,0,4,10,1,Vortex
+DAX,0,0,0,0,1,0,0,0,0,0,8,0,5,10,1,Vortex
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Vortex
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Vortex
+KIRA,1,1,0,0,0,0,0,2,0,0,8,0,7,10,1,Vortex
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Vortex
+ODO,5,0,0,0,0,0,8,0,29,2,12,0,95,10,1,Vortex
+O_BRIEN,1,0,0,0,2,0,0,0,0,0,6,0,5,10,1,Vortex
+QUARK,0,0,0,0,0,0,29,0,4,5,2,0,31,10,1,Vortex
+ROM,0,0,0,0,0,0,2,0,5,0,0,0,6,10,1,Vortex
+SISKO,0,8,0,0,8,0,12,6,2,0,2,0,28,10,1,Vortex
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,Vortex
+BASHIR,2,0,0,0,15,0,0,0,0,0,54,0,47,11,1,Battle Lines
+DAX,0,2,0,0,1,0,3,43,0,0,5,0,30,11,1,Battle Lines
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+KIRA,15,1,0,0,2,0,0,0,0,0,34,0,42,11,1,Battle Lines
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+ODO,0,3,0,0,0,0,0,4,0,0,0,0,4,11,1,Battle Lines
+O_BRIEN,0,43,0,0,0,0,4,0,0,0,18,0,43,11,1,Battle Lines
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+SISKO,54,5,0,0,34,0,0,18,0,0,4,0,112,11,1,Battle Lines
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,11,1,Battle Lines
+BASHIR,0,0,0,0,0,0,1,84,0,0,4,0,70,12,1,The Storyteller
+DAX,0,0,0,0,0,0,0,1,0,0,1,0,1,12,1,The Storyteller
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Storyteller
+JAKE,0,0,0,0,0,55,6,0,0,0,1,0,47,12,1,The Storyteller
+KIRA,0,0,0,0,0,0,0,0,4,0,9,0,8,12,1,The Storyteller
+NOG,0,0,0,55,0,0,3,0,0,0,0,0,45,12,1,The Storyteller
+ODO,1,0,0,6,0,3,0,0,0,0,0,0,6,12,1,The Storyteller
+O_BRIEN,84,1,0,0,0,0,0,8,0,0,6,0,92,12,1,The Storyteller
+QUARK,0,0,0,0,4,0,0,0,2,0,0,0,6,12,1,The Storyteller
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Storyteller
+SISKO,4,1,0,1,9,0,0,6,0,0,0,0,37,12,1,The Storyteller
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,The Storyteller
+BASHIR,0,0,0,0,7,0,0,0,0,0,7,0,11,13,1,Progress
+DAX,0,0,0,0,19,0,0,1,0,0,0,0,12,13,1,Progress
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Progress
+JAKE,0,0,0,2,0,41,0,4,3,0,0,0,33,13,1,Progress
+KIRA,7,19,0,0,4,0,0,0,0,0,25,0,115,13,1,Progress
+NOG,0,0,0,41,0,0,0,14,13,0,0,0,49,13,1,Progress
+ODO,0,0,0,0,0,0,0,0,10,0,0,0,5,13,1,Progress
+O_BRIEN,0,1,0,4,0,14,0,0,0,0,0,0,11,13,1,Progress
+QUARK,0,0,0,3,0,13,10,0,2,0,0,0,15,13,1,Progress
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Progress
+SISKO,7,0,0,0,25,0,0,0,0,0,2,0,26,13,1,Progress
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,13,1,Progress
+BASHIR,8,36,0,0,5,0,1,4,0,0,5,0,34,14,1,If Wishes Were Horses
+DAX,36,4,0,0,9,0,0,26,0,0,35,0,61,14,1,If Wishes Were Horses
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,If Wishes Were Horses
+JAKE,0,0,0,2,0,0,0,0,0,0,5,0,10,14,1,If Wishes Were Horses
+KIRA,5,9,0,0,2,0,3,8,0,0,12,0,24,14,1,If Wishes Were Horses
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,If Wishes Were Horses
+ODO,1,0,0,0,3,0,0,1,19,0,15,0,28,14,1,If Wishes Were Horses
+O_BRIEN,4,26,0,0,8,0,1,0,0,0,25,0,60,14,1,If Wishes Were Horses
+QUARK,0,0,0,0,0,0,19,0,2,0,0,0,12,14,1,If Wishes Were Horses
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,If Wishes Were Horses
+SISKO,5,35,0,5,12,0,15,25,0,0,0,0,76,14,1,If Wishes Were Horses
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,14,1,If Wishes Were Horses
+BASHIR,2,1,0,0,0,0,2,3,4,0,19,0,36,15,1,The Forsaken
+DAX,1,0,0,0,9,0,2,25,0,0,9,0,31,15,1,The Forsaken
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,The Forsaken
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,The Forsaken
+KIRA,0,9,0,0,0,0,9,2,0,0,13,0,24,15,1,The Forsaken
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,The Forsaken
+ODO,2,2,0,0,9,0,8,0,2,0,27,0,85,15,1,The Forsaken
+O_BRIEN,3,25,0,0,2,0,0,0,0,0,50,0,64,15,1,The Forsaken
+QUARK,4,0,0,0,0,0,2,0,0,0,0,0,6,15,1,The Forsaken
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,The Forsaken
+SISKO,19,9,0,0,13,0,27,50,0,0,0,0,68,15,1,The Forsaken
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,The Forsaken
+BASHIR,0,0,0,0,2,0,51,1,0,0,2,0,32,16,1,Dramatis Personae
+DAX,0,0,0,0,30,0,0,19,0,0,3,0,28,16,1,Dramatis Personae
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Dramatis Personae
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Dramatis Personae
+KIRA,2,30,0,0,8,0,27,1,9,0,27,0,57,16,1,Dramatis Personae
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Dramatis Personae
+ODO,51,0,0,0,27,0,2,12,28,0,14,0,82,16,1,Dramatis Personae
+O_BRIEN,1,19,0,0,1,0,12,6,0,0,27,0,37,16,1,Dramatis Personae
+QUARK,0,0,0,0,9,0,28,0,4,0,0,0,22,16,1,Dramatis Personae
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Dramatis Personae
+SISKO,2,3,0,0,27,0,14,27,0,0,4,0,48,16,1,Dramatis Personae
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,Dramatis Personae
+BASHIR,0,0,0,0,7,0,7,0,0,0,7,0,12,17,1,Duet
+DAX,0,0,0,0,15,0,3,0,0,0,6,0,14,17,1,Duet
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Duet
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Duet
+KIRA,7,15,0,0,2,0,33,1,0,0,40,0,120,17,1,Duet
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Duet
+ODO,7,3,0,0,33,0,2,1,2,0,12,0,40,17,1,Duet
+O_BRIEN,0,0,0,0,1,0,1,0,0,0,2,0,4,17,1,Duet
+QUARK,0,0,0,0,0,0,2,0,0,0,0,0,2,17,1,Duet
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Duet
+SISKO,7,6,0,0,40,0,12,2,0,0,6,0,44,17,1,Duet
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,Duet
+BASHIR,0,0,0,0,1,0,1,1,0,0,1,0,2,18,1,In the Hands of the Prophets
+DAX,0,0,0,0,0,0,2,20,0,0,1,0,14,18,1,In the Hands of the Prophets
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,In the Hands of the Prophets
+JAKE,0,0,0,0,0,0,0,0,0,0,13,0,8,18,1,In the Hands of the Prophets
+KIRA,1,0,0,0,0,0,4,2,0,0,30,0,24,18,1,In the Hands of the Prophets
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,In the Hands of the Prophets
+ODO,1,2,0,0,4,0,0,18,7,0,1,0,21,18,1,In the Hands of the Prophets
+O_BRIEN,1,20,0,0,2,0,18,8,2,0,12,0,82,18,1,In the Hands of the Prophets
+QUARK,0,0,0,0,0,0,7,2,0,0,0,0,5,18,1,In the Hands of the Prophets
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,In the Hands of the Prophets
+SISKO,1,1,0,13,30,0,1,12,0,0,4,0,63,18,1,In the Hands of the Prophets
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,18,1,In the Hands of the Prophets
+BASHIR,0,3,0,0,2,0,0,0,6,0,1,0,12,19,2,The Homecoming
+DAX,3,0,0,0,1,0,0,0,0,0,14,0,11,19,2,The Homecoming
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,19,2,The Homecoming
+JAKE,0,0,0,2,1,0,0,0,0,0,43,0,24,19,2,The Homecoming
+KIRA,2,1,0,1,6,0,0,45,26,0,45,0,90,19,2,The Homecoming
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,19,2,The Homecoming
+ODO,0,0,0,0,0,0,0,2,1,0,11,0,9,19,2,The Homecoming
+O_BRIEN,0,0,0,0,45,0,2,0,0,0,16,0,41,19,2,The Homecoming
+QUARK,6,0,0,0,26,0,1,0,4,8,2,0,25,19,2,The Homecoming
+ROM,0,0,0,0,0,0,0,0,8,0,0,0,4,19,2,The Homecoming
+SISKO,1,14,0,43,45,0,11,16,2,0,2,0,93,19,2,The Homecoming
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,19,2,The Homecoming
+BASHIR,2,4,0,0,9,0,5,2,1,0,7,0,16,20,2,The Circle
+DAX,4,0,0,0,14,0,1,6,2,0,5,0,21,20,2,The Circle
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,The Circle
+JAKE,0,0,0,0,0,0,0,0,0,0,5,0,3,20,2,The Circle
+KIRA,9,14,0,0,6,0,30,3,1,0,22,0,85,20,2,The Circle
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,The Circle
+ODO,5,1,0,0,30,0,2,2,37,0,1,0,42,20,2,The Circle
+O_BRIEN,2,6,0,0,3,0,2,0,3,0,10,0,15,20,2,The Circle
+QUARK,1,2,0,0,1,0,37,3,0,0,6,0,26,20,2,The Circle
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,The Circle
+SISKO,7,5,0,5,22,0,1,10,6,0,0,0,68,20,2,The Circle
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,20,2,The Circle
+BASHIR,4,0,0,0,0,0,0,2,12,0,14,0,22,21,2,The Siege
+DAX,0,2,0,0,86,0,0,1,0,0,3,0,50,21,2,The Siege
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,21,2,The Siege
+JAKE,0,0,0,0,0,17,0,0,0,0,8,0,14,21,2,The Siege
+KIRA,0,86,0,0,10,0,0,1,1,0,6,0,67,21,2,The Siege
+NOG,0,0,0,17,0,0,1,0,0,0,0,0,9,21,2,The Siege
+ODO,0,0,0,0,0,1,0,0,6,0,7,0,10,21,2,The Siege
+O_BRIEN,2,1,0,0,1,0,0,2,0,0,25,0,28,21,2,The Siege
+QUARK,12,0,0,0,1,0,6,0,4,10,10,0,25,21,2,The Siege
+ROM,0,0,0,0,0,0,0,0,10,0,0,0,5,21,2,The Siege
+SISKO,14,3,0,8,6,0,7,25,10,0,2,0,51,21,2,The Siege
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,21,2,The Siege
+BASHIR,6,17,0,0,1,0,0,2,11,0,6,0,38,22,2,Invasive Procedures
+DAX,17,0,0,0,5,0,0,0,0,0,6,0,21,22,2,Invasive Procedures
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,Invasive Procedures
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,Invasive Procedures
+KIRA,1,5,0,0,0,0,0,1,6,0,9,0,21,22,2,Invasive Procedures
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,Invasive Procedures
+ODO,0,0,0,0,0,0,0,5,9,0,0,0,9,22,2,Invasive Procedures
+O_BRIEN,2,0,0,0,1,0,5,2,6,0,9,0,23,22,2,Invasive Procedures
+QUARK,11,0,0,0,6,0,9,6,6,0,1,0,27,22,2,Invasive Procedures
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,Invasive Procedures
+SISKO,6,6,0,0,9,0,0,9,1,0,2,0,75,22,2,Invasive Procedures
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,22,2,Invasive Procedures
+BASHIR,4,2,58,0,1,0,3,4,0,0,24,0,75,23,2,Cardassians
+DAX,2,0,0,0,0,0,0,1,0,0,1,0,2,23,2,Cardassians
+GARAK,58,0,0,0,0,0,0,0,0,0,0,0,37,23,2,Cardassians
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2,Cardassians
+KIRA,1,0,0,0,0,0,0,0,0,0,1,0,1,23,2,Cardassians
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2,Cardassians
+ODO,3,0,0,0,0,0,0,0,0,0,4,0,4,23,2,Cardassians
+O_BRIEN,4,1,0,0,0,0,0,0,0,0,0,0,32,23,2,Cardassians
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,1,23,2,Cardassians
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2,Cardassians
+SISKO,24,1,0,0,1,0,4,0,0,0,0,0,40,23,2,Cardassians
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,23,2,Cardassians
+BASHIR,2,9,0,0,2,0,0,13,0,0,0,0,83,24,2,Melora
+DAX,9,0,0,0,0,0,0,3,3,0,2,0,45,24,2,Melora
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,Melora
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,Melora
+KIRA,2,0,0,0,0,0,0,0,0,0,5,0,4,24,2,Melora
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,Melora
+ODO,0,0,0,0,0,0,2,0,19,0,0,0,19,24,2,Melora
+O_BRIEN,13,3,0,0,0,0,0,2,0,0,8,0,16,24,2,Melora
+QUARK,0,3,0,0,0,0,19,0,14,0,1,0,38,24,2,Melora
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,Melora
+SISKO,0,2,0,0,5,0,0,8,1,0,0,0,20,24,2,Melora
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,24,2,Melora
+BASHIR,0,0,0,0,0,0,0,0,4,1,0,0,3,25,2,Rules of Acquisition
+DAX,0,0,0,0,11,0,0,0,16,5,0,0,35,25,2,Rules of Acquisition
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Rules of Acquisition
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Rules of Acquisition
+KIRA,0,11,0,0,4,0,0,1,3,0,2,0,23,25,2,Rules of Acquisition
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Rules of Acquisition
+ODO,0,0,0,0,0,0,0,0,0,9,0,0,5,25,2,Rules of Acquisition
+O_BRIEN,0,0,0,0,1,0,0,0,0,0,0,0,1,25,2,Rules of Acquisition
+QUARK,4,16,0,0,3,0,0,0,2,51,2,0,178,25,2,Rules of Acquisition
+ROM,1,5,0,0,0,0,9,0,51,0,0,0,42,25,2,Rules of Acquisition
+SISKO,0,0,0,0,2,0,0,0,2,0,0,0,11,25,2,Rules of Acquisition
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,25,2,Rules of Acquisition
+BASHIR,0,0,0,0,1,0,5,0,0,2,3,0,6,26,2,Necessary Evil
+DAX,0,0,0,0,0,0,5,0,0,0,1,0,3,26,2,Necessary Evil
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Necessary Evil
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Necessary Evil
+KIRA,1,0,0,0,0,0,99,0,0,0,1,0,54,26,2,Necessary Evil
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Necessary Evil
+ODO,5,5,0,0,99,0,4,0,32,54,15,0,163,26,2,Necessary Evil
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Necessary Evil
+QUARK,0,0,0,0,0,0,32,0,4,34,0,0,40,26,2,Necessary Evil
+ROM,2,0,0,0,0,0,54,0,34,0,5,0,50,26,2,Necessary Evil
+SISKO,3,1,0,0,1,0,15,0,0,5,0,0,13,26,2,Necessary Evil
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,26,2,Necessary Evil
+BASHIR,0,1,0,0,1,0,0,1,0,0,0,0,4,27,2,Second Sight
+DAX,1,0,0,0,0,0,0,4,0,0,51,0,40,27,2,Second Sight
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Second Sight
+JAKE,0,0,0,0,0,0,0,0,0,0,39,0,20,27,2,Second Sight
+KIRA,1,0,0,0,0,0,0,0,0,0,12,0,9,27,2,Second Sight
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Second Sight
+ODO,0,0,0,0,0,0,0,0,0,0,28,0,16,27,2,Second Sight
+O_BRIEN,1,4,0,0,0,0,0,0,0,0,6,0,8,27,2,Second Sight
+QUARK,0,0,0,0,0,0,0,0,2,0,6,0,5,27,2,Second Sight
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Second Sight
+SISKO,0,51,0,39,12,0,28,6,6,0,4,0,153,27,2,Second Sight
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,27,2,Second Sight
+BASHIR,0,1,0,0,2,0,0,0,0,0,1,0,5,28,2,Sanctuary
+DAX,1,0,0,0,1,0,0,2,0,0,4,0,7,28,2,Sanctuary
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Sanctuary
+JAKE,0,0,0,4,0,26,1,0,0,0,1,0,25,28,2,Sanctuary
+KIRA,2,1,0,0,4,0,8,4,18,0,21,0,81,28,2,Sanctuary
+NOG,0,0,0,26,0,4,17,0,8,0,0,0,31,28,2,Sanctuary
+ODO,0,0,0,1,8,17,2,0,13,0,9,0,32,28,2,Sanctuary
+O_BRIEN,0,2,0,0,4,0,0,0,0,0,13,0,14,28,2,Sanctuary
+QUARK,0,0,0,0,18,8,13,0,2,0,0,0,23,28,2,Sanctuary
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Sanctuary
+SISKO,1,4,0,1,21,0,9,13,0,0,2,0,44,28,2,Sanctuary
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,28,2,Sanctuary
+BASHIR,2,13,0,0,0,0,0,38,31,0,0,0,48,29,2,Rivals
+DAX,13,2,0,0,16,0,0,2,0,0,12,0,28,29,2,Rivals
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Rivals
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Rivals
+KIRA,0,16,0,0,2,0,0,0,0,0,9,0,15,29,2,Rivals
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Rivals
+ODO,0,0,0,0,0,0,0,0,5,0,1,0,13,29,2,Rivals
+O_BRIEN,38,2,0,0,0,0,0,2,28,0,2,0,45,29,2,Rivals
+QUARK,31,0,0,0,0,0,5,28,12,6,6,0,75,29,2,Rivals
+ROM,0,0,0,0,0,0,0,0,6,0,0,0,17,29,2,Rivals
+SISKO,0,12,0,0,9,0,1,2,6,0,0,0,23,29,2,Rivals
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,29,2,Rivals
+BASHIR,4,12,0,0,0,0,8,0,0,0,5,0,17,30,2,The Alternate
+DAX,12,2,0,0,0,0,5,0,0,0,8,0,30,30,2,The Alternate
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Alternate
+JAKE,0,0,0,0,0,0,0,0,0,0,21,0,11,30,2,The Alternate
+KIRA,0,0,0,0,0,0,0,3,0,0,12,0,11,30,2,The Alternate
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Alternate
+ODO,8,5,0,0,0,0,0,10,0,0,15,0,71,30,2,The Alternate
+O_BRIEN,0,0,0,0,3,0,10,2,0,0,25,0,33,30,2,The Alternate
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Alternate
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Alternate
+SISKO,5,8,0,21,12,0,15,25,0,0,4,0,58,30,2,The Alternate
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,30,2,The Alternate
+BASHIR,10,3,0,0,0,0,0,133,0,0,2,0,93,31,2,Armageddon Game
+DAX,3,0,0,0,12,0,0,0,3,0,28,0,24,31,2,Armageddon Game
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Armageddon Game
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Armageddon Game
+KIRA,0,12,0,0,0,0,2,0,4,0,13,0,20,31,2,Armageddon Game
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Armageddon Game
+ODO,0,0,0,0,2,0,0,0,0,0,1,0,2,31,2,Armageddon Game
+O_BRIEN,133,0,0,0,0,0,0,0,0,0,0,0,76,31,2,Armageddon Game
+QUARK,0,3,0,0,4,0,0,0,0,0,0,0,4,31,2,Armageddon Game
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Armageddon Game
+SISKO,2,28,0,0,13,0,1,0,0,0,2,0,49,31,2,Armageddon Game
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,31,2,Armageddon Game
+BASHIR,0,0,0,0,2,0,0,39,0,0,3,0,24,32,2,Whispers
+DAX,0,0,0,0,0,0,0,0,0,0,2,0,1,32,2,Whispers
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,Whispers
+JAKE,0,0,0,0,2,0,0,18,0,0,0,0,12,32,2,Whispers
+KIRA,2,0,0,2,0,0,0,9,0,0,1,0,8,32,2,Whispers
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,Whispers
+ODO,0,0,0,0,0,0,0,28,0,0,0,0,17,32,2,Whispers
+O_BRIEN,39,0,0,18,9,0,28,22,11,0,41,0,180,32,2,Whispers
+QUARK,0,0,0,0,0,0,0,11,0,0,0,0,6,32,2,Whispers
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,Whispers
+SISKO,3,2,0,0,1,0,0,41,0,0,0,0,27,32,2,Whispers
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,32,2,Whispers
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+DAX,0,2,0,0,41,0,0,0,0,0,0,0,23,33,2,Paradise
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+KIRA,0,41,0,0,0,0,0,1,0,0,2,0,26,33,2,Paradise
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+O_BRIEN,0,0,0,0,1,0,0,6,0,0,53,0,57,33,2,Paradise
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+SISKO,0,0,0,0,2,0,0,53,0,0,0,0,78,33,2,Paradise
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,33,2,Paradise
+BASHIR,0,0,0,0,4,0,0,0,0,0,1,0,3,34,2,Shadowplay
+DAX,0,12,0,0,0,0,38,0,0,0,0,0,48,34,2,Shadowplay
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Shadowplay
+JAKE,0,0,0,0,0,0,0,14,0,0,26,0,21,34,2,Shadowplay
+KIRA,4,0,0,0,2,0,0,0,19,0,4,0,36,34,2,Shadowplay
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Shadowplay
+ODO,0,38,0,0,0,0,2,0,0,0,0,0,86,34,2,Shadowplay
+O_BRIEN,0,0,0,14,0,0,0,0,0,0,2,0,9,34,2,Shadowplay
+QUARK,0,0,0,0,19,0,0,0,0,0,0,0,11,34,2,Shadowplay
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Shadowplay
+SISKO,1,0,0,26,4,0,0,2,0,0,0,0,19,34,2,Shadowplay
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,34,2,Shadowplay
+BASHIR,0,5,0,0,2,0,2,2,2,0,0,0,12,35,2,Playing God
+DAX,5,12,0,0,10,0,0,5,8,0,52,0,144,35,2,Playing God
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Playing God
+JAKE,0,0,0,0,0,0,0,0,0,0,25,0,13,35,2,Playing God
+KIRA,2,10,0,0,0,0,4,8,5,0,7,0,19,35,2,Playing God
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Playing God
+ODO,2,0,0,0,4,0,0,0,0,0,3,0,5,35,2,Playing God
+O_BRIEN,2,5,0,0,8,0,0,2,7,0,20,0,27,35,2,Playing God
+QUARK,2,8,0,0,5,0,0,7,0,0,0,0,26,35,2,Playing God
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Playing God
+SISKO,0,52,0,25,7,0,3,20,0,0,2,0,62,35,2,Playing God
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,35,2,Playing God
+BASHIR,0,0,15,0,0,0,0,0,0,0,0,0,8,36,2,Profit and Loss
+DAX,0,0,0,0,3,0,0,1,0,0,1,0,3,36,2,Profit and Loss
+GARAK,15,0,0,0,0,0,0,0,53,0,16,0,60,36,2,Profit and Loss
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Profit and Loss
+KIRA,0,3,0,0,0,0,0,1,0,0,4,0,5,36,2,Profit and Loss
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Profit and Loss
+ODO,0,0,0,0,0,0,0,0,49,0,0,0,29,36,2,Profit and Loss
+O_BRIEN,0,1,0,0,1,0,0,0,0,0,5,0,6,36,2,Profit and Loss
+QUARK,0,0,53,0,0,0,49,0,10,0,0,0,153,36,2,Profit and Loss
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Profit and Loss
+SISKO,0,1,16,0,4,0,0,5,0,0,0,0,26,36,2,Profit and Loss
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,36,2,Profit and Loss
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+DAX,0,4,0,0,26,0,6,0,0,0,16,0,95,37,2,Blood Oath
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+KIRA,0,26,0,0,0,0,2,0,0,0,0,0,15,37,2,Blood Oath
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+ODO,0,6,0,0,2,0,0,0,4,0,0,0,14,37,2,Blood Oath
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+QUARK,0,0,0,0,0,0,4,0,0,0,0,0,2,37,2,Blood Oath
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+SISKO,0,16,0,0,0,0,0,0,0,0,0,0,8,37,2,Blood Oath
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,37,2,Blood Oath
+BASHIR,0,0,0,0,5,0,0,0,0,0,7,0,6,38,2,The Maquis (part 1)
+DAX,0,0,0,0,26,0,2,0,0,0,3,0,18,38,2,The Maquis (part 1)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Maquis (part 1)
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Maquis (part 1)
+KIRA,5,26,0,0,0,0,6,6,0,0,33,0,41,38,2,The Maquis (part 1)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Maquis (part 1)
+ODO,0,2,0,0,6,0,0,2,0,0,8,0,10,38,2,The Maquis (part 1)
+O_BRIEN,0,0,0,0,6,0,2,0,0,0,15,0,12,38,2,The Maquis (part 1)
+QUARK,0,0,0,0,0,0,0,0,2,0,0,0,35,38,2,The Maquis (part 1)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Maquis (part 1)
+SISKO,7,3,0,0,33,0,8,15,0,0,2,0,122,38,2,The Maquis (part 1)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,38,2,The Maquis (part 1)
+BASHIR,0,1,0,0,0,0,2,3,0,0,0,0,4,39,2,The Maquis (part 2)
+DAX,1,0,0,0,1,0,3,1,0,0,7,0,11,39,2,The Maquis (part 2)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,The Maquis (part 2)
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,The Maquis (part 2)
+KIRA,0,1,0,0,0,0,2,7,0,0,29,0,30,39,2,The Maquis (part 2)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,The Maquis (part 2)
+ODO,2,3,0,0,2,0,0,0,11,0,17,0,19,39,2,The Maquis (part 2)
+O_BRIEN,3,1,0,0,7,0,0,0,0,0,17,0,20,39,2,The Maquis (part 2)
+QUARK,0,0,0,0,0,0,11,0,2,0,9,0,23,39,2,The Maquis (part 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,The Maquis (part 2)
+SISKO,0,7,0,0,29,0,17,17,9,0,2,0,132,39,2,The Maquis (part 2)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,39,2,The Maquis (part 2)
+BASHIR,10,23,145,0,1,0,41,8,10,0,3,0,159,40,2,The Wire
+DAX,23,0,0,0,0,0,0,0,0,0,0,0,12,40,2,The Wire
+GARAK,145,0,6,0,1,0,0,0,8,0,0,0,83,40,2,The Wire
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,The Wire
+KIRA,1,0,1,0,0,0,0,0,0,0,0,0,1,40,2,The Wire
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,The Wire
+ODO,41,0,0,0,0,0,0,0,0,0,0,0,23,40,2,The Wire
+O_BRIEN,8,0,0,0,0,0,0,2,1,0,1,0,6,40,2,The Wire
+QUARK,10,0,8,0,0,0,0,1,2,0,0,0,14,40,2,The Wire
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,The Wire
+SISKO,3,0,0,0,0,0,0,1,0,0,2,0,3,40,2,The Wire
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,40,2,The Wire
+BASHIR,6,0,6,0,86,0,20,32,0,0,2,0,80,41,2,Crossover
+DAX,0,0,0,0,0,0,0,2,0,0,4,0,3,41,2,Crossover
+GARAK,6,0,0,0,19,0,0,0,8,0,3,0,25,41,2,Crossover
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Crossover
+KIRA,86,0,19,0,8,0,3,0,23,0,28,0,115,41,2,Crossover
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Crossover
+ODO,20,0,0,0,3,0,2,4,0,0,0,0,17,41,2,Crossover
+O_BRIEN,32,2,0,0,0,0,4,0,0,0,11,0,27,41,2,Crossover
+QUARK,0,0,8,0,23,0,0,0,0,0,0,0,19,41,2,Crossover
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Crossover
+SISKO,2,4,3,0,28,0,0,11,0,0,0,0,32,41,2,Crossover
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,41,2,Crossover
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+DAX,0,0,0,0,8,0,0,1,0,0,0,0,6,42,2,The Collaborator
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+KIRA,0,8,0,0,0,0,42,8,12,0,0,0,99,42,2,The Collaborator
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+ODO,0,0,0,0,42,0,0,0,11,0,0,0,39,42,2,The Collaborator
+O_BRIEN,0,1,0,0,8,0,0,0,0,0,0,0,6,42,2,The Collaborator
+QUARK,0,0,0,0,12,0,11,0,4,0,0,0,15,42,2,The Collaborator
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+SISKO,0,0,0,0,0,0,0,0,0,0,0,0,12,42,2,The Collaborator
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,42,2,The Collaborator
+BASHIR,2,2,0,0,6,0,0,0,0,0,6,0,16,43,2,Tribunal
+DAX,2,0,0,0,5,0,0,2,0,0,4,0,7,43,2,Tribunal
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+KIRA,6,5,0,0,2,0,0,0,0,0,12,0,14,43,2,Tribunal
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+ODO,0,0,0,0,0,0,0,37,0,0,2,0,42,43,2,Tribunal
+O_BRIEN,0,2,0,0,0,0,37,4,0,0,6,0,86,43,2,Tribunal
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+SISKO,6,4,0,0,12,0,2,6,0,0,0,0,29,43,2,Tribunal
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,43,2,Tribunal
+BASHIR,0,2,0,0,3,0,0,1,0,0,0,0,7,44,2,The Jem'Hadar
+DAX,2,0,0,0,6,0,3,4,0,0,3,0,17,44,2,The Jem'Hadar
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Jem'Hadar
+JAKE,0,0,0,4,3,53,0,4,6,0,29,0,58,44,2,The Jem'Hadar
+KIRA,3,6,0,3,2,0,10,3,0,0,5,0,28,44,2,The Jem'Hadar
+NOG,0,0,0,53,0,0,1,1,12,0,8,0,47,44,2,The Jem'Hadar
+ODO,0,3,0,0,10,1,0,1,15,0,1,0,19,44,2,The Jem'Hadar
+O_BRIEN,1,4,0,4,3,1,1,2,0,0,4,0,17,44,2,The Jem'Hadar
+QUARK,0,0,0,6,0,12,15,0,8,0,70,0,71,44,2,The Jem'Hadar
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Jem'Hadar
+SISKO,0,3,0,29,5,8,1,4,70,0,6,0,100,44,2,The Jem'Hadar
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,44,2,The Jem'Hadar
+BASHIR,0,2,0,0,4,0,2,1,3,0,22,0,22,45,3,The Search (part 1)
+DAX,2,2,0,0,13,0,1,15,0,0,38,0,40,45,3,The Search (part 1)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,The Search (part 1)
+JAKE,0,0,0,0,0,0,0,0,0,0,12,0,7,45,3,The Search (part 1)
+KIRA,4,13,0,0,2,0,37,3,0,0,41,0,59,45,3,The Search (part 1)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,The Search (part 1)
+ODO,2,1,0,0,37,0,0,0,4,0,20,0,38,45,3,The Search (part 1)
+O_BRIEN,1,15,0,0,3,0,0,0,0,0,16,0,20,45,3,The Search (part 1)
+QUARK,3,0,0,0,0,0,4,0,4,0,28,0,24,45,3,The Search (part 1)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,The Search (part 1)
+SISKO,22,38,0,12,41,0,20,16,28,0,4,0,115,45,3,The Search (part 1)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,45,3,The Search (part 1)
+BASHIR,4,1,21,0,1,0,1,4,10,0,12,0,38,46,3,The Search (part 2)
+DAX,1,0,4,0,0,0,0,6,0,0,15,0,16,46,3,The Search (part 2)
+GARAK,21,4,2,0,0,0,0,0,0,0,20,0,29,46,3,The Search (part 2)
+JAKE,0,0,0,0,0,0,0,0,0,0,11,0,6,46,3,The Search (part 2)
+KIRA,1,0,0,0,0,0,47,0,0,0,1,0,43,46,3,The Search (part 2)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,46,3,The Search (part 2)
+ODO,1,0,0,0,47,0,0,0,0,0,1,0,71,46,3,The Search (part 2)
+O_BRIEN,4,6,0,0,0,0,0,0,4,0,8,0,12,46,3,The Search (part 2)
+QUARK,10,0,0,0,0,0,0,4,0,0,0,0,8,46,3,The Search (part 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,46,3,The Search (part 2)
+SISKO,12,15,20,11,1,0,1,8,0,0,2,0,69,46,3,The Search (part 2)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,46,3,The Search (part 2)
+BASHIR,2,0,0,0,0,0,0,14,0,0,0,0,9,47,3,The House of Quark
+DAX,0,0,0,0,3,0,0,3,0,0,0,0,3,47,3,The House of Quark
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,The House of Quark
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,The House of Quark
+KIRA,0,3,0,0,0,0,0,1,0,0,2,0,3,47,3,The House of Quark
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,The House of Quark
+ODO,0,0,0,0,0,0,0,0,8,0,0,0,4,47,3,The House of Quark
+O_BRIEN,14,3,0,0,1,0,0,2,0,0,13,0,38,47,3,The House of Quark
+QUARK,0,0,0,0,0,0,8,0,2,24,0,0,73,47,3,The House of Quark
+ROM,0,0,0,0,0,0,0,0,24,0,0,0,13,47,3,The House of Quark
+SISKO,0,0,0,0,2,0,0,13,0,0,2,0,9,47,3,The House of Quark
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,47,3,The House of Quark
+BASHIR,2,55,0,0,0,0,0,0,0,0,46,0,74,48,3,Equilibrium
+DAX,55,0,0,0,11,0,0,0,1,0,48,0,76,48,3,Equilibrium
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+KIRA,0,11,0,0,0,0,0,0,0,0,0,0,6,48,3,Equilibrium
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+QUARK,0,1,0,0,0,0,0,0,0,0,0,0,1,48,3,Equilibrium
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+SISKO,46,48,0,0,0,0,0,0,0,0,8,0,75,48,3,Equilibrium
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,48,3,Equilibrium
+BASHIR,0,0,11,0,0,0,0,0,0,0,0,0,6,49,3,Second Skin
+DAX,0,0,2,0,0,0,1,0,0,0,14,0,9,49,3,Second Skin
+GARAK,11,2,4,0,4,0,5,0,0,0,22,0,30,49,3,Second Skin
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+KIRA,0,0,4,0,2,0,5,0,0,0,5,0,69,49,3,Second Skin
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+ODO,0,1,5,0,5,0,0,0,0,0,2,0,8,49,3,Second Skin
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+SISKO,0,14,22,0,5,0,2,0,0,0,0,0,26,49,3,Second Skin
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,49,3,Second Skin
+BASHIR,6,7,0,0,0,0,9,0,0,0,17,0,29,50,3,The Abandoned
+DAX,7,0,0,0,1,0,2,0,2,0,13,0,13,50,3,The Abandoned
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,The Abandoned
+JAKE,0,0,0,0,0,0,0,0,0,0,18,0,13,50,3,The Abandoned
+KIRA,0,1,0,0,2,0,28,0,0,0,1,0,18,50,3,The Abandoned
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,The Abandoned
+ODO,9,2,0,0,28,0,4,5,0,0,21,0,73,50,3,The Abandoned
+O_BRIEN,0,0,0,0,0,0,5,0,0,0,25,0,17,50,3,The Abandoned
+QUARK,0,2,0,0,0,0,0,0,4,0,4,0,6,50,3,The Abandoned
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,The Abandoned
+SISKO,17,13,0,18,1,0,21,25,4,0,4,0,71,50,3,The Abandoned
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,50,3,The Abandoned
+BASHIR,2,11,9,0,10,0,0,0,0,0,0,0,20,51,3,Civil Defense
+DAX,11,0,9,0,10,0,0,0,0,0,0,0,21,51,3,Civil Defense
+GARAK,9,9,0,0,5,0,0,0,0,0,0,0,19,51,3,Civil Defense
+JAKE,0,0,0,0,0,0,0,10,0,0,13,0,14,51,3,Civil Defense
+KIRA,10,10,5,0,2,0,8,1,1,0,8,0,44,51,3,Civil Defense
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,Civil Defense
+ODO,0,0,0,0,8,0,0,0,47,0,0,0,30,51,3,Civil Defense
+O_BRIEN,0,0,0,10,1,0,0,4,0,0,26,0,26,51,3,Civil Defense
+QUARK,0,0,0,0,1,0,47,0,0,0,0,0,28,51,3,Civil Defense
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,Civil Defense
+SISKO,0,0,0,13,8,0,0,26,0,0,2,0,36,51,3,Civil Defense
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,51,3,Civil Defense
+BASHIR,0,9,0,0,0,0,0,4,0,0,2,0,14,52,3,Meridian
+DAX,9,16,0,0,0,0,0,14,0,0,28,0,96,52,3,Meridian
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Meridian
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Meridian
+KIRA,0,0,0,0,2,0,12,0,29,0,0,0,24,52,3,Meridian
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Meridian
+ODO,0,0,0,0,12,0,0,0,11,0,0,0,12,52,3,Meridian
+O_BRIEN,4,14,0,0,0,0,0,0,0,0,10,0,17,52,3,Meridian
+QUARK,0,0,0,0,29,0,11,0,4,0,0,0,45,52,3,Meridian
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Meridian
+SISKO,2,28,0,0,0,0,0,10,0,0,0,0,32,52,3,Meridian
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,52,3,Meridian
+BASHIR,0,0,0,0,11,0,0,0,2,0,0,0,8,53,3,Defiant
+DAX,0,0,0,0,12,0,0,0,0,0,8,0,13,53,3,Defiant
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Defiant
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Defiant
+KIRA,11,12,0,0,2,0,0,3,1,0,0,0,50,53,3,Defiant
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Defiant
+ODO,0,0,0,0,0,0,0,0,0,0,3,0,5,53,3,Defiant
+O_BRIEN,0,0,0,0,3,0,0,2,0,0,2,0,4,53,3,Defiant
+QUARK,2,0,0,0,1,0,0,0,0,0,0,0,2,53,3,Defiant
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Defiant
+SISKO,0,8,0,0,0,0,3,2,0,0,0,0,45,53,3,Defiant
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,53,3,Defiant
+BASHIR,2,3,0,0,13,0,4,14,0,0,10,0,28,54,3,Fascination
+DAX,3,0,0,2,0,0,1,0,3,0,26,0,29,54,3,Fascination
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Fascination
+JAKE,0,2,0,0,17,0,1,3,0,0,24,0,26,54,3,Fascination
+KIRA,13,0,0,17,6,0,16,4,0,0,1,0,50,54,3,Fascination
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Fascination
+ODO,4,1,0,1,16,0,0,0,0,0,1,0,33,54,3,Fascination
+O_BRIEN,14,0,0,3,4,0,0,6,16,0,1,0,73,54,3,Fascination
+QUARK,0,3,0,0,0,0,0,16,0,0,0,0,14,54,3,Fascination
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Fascination
+SISKO,10,26,0,24,1,0,1,1,0,0,0,0,38,54,3,Fascination
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,54,3,Fascination
+BASHIR,4,1,0,0,1,0,0,2,0,0,74,0,67,55,3,Past Tense (part 1)
+DAX,1,2,0,0,2,0,0,2,0,0,2,0,36,55,3,Past Tense (part 1)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Past Tense (part 1)
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Past Tense (part 1)
+KIRA,1,2,0,0,0,0,2,41,0,0,2,0,25,55,3,Past Tense (part 1)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Past Tense (part 1)
+ODO,0,0,0,0,2,0,0,7,0,0,0,0,5,55,3,Past Tense (part 1)
+O_BRIEN,2,2,0,0,41,0,7,2,0,0,2,0,31,55,3,Past Tense (part 1)
+QUARK,0,0,0,0,0,0,0,0,0,0,3,0,2,55,3,Past Tense (part 1)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Past Tense (part 1)
+SISKO,74,2,0,0,2,0,0,2,3,0,6,0,85,55,3,Past Tense (part 1)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,55,3,Past Tense (part 1)
+BASHIR,0,4,0,0,0,0,0,0,0,0,27,0,47,56,3,Past Tense (part 2)
+DAX,4,0,0,0,7,0,0,3,0,0,5,0,28,56,3,Past Tense (part 2)
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+KIRA,0,7,0,0,0,0,4,26,0,0,0,0,23,56,3,Past Tense (part 2)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+ODO,0,0,0,0,4,0,0,3,0,0,0,0,4,56,3,Past Tense (part 2)
+O_BRIEN,0,3,0,0,26,0,3,2,0,0,0,0,19,56,3,Past Tense (part 2)
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+SISKO,27,5,0,0,0,0,0,0,0,0,2,0,79,56,3,Past Tense (part 2)
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,56,3,Past Tense (part 2)
+BASHIR,16,4,0,0,24,0,1,2,0,0,2,0,68,57,3,Life Support
+DAX,4,0,0,0,0,0,0,0,1,0,0,0,3,57,3,Life Support
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,Life Support
+JAKE,0,0,0,0,0,62,1,0,0,0,14,0,43,57,3,Life Support
+KIRA,24,0,0,0,0,0,2,1,0,0,1,0,25,57,3,Life Support
+NOG,0,0,0,62,0,0,7,0,0,0,0,0,41,57,3,Life Support
+ODO,1,0,0,1,2,7,0,4,0,0,0,0,12,57,3,Life Support
+O_BRIEN,2,0,0,0,1,0,4,0,0,0,2,0,6,57,3,Life Support
+QUARK,0,1,0,0,0,0,0,0,0,0,0,0,4,57,3,Life Support
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,Life Support
+SISKO,2,0,0,14,1,0,0,2,0,0,0,0,19,57,3,Life Support
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,57,3,Life Support
+BASHIR,0,0,0,0,0,0,0,0,0,0,12,0,6,58,3,Heart of Stone
+DAX,0,0,0,0,0,9,0,0,0,0,24,0,18,58,3,Heart of Stone
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Heart of Stone
+JAKE,0,0,0,0,0,21,0,0,0,1,0,0,11,58,3,Heart of Stone
+KIRA,0,0,0,0,8,0,216,0,0,0,0,0,117,58,3,Heart of Stone
+NOG,0,9,0,21,0,2,0,1,6,3,59,0,56,58,3,Heart of Stone
+ODO,0,0,0,0,216,0,8,0,0,0,0,0,134,58,3,Heart of Stone
+O_BRIEN,0,0,0,0,0,1,0,0,0,0,4,0,5,58,3,Heart of Stone
+QUARK,0,0,0,0,0,6,0,0,0,11,0,0,9,58,3,Heart of Stone
+ROM,0,0,0,1,0,3,0,0,11,2,0,0,9,58,3,Heart of Stone
+SISKO,12,24,0,0,0,59,0,4,0,0,0,0,53,58,3,Heart of Stone
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,58,3,Heart of Stone
+BASHIR,0,0,0,0,5,0,0,0,0,0,0,0,4,59,3,Destiny
+DAX,0,0,0,0,2,0,0,8,10,0,44,0,47,59,3,Destiny
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Destiny
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Destiny
+KIRA,5,2,0,0,0,0,0,1,0,0,44,0,44,59,3,Destiny
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Destiny
+ODO,0,0,0,0,0,0,0,0,8,0,18,0,15,59,3,Destiny
+O_BRIEN,0,8,0,0,1,0,0,0,0,0,8,0,48,59,3,Destiny
+QUARK,0,10,0,0,0,0,8,0,2,0,3,0,14,59,3,Destiny
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Destiny
+SISKO,0,44,0,0,44,0,18,8,3,0,8,0,100,59,3,Destiny
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,59,3,Destiny
+BASHIR,0,21,0,0,2,0,18,18,20,0,8,0,51,60,3,Prophet Motive
+DAX,21,0,0,0,2,0,0,0,5,1,1,0,17,60,3,Prophet Motive
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Prophet Motive
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Prophet Motive
+KIRA,2,2,0,0,0,0,0,2,6,0,2,0,7,60,3,Prophet Motive
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Prophet Motive
+ODO,18,0,0,0,0,0,0,0,0,0,0,0,10,60,3,Prophet Motive
+O_BRIEN,18,0,0,0,2,0,0,0,0,0,2,0,12,60,3,Prophet Motive
+QUARK,20,5,0,0,6,0,0,0,14,130,6,0,134,60,3,Prophet Motive
+ROM,0,1,0,0,0,0,0,0,130,4,1,0,78,60,3,Prophet Motive
+SISKO,8,1,0,0,2,0,0,2,6,1,0,0,12,60,3,Prophet Motive
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,60,3,Prophet Motive
+BASHIR,0,2,0,0,0,0,0,62,1,0,8,0,46,61,3,Visionary
+DAX,2,2,0,0,3,0,1,11,0,0,9,0,16,61,3,Visionary
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Visionary
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Visionary
+KIRA,0,3,0,0,2,0,11,7,1,0,21,0,35,61,3,Visionary
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Visionary
+ODO,0,1,0,0,11,0,2,2,0,0,43,0,35,61,3,Visionary
+O_BRIEN,62,11,0,0,7,0,2,14,21,0,20,0,79,61,3,Visionary
+QUARK,1,0,0,0,1,0,0,21,2,0,3,0,22,61,3,Visionary
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Visionary
+SISKO,8,9,0,0,21,0,43,20,3,0,2,0,68,61,3,Visionary
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,61,3,Visionary
+BASHIR,20,19,75,0,20,0,19,48,15,0,10,0,142,62,3,Distant Voices
+DAX,19,0,0,0,5,0,6,11,0,0,2,0,23,62,3,Distant Voices
+GARAK,75,0,0,0,0,0,0,0,0,0,0,0,41,62,3,Distant Voices
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Distant Voices
+KIRA,20,5,0,0,0,0,9,5,0,0,1,0,21,62,3,Distant Voices
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Distant Voices
+ODO,19,6,0,0,9,0,0,5,0,0,1,0,20,62,3,Distant Voices
+O_BRIEN,48,11,0,0,5,0,5,0,0,0,2,0,37,62,3,Distant Voices
+QUARK,15,0,0,0,0,0,0,0,0,0,0,0,9,62,3,Distant Voices
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Distant Voices
+SISKO,10,2,0,0,1,0,1,2,0,0,0,0,10,62,3,Distant Voices
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,62,3,Distant Voices
+BASHIR,0,1,0,0,0,0,0,4,0,4,7,0,11,63,3,Through The Looking Glass
+DAX,1,4,0,0,0,0,0,1,0,0,22,0,15,63,3,Through The Looking Glass
+GARAK,0,0,0,0,36,0,0,0,0,3,7,0,27,63,3,Through The Looking Glass
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Through The Looking Glass
+KIRA,0,0,36,0,4,0,0,4,0,2,29,0,54,63,3,Through The Looking Glass
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Through The Looking Glass
+ODO,0,0,0,0,0,0,0,1,0,0,1,0,1,63,3,Through The Looking Glass
+O_BRIEN,4,1,0,0,4,0,1,10,0,1,77,0,57,63,3,Through The Looking Glass
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Through The Looking Glass
+ROM,4,0,3,0,2,0,0,1,0,0,1,0,8,63,3,Through The Looking Glass
+SISKO,7,22,7,0,29,0,1,77,0,1,6,0,130,63,3,Through The Looking Glass
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,63,3,Through The Looking Glass
+BASHIR,2,0,35,0,11,0,0,0,0,0,1,0,27,64,3,Improbable Cause
+DAX,0,0,0,0,0,0,3,3,0,0,0,0,3,64,3,Improbable Cause
+GARAK,35,0,6,0,2,0,103,0,0,0,11,0,97,64,3,Improbable Cause
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Improbable Cause
+KIRA,11,0,2,0,2,0,1,0,0,0,2,0,9,64,3,Improbable Cause
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Improbable Cause
+ODO,0,3,103,0,1,0,4,12,0,0,30,0,120,64,3,Improbable Cause
+O_BRIEN,0,3,0,0,0,0,12,0,0,0,3,0,10,64,3,Improbable Cause
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Improbable Cause
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Improbable Cause
+SISKO,1,0,11,0,2,0,30,3,0,0,0,0,25,64,3,Improbable Cause
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,64,3,Improbable Cause
+BASHIR,2,0,1,0,0,0,1,13,0,0,0,0,9,65,3,The Die Is Cast
+DAX,0,0,0,0,7,0,1,2,0,0,18,0,15,65,3,The Die Is Cast
+GARAK,1,0,4,0,0,0,79,0,0,0,0,0,88,65,3,The Die Is Cast
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,The Die Is Cast
+KIRA,0,7,0,0,2,0,1,8,0,0,18,0,21,65,3,The Die Is Cast
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,The Die Is Cast
+ODO,1,1,79,0,1,0,2,1,0,0,0,0,50,65,3,The Die Is Cast
+O_BRIEN,13,2,0,0,8,0,1,0,0,0,7,0,19,65,3,The Die Is Cast
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,The Die Is Cast
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,The Die Is Cast
+SISKO,0,18,0,0,18,0,0,7,0,0,6,0,37,65,3,The Die Is Cast
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,65,3,The Die Is Cast
+BASHIR,0,19,0,0,0,0,3,27,3,0,0,0,44,66,3,Explorers
+DAX,19,0,0,0,0,0,0,0,0,0,20,0,21,66,3,Explorers
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Explorers
+JAKE,0,0,0,6,0,0,0,0,0,0,157,0,86,66,3,Explorers
+KIRA,0,0,0,0,0,0,0,12,0,0,0,0,6,66,3,Explorers
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Explorers
+ODO,3,0,0,0,0,0,0,0,0,0,0,0,2,66,3,Explorers
+O_BRIEN,27,0,0,0,12,0,0,0,0,0,10,0,26,66,3,Explorers
+QUARK,3,0,0,0,0,0,0,0,0,0,0,0,3,66,3,Explorers
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Explorers
+SISKO,0,20,0,157,0,0,0,10,0,0,10,0,105,66,3,Explorers
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,66,3,Explorers
+BASHIR,0,0,0,0,0,0,3,5,0,0,4,0,6,67,3,Family Business
+DAX,0,0,0,0,1,0,0,0,0,0,7,0,4,67,3,Family Business
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Family Business
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Family Business
+KIRA,0,1,0,0,0,0,0,0,0,0,4,0,3,67,3,Family Business
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Family Business
+ODO,3,0,0,0,0,0,0,1,10,0,3,0,9,67,3,Family Business
+O_BRIEN,5,0,0,0,0,0,1,0,0,0,7,0,7,67,3,Family Business
+QUARK,0,0,0,0,0,0,10,0,10,95,0,0,126,67,3,Family Business
+ROM,0,0,0,0,0,0,0,0,95,4,0,0,85,67,3,Family Business
+SISKO,4,7,0,0,4,0,3,7,0,0,0,0,38,67,3,Family Business
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,67,3,Family Business
+BASHIR,0,1,0,0,0,0,0,8,3,0,0,0,9,68,3,Shakaar
+DAX,1,0,0,0,0,0,0,3,1,0,0,0,3,68,3,Shakaar
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Shakaar
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Shakaar
+KIRA,0,0,0,0,4,0,12,0,0,0,13,0,82,68,3,Shakaar
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Shakaar
+ODO,0,0,0,0,12,0,0,0,0,0,0,0,7,68,3,Shakaar
+O_BRIEN,8,3,0,0,0,0,0,2,21,0,0,0,19,68,3,Shakaar
+QUARK,3,1,0,0,0,0,0,21,0,0,0,0,15,68,3,Shakaar
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Shakaar
+SISKO,0,0,0,0,13,0,0,0,0,0,0,0,22,68,3,Shakaar
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,68,3,Shakaar
+BASHIR,0,4,0,0,0,1,6,1,1,0,2,0,11,69,3,Facets
+DAX,4,6,0,0,2,0,12,3,13,0,31,0,95,69,3,Facets
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Facets
+JAKE,0,0,0,0,0,16,0,0,3,0,3,0,12,69,3,Facets
+KIRA,0,2,0,0,0,0,1,0,0,0,0,0,2,69,3,Facets
+NOG,1,0,0,16,0,0,0,8,8,2,3,0,21,69,3,Facets
+ODO,6,12,0,0,1,0,0,0,2,0,3,0,15,69,3,Facets
+O_BRIEN,1,3,0,0,0,8,0,0,1,0,0,0,8,69,3,Facets
+QUARK,1,13,0,3,0,8,2,1,2,15,1,0,29,69,3,Facets
+ROM,0,0,0,0,0,2,0,0,15,2,1,0,12,69,3,Facets
+SISKO,2,31,0,3,0,3,3,0,1,1,2,0,38,69,3,Facets
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,69,3,Facets
+BASHIR,0,2,0,0,7,0,4,16,2,0,11,0,26,70,3,The Adversary
+DAX,2,0,0,0,4,0,2,9,0,0,33,0,30,70,3,The Adversary
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Adversary
+JAKE,0,0,0,2,1,0,0,0,1,0,1,0,3,70,3,The Adversary
+KIRA,7,4,0,1,0,0,3,2,0,0,19,0,29,70,3,The Adversary
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Adversary
+ODO,4,2,0,0,3,0,2,9,0,0,18,0,35,70,3,The Adversary
+O_BRIEN,16,9,0,0,2,0,9,10,1,0,28,0,55,70,3,The Adversary
+QUARK,2,0,0,1,0,0,0,1,0,0,0,0,2,70,3,The Adversary
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Adversary
+SISKO,11,33,0,1,19,0,18,28,0,0,10,0,95,70,3,The Adversary
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,70,3,The Adversary
+BASHIR,0,4,11,0,3,0,12,7,8,0,8,6,37,71,4,The Way of the Warrior (parts 1 & 2)
+DAX,4,6,1,0,32,0,0,5,0,0,39,35,75,71,4,The Way of the Warrior (parts 1 & 2)
+GARAK,11,1,4,0,0,0,12,0,25,0,7,0,42,71,4,The Way of the Warrior (parts 1 & 2)
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,71,4,The Way of the Warrior (parts 1 & 2)
+KIRA,3,32,0,0,4,0,3,16,3,0,27,6,51,71,4,The Way of the Warrior (parts 1 & 2)
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,71,4,The Way of the Warrior (parts 1 & 2)
+ODO,12,0,12,0,3,0,0,4,11,0,7,11,39,71,4,The Way of the Warrior (parts 1 & 2)
+O_BRIEN,7,5,0,0,16,0,4,4,15,0,16,29,52,71,4,The Way of the Warrior (parts 1 & 2)
+QUARK,8,0,25,0,3,0,11,15,6,0,0,3,39,71,4,The Way of the Warrior (parts 1 & 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,71,4,The Way of the Warrior (parts 1 & 2)
+SISKO,8,39,7,0,27,0,7,16,0,0,14,88,154,71,4,The Way of the Warrior (parts 1 & 2)
+WORF,6,35,0,0,6,0,11,29,3,0,88,0,126,71,4,The Way of the Warrior (parts 1 & 2)
+BASHIR,0,8,0,0,0,2,0,5,0,0,1,0,9,72,4,The Visitor
+DAX,8,2,0,0,0,3,0,1,0,0,9,0,17,72,4,The Visitor
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,72,4,The Visitor
+JAKE,0,0,0,2,6,9,0,2,1,0,25,2,27,72,4,The Visitor
+KIRA,0,0,0,6,0,0,0,0,0,0,0,1,6,72,4,The Visitor
+NOG,2,3,0,9,0,0,0,0,4,0,0,0,22,72,4,The Visitor
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,72,4,The Visitor
+O_BRIEN,5,1,0,2,0,0,0,0,0,0,2,0,5,72,4,The Visitor
+QUARK,0,0,0,1,0,4,0,0,0,0,0,0,3,72,4,The Visitor
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,72,4,The Visitor
+SISKO,1,9,0,25,0,0,0,2,0,0,6,0,58,72,4,The Visitor
+WORF,0,0,0,2,1,0,0,0,0,0,0,0,2,72,4,The Visitor
+BASHIR,2,0,0,0,0,0,0,73,0,0,0,0,79,73,4,Hippocratic Oath
+DAX,0,0,0,0,1,0,0,0,0,0,0,0,1,73,4,Hippocratic Oath
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,Hippocratic Oath
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,Hippocratic Oath
+KIRA,0,1,0,0,0,0,1,1,0,0,1,1,3,73,4,Hippocratic Oath
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,Hippocratic Oath
+ODO,0,0,0,0,1,0,2,0,3,0,2,18,15,73,4,Hippocratic Oath
+O_BRIEN,73,0,0,0,1,0,0,8,0,0,0,0,57,73,4,Hippocratic Oath
+QUARK,0,0,0,0,0,0,3,0,0,0,0,2,6,73,4,Hippocratic Oath
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,73,4,Hippocratic Oath
+SISKO,0,0,0,0,1,0,2,0,0,0,2,16,12,73,4,Hippocratic Oath
+WORF,0,0,0,0,1,0,18,0,2,0,16,0,20,73,4,Hippocratic Oath
+BASHIR,0,8,0,0,0,0,0,0,3,0,4,0,8,74,4,Indiscretion
+DAX,8,0,0,0,2,0,0,0,3,0,8,0,17,74,4,Indiscretion
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Indiscretion
+JAKE,0,0,0,0,0,0,0,0,0,0,17,0,9,74,4,Indiscretion
+KIRA,0,2,0,0,10,0,10,0,0,0,10,2,106,74,4,Indiscretion
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Indiscretion
+ODO,0,0,0,0,10,0,0,0,0,0,0,0,6,74,4,Indiscretion
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Indiscretion
+QUARK,3,3,0,0,0,0,0,0,0,0,2,0,4,74,4,Indiscretion
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,74,4,Indiscretion
+SISKO,4,8,0,17,10,0,0,0,2,0,0,1,47,74,4,Indiscretion
+WORF,0,0,0,0,2,0,0,0,0,0,1,0,4,74,4,Indiscretion
+BASHIR,2,8,0,0,16,0,0,0,7,0,0,0,19,75,4,Rejoined
+DAX,8,4,0,0,1,0,0,2,0,0,38,7,109,75,4,Rejoined
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Rejoined
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Rejoined
+KIRA,16,1,0,0,0,0,0,0,8,0,0,3,16,75,4,Rejoined
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Rejoined
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Rejoined
+O_BRIEN,0,2,0,0,0,0,0,0,0,0,0,0,2,75,4,Rejoined
+QUARK,7,0,0,0,8,0,0,0,0,0,0,0,8,75,4,Rejoined
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,75,4,Rejoined
+SISKO,0,38,0,0,0,0,0,0,0,0,0,0,21,75,4,Rejoined
+WORF,0,7,0,0,3,0,0,0,0,0,0,2,15,75,4,Rejoined
+BASHIR,8,34,0,0,0,0,0,0,1,0,6,0,29,76,4,Starship Down
+DAX,34,0,0,0,12,0,0,0,0,0,9,2,34,76,4,Starship Down
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Starship Down
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Starship Down
+KIRA,0,12,0,0,4,0,0,0,0,0,51,16,52,76,4,Starship Down
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Starship Down
+ODO,0,0,0,0,0,0,0,0,1,0,0,0,1,76,4,Starship Down
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,11,16,33,76,4,Starship Down
+QUARK,1,0,0,0,0,0,1,0,10,0,1,0,41,76,4,Starship Down
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,76,4,Starship Down
+SISKO,6,9,0,0,51,0,0,11,1,0,6,17,68,76,4,Starship Down
+WORF,0,2,0,0,16,0,0,16,0,0,17,4,48,76,4,Starship Down
+BASHIR,0,0,0,2,0,3,0,3,0,0,0,0,4,77,4,Little Green Men
+DAX,0,0,0,0,1,0,0,0,0,0,0,0,1,77,4,Little Green Men
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Little Green Men
+JAKE,2,0,0,0,0,5,0,0,0,0,0,0,4,77,4,Little Green Men
+KIRA,0,1,0,0,0,0,0,0,0,0,1,0,1,77,4,Little Green Men
+NOG,3,0,0,5,0,2,2,5,33,24,0,0,53,77,4,Little Green Men
+ODO,0,0,0,0,0,2,0,0,27,9,0,0,21,77,4,Little Green Men
+O_BRIEN,3,0,0,0,0,5,0,0,0,0,0,0,4,77,4,Little Green Men
+QUARK,0,0,0,0,0,33,27,0,6,82,0,0,116,77,4,Little Green Men
+ROM,0,0,0,0,0,24,9,0,82,4,0,0,71,77,4,Little Green Men
+SISKO,0,0,0,0,1,0,0,0,0,0,0,0,1,77,4,Little Green Men
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,77,4,Little Green Men
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+DAX,0,8,0,0,0,0,0,0,0,0,5,74,88,78,4,The Sword of Kahless
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,78,4,The Sword of Kahless
+SISKO,0,5,0,0,0,0,0,0,0,0,0,6,6,78,4,The Sword of Kahless
+WORF,0,74,0,0,0,0,0,0,0,0,6,4,86,78,4,The Sword of Kahless
+BASHIR,10,6,83,0,35,0,2,3,0,0,30,16,110,79,4,Our Man Bashir
+DAX,6,0,1,0,2,0,0,0,0,0,3,0,6,79,4,Our Man Bashir
+GARAK,83,1,6,0,12,0,0,1,0,0,3,1,57,79,4,Our Man Bashir
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Our Man Bashir
+KIRA,35,2,12,0,4,0,2,5,0,0,6,3,38,79,4,Our Man Bashir
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,79,4,Our Man Bashir
+ODO,2,0,0,0,2,0,0,0,2,2,0,0,18,79,4,Our Man Bashir
+O_BRIEN,3,0,1,0,5,0,0,2,0,0,4,2,10,79,4,Our Man Bashir
+QUARK,0,0,0,0,0,0,2,0,0,2,0,0,3,79,4,Our Man Bashir
+ROM,0,0,0,0,0,0,2,0,2,0,0,0,11,79,4,Our Man Bashir
+SISKO,30,3,3,0,6,0,0,4,0,0,6,2,33,79,4,Our Man Bashir
+WORF,16,0,1,0,3,0,0,2,0,0,2,0,13,79,4,Our Man Bashir
+BASHIR,0,0,0,0,0,0,7,4,4,0,0,0,9,80,4,Homefront
+DAX,0,0,0,0,0,0,8,0,0,0,0,0,5,80,4,Homefront
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Homefront
+JAKE,0,0,0,0,0,25,0,0,0,0,11,0,35,80,4,Homefront
+KIRA,0,0,0,0,0,0,0,3,0,0,2,8,7,80,4,Homefront
+NOG,0,0,0,25,0,2,1,0,0,0,29,0,31,80,4,Homefront
+ODO,7,8,0,0,0,1,0,6,14,0,31,5,54,80,4,Homefront
+O_BRIEN,4,0,0,0,3,0,6,0,8,0,2,1,14,80,4,Homefront
+QUARK,4,0,0,0,0,0,14,8,2,0,0,0,15,80,4,Homefront
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,80,4,Homefront
+SISKO,0,0,0,11,2,29,31,2,0,0,14,2,99,80,4,Homefront
+WORF,0,0,0,0,8,0,5,1,0,0,2,2,9,80,4,Homefront
+BASHIR,0,1,0,0,1,0,0,2,0,0,0,2,3,81,4,Paradise Lost
+DAX,1,0,0,0,2,0,0,2,0,0,0,5,6,81,4,Paradise Lost
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Paradise Lost
+JAKE,0,0,0,0,0,0,1,0,0,0,1,0,6,81,4,Paradise Lost
+KIRA,1,2,0,0,0,0,0,4,0,0,0,5,7,81,4,Paradise Lost
+NOG,0,0,0,0,0,0,2,0,0,0,20,0,14,81,4,Paradise Lost
+ODO,0,0,0,1,0,2,0,0,0,0,48,0,35,81,4,Paradise Lost
+O_BRIEN,2,2,0,0,4,0,0,0,0,0,16,4,15,81,4,Paradise Lost
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Paradise Lost
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,81,4,Paradise Lost
+SISKO,0,0,0,1,0,20,48,16,0,0,6,0,137,81,4,Paradise Lost
+WORF,2,5,0,0,5,0,0,4,0,0,0,4,11,81,4,Paradise Lost
+BASHIR,0,0,0,0,0,0,0,2,0,0,0,0,1,82,4,Crossfire
+DAX,0,0,0,0,3,0,0,0,0,0,1,0,3,82,4,Crossfire
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Crossfire
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Crossfire
+KIRA,0,3,0,0,2,0,61,0,1,0,2,0,63,82,4,Crossfire
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Crossfire
+ODO,0,0,0,0,61,0,8,0,52,0,17,47,139,82,4,Crossfire
+O_BRIEN,2,0,0,0,0,0,0,0,0,0,1,0,2,82,4,Crossfire
+QUARK,0,0,0,0,1,0,52,0,0,0,0,0,31,82,4,Crossfire
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,82,4,Crossfire
+SISKO,0,1,0,0,2,0,17,1,0,0,0,0,16,82,4,Crossfire
+WORF,0,0,0,0,0,0,47,0,0,0,0,2,29,82,4,Crossfire
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+DAX,0,0,0,0,0,0,0,0,0,0,1,0,1,83,4,Return To Grace
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+KIRA,0,0,0,0,4,0,6,0,0,0,0,0,127,83,4,Return To Grace
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+ODO,0,0,0,0,6,0,0,0,0,0,0,0,4,83,4,Return To Grace
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,5,0,3,83,4,Return To Grace
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+SISKO,0,1,0,0,0,0,0,5,0,0,0,0,3,83,4,Return To Grace
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,83,4,Return To Grace
+BASHIR,0,2,0,0,0,0,3,0,0,0,4,15,17,84,4,The Sons of Mogh
+DAX,2,0,0,0,3,0,5,4,9,0,4,32,35,84,4,The Sons of Mogh
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Sons of Mogh
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Sons of Mogh
+KIRA,0,3,0,0,0,0,0,46,0,0,10,3,35,84,4,The Sons of Mogh
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Sons of Mogh
+ODO,3,5,0,0,0,0,0,0,0,0,0,19,17,84,4,The Sons of Mogh
+O_BRIEN,0,4,0,0,46,0,0,2,0,0,4,2,34,84,4,The Sons of Mogh
+QUARK,0,9,0,0,0,0,0,0,2,0,0,0,6,84,4,The Sons of Mogh
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,84,4,The Sons of Mogh
+SISKO,4,4,0,0,10,0,0,4,0,0,0,7,16,84,4,The Sons of Mogh
+WORF,15,32,0,0,3,0,19,2,0,0,7,8,89,84,4,The Sons of Mogh
+BASHIR,2,0,0,0,0,0,0,24,1,27,2,2,33,85,4,Bar Association
+DAX,0,4,0,0,0,0,0,0,0,0,0,15,11,85,4,Bar Association
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Bar Association
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Bar Association
+KIRA,0,0,0,0,0,0,0,0,2,0,0,0,1,85,4,Bar Association
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,85,4,Bar Association
+ODO,0,0,0,0,0,0,2,0,13,0,0,9,13,85,4,Bar Association
+O_BRIEN,24,0,0,0,0,0,0,2,0,11,7,24,37,85,4,Bar Association
+QUARK,1,0,0,0,2,0,13,0,10,108,13,0,99,85,4,Bar Association
+ROM,27,0,0,0,0,0,0,11,108,4,0,0,114,85,4,Bar Association
+SISKO,2,0,0,0,0,0,0,7,13,0,0,4,14,85,4,Bar Association
+WORF,2,15,0,0,0,0,9,24,0,0,4,2,30,85,4,Bar Association
+BASHIR,0,0,0,0,5,0,0,38,3,0,9,2,37,86,4,Accession
+DAX,0,0,0,0,3,0,0,0,0,0,25,0,14,86,4,Accession
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Accession
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Accession
+KIRA,5,3,0,0,0,0,15,0,0,0,46,0,58,86,4,Accession
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Accession
+ODO,0,0,0,0,15,0,0,0,0,0,9,0,16,86,4,Accession
+O_BRIEN,38,0,0,0,0,0,0,4,8,0,0,3,54,86,4,Accession
+QUARK,3,0,0,0,0,0,0,8,0,0,0,1,6,86,4,Accession
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,86,4,Accession
+SISKO,9,25,0,0,46,0,9,0,0,0,2,0,92,86,4,Accession
+WORF,2,0,0,0,0,0,0,3,1,0,0,0,3,86,4,Accession
+BASHIR,0,0,0,0,0,0,0,0,3,0,0,0,2,87,4,Rules of Engagement
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,18,87,4,Rules of Engagement
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,Rules of Engagement
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,Rules of Engagement
+KIRA,0,0,0,0,0,0,0,6,0,0,0,6,6,87,4,Rules of Engagement
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,Rules of Engagement
+ODO,0,0,0,0,0,0,0,0,0,0,20,2,14,87,4,Rules of Engagement
+O_BRIEN,0,0,0,0,6,0,0,0,0,0,6,5,20,87,4,Rules of Engagement
+QUARK,3,0,0,0,0,0,0,0,0,0,0,1,11,87,4,Rules of Engagement
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,87,4,Rules of Engagement
+SISKO,0,0,0,0,0,0,20,6,0,0,4,31,78,87,4,Rules of Engagement
+WORF,0,0,0,0,6,0,2,5,1,0,31,0,40,87,4,Rules of Engagement
+BASHIR,0,0,0,0,1,0,0,60,0,0,0,0,38,88,4,Hard Time
+DAX,0,0,0,0,0,0,0,1,0,0,0,0,1,88,4,Hard Time
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Hard Time
+JAKE,0,0,0,2,0,0,0,8,0,0,0,0,5,88,4,Hard Time
+KIRA,1,0,0,0,0,0,0,9,0,0,0,0,6,88,4,Hard Time
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Hard Time
+ODO,0,0,0,0,0,0,0,1,0,0,0,0,1,88,4,Hard Time
+O_BRIEN,60,1,0,8,9,0,1,4,8,0,19,8,137,88,4,Hard Time
+QUARK,0,0,0,0,0,0,0,8,0,0,0,0,5,88,4,Hard Time
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,88,4,Hard Time
+SISKO,0,0,0,0,0,0,0,19,0,0,0,0,15,88,4,Hard Time
+WORF,0,0,0,0,0,0,0,8,0,0,0,0,5,88,4,Hard Time
+BASHIR,4,4,0,0,3,0,0,15,0,0,14,0,22,89,4,Shattered Mirror
+DAX,4,2,0,0,0,0,0,1,0,0,9,0,9,89,4,Shattered Mirror
+GARAK,0,0,0,0,0,0,0,0,0,0,0,40,23,89,4,Shattered Mirror
+JAKE,0,0,0,2,5,12,0,0,0,0,20,0,37,89,4,Shattered Mirror
+KIRA,3,0,0,5,4,7,0,1,0,0,35,0,37,89,4,Shattered Mirror
+NOG,0,0,0,12,7,2,0,0,0,0,2,0,15,89,4,Shattered Mirror
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Shattered Mirror
+O_BRIEN,15,1,0,0,1,0,0,4,0,0,69,0,57,89,4,Shattered Mirror
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Shattered Mirror
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,89,4,Shattered Mirror
+SISKO,14,9,0,20,35,2,0,69,0,0,6,0,115,89,4,Shattered Mirror
+WORF,0,0,40,0,0,0,0,0,0,0,0,0,31,89,4,Shattered Mirror
+BASHIR,0,0,0,1,2,0,0,3,0,0,8,0,9,90,4,The Muse
+DAX,0,0,0,0,2,0,0,1,2,0,0,0,4,90,4,The Muse
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,The Muse
+JAKE,1,0,0,0,0,0,0,0,0,0,32,0,57,90,4,The Muse
+KIRA,2,2,0,0,0,0,0,3,0,0,6,0,7,90,4,The Muse
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,The Muse
+ODO,0,0,0,0,0,0,2,2,4,0,0,2,69,90,4,The Muse
+O_BRIEN,3,1,0,0,3,0,2,0,0,0,0,0,5,90,4,The Muse
+QUARK,0,2,0,0,0,0,4,0,0,0,0,0,4,90,4,The Muse
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,90,4,The Muse
+SISKO,8,0,0,32,6,0,0,0,0,0,2,0,31,90,4,The Muse
+WORF,0,0,0,0,0,0,2,0,0,0,0,0,1,90,4,The Muse
+BASHIR,0,0,13,0,0,0,0,0,0,0,0,0,7,91,4,For The Cause
+DAX,0,0,0,0,0,0,0,2,0,0,1,0,4,91,4,For The Cause
+GARAK,13,0,2,0,6,0,0,0,21,0,0,0,41,91,4,For The Cause
+JAKE,0,0,0,2,0,0,0,0,0,0,22,0,15,91,4,For The Cause
+KIRA,0,0,6,0,0,0,1,0,2,0,3,0,8,91,4,For The Cause
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,For The Cause
+ODO,0,0,0,0,1,0,0,2,0,0,28,2,24,91,4,For The Cause
+O_BRIEN,0,2,0,0,0,0,2,4,0,0,7,9,17,91,4,For The Cause
+QUARK,0,0,21,0,2,0,0,0,0,0,0,0,12,91,4,For The Cause
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,91,4,For The Cause
+SISKO,0,1,0,22,3,0,28,7,0,0,6,9,90,91,4,For The Cause
+WORF,0,0,0,0,0,0,2,9,0,0,9,0,11,91,4,For The Cause
+BASHIR,0,4,0,0,3,0,1,4,0,0,2,2,8,92,4,To The Death
+DAX,4,0,0,0,2,0,7,29,0,0,12,14,53,92,4,To The Death
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,To The Death
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,To The Death
+KIRA,3,2,0,0,0,0,0,0,3,0,5,0,7,92,4,To The Death
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,To The Death
+ODO,1,7,0,0,0,0,2,4,1,0,8,6,24,92,4,To The Death
+O_BRIEN,4,29,0,0,0,0,4,0,0,0,9,13,39,92,4,To The Death
+QUARK,0,0,0,0,3,0,1,0,0,0,0,0,2,92,4,To The Death
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,92,4,To The Death
+SISKO,2,12,0,0,5,0,8,9,0,0,6,27,87,92,4,To The Death
+WORF,2,14,0,0,0,0,6,13,0,0,27,0,40,92,4,To The Death
+BASHIR,12,41,0,0,11,0,0,0,0,0,4,0,103,93,4,The Quickening
+DAX,41,0,0,0,7,0,0,0,0,0,0,0,48,93,4,The Quickening
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+KIRA,11,7,0,0,4,0,0,0,0,0,0,0,13,93,4,The Quickening
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+SISKO,4,0,0,0,0,0,0,0,0,0,0,0,2,93,4,The Quickening
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,93,4,The Quickening
+BASHIR,0,1,0,0,0,0,0,6,8,1,3,0,10,94,4,Body Parts
+DAX,1,0,0,0,0,0,0,0,0,1,1,0,2,94,4,Body Parts
+GARAK,0,0,2,0,0,0,0,0,25,0,0,0,15,94,4,Body Parts
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Body Parts
+KIRA,0,0,0,0,0,0,0,15,0,0,0,0,23,94,4,Body Parts
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,94,4,Body Parts
+ODO,0,0,0,0,0,0,0,0,1,0,3,0,2,94,4,Body Parts
+O_BRIEN,6,0,0,0,15,0,0,4,0,0,1,0,21,94,4,Body Parts
+QUARK,8,0,25,0,0,0,1,0,8,111,5,0,128,94,4,Body Parts
+ROM,1,1,0,0,0,0,0,0,111,0,0,0,58,94,4,Body Parts
+SISKO,3,1,0,0,0,0,3,1,5,0,0,1,7,94,4,Body Parts
+WORF,0,0,0,0,0,0,0,0,0,0,1,0,1,94,4,Body Parts
+BASHIR,0,1,6,0,2,0,34,0,0,0,12,3,36,95,4,Broken Link
+DAX,1,0,0,0,3,0,0,6,0,0,18,8,21,95,4,Broken Link
+GARAK,6,0,2,0,0,0,15,0,0,0,15,10,34,95,4,Broken Link
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Broken Link
+KIRA,2,3,0,0,0,0,9,0,1,0,11,3,15,95,4,Broken Link
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Broken Link
+ODO,34,0,15,0,9,0,6,4,6,0,8,0,65,95,4,Broken Link
+O_BRIEN,0,6,0,0,0,0,4,0,0,0,8,6,14,95,4,Broken Link
+QUARK,0,0,0,0,1,0,6,0,0,0,0,0,4,95,4,Broken Link
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,95,4,Broken Link
+SISKO,12,18,15,0,11,0,8,8,0,0,4,5,54,95,4,Broken Link
+WORF,3,8,10,0,3,0,0,6,0,0,5,0,20,95,4,Broken Link
+BASHIR,0,1,0,6,27,0,3,0,0,0,3,1,23,96,5,Apocalypse Rising
+DAX,1,0,0,0,4,0,0,1,0,0,5,1,6,96,5,Apocalypse Rising
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5,Apocalypse Rising
+JAKE,6,0,0,0,0,0,0,0,0,0,0,0,3,96,5,Apocalypse Rising
+KIRA,27,4,0,0,4,0,1,9,0,0,7,5,34,96,5,Apocalypse Rising
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5,Apocalypse Rising
+ODO,3,0,0,0,1,0,2,6,0,0,32,15,43,96,5,Apocalypse Rising
+O_BRIEN,0,1,0,0,9,0,6,0,0,0,10,19,35,96,5,Apocalypse Rising
+QUARK,0,0,0,0,0,0,0,0,0,0,6,0,4,96,5,Apocalypse Rising
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,96,5,Apocalypse Rising
+SISKO,3,5,0,0,7,0,32,10,6,0,0,14,62,96,5,Apocalypse Rising
+WORF,1,1,0,0,5,0,15,19,0,0,14,2,41,96,5,Apocalypse Rising
+BASHIR,0,0,0,0,3,0,2,0,5,0,0,0,6,97,5,The Ship
+DAX,0,2,0,0,0,0,0,23,0,0,51,17,54,97,5,The Ship
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,97,5,The Ship
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,97,5,The Ship
+KIRA,3,0,0,0,0,0,3,0,1,0,0,0,4,97,5,The Ship
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,97,5,The Ship
+ODO,2,0,0,0,3,0,0,0,2,0,0,0,4,97,5,The Ship
+O_BRIEN,0,23,0,0,0,0,0,0,0,0,45,26,72,97,5,The Ship
+QUARK,5,0,0,0,1,0,2,0,0,0,0,0,4,97,5,The Ship
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,97,5,The Ship
+SISKO,0,51,0,0,0,0,0,45,0,0,4,14,96,97,5,The Ship
+WORF,0,17,0,0,0,0,0,26,0,0,14,0,31,97,5,The Ship
+BASHIR,4,1,0,0,0,0,0,24,2,0,0,2,18,98,5,Looking for Par'Mach In All The Wrong Places
+DAX,1,6,0,0,0,0,0,0,20,0,5,52,50,98,5,Looking for Par'Mach In All The Wrong Places
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,98,5,Looking for Par'Mach In All The Wrong Places
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,98,5,Looking for Par'Mach In All The Wrong Places
+KIRA,0,0,0,0,0,0,18,39,0,0,0,0,36,98,5,Looking for Par'Mach In All The Wrong Places
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,98,5,Looking for Par'Mach In All The Wrong Places
+ODO,0,0,0,0,18,0,0,0,0,0,0,0,10,98,5,Looking for Par'Mach In All The Wrong Places
+O_BRIEN,24,0,0,0,39,0,0,2,0,0,0,0,39,98,5,Looking for Par'Mach In All The Wrong Places
+QUARK,2,20,0,0,0,0,0,0,12,0,0,30,56,98,5,Looking for Par'Mach In All The Wrong Places
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,98,5,Looking for Par'Mach In All The Wrong Places
+SISKO,0,5,0,0,0,0,0,0,0,0,0,0,3,98,5,Looking for Par'Mach In All The Wrong Places
+WORF,2,52,0,0,0,0,0,0,30,0,0,6,53,98,5,Looking for Par'Mach In All The Wrong Places
+BASHIR,8,0,0,43,0,0,0,0,0,0,4,0,52,99,5,Nor The Battle To The Strong
+DAX,0,0,0,0,2,0,1,3,0,0,24,1,17,99,5,Nor The Battle To The Strong
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Nor The Battle To The Strong
+JAKE,43,0,0,10,0,0,0,0,0,0,3,0,80,99,5,Nor The Battle To The Strong
+KIRA,0,2,0,0,0,0,0,3,1,0,2,0,4,99,5,Nor The Battle To The Strong
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Nor The Battle To The Strong
+ODO,0,1,0,0,0,0,0,2,1,0,23,0,15,99,5,Nor The Battle To The Strong
+O_BRIEN,0,3,0,0,3,0,2,2,2,0,1,1,7,99,5,Nor The Battle To The Strong
+QUARK,0,0,0,0,1,0,1,2,0,0,0,1,3,99,5,Nor The Battle To The Strong
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,99,5,Nor The Battle To The Strong
+SISKO,4,24,0,3,2,0,23,1,0,0,2,1,31,99,5,Nor The Battle To The Strong
+WORF,0,1,0,0,0,0,0,1,1,0,1,0,2,99,5,Nor The Battle To The Strong
+BASHIR,0,0,0,0,0,0,0,27,0,0,2,0,22,100,5,The Assignment
+DAX,0,0,0,0,0,0,3,13,0,0,4,0,14,100,5,The Assignment
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,The Assignment
+JAKE,0,0,0,0,0,0,0,1,0,0,1,0,5,100,5,The Assignment
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,The Assignment
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,100,5,The Assignment
+ODO,0,3,0,0,0,0,2,17,0,4,6,0,19,100,5,The Assignment
+O_BRIEN,27,13,0,1,0,0,17,4,0,49,14,3,134,100,5,The Assignment
+QUARK,0,0,0,0,0,0,0,0,0,21,0,0,11,100,5,The Assignment
+ROM,0,0,0,0,0,0,4,49,21,0,0,0,45,100,5,The Assignment
+SISKO,2,4,0,1,0,0,6,14,0,0,0,0,18,100,5,The Assignment
+WORF,0,0,0,0,0,0,0,3,0,0,0,0,2,100,5,The Assignment
+BASHIR,0,2,0,0,2,0,2,44,0,0,5,3,44,101,5,Trials and Tribble-ations
+DAX,2,0,0,0,3,0,2,8,0,0,50,1,47,101,5,Trials and Tribble-ations
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Trials and Tribble-ations
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Trials and Tribble-ations
+KIRA,2,3,0,0,0,0,0,3,0,0,6,0,14,101,5,Trials and Tribble-ations
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Trials and Tribble-ations
+ODO,2,2,0,0,0,0,2,7,0,0,7,19,38,101,5,Trials and Tribble-ations
+O_BRIEN,44,8,0,0,3,0,7,2,0,0,15,6,54,101,5,Trials and Tribble-ations
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Trials and Tribble-ations
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,101,5,Trials and Tribble-ations
+SISKO,5,50,0,0,6,0,7,15,0,0,8,2,92,101,5,Trials and Tribble-ations
+WORF,3,1,0,0,0,0,19,6,0,0,2,0,21,101,5,Trials and Tribble-ations
+BASHIR,0,9,0,0,0,0,0,0,11,0,0,6,28,102,5,Let He Who Is Without Sin
+DAX,9,6,0,0,0,0,0,0,15,0,0,105,103,102,5,Let He Who Is Without Sin
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+QUARK,11,15,0,0,0,0,0,0,6,0,0,9,38,102,5,Let He Who Is Without Sin
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,102,5,Let He Who Is Without Sin
+SISKO,0,0,0,0,0,0,0,0,0,0,0,2,2,102,5,Let He Who Is Without Sin
+WORF,6,105,0,0,0,0,0,0,9,0,2,0,87,102,5,Let He Who Is Without Sin
+BASHIR,2,0,0,0,1,0,7,0,0,0,0,16,19,103,5,Things Past
+DAX,0,0,4,0,0,0,6,0,0,0,12,0,27,103,5,Things Past
+GARAK,0,4,0,0,0,0,21,0,0,0,34,0,37,103,5,Things Past
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Things Past
+KIRA,1,0,0,0,0,0,5,0,0,0,0,0,3,103,5,Things Past
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Things Past
+ODO,7,6,21,0,5,0,2,0,1,0,31,0,59,103,5,Things Past
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Things Past
+QUARK,0,0,0,0,0,0,1,0,0,0,6,0,10,103,5,Things Past
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,103,5,Things Past
+SISKO,0,12,34,0,0,0,31,0,6,0,4,0,56,103,5,Things Past
+WORF,16,0,0,0,0,0,0,0,0,0,0,0,12,103,5,Things Past
+BASHIR,0,0,0,0,0,0,3,0,0,0,0,0,2,104,5,The Ascent
+DAX,0,0,0,0,0,0,2,0,0,0,0,0,1,104,5,The Ascent
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,104,5,The Ascent
+JAKE,0,0,0,0,0,64,0,0,0,0,10,0,39,104,5,The Ascent
+KIRA,0,0,0,0,0,3,0,0,0,0,0,0,2,104,5,The Ascent
+NOG,0,0,0,64,3,0,0,5,0,0,15,0,47,104,5,The Ascent
+ODO,3,2,0,0,0,0,10,0,232,3,0,2,132,104,5,The Ascent
+O_BRIEN,0,0,0,0,0,5,0,0,0,0,0,0,3,104,5,The Ascent
+QUARK,0,0,0,0,0,0,232,0,18,15,0,0,136,104,5,The Ascent
+ROM,0,0,0,0,0,0,3,0,15,6,19,0,23,104,5,The Ascent
+SISKO,0,0,0,10,0,15,0,0,0,19,0,0,23,104,5,The Ascent
+WORF,0,0,0,0,0,0,2,0,0,0,0,0,1,104,5,The Ascent
+BASHIR,0,0,0,2,0,0,0,0,0,0,14,0,19,105,5,Rapture
+DAX,0,0,0,0,9,0,0,0,5,0,3,4,11,105,5,Rapture
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Rapture
+JAKE,2,0,0,2,0,0,0,0,0,0,15,0,13,105,5,Rapture
+KIRA,0,9,0,0,0,0,6,3,0,0,24,6,48,105,5,Rapture
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Rapture
+ODO,0,0,0,0,6,0,0,0,5,0,0,6,10,105,5,Rapture
+O_BRIEN,0,0,0,0,3,0,0,0,0,0,4,0,4,105,5,Rapture
+QUARK,0,5,0,0,0,0,5,0,2,0,11,5,16,105,5,Rapture
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,105,5,Rapture
+SISKO,14,3,0,15,24,0,0,4,11,0,4,0,92,105,5,Rapture
+WORF,0,4,0,0,6,0,6,0,5,0,0,0,11,105,5,Rapture
+BASHIR,0,1,0,0,21,0,4,0,0,0,4,0,16,106,5,The Darkness And The Light
+DAX,1,2,0,0,7,5,1,0,0,0,4,16,19,106,5,The Darkness And The Light
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,The Darkness And The Light
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,The Darkness And The Light
+KIRA,21,7,0,0,8,5,44,9,3,0,14,1,104,106,5,The Darkness And The Light
+NOG,0,5,0,0,5,0,0,0,0,0,0,0,6,106,5,The Darkness And The Light
+ODO,4,1,0,0,44,0,0,0,0,0,14,1,40,106,5,The Darkness And The Light
+O_BRIEN,0,0,0,0,9,0,0,0,0,0,0,0,5,106,5,The Darkness And The Light
+QUARK,0,0,0,0,3,0,0,0,0,0,0,0,2,106,5,The Darkness And The Light
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,106,5,The Darkness And The Light
+SISKO,4,4,0,0,14,0,14,0,0,0,0,3,21,106,5,The Darkness And The Light
+WORF,0,16,0,0,1,0,1,0,0,0,3,0,11,106,5,The Darkness And The Light
+BASHIR,2,0,0,0,1,0,3,1,0,0,0,0,7,107,5,The Begotten
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,The Begotten
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,The Begotten
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,The Begotten
+KIRA,1,0,0,0,0,0,6,10,0,0,0,0,25,107,5,The Begotten
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,The Begotten
+ODO,3,0,0,0,6,0,14,0,24,0,7,2,87,107,5,The Begotten
+O_BRIEN,1,0,0,0,10,0,0,0,0,0,0,0,20,107,5,The Begotten
+QUARK,0,0,0,0,0,0,24,0,2,0,0,0,14,107,5,The Begotten
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,107,5,The Begotten
+SISKO,0,0,0,0,0,0,7,0,0,0,0,0,5,107,5,The Begotten
+WORF,0,0,0,0,0,0,2,0,0,0,0,0,1,107,5,The Begotten
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,For The Uniform
+DAX,0,2,0,0,15,6,1,6,0,0,62,9,54,108,5,For The Uniform
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,For The Uniform
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,For The Uniform
+KIRA,0,15,0,0,2,6,1,0,0,0,48,8,46,108,5,For The Uniform
+NOG,0,6,0,0,6,0,0,4,0,0,20,0,20,108,5,For The Uniform
+ODO,0,1,0,0,1,0,0,1,0,0,26,0,15,108,5,For The Uniform
+O_BRIEN,0,6,0,0,0,4,1,0,0,0,11,0,13,108,5,For The Uniform
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,For The Uniform
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,108,5,For The Uniform
+SISKO,0,62,0,0,48,20,26,11,0,0,10,41,158,108,5,For The Uniform
+WORF,0,9,0,0,8,0,0,0,0,0,41,0,32,108,5,For The Uniform
+BASHIR,0,0,28,0,0,0,0,0,0,0,2,3,22,109,5,In Purgatory's Shadow
+DAX,0,2,0,0,12,0,5,11,0,0,10,14,28,109,5,In Purgatory's Shadow
+GARAK,28,0,4,0,0,0,0,0,3,0,7,47,82,109,5,In Purgatory's Shadow
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,In Purgatory's Shadow
+KIRA,0,12,0,0,2,0,16,5,0,0,16,0,41,109,5,In Purgatory's Shadow
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,In Purgatory's Shadow
+ODO,0,5,0,0,16,0,0,0,0,0,4,0,13,109,5,In Purgatory's Shadow
+O_BRIEN,0,11,0,0,5,0,0,0,0,0,11,0,15,109,5,In Purgatory's Shadow
+QUARK,0,0,3,0,0,0,0,0,0,0,0,0,3,109,5,In Purgatory's Shadow
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,109,5,In Purgatory's Shadow
+SISKO,2,10,7,0,16,0,4,11,0,0,0,5,33,109,5,In Purgatory's Shadow
+WORF,3,14,47,0,0,0,0,0,0,0,5,0,44,109,5,In Purgatory's Shadow
+BASHIR,2,0,20,0,0,0,0,4,0,0,0,16,42,110,5,By Inferno's Light
+DAX,0,2,0,0,23,0,0,4,0,0,8,2,24,110,5,By Inferno's Light
+GARAK,20,0,0,0,0,0,0,0,0,0,0,3,23,110,5,By Inferno's Light
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,By Inferno's Light
+KIRA,0,23,0,0,2,0,0,5,0,0,18,0,35,110,5,By Inferno's Light
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,By Inferno's Light
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,By Inferno's Light
+O_BRIEN,4,4,0,0,5,0,0,12,0,0,25,0,31,110,5,By Inferno's Light
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,3,110,5,By Inferno's Light
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,110,5,By Inferno's Light
+SISKO,0,8,0,0,18,0,0,25,0,0,2,0,44,110,5,By Inferno's Light
+WORF,16,2,3,0,0,0,0,0,0,0,0,0,29,110,5,By Inferno's Light
+BASHIR,2,1,0,0,0,0,6,38,0,0,8,0,86,111,5,"Doctor Bashir, I_Presume"
+DAX,1,0,0,0,0,0,0,0,0,0,3,0,5,111,5,"Doctor Bashir, I_Presume"
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,"Doctor Bashir, I_Presume"
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,1,111,5,"Doctor Bashir, I_Presume"
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,1,111,5,"Doctor Bashir, I_Presume"
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,111,5,"Doctor Bashir, I_Presume"
+ODO,6,0,0,0,0,0,0,0,0,0,0,0,3,111,5,"Doctor Bashir, I_Presume"
+O_BRIEN,38,0,0,0,0,0,0,2,0,0,0,0,25,111,5,"Doctor Bashir, I_Presume"
+QUARK,0,0,0,0,0,0,0,0,0,3,0,0,2,111,5,"Doctor Bashir, I_Presume"
+ROM,0,0,0,0,0,0,0,0,3,0,0,0,13,111,5,"Doctor Bashir, I_Presume"
+SISKO,8,3,0,0,0,0,0,0,0,0,0,0,18,111,5,"Doctor Bashir, I_Presume"
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,1,111,5,"Doctor Bashir, I_Presume"
+BASHIR,4,9,0,0,0,0,21,11,0,0,1,0,25,112,5,A_Simple Investigation
+DAX,9,0,0,0,6,0,4,3,0,0,6,8,19,112,5,A_Simple Investigation
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,A_Simple Investigation
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,A_Simple Investigation
+KIRA,0,6,0,0,2,0,16,0,0,0,0,2,14,112,5,A_Simple Investigation
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,A_Simple Investigation
+ODO,21,4,0,0,16,0,6,2,3,0,2,1,143,112,5,A_Simple Investigation
+O_BRIEN,11,3,0,0,0,0,2,0,0,0,0,0,10,112,5,A_Simple Investigation
+QUARK,0,0,0,0,0,0,3,0,2,0,0,0,5,112,5,A_Simple Investigation
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,112,5,A_Simple Investigation
+SISKO,1,6,0,0,0,0,2,0,0,0,0,1,7,112,5,A_Simple Investigation
+WORF,0,8,0,0,2,0,1,0,0,0,1,0,6,112,5,A_Simple Investigation
+BASHIR,0,0,0,0,0,0,0,19,0,0,0,0,11,113,5,Business as Usual
+DAX,0,0,0,0,1,0,0,0,34,0,1,0,20,113,5,Business as Usual
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Business as Usual
+JAKE,0,0,0,0,0,0,0,26,1,0,1,0,14,113,5,Business as Usual
+KIRA,0,1,0,0,0,0,1,1,1,0,3,0,4,113,5,Business as Usual
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Business as Usual
+ODO,0,0,0,0,1,0,0,0,4,0,4,0,6,113,5,Business as Usual
+O_BRIEN,19,0,0,26,1,0,0,6,1,0,12,9,39,113,5,Business as Usual
+QUARK,0,34,0,1,1,0,4,1,10,0,24,0,111,113,5,Business as Usual
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,113,5,Business as Usual
+SISKO,0,1,0,1,3,0,4,12,24,0,2,0,26,113,5,Business as Usual
+WORF,0,0,0,0,0,0,0,9,0,0,0,0,5,113,5,Business as Usual
+BASHIR,0,0,0,0,25,0,0,0,0,0,1,0,18,114,5,Ties of Blood and Water
+DAX,0,0,0,0,0,0,0,0,0,0,1,1,1,114,5,Ties of Blood and Water
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ties of Blood and Water
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ties of Blood and Water
+KIRA,25,0,0,0,4,0,8,0,4,0,10,0,91,114,5,Ties of Blood and Water
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ties of Blood and Water
+ODO,0,0,0,0,8,0,0,0,0,0,0,0,5,114,5,Ties of Blood and Water
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,6,0,5,114,5,Ties of Blood and Water
+QUARK,0,0,0,0,4,0,0,0,0,0,0,0,3,114,5,Ties of Blood and Water
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,114,5,Ties of Blood and Water
+SISKO,1,1,0,0,10,0,0,6,0,0,4,1,31,114,5,Ties of Blood and Water
+WORF,0,1,0,0,0,0,0,0,0,0,1,0,1,114,5,Ties of Blood and Water
+BASHIR,0,0,0,0,0,0,0,1,0,0,0,0,1,115,5,Ferengi Love Songs
+DAX,0,0,0,0,0,0,0,3,0,8,0,0,6,115,5,Ferengi Love Songs
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,Ferengi Love Songs
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,Ferengi Love Songs
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,5,115,5,Ferengi Love Songs
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,115,5,Ferengi Love Songs
+ODO,0,0,0,0,0,0,0,0,0,1,5,5,6,115,5,Ferengi Love Songs
+O_BRIEN,1,3,0,0,0,0,0,0,0,27,0,0,17,115,5,Ferengi Love Songs
+QUARK,0,0,0,0,0,0,0,0,10,20,0,0,150,115,5,Ferengi Love Songs
+ROM,0,8,0,0,0,0,1,27,20,0,3,0,46,115,5,Ferengi Love Songs
+SISKO,0,0,0,0,0,0,5,0,0,3,2,3,7,115,5,Ferengi Love Songs
+WORF,0,0,0,0,0,0,5,0,0,0,3,0,4,115,5,Ferengi Love Songs
+BASHIR,0,4,0,0,3,0,2,3,0,0,0,0,6,116,5,Soldiers of the Empire
+DAX,4,2,0,0,1,0,0,3,0,0,0,38,52,116,5,Soldiers of the Empire
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Soldiers of the Empire
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Soldiers of the Empire
+KIRA,3,1,0,0,0,0,2,8,0,0,0,0,9,116,5,Soldiers of the Empire
+NOG,0,0,0,0,0,2,0,0,0,0,0,7,5,116,5,Soldiers of the Empire
+ODO,2,0,0,0,2,0,0,3,0,0,0,0,4,116,5,Soldiers of the Empire
+O_BRIEN,3,3,0,0,8,0,3,0,0,0,0,0,9,116,5,Soldiers of the Empire
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Soldiers of the Empire
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,116,5,Soldiers of the Empire
+SISKO,0,0,0,0,0,0,0,0,0,0,0,13,7,116,5,Soldiers of the Empire
+WORF,0,38,0,0,0,7,0,0,0,0,13,6,81,116,5,Soldiers of the Empire
+BASHIR,2,0,0,0,7,0,1,10,0,0,0,2,15,117,5,Children of Time
+DAX,0,0,0,0,17,0,1,8,0,0,32,5,49,117,5,Children of Time
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,Children of Time
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,Children of Time
+KIRA,7,17,0,0,0,0,55,6,0,0,10,4,54,117,5,Children of Time
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,Children of Time
+ODO,1,1,0,0,55,0,0,0,0,0,0,0,30,117,5,Children of Time
+O_BRIEN,10,8,0,0,6,0,0,0,0,0,13,4,29,117,5,Children of Time
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,1,117,5,Children of Time
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,117,5,Children of Time
+SISKO,0,32,0,0,10,0,0,13,0,0,0,3,50,117,5,Children of Time
+WORF,2,5,0,0,4,0,0,4,0,0,3,0,23,117,5,Children of Time
+BASHIR,0,0,0,0,1,0,1,0,5,0,0,0,4,118,5,Blaze of Glory
+DAX,0,0,0,0,3,0,0,4,1,0,10,2,11,118,5,Blaze of Glory
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Blaze of Glory
+JAKE,0,0,0,0,0,30,0,0,0,0,0,0,17,118,5,Blaze of Glory
+KIRA,1,3,0,0,0,8,2,0,6,0,0,0,11,118,5,Blaze of Glory
+NOG,0,0,0,30,8,6,0,0,0,0,0,0,29,118,5,Blaze of Glory
+ODO,1,0,0,0,2,0,0,0,9,0,0,0,6,118,5,Blaze of Glory
+O_BRIEN,0,4,0,0,0,0,0,0,0,0,0,0,2,118,5,Blaze of Glory
+QUARK,5,1,0,0,6,0,9,0,0,0,0,0,11,118,5,Blaze of Glory
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,118,5,Blaze of Glory
+SISKO,0,10,0,0,0,0,0,0,0,0,12,2,126,118,5,Blaze of Glory
+WORF,0,2,0,0,0,0,0,0,0,0,2,0,2,118,5,Blaze of Glory
+BASHIR,0,0,0,0,0,0,0,5,0,0,0,0,3,119,5,Empok Nor
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+GARAK,0,0,24,0,0,18,0,86,0,0,0,0,93,119,5,Empok Nor
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+NOG,0,0,18,0,0,2,0,40,0,0,0,0,35,119,5,Empok Nor
+ODO,0,0,0,0,0,0,0,2,0,0,2,0,2,119,5,Empok Nor
+O_BRIEN,5,0,86,0,0,40,2,8,0,0,6,0,99,119,5,Empok Nor
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+SISKO,0,0,0,0,0,0,2,6,0,0,0,0,5,119,5,Empok Nor
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,119,5,Empok Nor
+BASHIR,0,0,0,10,0,9,0,0,0,0,0,0,10,120,5,In The Cards
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,In The Cards
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,In The Cards
+JAKE,10,0,0,0,0,104,4,4,7,0,2,0,89,120,5,In The Cards
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,1,120,5,In The Cards
+NOG,9,0,0,104,0,2,1,12,11,0,6,0,91,120,5,In The Cards
+ODO,0,0,0,4,0,1,0,0,0,0,0,0,3,120,5,In The Cards
+O_BRIEN,0,0,0,4,0,12,0,0,0,0,0,0,8,120,5,In The Cards
+QUARK,0,0,0,7,0,11,0,0,8,0,0,0,16,120,5,In The Cards
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,In The Cards
+SISKO,0,0,0,2,0,6,0,0,0,0,2,0,23,120,5,In The Cards
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,120,5,In The Cards
+BASHIR,0,1,0,3,0,1,0,0,0,0,6,1,7,121,5,Call To Arms
+DAX,1,6,0,0,17,0,5,10,0,8,7,11,39,121,5,Call To Arms
+GARAK,0,0,0,0,0,0,8,0,0,0,2,0,10,121,5,Call To Arms
+JAKE,3,0,0,4,0,0,0,0,0,5,20,0,18,121,5,Call To Arms
+KIRA,0,17,0,0,0,1,17,1,2,0,25,6,40,121,5,Call To Arms
+NOG,1,0,0,0,1,0,0,0,0,3,11,1,13,121,5,Call To Arms
+ODO,0,5,8,0,17,0,0,0,0,0,2,0,18,121,5,Call To Arms
+O_BRIEN,0,10,0,0,1,0,0,0,0,10,19,1,25,121,5,Call To Arms
+QUARK,0,0,0,0,2,0,0,0,0,19,1,0,13,121,5,Call To Arms
+ROM,0,8,0,5,0,3,0,10,19,2,4,0,31,121,5,Call To Arms
+SISKO,6,7,2,20,25,11,2,19,1,4,6,12,84,121,5,Call To Arms
+WORF,1,11,0,0,6,1,0,1,0,0,12,0,17,121,5,Call To Arms
+BASHIR,0,7,31,0,0,2,0,3,0,0,15,0,35,122,6,A_Time To Stand
+DAX,7,0,10,0,0,12,0,8,0,0,43,8,51,122,6,A_Time To Stand
+GARAK,31,10,0,0,0,4,0,5,0,0,23,0,38,122,6,A_Time To Stand
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,12,122,6,A_Time To Stand
+KIRA,0,0,0,0,0,0,27,0,6,0,0,0,37,122,6,A_Time To Stand
+NOG,2,12,4,0,0,0,0,19,0,0,7,0,22,122,6,A_Time To Stand
+ODO,0,0,0,0,27,0,0,0,1,0,0,0,17,122,6,A_Time To Stand
+O_BRIEN,3,8,5,0,0,19,0,2,0,0,15,0,28,122,6,A_Time To Stand
+QUARK,0,0,0,0,6,0,1,0,2,0,0,0,5,122,6,A_Time To Stand
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,122,6,A_Time To Stand
+SISKO,15,43,23,0,0,7,0,15,0,0,2,0,58,122,6,A_Time To Stand
+WORF,0,8,0,0,0,0,0,0,0,0,0,0,5,122,6,A_Time To Stand
+BASHIR,2,1,1,0,0,0,0,3,0,0,4,0,10,123,6,Rocks And Shoals
+DAX,1,0,1,0,0,0,0,1,0,0,15,0,11,123,6,Rocks And Shoals
+GARAK,1,1,2,0,0,10,0,6,0,0,9,0,21,123,6,Rocks And Shoals
+JAKE,0,0,0,0,11,0,7,0,0,0,0,0,10,123,6,Rocks And Shoals
+KIRA,0,0,0,11,2,0,15,0,0,0,0,0,22,123,6,Rocks And Shoals
+NOG,0,0,10,0,0,0,0,3,0,0,2,0,9,123,6,Rocks And Shoals
+ODO,0,0,0,7,15,0,0,0,0,0,0,0,12,123,6,Rocks And Shoals
+O_BRIEN,3,1,6,0,0,3,0,0,0,0,18,0,20,123,6,Rocks And Shoals
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,123,6,Rocks And Shoals
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,123,6,Rocks And Shoals
+SISKO,4,15,9,0,0,2,0,18,0,0,4,0,58,123,6,Rocks And Shoals
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,123,6,Rocks And Shoals
+BASHIR,0,0,0,0,0,0,0,4,0,0,0,0,3,124,6,Sons And Daughters
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,124,6,Sons And Daughters
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,124,6,Sons And Daughters
+JAKE,0,0,0,0,6,0,8,0,4,0,0,0,9,124,6,Sons And Daughters
+KIRA,0,0,0,6,2,0,2,0,3,0,0,0,37,124,6,Sons And Daughters
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,124,6,Sons And Daughters
+ODO,0,0,0,8,2,0,0,0,0,0,0,0,5,124,6,Sons And Daughters
+O_BRIEN,4,0,0,0,0,0,0,0,0,0,0,0,2,124,6,Sons And Daughters
+QUARK,0,0,0,4,3,0,0,0,0,0,0,0,4,124,6,Sons And Daughters
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,124,6,Sons And Daughters
+SISKO,0,0,0,0,0,0,0,0,0,0,0,0,4,124,6,Sons And Daughters
+WORF,0,0,0,0,0,0,0,0,0,0,0,10,62,124,6,Sons And Daughters
+BASHIR,0,3,0,0,0,1,0,0,0,0,1,0,3,125,6,Behind The Lines
+DAX,3,0,0,0,0,3,0,3,0,0,6,0,12,125,6,Behind The Lines
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Behind The Lines
+JAKE,0,0,0,0,3,0,0,0,4,0,0,0,4,125,6,Behind The Lines
+KIRA,0,0,0,3,2,0,62,0,10,32,0,0,72,125,6,Behind The Lines
+NOG,1,3,0,0,0,0,0,4,0,0,2,0,8,125,6,Behind The Lines
+ODO,0,0,0,0,62,0,0,0,1,1,0,0,73,125,6,Behind The Lines
+O_BRIEN,0,3,0,0,0,4,0,0,0,0,2,0,5,125,6,Behind The Lines
+QUARK,0,0,0,4,10,0,1,0,0,5,0,0,16,125,6,Behind The Lines
+ROM,0,0,0,0,32,0,1,0,5,0,0,0,24,125,6,Behind The Lines
+SISKO,1,6,0,0,0,2,0,2,0,0,0,0,33,125,6,Behind The Lines
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,125,6,Behind The Lines
+BASHIR,0,5,4,0,0,0,0,3,0,0,0,1,7,126,6,Favour The Bold
+DAX,5,0,4,0,0,1,0,2,0,0,8,0,11,126,6,Favour The Bold
+GARAK,4,4,0,0,0,0,0,5,0,0,1,2,8,126,6,Favour The Bold
+JAKE,0,0,0,0,6,0,0,0,3,0,0,0,5,126,6,Favour The Bold
+KIRA,0,0,0,6,2,0,11,0,17,0,0,0,50,126,6,Favour The Bold
+NOG,0,1,0,0,0,0,0,10,0,0,3,0,9,126,6,Favour The Bold
+ODO,0,0,0,0,11,0,0,0,0,0,0,0,28,126,6,Favour The Bold
+O_BRIEN,3,2,5,0,0,10,0,0,0,0,4,1,13,126,6,Favour The Bold
+QUARK,0,0,0,3,17,0,0,0,2,20,0,0,37,126,6,Favour The Bold
+ROM,0,0,0,0,0,0,0,0,20,2,0,0,16,126,6,Favour The Bold
+SISKO,0,8,1,0,0,3,0,4,0,0,0,5,32,126,6,Favour The Bold
+WORF,1,0,2,0,0,0,0,1,0,0,5,0,7,126,6,Favour The Bold
+BASHIR,0,1,1,0,0,1,0,3,0,1,5,0,6,127,6,Sacrifice of Angels
+DAX,1,0,3,0,0,0,0,7,0,0,15,2,16,127,6,Sacrifice of Angels
+GARAK,1,3,0,0,1,5,0,4,0,0,5,0,10,127,6,Sacrifice of Angels
+JAKE,0,0,0,0,3,1,0,0,4,2,2,0,11,127,6,Sacrifice of Angels
+KIRA,0,0,1,3,0,0,8,0,12,13,3,0,28,127,6,Sacrifice of Angels
+NOG,1,0,5,1,0,0,0,7,0,3,11,0,14,127,6,Sacrifice of Angels
+ODO,0,0,0,0,8,0,0,0,0,1,5,0,22,127,6,Sacrifice of Angels
+O_BRIEN,3,7,4,0,0,7,0,0,2,0,10,0,20,127,6,Sacrifice of Angels
+QUARK,0,0,0,4,12,0,0,2,4,3,0,0,20,127,6,Sacrifice of Angels
+ROM,1,0,0,2,13,3,1,0,3,2,0,0,18,127,6,Sacrifice of Angels
+SISKO,5,15,5,2,3,11,5,10,0,0,4,0,46,127,6,Sacrifice of Angels
+WORF,0,2,0,0,0,0,0,0,0,0,0,0,1,127,6,Sacrifice of Angels
+BASHIR,0,0,0,0,0,0,0,12,5,0,2,7,22,128,6,You Are Cordially Invited
+DAX,0,10,0,0,13,1,2,0,1,1,10,30,68,128,6,You Are Cordially Invited
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,128,6,You Are Cordially Invited
+JAKE,0,0,0,2,10,0,0,0,18,1,0,0,17,128,6,You Are Cordially Invited
+KIRA,0,13,0,10,4,0,15,0,0,0,11,0,29,128,6,You Are Cordially Invited
+NOG,0,1,0,0,0,0,0,0,0,0,0,0,1,128,6,You Are Cordially Invited
+ODO,0,2,0,0,15,0,0,0,0,0,0,0,9,128,6,You Are Cordially Invited
+O_BRIEN,12,0,0,0,0,0,0,0,7,0,5,4,17,128,6,You Are Cordially Invited
+QUARK,5,1,0,18,0,0,0,7,0,0,1,5,23,128,6,You Are Cordially Invited
+ROM,0,1,0,1,0,0,0,0,0,0,0,0,2,128,6,You Are Cordially Invited
+SISKO,2,10,0,0,11,0,0,5,1,0,0,8,29,128,6,You Are Cordially Invited
+WORF,7,30,0,0,0,0,0,4,5,0,8,2,54,128,6,You Are Cordially Invited
+BASHIR,0,8,0,0,4,0,0,0,0,0,0,3,8,129,6,Resurrection
+DAX,8,2,0,0,19,0,0,1,0,0,2,5,22,129,6,Resurrection
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Resurrection
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Resurrection
+KIRA,4,19,0,0,0,0,2,1,18,0,9,3,116,129,6,Resurrection
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Resurrection
+ODO,0,0,0,0,2,0,0,0,0,0,2,0,3,129,6,Resurrection
+O_BRIEN,0,1,0,0,1,0,0,0,0,0,2,0,2,129,6,Resurrection
+QUARK,0,0,0,0,18,0,0,0,0,0,0,0,20,129,6,Resurrection
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,129,6,Resurrection
+SISKO,0,2,0,0,9,0,2,2,0,0,0,0,11,129,6,Resurrection
+WORF,3,5,0,0,3,0,0,0,0,0,0,0,8,129,6,Resurrection
+BASHIR,8,5,0,0,8,0,3,70,15,0,38,6,152,130,6,Statistical Probabilities
+DAX,5,0,0,0,1,0,0,0,0,0,2,0,5,130,6,Statistical Probabilities
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,Statistical Probabilities
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,Statistical Probabilities
+KIRA,8,1,0,0,0,0,0,1,0,0,0,0,9,130,6,Statistical Probabilities
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,Statistical Probabilities
+ODO,3,0,0,0,0,0,0,0,0,0,0,1,5,130,6,Statistical Probabilities
+O_BRIEN,70,0,0,0,1,0,0,6,2,0,2,1,53,130,6,Statistical Probabilities
+QUARK,15,0,0,0,0,0,0,2,0,0,0,0,10,130,6,Statistical Probabilities
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,130,6,Statistical Probabilities
+SISKO,38,2,0,0,0,0,0,2,0,0,0,0,22,130,6,Statistical Probabilities
+WORF,6,0,0,0,0,0,1,1,0,0,0,0,4,130,6,Statistical Probabilities
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+KIRA,0,0,0,0,0,0,0,0,2,0,2,0,2,131,6,The Magnificent Ferengi
+NOG,0,0,0,0,0,2,0,0,41,14,0,0,55,131,6,The Magnificent Ferengi
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+QUARK,0,0,0,0,2,41,0,0,2,96,5,0,143,131,6,The Magnificent Ferengi
+ROM,0,0,0,0,0,14,0,0,96,0,1,0,81,131,6,The Magnificent Ferengi
+SISKO,0,0,0,0,2,0,0,0,5,1,0,0,5,131,6,The Magnificent Ferengi
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,131,6,The Magnificent Ferengi
+BASHIR,0,2,0,0,2,0,0,2,0,0,0,2,4,132,6,Waltz
+DAX,2,0,0,0,1,0,1,2,0,0,3,7,11,132,6,Waltz
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,Waltz
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,Waltz
+KIRA,2,1,0,0,0,0,1,1,0,0,3,6,15,132,6,Waltz
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,Waltz
+ODO,0,1,0,0,1,0,0,2,0,0,0,0,2,132,6,Waltz
+O_BRIEN,2,2,0,0,1,0,2,2,0,0,0,0,8,132,6,Waltz
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,Waltz
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,132,6,Waltz
+SISKO,0,3,0,0,3,0,0,0,0,0,2,0,76,132,6,Waltz
+WORF,2,7,0,0,6,0,0,0,0,0,0,2,10,132,6,Waltz
+BASHIR,0,0,0,0,0,0,0,15,1,0,0,0,9,133,6,Who Mourns For Morn?
+DAX,0,0,0,0,1,0,0,0,18,0,0,8,14,133,6,Who Mourns For Morn?
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,Who Mourns For Morn?
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,Who Mourns For Morn?
+KIRA,0,1,0,0,0,0,3,0,1,0,0,0,3,133,6,Who Mourns For Morn?
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,Who Mourns For Morn?
+ODO,0,0,0,0,3,0,2,0,71,0,1,0,41,133,6,Who Mourns For Morn?
+O_BRIEN,15,0,0,0,0,0,0,0,5,0,0,1,11,133,6,Who Mourns For Morn?
+QUARK,1,18,0,0,1,0,71,5,32,0,5,1,183,133,6,Who Mourns For Morn?
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,133,6,Who Mourns For Morn?
+SISKO,0,0,0,0,0,0,1,0,5,0,0,0,3,133,6,Who Mourns For Morn?
+WORF,0,8,0,0,0,0,0,1,1,0,0,0,5,133,6,Who Mourns For Morn?
+BASHIR,0,0,0,2,0,0,0,0,0,0,5,0,7,134,6,Far Beyond The Stars
+DAX,0,0,0,0,0,0,0,0,0,0,2,0,1,134,6,Far Beyond The Stars
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+JAKE,2,0,0,0,0,0,0,0,0,0,1,0,2,134,6,Far Beyond The Stars
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,1,134,6,Far Beyond The Stars
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,134,6,Far Beyond The Stars
+SISKO,5,2,0,1,0,0,0,0,0,0,0,0,18,134,6,Far Beyond The Stars
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,1,134,6,Far Beyond The Stars
+BASHIR,2,36,0,0,0,0,2,58,2,0,0,0,54,135,6,One Little Ship
+DAX,36,4,0,0,0,0,0,52,0,0,5,12,64,135,6,One Little Ship
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,One Little Ship
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,One Little Ship
+KIRA,0,0,0,0,2,8,0,0,0,0,16,6,23,135,6,One Little Ship
+NOG,0,0,0,0,8,0,0,0,0,0,11,5,14,135,6,One Little Ship
+ODO,2,0,0,0,0,0,0,1,1,0,0,0,2,135,6,One Little Ship
+O_BRIEN,58,52,0,0,0,0,1,10,0,0,0,0,68,135,6,One Little Ship
+QUARK,2,0,0,0,0,0,1,0,0,0,0,0,2,135,6,One Little Ship
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,135,6,One Little Ship
+SISKO,0,5,0,0,16,11,0,0,0,0,0,8,38,135,6,One Little Ship
+WORF,0,12,0,0,6,5,0,0,0,0,8,0,17,135,6,One Little Ship
+BASHIR,0,0,0,0,2,0,0,7,1,0,5,1,9,136,6,Honour Among Thieves
+DAX,0,0,0,0,3,0,0,0,1,0,0,0,2,136,6,Honour Among Thieves
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Honour Among Thieves
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Honour Among Thieves
+KIRA,2,3,0,0,0,0,3,0,4,0,0,2,7,136,6,Honour Among Thieves
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Honour Among Thieves
+ODO,0,0,0,0,3,0,0,0,3,0,0,0,3,136,6,Honour Among Thieves
+O_BRIEN,7,0,0,0,0,0,0,2,0,0,0,0,131,136,6,Honour Among Thieves
+QUARK,1,1,0,0,4,0,3,0,0,0,0,1,6,136,6,Honour Among Thieves
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,136,6,Honour Among Thieves
+SISKO,5,0,0,0,0,0,0,0,0,0,0,0,3,136,6,Honour Among Thieves
+WORF,1,0,0,0,2,0,0,0,1,0,0,0,2,136,6,Honour Among Thieves
+BASHIR,2,0,0,0,0,0,0,61,34,0,0,0,49,137,6,Change Of Heart
+DAX,0,14,0,0,5,0,0,2,8,0,0,169,106,137,6,Change Of Heart
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Change Of Heart
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Change Of Heart
+KIRA,0,5,0,0,0,0,0,0,0,0,0,3,5,137,6,Change Of Heart
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Change Of Heart
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Change Of Heart
+O_BRIEN,61,2,0,0,0,0,0,0,9,0,0,18,47,137,6,Change Of Heart
+QUARK,34,8,0,0,0,0,0,9,0,0,0,0,28,137,6,Change Of Heart
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,137,6,Change Of Heart
+SISKO,0,0,0,0,0,0,0,0,0,0,0,14,8,137,6,Change Of Heart
+WORF,0,169,0,0,3,0,0,18,0,0,14,8,109,137,6,Change Of Heart
+BASHIR,0,0,0,0,5,0,0,7,0,0,0,0,6,138,6,Wrongs Darker Than Death Or Night
+DAX,0,0,0,0,10,0,0,0,0,0,0,0,5,138,6,Wrongs Darker Than Death Or Night
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+KIRA,5,10,0,0,2,0,11,2,0,0,25,0,107,138,6,Wrongs Darker Than Death Or Night
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+ODO,0,0,0,0,11,0,0,0,0,0,0,0,6,138,6,Wrongs Darker Than Death Or Night
+O_BRIEN,7,0,0,0,2,0,0,0,0,0,0,0,5,138,6,Wrongs Darker Than Death Or Night
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+SISKO,0,0,0,0,25,0,0,0,0,0,0,0,13,138,6,Wrongs Darker Than Death Or Night
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,138,6,Wrongs Darker Than Death Or Night
+BASHIR,12,2,0,0,5,0,5,7,0,0,25,2,149,139,6,Inquisition
+DAX,2,0,0,0,1,0,0,1,0,0,0,0,3,139,6,Inquisition
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Inquisition
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Inquisition
+KIRA,5,1,0,0,0,0,1,0,1,0,5,1,8,139,6,Inquisition
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Inquisition
+ODO,5,0,0,0,1,0,0,0,0,0,3,1,6,139,6,Inquisition
+O_BRIEN,7,1,0,0,0,0,0,0,0,0,0,0,4,139,6,Inquisition
+QUARK,0,0,0,0,1,0,0,0,0,0,0,0,1,139,6,Inquisition
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,139,6,Inquisition
+SISKO,25,0,0,0,5,0,3,0,0,0,0,0,32,139,6,Inquisition
+WORF,2,0,0,0,1,0,1,0,0,0,0,0,2,139,6,Inquisition
+BASHIR,0,8,0,0,0,0,1,0,2,0,11,2,13,140,6,In The Pale Moonlight
+DAX,8,0,0,0,1,0,0,0,0,0,20,2,16,140,6,In The Pale Moonlight
+GARAK,0,0,2,0,0,0,0,0,0,0,87,1,52,140,6,In The Pale Moonlight
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,In The Pale Moonlight
+KIRA,0,1,0,0,0,0,0,0,0,0,7,0,5,140,6,In The Pale Moonlight
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,In The Pale Moonlight
+ODO,1,0,0,0,0,0,0,0,0,0,9,0,5,140,6,In The Pale Moonlight
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,In The Pale Moonlight
+QUARK,2,0,0,0,0,0,0,0,0,0,13,0,8,140,6,In The Pale Moonlight
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,140,6,In The Pale Moonlight
+SISKO,11,20,87,0,7,0,9,0,13,0,10,7,113,140,6,In The Pale Moonlight
+WORF,2,2,1,0,0,0,0,0,0,0,7,0,6,140,6,In The Pale Moonlight
+BASHIR,0,10,0,0,2,0,1,13,9,0,0,2,24,141,6,His Way
+DAX,10,0,0,0,14,0,1,0,0,0,0,1,16,141,6,His Way
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,His Way
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,His Way
+KIRA,2,14,0,0,4,0,66,1,0,0,0,1,63,141,6,His Way
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,His Way
+ODO,1,1,0,0,66,0,4,0,17,0,8,0,119,141,6,His Way
+O_BRIEN,13,0,0,0,1,0,0,0,0,0,0,0,12,141,6,His Way
+QUARK,9,0,0,0,0,0,17,0,2,0,0,0,16,141,6,His Way
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,141,6,His Way
+SISKO,0,0,0,0,0,0,8,0,0,0,0,0,4,141,6,His Way
+WORF,2,1,0,0,1,0,0,0,0,0,0,0,4,141,6,His Way
+BASHIR,0,1,0,0,0,0,5,0,6,0,9,2,12,142,6,The Reckoning
+DAX,1,2,0,0,0,0,3,0,0,0,66,3,44,142,6,The Reckoning
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,The Reckoning
+JAKE,0,0,0,0,13,0,0,0,0,0,21,0,23,142,6,The Reckoning
+KIRA,0,0,0,13,0,0,20,0,0,0,36,0,56,142,6,The Reckoning
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,The Reckoning
+ODO,5,3,0,0,20,0,0,0,2,0,13,12,32,142,6,The Reckoning
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,The Reckoning
+QUARK,6,0,0,0,0,0,2,0,0,0,0,0,4,142,6,The Reckoning
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,142,6,The Reckoning
+SISKO,9,66,0,21,36,0,13,0,0,0,2,6,120,142,6,The Reckoning
+WORF,2,3,0,0,0,0,12,0,0,0,6,0,16,142,6,The Reckoning
+BASHIR,0,0,0,3,0,0,0,0,0,0,3,0,3,143,6,Valiant
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+JAKE,3,0,0,0,0,81,0,0,0,0,1,0,65,143,6,Valiant
+KIRA,0,0,0,0,0,0,0,0,0,0,2,2,3,143,6,Valiant
+NOG,0,0,0,81,0,10,0,0,0,0,0,0,82,143,6,Valiant
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,143,6,Valiant
+SISKO,3,0,0,1,2,0,0,0,0,0,0,2,5,143,6,Valiant
+WORF,0,0,0,0,2,0,0,0,0,0,2,0,2,143,6,Valiant
+BASHIR,0,0,0,0,0,0,0,0,3,1,0,0,3,144,6,Profit And Lace
+DAX,0,0,0,0,0,0,0,0,0,1,1,0,1,144,6,Profit And Lace
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,Profit And Lace
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,Profit And Lace
+KIRA,0,0,0,0,0,0,0,0,0,2,0,2,2,144,6,Profit And Lace
+NOG,0,0,0,0,0,0,0,0,11,5,0,0,20,144,6,Profit And Lace
+ODO,0,0,0,0,0,0,0,0,11,0,0,0,7,144,6,Profit And Lace
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,144,6,Profit And Lace
+QUARK,3,0,0,0,0,11,11,0,10,34,1,1,145,144,6,Profit And Lace
+ROM,1,1,0,0,2,5,0,0,34,2,1,1,53,144,6,Profit And Lace
+SISKO,0,1,0,0,0,0,0,0,1,1,0,0,2,144,6,Profit And Lace
+WORF,0,0,0,0,2,0,0,0,1,1,0,0,2,144,6,Profit And Lace
+BASHIR,0,8,0,0,0,0,0,21,0,0,0,5,24,145,6,Time's Orphan
+DAX,8,0,0,0,11,0,0,10,0,0,0,63,49,145,6,Time's Orphan
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Time's Orphan
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Time's Orphan
+KIRA,0,11,0,0,2,0,7,2,0,0,0,0,13,145,6,Time's Orphan
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Time's Orphan
+ODO,0,0,0,0,7,0,2,5,0,0,1,0,12,145,6,Time's Orphan
+O_BRIEN,21,10,0,0,2,0,5,34,5,0,6,2,117,145,6,Time's Orphan
+QUARK,0,0,0,0,0,0,0,5,0,0,0,0,4,145,6,Time's Orphan
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,145,6,Time's Orphan
+SISKO,0,0,0,0,0,0,1,6,0,0,0,0,4,145,6,Time's Orphan
+WORF,5,63,0,0,0,0,0,2,0,0,0,0,37,145,6,Time's Orphan
+BASHIR,2,0,0,0,0,0,0,18,0,0,20,5,54,146,6,The Sound Of Her Voice
+DAX,0,0,0,0,0,0,0,0,0,0,0,3,2,146,6,The Sound Of Her Voice
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,The Sound Of Her Voice
+JAKE,0,0,0,0,0,0,1,0,32,0,0,0,17,146,6,The Sound Of Her Voice
+KIRA,0,0,0,0,0,0,4,0,1,0,0,0,3,146,6,The Sound Of Her Voice
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,The Sound Of Her Voice
+ODO,0,0,0,1,4,0,0,0,41,0,0,0,24,146,6,The Sound Of Her Voice
+O_BRIEN,18,0,0,0,0,0,0,0,0,0,18,4,41,146,6,The Sound Of Her Voice
+QUARK,0,0,0,32,1,0,41,0,4,0,0,0,43,146,6,The Sound Of Her Voice
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,146,6,The Sound Of Her Voice
+SISKO,20,0,0,0,0,0,0,18,0,0,2,15,63,146,6,The Sound Of Her Voice
+WORF,5,3,0,0,0,0,0,4,0,0,15,0,15,146,6,The Sound Of Her Voice
+BASHIR,0,16,0,0,1,0,0,0,7,0,1,1,19,147,6,Tears Of The Prophets
+DAX,16,8,0,0,2,0,0,4,1,0,3,12,25,147,6,Tears Of The Prophets
+GARAK,0,0,0,0,1,1,0,4,0,0,2,2,5,147,6,Tears Of The Prophets
+JAKE,0,0,0,2,1,0,0,3,0,0,12,0,12,147,6,Tears Of The Prophets
+KIRA,1,2,1,1,0,5,28,9,0,0,3,6,31,147,6,Tears Of The Prophets
+NOG,0,0,1,0,5,0,0,0,0,0,3,1,7,147,6,Tears Of The Prophets
+ODO,0,0,0,0,28,0,0,1,0,0,1,0,15,147,6,Tears Of The Prophets
+O_BRIEN,0,4,4,3,9,0,1,0,0,0,4,2,16,147,6,Tears Of The Prophets
+QUARK,7,1,0,0,0,0,0,0,0,0,0,2,10,147,6,Tears Of The Prophets
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,147,6,Tears Of The Prophets
+SISKO,1,3,2,12,3,3,1,4,0,0,0,3,41,147,6,Tears Of The Prophets
+WORF,1,12,2,0,6,1,0,2,2,0,3,0,19,147,6,Tears Of The Prophets
+BASHIR,0,0,0,0,0,1,0,26,19,0,0,0,29,148,7,Image In The Sand
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,148,7,Image In The Sand
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,148,7,Image In The Sand
+JAKE,0,0,0,4,0,0,0,0,0,0,26,0,22,148,7,Image In The Sand
+KIRA,0,0,0,0,0,0,37,0,0,0,0,0,53,148,7,Image In The Sand
+NOG,1,0,0,0,0,0,0,3,0,0,0,6,5,148,7,Image In The Sand
+ODO,0,0,0,0,37,0,0,0,0,0,0,0,20,148,7,Image In The Sand
+O_BRIEN,26,0,0,0,0,3,0,0,19,0,0,16,36,148,7,Image In The Sand
+QUARK,19,0,0,0,0,0,0,19,0,0,0,0,20,148,7,Image In The Sand
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,148,7,Image In The Sand
+SISKO,0,0,0,26,0,0,0,0,0,0,0,0,56,148,7,Image In The Sand
+WORF,0,0,0,0,0,6,0,16,0,0,0,0,21,148,7,Image In The Sand
+BASHIR,0,0,0,1,0,0,0,4,14,0,0,4,13,149,7,Shadows And Symbols
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,149,7,Shadows And Symbols
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,149,7,Shadows And Symbols
+JAKE,1,0,0,2,1,0,0,0,0,0,3,3,25,149,7,Shadows And Symbols
+KIRA,0,0,0,1,4,0,32,1,0,0,1,0,37,149,7,Shadows And Symbols
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,149,7,Shadows And Symbols
+ODO,0,0,0,0,32,0,0,0,1,0,0,0,23,149,7,Shadows And Symbols
+O_BRIEN,4,0,0,0,1,0,0,0,16,0,0,8,18,149,7,Shadows And Symbols
+QUARK,14,0,0,0,0,0,1,16,2,0,0,16,32,149,7,Shadows And Symbols
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,149,7,Shadows And Symbols
+SISKO,0,0,0,3,1,0,0,0,0,0,2,0,47,149,7,Shadows And Symbols
+WORF,4,0,0,3,0,0,0,8,16,0,0,0,23,149,7,Shadows And Symbols
+BASHIR,2,0,10,0,0,0,4,2,22,0,2,11,41,150,7,Afterimage
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,150,7,Afterimage
+GARAK,10,0,2,0,0,0,4,3,1,0,5,0,66,150,7,Afterimage
+JAKE,0,0,0,0,0,0,0,0,0,0,1,0,1,150,7,Afterimage
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,3,150,7,Afterimage
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,150,7,Afterimage
+ODO,4,0,4,0,0,0,0,1,0,0,2,0,8,150,7,Afterimage
+O_BRIEN,2,0,3,0,0,0,1,0,0,0,0,11,9,150,7,Afterimage
+QUARK,22,0,1,0,0,0,0,0,2,0,1,1,26,150,7,Afterimage
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,150,7,Afterimage
+SISKO,2,0,5,1,0,0,2,0,1,0,4,0,54,150,7,Afterimage
+WORF,11,0,0,0,0,0,0,11,1,0,0,2,25,150,7,Afterimage
+BASHIR,2,0,0,2,1,0,0,19,0,3,9,1,26,151,7,Take Me Out To The Holosuite
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Take Me Out To The Holosuite
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,151,7,Take Me Out To The Holosuite
+JAKE,2,0,0,0,0,2,1,1,0,1,13,0,11,151,7,Take Me Out To The Holosuite
+KIRA,1,0,0,0,0,3,1,0,4,3,11,3,16,151,7,Take Me Out To The Holosuite
+NOG,0,0,0,2,3,0,3,4,2,9,10,3,22,151,7,Take Me Out To The Holosuite
+ODO,0,0,0,1,1,3,12,4,0,2,34,6,38,151,7,Take Me Out To The Holosuite
+O_BRIEN,19,0,0,1,0,4,4,2,5,1,9,2,29,151,7,Take Me Out To The Holosuite
+QUARK,0,0,0,0,4,2,0,5,0,5,1,0,15,151,7,Take Me Out To The Holosuite
+ROM,3,0,0,1,3,9,2,1,5,0,18,0,26,151,7,Take Me Out To The Holosuite
+SISKO,9,0,0,13,11,10,34,9,1,18,4,9,108,151,7,Take Me Out To The Holosuite
+WORF,1,0,0,0,3,3,6,2,0,0,9,0,13,151,7,Take Me Out To The Holosuite
+BASHIR,4,0,0,0,0,13,2,41,1,0,25,0,146,152,7,Chrysalis
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Chrysalis
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Chrysalis
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Chrysalis
+KIRA,0,0,0,0,0,0,1,1,0,0,0,0,2,152,7,Chrysalis
+NOG,13,0,0,0,0,0,0,0,0,0,0,0,9,152,7,Chrysalis
+ODO,2,0,0,0,1,0,0,2,0,0,0,0,3,152,7,Chrysalis
+O_BRIEN,41,0,0,0,1,0,2,0,0,0,0,0,26,152,7,Chrysalis
+QUARK,1,0,0,0,0,0,0,0,0,0,0,0,3,152,7,Chrysalis
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Chrysalis
+SISKO,25,0,0,0,0,0,0,0,0,0,0,0,13,152,7,Chrysalis
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,152,7,Chrysalis
+BASHIR,0,0,0,0,3,0,0,10,0,0,0,0,7,153,7,"Treachery, Faith and the Great River"
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,"Treachery, Faith and the Great River"
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,"Treachery, Faith and the Great River"
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,153,7,"Treachery, Faith and the Great River"
+KIRA,3,0,0,0,2,0,8,9,0,0,0,0,13,153,7,"Treachery, Faith and the Great River"
+NOG,0,0,0,0,0,2,0,84,2,0,2,1,47,153,7,"Treachery, Faith and the Great River"
+ODO,0,0,0,0,8,0,2,0,0,0,0,0,79,153,7,"Treachery, Faith and the Great River"
+O_BRIEN,10,0,0,0,9,84,0,0,2,10,20,4,80,153,7,"Treachery, Faith and the Great River"
+QUARK,0,0,0,0,0,2,0,2,0,0,3,0,4,153,7,"Treachery, Faith and the Great River"
+ROM,0,0,0,0,0,0,0,10,0,0,0,0,5,153,7,"Treachery, Faith and the Great River"
+SISKO,0,0,0,0,0,2,0,20,3,0,0,0,13,153,7,"Treachery, Faith and the Great River"
+WORF,0,0,0,0,0,1,0,4,0,0,0,0,4,153,7,"Treachery, Faith and the Great River"
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+JAKE,0,0,0,0,0,0,0,0,6,0,0,0,3,154,7,Once More Unto The Breach
+KIRA,0,0,0,0,0,0,0,0,1,0,0,0,6,154,7,Once More Unto The Breach
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+ODO,0,0,0,0,0,0,0,0,3,0,0,0,2,154,7,Once More Unto The Breach
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+QUARK,0,0,0,6,1,0,3,0,2,0,0,0,12,154,7,Once More Unto The Breach
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,154,7,Once More Unto The Breach
+SISKO,0,0,0,0,0,0,0,0,0,0,0,0,5,154,7,Once More Unto The Breach
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,51,154,7,Once More Unto The Breach
+BASHIR,2,0,0,0,0,1,0,0,4,0,2,1,17,155,7,Siege of AR-558
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Siege of AR-558
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Siege of AR-558
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Siege of AR-558
+KIRA,0,0,0,0,0,0,0,0,0,0,9,0,5,155,7,Siege of AR-558
+NOG,1,0,0,0,0,2,0,1,28,0,26,0,36,155,7,Siege of AR-558
+ODO,0,0,0,0,0,0,0,0,0,0,3,0,2,155,7,Siege of AR-558
+O_BRIEN,0,0,0,0,0,1,0,0,0,0,2,1,3,155,7,Siege of AR-558
+QUARK,4,0,0,0,0,28,0,0,2,0,22,3,42,155,7,Siege of AR-558
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,155,7,Siege of AR-558
+SISKO,2,0,0,0,9,26,3,2,22,0,4,14,84,155,7,Siege of AR-558
+WORF,1,0,0,0,0,0,0,1,3,0,14,0,13,155,7,Siege of AR-558
+BASHIR,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+KIRA,0,0,0,0,4,0,7,0,0,0,0,0,92,156,7,Covenant
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+ODO,0,0,0,0,7,0,0,5,0,0,4,0,9,156,7,Covenant
+O_BRIEN,0,0,0,0,0,0,5,0,0,0,1,2,4,156,7,Covenant
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,156,7,Covenant
+SISKO,0,0,0,0,0,0,4,1,0,0,0,2,4,156,7,Covenant
+WORF,0,0,0,0,0,0,0,2,0,0,2,0,2,156,7,Covenant
+BASHIR,0,0,0,1,0,6,1,1,2,2,1,0,8,157,7,It's Only A_Paper Moon
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,It's Only A_Paper Moon
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,It's Only A_Paper Moon
+JAKE,1,0,0,0,0,20,0,0,0,0,0,0,20,157,7,It's Only A_Paper Moon
+KIRA,0,0,0,0,0,0,0,0,0,0,2,0,3,157,7,It's Only A_Paper Moon
+NOG,6,0,0,20,0,2,0,9,1,8,2,0,133,157,7,It's Only A_Paper Moon
+ODO,1,0,0,0,0,0,0,0,0,0,1,0,1,157,7,It's Only A_Paper Moon
+O_BRIEN,1,0,0,0,0,9,0,0,0,0,1,0,6,157,7,It's Only A_Paper Moon
+QUARK,2,0,0,0,0,1,0,0,0,0,1,0,5,157,7,It's Only A_Paper Moon
+ROM,2,0,0,0,0,8,0,0,0,0,0,0,11,157,7,It's Only A_Paper Moon
+SISKO,1,0,0,0,2,2,1,1,1,0,0,0,10,157,7,It's Only A_Paper Moon
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,157,7,It's Only A_Paper Moon
+BASHIR,0,0,0,0,0,0,0,0,0,0,20,0,16,158,7,Prodigal Daughter
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+ODO,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+O_BRIEN,0,0,0,0,0,0,0,4,0,0,0,0,45,158,7,Prodigal Daughter
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+SISKO,20,0,0,0,0,0,0,0,0,0,0,0,20,158,7,Prodigal Daughter
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,158,7,Prodigal Daughter
+BASHIR,0,0,0,0,0,0,0,17,3,4,0,0,17,159,7,The Emperor's New Cloak
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,The Emperor's New Cloak
+GARAK,0,0,2,0,2,0,0,0,12,14,0,20,31,159,7,The Emperor's New Cloak
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,The Emperor's New Cloak
+KIRA,0,0,2,0,0,0,0,0,2,3,0,12,31,159,7,The Emperor's New Cloak
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,159,7,The Emperor's New Cloak
+ODO,0,0,0,0,0,0,0,0,11,1,0,0,6,159,7,The Emperor's New Cloak
+O_BRIEN,17,0,0,0,0,0,0,0,2,4,0,0,15,159,7,The Emperor's New Cloak
+QUARK,3,0,12,0,2,0,11,2,8,67,3,5,115,159,7,The Emperor's New Cloak
+ROM,4,0,14,0,3,0,1,4,67,4,1,6,82,159,7,The Emperor's New Cloak
+SISKO,0,0,0,0,0,0,0,0,3,1,2,0,6,159,7,The Emperor's New Cloak
+WORF,0,0,20,0,12,0,0,0,5,6,0,2,31,159,7,The Emperor's New Cloak
+BASHIR,0,0,0,0,0,0,7,21,0,0,5,0,35,160,7,Field of Fire
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+ODO,7,0,0,0,0,0,0,14,0,0,20,0,32,160,7,Field of Fire
+O_BRIEN,21,0,0,0,0,0,14,2,0,0,7,0,27,160,7,Field of Fire
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,3,160,7,Field of Fire
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,160,7,Field of Fire
+SISKO,5,0,0,0,0,0,20,7,0,0,0,0,28,160,7,Field of Fire
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,11,160,7,Field of Fire
+BASHIR,0,0,0,0,3,0,2,6,2,0,0,0,8,161,7,Chimera
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Chimera
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Chimera
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Chimera
+KIRA,3,0,0,0,6,0,53,0,0,0,2,2,42,161,7,Chimera
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Chimera
+ODO,2,0,0,0,53,0,4,8,7,0,34,8,130,161,7,Chimera
+O_BRIEN,6,0,0,0,0,0,8,0,0,0,0,0,11,161,7,Chimera
+QUARK,2,0,0,0,0,0,7,0,0,0,0,0,7,161,7,Chimera
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,161,7,Chimera
+SISKO,0,0,0,0,2,0,34,0,0,0,0,6,23,161,7,Chimera
+WORF,0,0,0,0,2,0,8,0,0,0,6,0,8,161,7,Chimera
+BASHIR,2,0,0,0,8,7,2,15,0,0,2,0,40,162,7,"Badda-Bing, Badda-Bang"
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,"Badda-Bing, Badda-Bang"
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,"Badda-Bing, Badda-Bang"
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,"Badda-Bing, Badda-Bang"
+KIRA,8,0,0,0,0,3,5,2,0,0,2,1,39,162,7,"Badda-Bing, Badda-Bang"
+NOG,7,0,0,0,3,0,7,5,0,0,1,2,21,162,7,"Badda-Bing, Badda-Bang"
+ODO,2,0,0,0,5,7,0,0,0,0,0,0,21,162,7,"Badda-Bing, Badda-Bang"
+O_BRIEN,15,0,0,0,2,5,0,0,0,0,3,1,37,162,7,"Badda-Bing, Badda-Bang"
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,1,162,7,"Badda-Bing, Badda-Bang"
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,162,7,"Badda-Bing, Badda-Bang"
+SISKO,2,0,0,0,2,1,0,3,0,0,2,0,35,162,7,"Badda-Bing, Badda-Bang"
+WORF,0,0,0,0,1,2,0,1,0,0,0,0,2,162,7,"Badda-Bing, Badda-Bang"
+BASHIR,8,0,15,0,0,0,2,0,0,0,13,0,123,163,7,Inter Arma Enim Silent Leges
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+GARAK,15,0,0,0,0,0,0,0,0,0,0,0,9,163,7,Inter Arma Enim Silent Leges
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+KIRA,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+ODO,2,0,0,0,0,0,0,0,0,0,0,0,1,163,7,Inter Arma Enim Silent Leges
+O_BRIEN,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+SISKO,13,0,0,0,0,0,0,0,0,0,0,0,7,163,7,Inter Arma Enim Silent Leges
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,0,163,7,Inter Arma Enim Silent Leges
+BASHIR,0,0,0,0,0,0,0,8,0,0,1,0,8,164,7,Penumbra
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Penumbra
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Penumbra
+JAKE,0,0,0,0,0,0,0,0,0,0,15,0,8,164,7,Penumbra
+KIRA,0,0,0,0,0,0,1,2,0,0,7,0,7,164,7,Penumbra
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Penumbra
+ODO,0,0,0,0,1,0,0,0,0,0,3,0,2,164,7,Penumbra
+O_BRIEN,8,0,0,0,2,0,0,0,0,0,0,0,6,164,7,Penumbra
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,8,164,7,Penumbra
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,164,7,Penumbra
+SISKO,1,0,0,15,7,0,3,0,0,0,2,0,51,164,7,Penumbra
+WORF,0,0,0,0,0,0,0,0,0,0,0,10,63,164,7,Penumbra
+BASHIR,0,0,0,0,0,0,0,2,2,0,0,0,2,165,7,Till Death Us Do Part
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Till Death Us Do Part
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Till Death Us Do Part
+JAKE,0,0,0,0,1,0,0,0,0,0,7,0,5,165,7,Till Death Us Do Part
+KIRA,0,0,0,1,0,0,1,0,0,0,13,0,13,165,7,Till Death Us Do Part
+NOG,0,0,0,0,0,0,1,0,0,0,0,0,1,165,7,Till Death Us Do Part
+ODO,0,0,0,0,1,1,0,0,1,0,0,0,2,165,7,Till Death Us Do Part
+O_BRIEN,2,0,0,0,0,0,0,0,1,0,0,0,2,165,7,Till Death Us Do Part
+QUARK,2,0,0,0,0,0,1,1,2,0,3,0,5,165,7,Till Death Us Do Part
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,165,7,Till Death Us Do Part
+SISKO,0,0,0,7,13,0,0,0,3,0,0,0,40,165,7,Till Death Us Do Part
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,42,165,7,Till Death Us Do Part
+BASHIR,0,0,0,0,0,0,0,7,2,0,0,0,5,166,7,Strange Bedfellows
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Strange Bedfellows
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Strange Bedfellows
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Strange Bedfellows
+KIRA,0,0,0,0,0,0,1,0,0,0,2,0,15,166,7,Strange Bedfellows
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Strange Bedfellows
+ODO,0,0,0,0,1,0,0,0,0,0,1,0,2,166,7,Strange Bedfellows
+O_BRIEN,7,0,0,0,0,0,0,0,8,0,0,0,8,166,7,Strange Bedfellows
+QUARK,2,0,0,0,0,0,0,8,0,0,0,0,5,166,7,Strange Bedfellows
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,166,7,Strange Bedfellows
+SISKO,0,0,0,0,2,0,1,0,0,0,2,0,16,166,7,Strange Bedfellows
+WORF,0,0,0,0,0,0,0,0,0,0,0,2,33,166,7,Strange Bedfellows
+BASHIR,0,0,0,0,3,2,0,15,5,0,0,2,14,167,7,The Changing Face of Evil
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,The Changing Face of Evil
+GARAK,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,The Changing Face of Evil
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,The Changing Face of Evil
+KIRA,3,0,0,0,0,4,0,5,0,0,6,0,12,167,7,The Changing Face of Evil
+NOG,2,0,0,0,4,0,0,2,0,0,1,5,8,167,7,The Changing Face of Evil
+ODO,0,0,0,0,0,0,0,0,1,0,5,0,4,167,7,The Changing Face of Evil
+O_BRIEN,15,0,0,0,5,2,0,0,2,0,7,2,19,167,7,The Changing Face of Evil
+QUARK,5,0,0,0,0,0,1,2,0,0,0,0,5,167,7,The Changing Face of Evil
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,167,7,The Changing Face of Evil
+SISKO,0,0,0,0,6,1,5,7,0,0,0,6,43,167,7,The Changing Face of Evil
+WORF,2,0,0,0,0,5,0,2,0,0,6,0,15,167,7,The Changing Face of Evil
+BASHIR,0,0,0,0,0,0,17,64,3,0,0,0,56,168,7,When It Rains...
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,When It Rains...
+GARAK,0,0,0,0,12,0,8,0,0,0,3,0,18,168,7,When It Rains...
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,When It Rains...
+KIRA,0,0,12,0,0,0,21,0,0,0,10,0,33,168,7,When It Rains...
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,When It Rains...
+ODO,17,0,8,0,21,0,2,0,0,0,0,0,31,168,7,When It Rains...
+O_BRIEN,64,0,0,0,0,0,0,0,11,0,0,0,40,168,7,When It Rains...
+QUARK,3,0,0,0,0,0,0,11,0,0,0,0,7,168,7,When It Rains...
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,168,7,When It Rains...
+SISKO,0,0,3,0,10,0,0,0,0,0,4,0,17,168,7,When It Rains...
+WORF,0,0,0,0,0,0,0,0,0,0,0,0,7,168,7,When It Rains...
+BASHIR,0,0,0,0,0,0,0,30,0,0,0,0,16,169,7,Tacking Into The Wind
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Tacking Into The Wind
+GARAK,0,0,0,0,32,0,17,0,0,0,0,0,39,169,7,Tacking Into The Wind
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Tacking Into The Wind
+KIRA,0,0,32,0,6,0,13,0,0,0,0,0,42,169,7,Tacking Into The Wind
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Tacking Into The Wind
+ODO,0,0,17,0,13,0,4,0,0,0,0,0,20,169,7,Tacking Into The Wind
+O_BRIEN,30,0,0,0,0,0,0,0,0,0,0,0,16,169,7,Tacking Into The Wind
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Tacking Into The Wind
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,169,7,Tacking Into The Wind
+SISKO,0,0,0,0,0,0,0,0,0,0,0,18,14,169,7,Tacking Into The Wind
+WORF,0,0,0,0,0,0,0,0,0,0,18,2,33,169,7,Tacking Into The Wind
+BASHIR,4,0,0,0,1,0,15,203,0,0,22,2,168,170,7,Extreme Measures
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Extreme Measures
+GARAK,0,0,0,0,1,0,0,0,0,0,1,0,1,170,7,Extreme Measures
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Extreme Measures
+KIRA,1,0,1,0,2,0,20,1,0,0,1,0,13,170,7,Extreme Measures
+NOG,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Extreme Measures
+ODO,15,0,0,0,20,0,0,0,0,0,0,0,19,170,7,Extreme Measures
+O_BRIEN,203,0,0,0,1,0,0,10,0,0,10,1,132,170,7,Extreme Measures
+QUARK,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Extreme Measures
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,170,7,Extreme Measures
+SISKO,22,0,1,0,1,0,0,10,0,0,0,0,21,170,7,Extreme Measures
+WORF,2,0,0,0,0,0,0,1,0,0,0,0,2,170,7,Extreme Measures
+BASHIR,0,0,0,0,0,0,13,1,0,0,1,0,32,171,7,The Dogs Of War
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,The Dogs Of War
+GARAK,0,0,0,0,10,0,0,0,0,0,0,0,22,171,7,The Dogs Of War
+JAKE,0,0,0,0,0,0,0,0,0,0,0,0,0,171,7,The Dogs Of War
+KIRA,0,0,10,0,0,0,0,0,1,0,0,0,19,171,7,The Dogs Of War
+NOG,0,0,0,0,0,0,0,0,3,0,0,0,3,171,7,The Dogs Of War
+ODO,13,0,0,0,0,0,0,0,0,0,7,0,11,171,7,The Dogs Of War
+O_BRIEN,1,0,0,0,0,0,0,0,0,0,1,2,3,171,7,The Dogs Of War
+QUARK,0,0,0,0,1,3,0,0,0,42,0,0,63,171,7,The Dogs Of War
+ROM,0,0,0,0,0,0,0,0,42,0,0,0,28,171,7,The Dogs Of War
+SISKO,1,0,0,0,0,0,7,1,0,0,0,0,24,171,7,The Dogs Of War
+WORF,0,0,0,0,0,0,0,2,0,0,0,0,1,171,7,The Dogs Of War
+BASHIR,2,0,9,1,0,1,0,37,1,0,2,3,42,172,7,What You Leave Behind (parts 1 & 2)
+DAX,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,What You Leave Behind (parts 1 & 2)
+GARAK,9,0,2,0,31,0,7,0,0,0,0,0,49,172,7,What You Leave Behind (parts 1 & 2)
+JAKE,1,0,0,0,0,0,2,1,0,0,5,1,8,172,7,What You Leave Behind (parts 1 & 2)
+KIRA,0,0,31,0,4,6,36,0,15,0,0,0,63,172,7,What You Leave Behind (parts 1 & 2)
+NOG,1,0,0,0,6,0,2,4,0,0,19,2,22,172,7,What You Leave Behind (parts 1 & 2)
+ODO,0,0,7,2,36,2,0,1,12,0,15,3,51,172,7,What You Leave Behind (parts 1 & 2)
+O_BRIEN,37,0,0,1,0,4,1,2,0,0,10,4,43,172,7,What You Leave Behind (parts 1 & 2)
+QUARK,1,0,0,0,15,0,12,0,0,0,1,0,29,172,7,What You Leave Behind (parts 1 & 2)
+ROM,0,0,0,0,0,0,0,0,0,0,0,0,0,172,7,What You Leave Behind (parts 1 & 2)
+SISKO,2,0,0,5,0,19,15,10,1,0,4,13,78,172,7,What You Leave Behind (parts 1 & 2)
+WORF,3,0,0,1,0,2,3,4,0,0,13,0,24,172,7,What You Leave Behind (parts 1 & 2)
+BASHIR,254,633,629,78,543,52,446,1908,369,46,994,161,4764,all,-1,-1
+DAX,633,178,39,2,764,40,163,557,201,25,1598,804,3626,all,-1,-1
+GARAK,629,39,76,0,175,38,279,114,156,17,283,126,1383,all,-1,-1
+JAKE,78,2,0,56,90,686,45,106,93,10,848,6,1376,all,-1,-1
+KIRA,543,764,175,90,238,59,1599,559,316,55,1446,139,5156,all,-1,-1
+NOG,52,40,38,686,59,44,48,258,186,74,274,33,1264,all,-1,-1
+ODO,446,163,279,45,1599,48,166,301,1169,92,1023,203,4436,all,-1,-1
+O_BRIEN,1908,557,114,106,559,258,301,294,292,113,1398,278,4718,all,-1,-1
+QUARK,369,201,156,93,316,186,1169,292,368,1090,341,87,4158,all,-1,-1
+ROM,46,25,17,10,55,74,92,113,1090,40,58,7,1133,all,-1,-1
+SISKO,994,1598,283,848,1446,274,1023,1398,341,58,374,469,8073,all,-1,-1
+WORF,161,804,126,6,139,33,203,278,87,7,469,82,1964,all,-1,-1
