@@ -157,7 +157,7 @@ for wt, fr, to in relationships.values:
 nt = Network('500px', '750px', 
             font_color='white' if box_bool else 'black')
 nt.from_nx(nx_graph)
-path = f'html/network.html'
+path = f'network.html'
 nt.show(path)
 HtmlFile = open(path, 'r', encoding='utf-8')
 source_code = HtmlFile.read() 
