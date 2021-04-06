@@ -6,13 +6,12 @@ import numpy as np
 
 import streamlit as st 
 import streamlit.components.v1 as components
-import streamlit_theme as stt
 
 import altair as alt
 import networkx as nx
 from pyvis.network import Network
 
-from config import col_dict, snames
+from param import col_dict, snames
 from util import  parse_data, parse_ts, clock12, clock8
 
 #####################
