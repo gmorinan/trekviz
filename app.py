@@ -6,6 +6,8 @@ import numpy as np
 
 import streamlit as st 
 import streamlit.components.v1 as components
+import streamlit_theme as stt
+
 import altair as alt
 import networkx as nx
 from pyvis.network import Network
@@ -13,9 +15,19 @@ from pyvis.network import Network
 from config import col_dict, snames
 from util import  parse_data, parse_ts, clock12, clock8
 
+#####################
+### INITIAL SETUP ###
+#####################
 
+# styling 
+st.set_page_config(page_title='TrekViz', page_icon="🖖")
+st.markdown("""
+        <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        </style>
+            """, unsafe_allow_html=True) 
 
-# remove padding
 padding = 0
 st.markdown(
         f"""
@@ -32,9 +44,6 @@ st.markdown(
         unsafe_allow_html=True)
 
 
-######################
-### INITIAL SET UP ###
-######################
 st.sidebar.markdown('# STAR TREK VIZUALISER')
 
 # for selecting series
