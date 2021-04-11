@@ -1,6 +1,6 @@
 ## TREKVIZ
 
-Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series (does not include the more recent series because I could not find publicly available transcripts for these).
+Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series.
 
 To run this locally:
 ```
@@ -11,15 +11,21 @@ Main libraries used are: [Streamlit](https://streamlit.io/), [Altair](https://al
 
 
 
-
+#### NOTES 
+* Interactions = the number of consecutive lines the two characters shared.
+* Transcripts of episodes were used, hence "Episode Number" is actually transcript number.
+* Some transcripts covered 2-parters, hence why there are less transcripts that aired episodes.
+* Recent series (Discovery, Picard, Lower Decks) are not included due to lack of online transcripts. 
 
 
 ## ABOUT
 
-Authored by [Gareth Morinan](https://www.linkedin.com/in/gmorinan/)
+Author: [@gmorinan](https://www.linkedin.com/in/gmorinan/) ([source code](https://github.com/gmorinan/trekviz))
 
-Transcripts sourced from [chakoteya.net](http://www.chakoteya.net/)
+Data source: [chakoteya.net](http://www.chakoteya.net/)
 
-All rights related to StarTrek are owned by [ViacomCBS](https://www.viacomcbs.com/)
+StarTrek rights owner: [ViacomCBS](https://www.viacomcbs.com/)
+
+
 
 
