@@ -85,6 +85,10 @@ def parse_ts(df, yvalue_bool, xlab, ylab, char_pick1, char_pick2):
 
     return line_count, ilabel
 
+# used to generate random colors
+def rc():
+    return np.random.randint(0, high=120)
+
 
 ## clockface co-ordinates 
 def rect(r, theta):

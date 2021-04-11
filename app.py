@@ -12,7 +12,9 @@ import networkx as nx
 from pyvis.network import Network
 
 from param import col_dict, snames
-from util import  parse_data, parse_ts, clock12, clock8
+from util import  parse_data, parse_ts, clock12, clock8, rc
+
+
 
 #####################
 ### INITIAL SETUP ###
@@ -20,27 +22,20 @@ from util import  parse_data, parse_ts, clock12, clock8
 
 # styling 
 st.set_page_config(page_title='TrekViz', page_icon="🖖")
-st.markdown("""
-        <style>
-        #MainMenu {visibility: hidden;}
-        footer {visibility: hidden;}
-        </style>
-            """, unsafe_allow_html=True) 
+
+st.markdown(""" <style> 
+        #MainMenu {visibility: hidden;} 
+        footer {visibility: hidden;} 
+        </style> """, unsafe_allow_html=True) 
 
 padding = 0
-st.markdown(
-        f"""
-<style>
+st.markdown(f""" <style>
     .reportview-container .main .block-container{{
         padding-top: {padding}rem;
         padding-right: {padding}rem;
         padding-left: {padding}rem;
         padding-bottom: {padding}rem;
-    }}
-
-</style>
-""",
-        unsafe_allow_html=True)
+    }} </style> """, unsafe_allow_html=True)
 
 
 st.sidebar.markdown('# STAR TREK VIZUALISER')
@@ -69,13 +64,11 @@ box_bool = st.sidebar.checkbox('Make nodes boxes', key='boxb', value=True)
 col_bool = st.sidebar.checkbox('Random colors', key='colb', value=False)
 interactions = st.sidebar.slider("Number of Nodes", 4, 8, 12, 4)
 
-
 st.markdown(
 '''#### INTERACTION NETWORK
 Wider lines = more interactions. 
 Click and drag nodes to rearrange the network.
 ''')
-
 
 nx_graph = nx.cycle_graph(interactions) # create initial dummy graph
 chars_subset = chars[:interactions] # select characer subset
@@ -88,20 +81,17 @@ name2node = {} # for mapping from node idx to character name
 # add each character node
 for idx, c in enumerate(chars_subset):
     name2node[c] = idx
-    nx_graph.nodes[idx]['label'] = c
-    nx_graph.nodes[idx]['mass'] = 1
-    nx_graph.nodes[idx]['physics'] = physics_bool
-    nx_graph.nodes[idx]['shape'] = 'box' if box_bool else 'dot'
-    nx_graph.nodes[idx]['borderWidth'] = 1
-    nx_graph.nodes[idx]['borderWidthSelected'] = 5
-    nx_graph.nodes[idx]['x'] = (pos_dict[c][0])*1.5*500
-    nx_graph.nodes[idx]['y'] = (pos_dict[c][1])*500
-    nx_graph.nodes[idx]['size'] = 20
-    if col_bool:
-        r,g,b = np.random.randint(0, high=120, size=3)
-        nx_graph.nodes[idx]['color'] = f'rgb({r},{g},{b})'
-    else:
-        nx_graph.nodes[idx]['color'] = col_dict[series_code][c]
+    for k,v in {'label':c,
+                'mass':10,
+                'physics':physics_bool,
+                'x':(pos_dict[c][0])*1.5*500,
+                'y':(pos_dict[c][1])*1.0*500,
+                'size':20,
+                'shape': 'box' if box_bool else 'dot',
+                'color': f'rgb({rc()},{rc()},{rc()})' if col_bool 
+                            else col_dict[series_code][c]
+                }.items():
+        nx_graph.nodes[idx][k] = v
 
 # add each interaction edge 
 for wt, fr, to in relationships.values:
@@ -112,11 +102,10 @@ for wt, fr, to in relationships.values:
             
 # translate to pyvis network
 h, w  =  500, 750
-
-
 nt = Network(f'{h}px', f'{w}px', 
             font_color='white' if box_bool else 'black')
 nt.from_nx(nx_graph)
+
 path = f'network.html'
 nt.show(path)
 HtmlFile = open(path, 'r', encoding='utf-8')
@@ -135,7 +124,6 @@ st.markdown(
 Click on the legend to view one time-series only. 
 Double click on the graph to reset the view.
 ''')
-
 
 # for switching to season averages
 season_bool = st.sidebar.checkbox('Season average', key='check', value=False)
@@ -182,7 +170,6 @@ ts_chart = alt.Chart(line_count, width=750, height=500).encode(
 # add to app
 st.altair_chart(ts_chart.mark_line(color='firebrick', point=True))
 
-
 st.markdown(
 '''
 #### NOTES 
@@ -191,6 +178,8 @@ st.markdown(
 * Some transcripts covered 2-parters, hence why there are less transcripts that aired episodes.
 * Recent series (Discovery, Picard, Lower Decks) are not included due to lack of online transcripts. 
 ''')
+
+
 
 ###############
 #### ABOUT ####
