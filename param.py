@@ -1,9 +1,11 @@
 # store for hardcoded variables
 
 grey = 'rgb(40,40,40)'
-orange = 'rgb(209,158,0)'
+orange = 'rgb(179,138,0)'
 red = 'rgb(209,50,35)'
 blue = 'rgb(35,87,209)'
+brown = 'rgb(100,50,35)'
+lightgrey = 'rgb(70,70,70)'
 
 snames = {'TOS':"Star Trek: The Original Series",
             'TNG':"Star Trek: The Next Generation", 
@@ -21,31 +23,31 @@ col_dict = {'TNG':{'PICARD': red,
                      'TROI': blue,
                      'WESLEY': red,
                      'Q': grey,
-                     'COMPUTER': grey,
+                     'COMPUTER': lightgrey,
                      'TASHA': orange,
                      "O'BRIEN": orange},
             
             'DS9':{'BASHIR': blue,
                      'DAX': blue,
                      'GARAK':grey,
-                     'JAKE':grey,
-                     'KIRA':red,
+                     'JAKE':brown,
+                     'KIRA':brown,
                      'NOG':orange,
-                     'ODO':grey,
+                     'ODO':brown,
                      "O'BRIEN":orange,
-                     'QUARK':grey,
-                     'ROM':grey,
+                     'QUARK':brown,
+                     'ROM':brown,
                      'SISKO':red,
                      'WORF':red},
             
             'VOY':{'BARCLAY':orange,
                  'CHAKOTAY':red,
-                 'COMPUTER':grey,
+                 'COMPUTER':lightgrey,
                  'EMH':blue,
                  'JANEWAY':red,
-                 'KES':grey,
+                 'KES':brown,
                  'KIM':orange,
-                 'NEELIX':grey,
+                 'NEELIX':brown,
                  'PARIS':red,
                  'SEVEN':blue,
                  'TORRES':orange,
@@ -60,24 +62,24 @@ col_dict = {'TNG':{'PICARD': red,
                   'SULU':orange,
                   'UHURA':red,
                    'CHEKOV':orange,
-                   'TRELANE':grey,
-                   'COMMANDER':grey,
+                   'TRELANE':blue,
+                   'COMMANDER':red,
                    'CHAPEL':grey,
                    'MUDD':grey,
-                   'COMPUTER':grey,
+                   'COMPUTER':lightgrey,
                   },
             'ENT':{'ARCHER':orange, 
                    'HOSHI':blue, 
-                   'PHLOX':grey, 
+                   'PHLOX':brown, 
                    'REED':red, 
                    'SHRAN':grey,
                    'TRAVIS':orange, 
                    'TUCKER':red, 
-                   "T'POL":grey,
+                   "T'POL":brown,
                    'DEGRA':grey,
                    'SOONG':grey,
                    'MALIK':grey,
-                   'SOVAL':grey
+                   'SOVAL':brown
                    
                    }
            }

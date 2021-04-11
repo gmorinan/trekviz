@@ -57,10 +57,85 @@ df, chars, relationships = parse_data(series_code)
 chars_sorted = np.sort(chars) # for ordered dropbox
 
 
+
+###########################
+#### INTERACTIONS CHART ###
+###########################
+
+# define options in sidebar
+st.sidebar.markdown('## NETWORK OPTIONS')
+physics_bool = st.sidebar.checkbox('Add physics engine', key='phys', value=False)
+box_bool = st.sidebar.checkbox('Make nodes boxes', key='boxb', value=True)
+col_bool = st.sidebar.checkbox('Random colors', key='colb', value=False)
+interactions = st.sidebar.slider("Number of Nodes", 4, 8, 12, 4)
+
+
+st.markdown(
+'''#### INTERACTION NETWORK
+Wider lines = more interactions. 
+Click and drag nodes to rearrange the network.
+''')
+
+
+nx_graph = nx.cycle_graph(interactions) # create initial dummy graph
+chars_subset = chars[:interactions] # select characer subset
+
+clockface = clock8 if interactions==8 else clock12 # positions depend on number of interactions
+pos_dict = {chars[i]:clockface[i] for i in range(interactions)} # positions for character
+name2node = {} # for mapping from node idx to character name
+
+
+# add each character node
+for idx, c in enumerate(chars_subset):
+    name2node[c] = idx
+    nx_graph.nodes[idx]['label'] = c
+    nx_graph.nodes[idx]['mass'] = 1
+    nx_graph.nodes[idx]['physics'] = physics_bool
+    nx_graph.nodes[idx]['shape'] = 'box' if box_bool else 'dot'
+    nx_graph.nodes[idx]['borderWidth'] = 1
+    nx_graph.nodes[idx]['borderWidthSelected'] = 5
+    nx_graph.nodes[idx]['x'] = (pos_dict[c][0])*1.5*500
+    nx_graph.nodes[idx]['y'] = (pos_dict[c][1])*500
+    nx_graph.nodes[idx]['size'] = 20
+    if col_bool:
+        r,g,b = np.random.randint(0, high=120, size=3)
+        nx_graph.nodes[idx]['color'] = f'rgb({r},{g},{b})'
+    else:
+        nx_graph.nodes[idx]['color'] = col_dict[series_code][c]
+
+# add each interaction edge 
+for wt, fr, to in relationships.values:
+    if (to in chars_subset) & (fr in chars_subset) & (fr!=to):
+        nx_graph.add_edge(name2node[fr], name2node[to], 
+                        width=wt/300,
+                        color='rgb(100,100,100)')
+            
+# translate to pyvis network
+h, w  =  500, 750
+
+
+nt = Network(f'{h}px', f'{w}px', 
+            font_color='white' if box_bool else 'black')
+nt.from_nx(nx_graph)
+path = f'network.html'
+nt.show(path)
+HtmlFile = open(path, 'r', encoding='utf-8')
+source_code = HtmlFile.read() 
+components.html(source_code, height=h*1.1, width=w*1.1)
+
+
+
 ##########################
 #### TIME SERIES CHART ###
 ##########################
 st.sidebar.markdown('### TIME-SERIES OPTIONS')
+
+st.markdown(
+'''#### TIME-SERIES
+Click on the legend to view one time-series only. 
+Double click on the graph to reset the view.
+''')
+
 
 # for switching to season averages
 season_bool = st.sidebar.checkbox('Season average', key='check', value=False)
@@ -99,7 +174,7 @@ ts_chart = alt.Chart(line_count, width=750, height=500).encode(
         sort=[char_pick1, char_pick2],
         scale=alt.Scale(
             domain=[char_pick1, char_pick2, ilabel],
-            range=['rgb(150,20,150)','rgb(150,100,0)','rgb(10,10,20)'])
+            range=['rgb(150,20,150)','rgb(150,100,0)','rgb(70,70,100)'])
             ),
     tooltip=[xlab,"Season","Character",ylab]
 ).add_selection(selection).transform_filter(selection).interactive()
@@ -108,61 +183,14 @@ ts_chart = alt.Chart(line_count, width=750, height=500).encode(
 st.altair_chart(ts_chart.mark_line(color='firebrick', point=True))
 
 
-###########################
-#### INTERACTIONS CHART ###
-###########################
-
-# define options in sidebar
-st.sidebar.markdown('## NETWORK OPTIONS')
-physics_bool = st.sidebar.checkbox('Add physics engine', key='phys', value=False)
-box_bool = st.sidebar.checkbox('Make nodes boxes', key='boxb', value=True)
-col_bool = st.sidebar.checkbox('Random colors', key='colb', value=False)
-interactions = st.sidebar.slider("Number of Nodes", 4, 8, 12, 4)
-
-
-nx_graph = nx.cycle_graph(interactions) # create initial dummy graph
-chars_subset = chars[:interactions] # select characer subset
-
-clockface = clock8 if interactions==8 else clock12 # positions depend on number of interactions
-pos_dict = {chars[i]:clockface[i] for i in range(interactions)} # positions for character
-name2node = {} # for mapping from node idx to character name
-
-
-# add each character node
-for idx, c in enumerate(chars_subset):
-    name2node[c] = idx
-    nx_graph.nodes[idx]['label'] = c
-    nx_graph.nodes[idx]['mass'] = 1
-    nx_graph.nodes[idx]['physics'] = physics_bool
-    nx_graph.nodes[idx]['shape'] = 'box' if box_bool else 'dot'
-    nx_graph.nodes[idx]['borderWidth'] = 1
-    nx_graph.nodes[idx]['borderWidthSelected'] = 5
-    nx_graph.nodes[idx]['x'] = (pos_dict[c][0])*1.5*500
-    nx_graph.nodes[idx]['y'] = (pos_dict[c][1])*500
-    nx_graph.nodes[idx]['size'] = 20
-    if col_bool:
-        r,g,b = np.random.randint(0, high=120, size=3)
-        nx_graph.nodes[idx]['color'] = f'rgb({r},{g},{b})'
-    else:
-        nx_graph.nodes[idx]['color'] = col_dict[series_code][c]
-
-# add each interaction edge 
-for wt, fr, to in relationships.values:
-    if (to in chars_subset) & (fr in chars_subset) & (fr!=to):
-        nx_graph.add_edge(name2node[fr], name2node[to], 
-                        width=wt/300,
-                        color='rgb(100,100,100)')
-            
-# translate to pyvis network
-nt = Network('500px', '750px', 
-            font_color='white' if box_bool else 'black')
-nt.from_nx(nx_graph)
-path = f'network.html'
-nt.show(path)
-HtmlFile = open(path, 'r', encoding='utf-8')
-source_code = HtmlFile.read() 
-components.html(source_code, height = 900,width=900)
-
+st.markdown(
+'''
+#### NOTES 
+* Interactions = the number of consecutive lines the two characters shared.
+* Transcripts of episodes were used, hence "Episode Number" is actually transcript number.
+* Some transcripts covered 2-parters, hence why there are less transcripts that aired episodes.
+* Recent series (Discovery, Picard, Lower Decks) are not included due to lack of online transcripts. 
+''')
 
 ###############
 #### ABOUT ####

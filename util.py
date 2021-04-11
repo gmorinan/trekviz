@@ -3,9 +3,11 @@
 import pandas as pd
 import numpy as np
 import math
+import streamlit as st 
 
 
 # FUNCTION TO PARSE RELATIONAL DATA
+@st.cache
 def parse_data(series_code):
     '''
     Parses raw data into a usable parts
@@ -32,6 +34,7 @@ def parse_data(series_code):
 
 
 # FUNCTION TO PARSE TIME SERIES DATA
+@st.cache
 def parse_ts(df, yvalue_bool, xlab, ylab, char_pick1, char_pick2):
     '''
     Parses raw data into a usable time series
@@ -94,6 +97,6 @@ def rect(r, theta):
     return np.array([x,y]).round(2)
 
 
-clock12 = {i: rect(0.4, r) for i, r in enumerate([90 ,270, 0, 180, 30, 120, 210, 300, 60, 150, 240, 330]) }
-clock8 = {i: rect(0.4, r) for i, r in enumerate([90 , 270, 0, 180, 45, 225, 135, 305]) }
+clock12 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 300, 210, 30, 120, 240, 330, 60, 150]) }
+clock8 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 305, 135, 45, 225]) }
 
