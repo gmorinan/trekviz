@@ -102,5 +102,5 @@ def rect(r, theta):
 
 
 clock12 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 300, 210, 30, 120, 240, 330, 60, 150]) }
-clock8 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 305, 135, 45, 225]) }
+clock8 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 315, 135, 45, 225]) }
 

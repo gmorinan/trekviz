@@ -1,19 +1,16 @@
 # main app
 # >>> streamlit run app.py
 
-import pandas as pd
-import numpy as np
-
+import pandas as pd #
+import numpy as np 
 import streamlit as st 
 import streamlit.components.v1 as components
-
 import altair as alt
 import networkx as nx
 from pyvis.network import Network
 
 from param import col_dict, snames
 from util import  parse_data, parse_ts, clock12, clock8, rc
-
 
 
 #####################
@@ -84,8 +81,8 @@ for idx, c in enumerate(chars_subset):
     for k,v in {'label':c,
                 'mass':10,
                 'physics':physics_bool,
-                'x':(pos_dict[c][0])*1.5*500,
-                'y':(pos_dict[c][1])*1.0*500,
+                'x':(pos_dict[c][0])*1.6*500,
+                'y':(pos_dict[c][1])*1.1*500,
                 'size':20,
                 'shape': 'box' if box_bool else 'dot',
                 'color': f'rgb({rc()},{rc()},{rc()})' if col_bool 
@@ -105,7 +102,6 @@ h, w  =  500, 750
 nt = Network(f'{h}px', f'{w}px', 
             font_color='white' if box_bool else 'black')
 nt.from_nx(nx_graph)
-
 path = f'network.html'
 nt.show(path)
 HtmlFile = open(path, 'r', encoding='utf-8')
