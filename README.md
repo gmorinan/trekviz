@@ -1,6 +1,6 @@
 ## TREKVIZ
 
-Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series.
+Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series. You can [view it here](https://trekviz.com) (hosting provided by Streamlit).
 
 To run this locally:
 ```
@@ -21,12 +21,16 @@ Main libraries used are: [Streamlit](https://streamlit.io/), [Altair](https://al
 * ```/thumbnails``` contains images for each character.
 * ```/interactions``` contains HTML interaction graphs, made using Pyvis, that use these images for each character node (note these use relative path references, so if you move the files around everything will stop working).
 * However, at the time of writing, HMTL files displayed within Streamlit cannot read and display images. Hence the interaction graphs in ```app.py``` just use character names.
+* And for ease of transport a JPG summary is included in this repo:
+
+![image](interactions/trek_comparison.jpg)
+
 
 
 
 ## ABOUT
 
-Author details: [profile](https://www.linkedin.com/in/gmorinan/) / [words](https://medium.com/@g.morinan)
+Author details: [profile](https://www.linkedin.com/in/gmorinan/) , [words](https://medium.com/@g.morinan)
 
 Transcripts source: [chakoteya.net](http://www.chakoteya.net/)
 
