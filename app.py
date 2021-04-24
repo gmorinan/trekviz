@@ -74,9 +74,12 @@ clockface = clock8 if interactions==8 else clock12 # positions depend on number
 pos_dict = {chars[i]:clockface[i] for i in range(interactions)} # positions for character
 name2node = {} # for mapping from node idx to character name
 
+import base64
+
 
 # add each character node
 for idx, c in enumerate(chars_subset):
+
     name2node[c] = idx
     for k,v in {'label':c,
                 'mass':10,
@@ -88,7 +91,19 @@ for idx, c in enumerate(chars_subset):
                 'color': f'rgb({rc()},{rc()},{rc()})' if col_bool 
                             else col_dict[series_code][c]
                 }.items():
+        
         nx_graph.nodes[idx][k] = v
+
+    # # NON-FUNCTIONAL CODE to add thumbnail images (used to create and save interactions with thumbnails)
+    # c2 = c.replace("'",'')
+    # ipath = f'../../thumbnails/{series_code}/{c2}.png'
+    # nx_graph.nodes[idx]['image'] = ipath
+    # nx_graph.nodes[idx]['shape'] = 'image'
+    # nx_graph.nodes[idx]['label'] = ' '
+    # nx_graph.nodes[idx]['size'] = 30
+    # DOES NOT WORK BECAUSE STREAMLIT HMTL CANNOT READ FROM DIRECTORY
+    # HOPEFULLY SOLVED IN FUTURE RELEASE? 
+
 
 # add each interaction edge 
 for wt, fr, to in relationships.values:
@@ -104,7 +119,7 @@ nt = Network(f'{h}px', f'{w}px',
 nt.from_nx(nx_graph)
 path = f'network.html'
 nt.show(path)
-HtmlFile = open(path, 'r', encoding='utf-8')
+HtmlFile = open(path, 'r')#, encoding='utf-8')
 source_code = HtmlFile.read() 
 components.html(source_code, height=h*1.1, width=w*1.1)
 

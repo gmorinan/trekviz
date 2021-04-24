@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 750px;
+            height: 550px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"color": "rgb(209,50,35)", "font": {"color": "white"}, "id": 0, "image": "../../thumbnails/TNG/PICARD.png", "label": " ", "mass": 10, "physics": false, "shape": "image", "size": 30, "x": -0.0, "y": -220.00000000000003}, {"color": "rgb(209,50,35)", "font": {"color": "white"}, "id": 1, "image": "../../thumbnails/TNG/RIKER.png", "label": " ", "mass": 10, "physics": false, "shape": "image", "size": 30, "x": 0.0, "y": 220.00000000000003}, {"color": "rgb(179,138,0)", "font": {"color": "white"}, "id": 3, "image": "../../thumbnails/TNG/LAFORGE.png", "label": " ", "mass": 10, "physics": false, "shape": "image", "size": 30, "x": -320.00000000000006, "y": 0.0}, {"color": "rgb(179,138,0)", "font": {"color": "white"}, "id": 2, "image": "../../thumbnails/TNG/DATA.png", "label": " ", "mass": 10, "physics": false, "shape": "image", "size": 30, "x": 320.00000000000006, "y": 0.0}]);
+        edges = new vis.DataSet([{"color": "rgb(100,100,100)", "from": 0, "to": 1, "weight": 1, "width": 8.583333333333334}, {"color": "rgb(100,100,100)", "from": 0, "to": 3, "weight": 1, "width": 4.63}, {"color": "rgb(100,100,100)", "from": 0, "to": 2, "weight": 1, "width": 9.143333333333333}, {"color": "rgb(100,100,100)", "from": 1, "to": 2, "weight": 1, "width": 5.553333333333334}, {"color": "rgb(100,100,100)", "from": 1, "to": 3, "weight": 1, "width": 3.4166666666666665}, {"color": "rgb(100,100,100)", "from": 2, "to": 3, "weight": 1, "width": 5.083333333333333}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
