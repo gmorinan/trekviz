@@ -198,8 +198,9 @@ st.markdown(
 
 st.sidebar.markdown('''
 ## ABOUT
-Author: [@gmorinan](https://www.linkedin.com/in/gmorinan/) ([source code](https://github.com/gmorinan/trekviz))\n
-Data source: [chakoteya.net](http://www.chakoteya.net/)\n
+Code: [source](https://github.com/gmorinan/trekviz)\n
+Author: [profile](https://www.linkedin.com/in/gmorinan/) / [words](https://medium.com/@g.morinan)\n
+Transcripts source: [chakoteya.net](http://www.chakoteya.net/)\n
 StarTrek rights owner: [ViacomCBS](https://www.viacomcbs.com/)\n
 Tools: [Streamlit](https://streamlit.io/), [Altair](https://altair-viz.github.io/), [Networkx](https://networkx.org/) & [Pyvis](https://pyvis.readthedocs.io/en/latest/)
 ''')
