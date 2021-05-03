@@ -7,7 +7,7 @@ import streamlit as st
 
 
 # FUNCTION TO PARSE RELATIONAL DATA
-@st.cache
+@st.cache(ttl=60)
 def parse_data(series_code):
     '''
     Parses raw data into a usable parts
@@ -34,7 +34,7 @@ def parse_data(series_code):
 
 
 # FUNCTION TO PARSE TIME SERIES DATA
-@st.cache
+@st.cache(ttl=60)
 def parse_ts(df, yvalue_bool, xlab, ylab, char_pick1, char_pick2):
     '''
     Parses raw data into a usable time series
