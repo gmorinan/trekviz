@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 import math
-import streamlit as st 
+import streamlit as st
 
 
 # FUNCTION TO PARSE RELATIONAL DATA
@@ -21,16 +21,16 @@ def parse_data(series_code):
     Dataframe containing columns needed for the altair chart
     '''
 
-    df = pd.read_csv(f'data/{series_code}_interactions.csv',index_col=0)
-    chars = list(df[df['ep']=='all']['lines'].sort_values(ascending=False).index)
-    relationships = df[df['ep']=='all'].iloc[:,:12]
+    df = pd.read_csv(f'data/{series_code}_interactions.csv', index_col=0)
+    chars = list(df[df['ep'] == 'all']
+                 ['lines'].sort_values(ascending=False).index)
+    relationships = df[df['ep'] == 'all'].iloc[:, :20]
     relationships = relationships.stack().to_frame()
     relationships.columns = ['weight']
     relationships['from'] = [i[0] for i in relationships.index]
     relationships['to'] = [i[1] for i in relationships.index]
 
     return df, chars, relationships
-
 
 
 # FUNCTION TO PARSE TIME SERIES DATA
@@ -54,10 +54,10 @@ def parse_ts(df, yvalue_bool, xlab, ylab, char_pick1, char_pick2):
     '''
 
     # remote the rows that correspond to totals
-    df1 = df[df['ep']!='all']
+    df1 = df[df['ep'] != 'all']
 
     # create output dataframe
-    line_count = pd.DataFrame(columns=['Character',ylab,xlab,'Name'])
+    line_count = pd.DataFrame(columns=['Character', ylab, xlab, 'Name'])
 
     # label for interaction
     ilabel = f'Interactions({char_pick1},{char_pick2})'
@@ -70,27 +70,30 @@ def parse_ts(df, yvalue_bool, xlab, ylab, char_pick1, char_pick2):
         x1a = y1.index
         x1b = [str(i) for i in x1a]
     else:
-        y1 = df1.loc[char_pick1,'lines']
-        y2 = df1.loc[char_pick2,'lines']
-        y3 = df1.loc[char_pick1,char_pick2]
-        x1a = df1.loc[char_pick1,'ep'].astype(int) + 1
-        x1b = df1.loc[char_pick1,'title']
-        line_count['Season'] = list(df1.loc[char_pick1,'season']) * 3
-    
+        y1 = df1.loc[char_pick1, 'lines']
+        y2 = df1.loc[char_pick2, 'lines']
+        y3 = df1.loc[char_pick1, char_pick2]
+        x1a = df1.loc[char_pick1, 'ep'].astype(int) + 1
+        x1b = df1.loc[char_pick1, 'title']
+        line_count['Season'] = list(df1.loc[char_pick1, 'season']) * 3
+
     n = len(y1)
-    line_count[ylab] = list(y1)+list(y2)+list(y3)
-    line_count['Character'] = ([char_pick1]*n) + ([char_pick2]*n) + ([ilabel]*n)
+    line_count[ylab] = list(y1) + list(y2) + list(y3)
+    line_count['Character'] = ([char_pick1] * n) + \
+        ([char_pick2] * n) + ([ilabel] * n)
     line_count[xlab + ' Number'] = list(x1a) * 3
     line_count[xlab] = list(x1b) * 3
 
     return line_count, ilabel
 
 # used to generate random colors
+
+
 def rc():
     return np.random.randint(0, high=120)
 
 
-## clockface co-ordinates 
+# clockface co-ordinates
 def rect(r, theta):
     """theta in degrees
 
@@ -98,9 +101,22 @@ def rect(r, theta):
     """
     x = r * math.cos(math.radians(theta))
     y = r * math.sin(math.radians(theta))
-    return np.array([x,y]).round(2)
+    return np.array([x, y]).round(2)
 
 
-clock12 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 300, 210, 30, 120, 240, 330, 60, 150]) }
-clock8 = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180, 315, 135, 45, 225]) }
+clock = {}
 
+clock[4] = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180])}
+clock[8] = {i: rect(0.4, r)
+            for i, r in enumerate([270, 90, 0, 180, 315, 135, 45, 225])}
+clock[12] = {i: rect(0.4, r) for i, r in enumerate(
+    [270, 90, 0, 180, 300, 210, 30, 120, 240, 330, 60, 150])}
+clock[16] = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180,
+                                                    292.5, 202.5, 22.5, 112.5,
+                                                    225, 315, 45, 135,
+                                                    247.5, 337.5, 67.5, 157.5])}
+clock[20] = {i: rect(0.4, r) for i, r in enumerate([270, 90, 0, 180,
+                                                    288, 198, 18, 108,
+                                                    216, 306, 36, 126,
+                                                    234, 324, 54, 144,
+                                                    252, 342, 72, 162])}
