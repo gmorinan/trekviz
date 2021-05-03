@@ -9,7 +9,7 @@ import altair as alt
 import networkx as nx
 from pyvis.network import Network
 
-from param import col_dict, snames
+from param import col_dict, snames, max_node_map, def_node_map
 from util import parse_data, parse_ts, clock, rc
 
 
@@ -48,8 +48,6 @@ series_code = snames_r[series_pick]  # for later use
 df, chars, relationships = parse_data(series_code)
 chars_sorted = np.sort(chars)  # for ordered dropbox
 
-print(chars)
-
 ###########################
 #### INTERACTIONS CHART ###
 ###########################
@@ -61,8 +59,10 @@ physics_bool = st.sidebar.checkbox(
 box_bool = st.sidebar.checkbox('Make nodes boxes', key='boxb', value=True)
 col_bool = st.sidebar.checkbox('Random colors', key='colb', value=False)
 
-max_node = 12 if series_code in ['ENT', 'TOS'] else 20
-default_node = 8 if series_code in ['ENT', 'TOS'] else 12
+max_node = max_node_map[series_code]
+default_node = def_node_map[series_code]
+
+
 interactions = st.sidebar.slider(
     label="Number of Nodes",
     min_value=4,
@@ -77,7 +77,7 @@ Wider lines = more interactions.
 Click and drag nodes to rearrange the network.
 ''')
 
-nx_graph = nx.cycle_graph(interactions)  # create initial dummy graph
+nx_graph = nx.empty_graph(interactions)  # create initial dummy graph
 chars_subset = chars[:interactions]  # select characer subset
 
 #  positions depend on number of interactions
@@ -114,13 +114,16 @@ for idx, c in enumerate(chars_subset):
     # DOES NOT WORK BECAUSE STREAMLIT HMTL CANNOT READ FROM DIRECTORY
     # HOPEFULLY SOLVED IN FUTURE RELEASE?
 
+constant_dict = {'TOSm': 40, 'TNGm': 20, 'JJA': 30}
+constant = constant_dict.get(series_code, 300)
 
 # add each interaction edge
 for wt, fr, to in relationships.values:
     if (to in chars_subset) & (fr in chars_subset) & (fr != to):
-        nx_graph.add_edge(name2node[fr], name2node[to],
-                          width=wt / 300,
-                          color='rgb(100,100,100)')
+        if wt > 0:
+            nx_graph.add_edge(name2node[fr], name2node[to],
+                              width=wt / constant,
+                              color='rgb(100,100,100)')
 
 # translate to pyvis network
 h, w = 500, 750
@@ -146,9 +149,17 @@ Double click on the graph to reset the view.
 ''')
 
 # for switching to season averages
-season_bool = st.sidebar.checkbox('Season average', key='check', value=False)
-xlab = 'Season' if season_bool else 'Episode'
-ylab = 'Lines per Episode' if season_bool else 'Lines'
+if series_code in ['ENT', 'TOS', 'TNG', 'VOY', 'DS9']:
+    season_bool = st.sidebar.checkbox(
+        'Season average', key='check', value=False)
+    xlab = 'Season' if season_bool else 'Episode'
+    ylab = 'Lines per Episode' if season_bool else 'Lines'
+    tool1 = 'Season'
+else:
+    season_bool = False
+    xlab = 'Movie'
+    ylab = 'Lines'
+    tool1 = 'Movie'
 
 # for selecting characters
 char_pick1 = st.sidebar.selectbox(label='Select first character:',
@@ -186,7 +197,7 @@ ts_chart = alt.Chart(line_count, width=750, height=500).encode(
                         domain=[char_pick1, char_pick2, ilabel],
                         range=['rgb(150,20,150)', 'rgb(150,100,0)', 'rgb(70,70,100)'])
                     ),
-    tooltip=[xlab, "Season", "Character", ylab]
+    tooltip=[xlab, tool1, "Character", ylab]
 ).add_selection(selection).transform_filter(selection).interactive()
 
 # add to app

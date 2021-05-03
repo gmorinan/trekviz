@@ -1,0 +1,113 @@
+character,CHANG,CHEKOV,DAVID,DECKER,GILLIAN,KHAN,KIRK,KRUGE,MCCOY,SAAVIK,SCOTT,SPOCK,SULU,SYBOK,UHURA,VALERIS,lines,title,ep,season
+CHANG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+CHEKOV,0,0,0,0,0,0,25,0,1,0,3,0,3,0,0,0,20,III: The Search for Spock,2,2
+DAVID,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,27,III: The Search for Spock,2,2
+DECKER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+GILLIAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+KHAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+KIRK,0,25,0,0,0,0,26,14,31,4,24,12,37,0,11,0,165,III: The Search for Spock,2,2
+KRUGE,0,0,0,0,0,0,14,16,0,5,0,0,0,0,0,0,63,III: The Search for Spock,2,2
+MCCOY,0,1,0,0,0,0,31,0,0,1,1,0,2,0,0,0,38,III: The Search for Spock,2,2
+SAAVIK,0,0,35,0,0,0,4,5,1,4,0,0,0,0,0,0,46,III: The Search for Spock,2,2
+SCOTT,0,3,0,0,0,0,24,0,1,0,0,0,2,0,0,0,27,III: The Search for Spock,2,2
+SPOCK,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,7,III: The Search for Spock,2,2
+SULU,0,3,0,0,0,0,37,0,2,0,2,0,2,0,0,0,33,III: The Search for Spock,2,2
+SYBOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+UHURA,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,18,III: The Search for Spock,2,2
+VALERIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,III: The Search for Spock,2,2
+CHANG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+CHEKOV,0,0,0,0,0,10,7,0,2,1,0,0,1,0,0,0,24,II: The Wrath of Khan,1,1
+DAVID,0,0,2,0,0,1,28,0,1,2,0,1,0,0,0,0,30,II: The Wrath of Khan,1,1
+DECKER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+GILLIAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+KHAN,0,10,1,0,0,2,2,0,0,0,0,0,0,0,0,0,43,II: The Wrath of Khan,1,1
+KIRK,0,7,28,0,0,2,84,0,62,55,11,82,16,0,7,0,221,II: The Wrath of Khan,1,1
+KRUGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+MCCOY,0,2,1,0,0,0,62,0,0,11,3,12,1,0,0,0,54,II: The Wrath of Khan,1,1
+SAAVIK,0,1,2,0,0,0,55,0,11,6,0,18,13,0,4,0,66,II: The Wrath of Khan,1,1
+SCOTT,0,0,0,0,0,0,11,0,3,0,2,1,0,0,0,0,12,II: The Wrath of Khan,1,1
+SPOCK,0,0,1,0,0,0,82,0,12,18,1,4,2,0,3,0,72,II: The Wrath of Khan,1,1
+SULU,0,1,0,0,0,0,16,0,1,13,0,2,4,0,1,0,26,II: The Wrath of Khan,1,1
+SYBOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+UHURA,0,0,0,0,0,0,7,0,0,4,0,3,1,0,0,0,15,II: The Wrath of Khan,1,1
+VALERIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,II: The Wrath of Khan,1,1
+CHANG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+CHEKOV,0,2,0,0,0,0,1,0,0,0,6,0,8,5,3,0,20,V: The Final Frontier,4,4
+DAVID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+DECKER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+GILLIAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+KHAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+KIRK,0,1,0,0,0,0,22,0,62,0,13,130,8,40,10,0,180,V: The Final Frontier,4,4
+KRUGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+MCCOY,0,0,0,0,0,0,62,0,6,0,3,40,1,26,2,0,82,V: The Final Frontier,4,4
+SAAVIK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+SCOTT,0,6,0,0,0,0,13,0,3,0,2,1,0,0,17,0,36,V: The Final Frontier,4,4
+SPOCK,0,0,0,0,0,0,130,0,40,0,1,6,0,24,2,0,117,V: The Final Frontier,4,4
+SULU,0,8,0,0,0,0,8,0,1,0,0,0,2,6,0,0,18,V: The Final Frontier,4,4
+SYBOK,0,5,0,0,0,0,40,0,26,0,0,24,6,14,0,0,87,V: The Final Frontier,4,4
+UHURA,0,3,0,0,0,0,10,0,2,0,17,2,0,0,0,0,26,V: The Final Frontier,4,4
+VALERIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,V: The Final Frontier,4,4
+CHANG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+CHEKOV,0,2,0,0,0,0,15,0,0,0,0,1,2,0,13,0,34,IV: The Voyage Home,3,3
+DAVID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+DECKER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+GILLIAN,0,0,0,0,10,0,138,0,3,0,7,19,0,0,3,0,112,IV: The Voyage Home,3,3
+KHAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+KIRK,0,15,0,0,138,0,20,0,39,3,25,111,39,0,29,0,253,IV: The Voyage Home,3,3
+KRUGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,IV: The Voyage Home,3,3
+MCCOY,0,0,0,0,3,0,39,0,2,0,12,34,3,0,4,0,68,IV: The Voyage Home,3,3
+SAAVIK,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,2,IV: The Voyage Home,3,3
+SCOTT,0,0,0,0,7,0,25,0,12,0,4,3,3,0,0,0,52,IV: The Voyage Home,3,3
+SPOCK,0,1,0,0,19,0,111,0,34,1,3,0,3,0,2,0,108,IV: The Voyage Home,3,3
+SULU,0,2,0,0,0,0,39,0,3,0,3,3,2,0,1,0,35,IV: The Voyage Home,3,3
+SYBOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+UHURA,0,13,0,0,3,0,29,0,4,0,0,2,1,0,0,0,32,IV: The Voyage Home,3,3
+VALERIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,IV: The Voyage Home,3,3
+CHANG,4,0,0,0,0,0,26,0,7,0,2,2,0,0,1,0,41,VI: The Undiscovered Country,5,5
+CHEKOV,0,0,0,0,0,0,12,0,3,0,7,20,0,0,18,3,38,VI: The Undiscovered Country,5,5
+DAVID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+DECKER,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+GILLIAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+KHAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+KIRK,26,12,0,0,0,0,34,0,47,0,3,56,1,0,13,29,167,VI: The Undiscovered Country,5,5
+KRUGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+MCCOY,7,3,0,0,0,0,47,0,2,0,4,6,0,0,2,4,59,VI: The Undiscovered Country,5,5
+SAAVIK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+SCOTT,2,7,0,0,0,0,3,0,4,0,2,32,0,0,3,3,33,VI: The Undiscovered Country,5,5
+SPOCK,2,20,0,0,0,0,56,0,6,0,32,2,0,0,12,44,105,VI: The Undiscovered Country,5,5
+SULU,0,0,0,0,0,0,1,0,0,0,0,0,6,0,0,0,25,VI: The Undiscovered Country,5,5
+SYBOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,VI: The Undiscovered Country,5,5
+UHURA,1,18,0,0,0,0,13,0,2,0,3,12,0,0,0,5,34,VI: The Undiscovered Country,5,5
+VALERIS,0,3,0,0,0,0,29,0,4,0,3,44,0,0,5,0,52,VI: The Undiscovered Country,5,5
+CHANG,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+CHEKOV,0,0,0,3,0,0,13,0,1,0,1,5,2,0,4,0,20,I: The Motion Picture,0,0
+DAVID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+DECKER,0,3,0,6,0,0,92,0,11,0,3,20,3,0,7,0,86,I: The Motion Picture,0,0
+GILLIAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+KHAN,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+KIRK,0,13,0,92,0,0,22,0,38,0,16,69,47,0,17,0,220,I: The Motion Picture,0,0
+KRUGE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+MCCOY,0,1,0,11,0,0,38,0,0,0,0,14,1,0,2,0,42,I: The Motion Picture,0,0
+SAAVIK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+SCOTT,0,1,0,3,0,0,16,0,0,0,0,1,0,0,0,0,27,I: The Motion Picture,0,0
+SPOCK,0,5,0,20,0,0,69,0,14,0,1,4,3,0,5,0,71,I: The Motion Picture,0,0
+SULU,0,2,0,3,0,0,47,0,1,0,0,3,2,0,8,0,39,I: The Motion Picture,0,0
+SYBOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+UHURA,0,4,0,7,0,0,17,0,2,0,0,5,8,0,0,0,30,I: The Motion Picture,0,0
+VALERIS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,I: The Motion Picture,0,0
+CHANG,4,0,0,0,0,0,26,0,7,0,2,2,0,0,1,0,41,all,all,all
+CHEKOV,0,4,0,3,0,10,73,0,7,1,17,26,16,5,38,3,156,all,all,all
+DAVID,0,0,2,0,0,1,28,0,1,37,0,1,0,0,0,0,57,all,all,all
+DECKER,0,3,0,6,0,0,92,0,11,0,3,20,3,0,7,0,86,all,all,all
+GILLIAN,0,0,0,0,10,0,138,0,3,0,7,19,0,0,3,0,112,all,all,all
+KHAN,0,10,1,0,0,2,2,0,0,0,0,0,0,0,0,0,43,all,all,all
+KIRK,26,73,28,92,138,2,208,14,279,62,92,460,148,40,87,29,1206,all,all,all
+KRUGE,0,0,0,0,0,0,14,16,0,5,0,0,0,0,0,0,66,all,all,all
+MCCOY,7,7,1,11,3,0,279,0,10,12,23,106,8,26,10,4,343,all,all,all
+SAAVIK,0,1,37,0,0,0,62,5,12,10,0,19,13,0,4,0,114,all,all,all
+SCOTT,2,17,0,3,7,0,92,0,23,0,10,38,5,0,20,3,187,all,all,all
+SPOCK,2,26,1,20,19,0,460,0,106,19,38,16,8,24,24,44,480,all,all,all
+SULU,0,16,0,3,0,0,148,0,8,13,5,8,18,6,10,0,176,all,all,all
+SYBOK,0,5,0,0,0,0,40,0,26,0,0,24,6,14,0,0,87,all,all,all
+UHURA,1,38,0,7,3,0,87,0,10,4,20,24,10,0,0,5,155,all,all,all
+VALERIS,0,3,0,0,0,0,29,0,4,0,3,44,0,0,5,0,52,all,all,all

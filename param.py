@@ -11,8 +11,18 @@ snames = {'TOS': "Star Trek: The Original Series",
           'TNG': "Star Trek: The Next Generation",
           'DS9': "Star Trek: Deep Space 9",
           'VOY': "Star Trek: Voyager",
-          'ENT': "Star Trek: Enterprise"
+          'ENT': "Star Trek: Enterprise",
+          'TOSm': "Movies (The Original Series)",
+          "TNGm": 'Movies (The Next Generation)',
+          'JJA': "Movies (Kelvin timeline)"
           }
+
+
+max_node_map = {'ENT': 12, 'TOS': 12, "TNG": 20, 'VOY': 20,
+                'DS9': 20, 'TOSm': 16, 'TNGm': 16, 'JJA': 16}
+def_node_map = {'ENT': 8, 'TOS': 8, "TNG": 12, 'VOY': 12,
+                'DS9': 12, 'TOSm': 16, 'TNGm': 16, 'JJA': 16}
+
 
 col_dict = {'TNG': {'PICARD': red,
                     'RIKER': red,
@@ -94,6 +104,61 @@ col_dict = {'TNG': {'PICARD': red,
                     'MUDD': grey,
                     'COMPUTER': lightgrey,
                     },
+
+
+            'JJA': {'KIRK': orange,
+                    'SPOCK': blue,
+                    'MCCOY': blue,
+                    'SCOTT': red,
+                    'PIKE': orange,
+                    'SULU': orange,
+                    'UHURA': red,
+                    'CHEKOV': orange,
+                    'GEORGE KIRK': blue,
+                    'SPOCK (PRIME)': blue,
+                    'NERO': grey,
+                    'KHAN': grey,
+                    'MARCUS': blue,
+                    'KRALL': grey,
+                    'JAYLAH': grey,
+                    'WINONA': brown
+                    },
+
+            'TOSm': {'KIRK': red,
+                     'SPOCK': blue,
+                     'MCCOY': blue,
+                     'SCOTT': red,
+                     'SULU': orange,
+                     'UHURA': red,
+                     'CHEKOV': orange,
+                     'KHAN': grey,
+                     'VALERIS': red,
+                     'CHANG': grey,
+                     'DAVID': brown,
+                     'DECKER': blue,
+                     'GILLIAN': brown,
+                     'KRUGE': grey,
+                     'SAAVIK': red,
+                     'SYBOK': brown
+                     },
+
+            'TNGm': {'ANIJ': brown,
+                     'BORG-QUEEN': grey,
+                     'COCHRANE': brown,
+                     'CRUSHER': blue,
+                     'DATA': orange,
+                     'DOUGHERTY': red,
+                     'KIRK': red,
+                     'LAFORGE': red,
+                     'LILY': brown,
+                     'PICARD': red,
+                     'RIKER': red,
+                     "RU'AFO": grey,
+                     'SHINZON': grey,
+                     'SORAN': grey,
+                     'TROI': blue,
+                     'WORF': red},
+
             'ENT': {'ARCHER': orange,
                     'HOSHI': blue,
                     'PHLOX': brown,
