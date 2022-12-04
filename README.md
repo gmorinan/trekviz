@@ -1,6 +1,6 @@
 ## TREKVIZ
 
-Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series. You can [view it here](https://trekviz.com) (hosting provided by Streamlit).
+Dashboard used to visualise how many lines and interactions characters have in the different Star Trek series. You can [view it here](https://gmorinan-trekviz-app-d7h5oq.streamlit.app) (hosting provided by Streamlit).
 
 To run this locally:
 ```
